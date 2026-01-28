@@ -10,12 +10,12 @@
 - Outlet forceps operation with episiotomy
 ### 72.2 Mid forceps operation {#72-2}
 
-- **72.21** Mid forceps operation with episiotomy {#72-21}
-- **72.29** Other mid forceps operation {#72-29}
+#### 72.21 Mid forceps operation with episiotomy {#72-21}
+#### 72.29 Other mid forceps operation {#72-29}
 ### 72.3 High f orceps operation {#72-3}
 
-- **72.31** High f orceps operation with episiotomy {#72-31}
-- **72.39** Other high forceps operation {#72-39}
+#### 72.31 High f orceps operation with episiotomy {#72-31}
+#### 72.39 Other high forceps operation {#72-39}
 ### 72.4 Forceps rotation of fetal head {#72-4}
 
 - DeLee maneuver
@@ -25,10 +25,10 @@
 - Code also any associated f orceps extraction (72.0-72.39)
 ### 72.5 Breech extraction {#72-5}
 
-- **72.51** Partial breech extraction with forceps to aftercoming head {#72-51}
-- **72.52** Other partial breech extraction {#72-52}
-- **72.53** Total breech extraction with f orceps to af tercoming head {#72-53}
-- **72.54** Other total breech extraction {#72-54}
+#### 72.51 Partial breech extraction with forceps to aftercoming head {#72-51}
+#### 72.52 Other partial breech extraction {#72-52}
+#### 72.53 Total breech extraction with f orceps to af tercoming head {#72-53}
+#### 72.54 Other total breech extraction {#72-54}
 ### 72.6 Forceps application to aftercoming head {#72-6}
 
 - Piper forceps operation
@@ -37,8 +37,8 @@
 ### 72.7 Vacuum extraction {#72-7}
 
   - *Includes:* Malström's extraction
-- **72.71** Vacuum extraction with episiotomy {#72-71}
-- **72.79** Other vacuum extraction {#72-79}
+#### 72.71 Vacuum extraction with episiotomy {#72-71}
+#### 72.79 Other vacuum extraction {#72-79}
 ### 72.8 Other specified instrumental delivery {#72-8}
 
 ### 72.9 Unspecif ied instrumental delivery {#72-9}
@@ -47,10 +47,10 @@
 
 ### 73.0 Artificial rupture of membranes {#73-0}
 
-- **73.01** Induction of  labor by artif icial rupture of  membranes {#73-01}
+#### 73.01 Induction of  labor by artif icial rupture of  membranes {#73-01}
   - Surgical induction NOS
   - *Excludes:* artificial rupture of membranes after onset of labor ([73.09](#73-09))
-- **73.09** Other artificial rupture of membranes {#73-09}
+#### 73.09 Other artificial rupture of membranes {#73-09}
   - Artificial rupture of membranes at time of delivery
 ### 73.1 Other surgical induction of labor {#73-1}
 
@@ -59,9 +59,9 @@
     - insertion of suppository for abortion ([96.49](#96-49))
 ### 73.2 Internal and combined version and extraction {#73-2}
 
-- **73.21** Internal and combined version without extraction {#73-21}
+#### 73.21 Internal and combined version without extraction {#73-21}
   - Version NOS
-- **73.22** Internal and combined version with extraction {#73-22}
+#### 73.22 Internal and combined version with extraction {#73-22}
 ### 73.3 Failed forceps {#73-3}
 
 - Application of forceps without delivery
@@ -71,8 +71,8 @@
   - *Excludes:* medication to augment active labor --  omit code
 ### 73.5 Manually assisted delivery {#73-5}
 
-- **73.51** Manual rotation of fetal head {#73-51}
-- **73.59** Other manually assisted delivery {#73-59}
+#### 73.51 Manual rotation of fetal head {#73-51}
+#### 73.59 Other manually assisted delivery {#73-59}
   - Assisted spontaneous delivery
   - Crede maneuver
 ### 73.6 Episiotomy {#73-6}
@@ -92,13 +92,13 @@
 - Needling of  hydrocephalic head
 ### 73.9 Other operations assisting delivery {#73-9}
 
-- **73.91** External version {#73-91}
-- **73.92** Replacement of  prolapsed umbilical cord {#73-92}
-- **73.93** Incision of  cervix to assist delivery {#73-93}
+#### 73.91 External version {#73-91}
+#### 73.92 Replacement of  prolapsed umbilical cord {#73-92}
+#### 73.93 Incision of  cervix to assist delivery {#73-93}
   - Dührssen's incisions
-- **73.94** Pubiotomy to assist delivery {#73-94}
+#### 73.94 Pubiotomy to assist delivery {#73-94}
   - Obstetrical symphysiotomy
-- **73.99** Other {#73-99}
+#### 73.99 Other {#73-99}
   - *Excludes:* dilation of cervix, obstetrical to induce labor (73.1)
     - insertion of bag or bougie to induce labor (73.1)
     - removal of cerclage material ([69.96](#69-96))
@@ -132,9 +132,9 @@
 - Vaginal cesarean section
 ### 74.9 Cesarean section of  unspecif ied type {#74-9}
 
-- **74.91** Hysterotomy to terminate pregnancy {#74-91}
+#### 74.91 Hysterotomy to terminate pregnancy {#74-91}
   - Therapeutic abortion by hysterotomy
-- **74.99** Other cesarean section of unspecified type {#74-99}
+#### 74.99 Other cesarean section of unspecified type {#74-99}
   - Cesarean section NOS
   - Obstetrical abdominouterotomy
   - Obstetrical hysterotomy
@@ -157,23 +157,23 @@
 ### 75.3 Other intrauterine operations on fetus and amnion {#75-3}
 
 - Code also any hysterotomy approach (68.0)
-- **75.31** Amnioscopy {#75-31}
+#### 75.31 Amnioscopy {#75-31}
   - Fetoscopy
   - Laparoamnioscopy
-- **75.32** Fetal EKG (scalp) {#75-32}
-- **75.33** Fetal blood sampling and biopsy {#75-33}
-- **75.34** Other fetal monitoring {#75-34}
+#### 75.32 Fetal EKG (scalp) {#75-32}
+#### 75.33 Fetal blood sampling and biopsy {#75-33}
+#### 75.34 Other fetal monitoring {#75-34}
   - Antepartum fetal nonstress test
   - Fetal monitoring, not otherwise specified
   - *Excludes:* fetal pulse oximetry ([75.38](#75-38))
-- **75.35** Other diagnostic procedures on fetus and amnion {#75-35}
+#### 75.35 Other diagnostic procedures on fetus and amnion {#75-35}
   - Intrauterine pressure determination
   - *Excludes:* amniocentesis (75.1)
     - diagnostic procedures on gravid uterus and placenta (87.81, 88.46, 88.78, 92.17)
-- **75.36** Correction of  f etal def ect {#75-36}
-- **75.37** Amnioinfusion {#75-37}
+#### 75.36 Correction of  f etal def ect {#75-36}
+#### 75.37 Amnioinfusion {#75-37}
   - Code also injection of  antibiotic ([99.21](#99-21))
-- **75.38** Fetal pulse oximetry {#75-38}
+#### 75.38 Fetal pulse oximetry {#75-38}
   - Transcervical f etal oxygen saturation monitoring
   - Transcervical f etal SpO2 monitoring
 ### 75.4 Manual removal of retained placenta {#75-4}
@@ -182,15 +182,15 @@
     - dilation and curettage ([69.02](#69-02))
 ### 75.5 Repair of  current obstetric laceration of  uterus {#75-5}
 
-- **75.50** Repair of  current obstetric laceration of  uterus, not otherwise specif ied {#75-50}
-- **75.51** Repair of  current obstetric laceration of  cervix {#75-51}
-- **75.52** Repair of  current obstetric laceration of  corpus uteri {#75-52}
+#### 75.50 Repair of  current obstetric laceration of  uterus, not otherwise specif ied {#75-50}
+#### 75.51 Repair of  current obstetric laceration of  cervix {#75-51}
+#### 75.52 Repair of  current obstetric laceration of  corpus uteri {#75-52}
 ### 75.6 Repair of  other current obstetric laceration {#75-6}
 
 - Code also episiotomy, if  perf ormed (73.6)
-- **75.61** Repair of  current obstetric laceration of  bladder and urethra {#75-61}
-- **75.62** Repair of  current obstetric laceration of  rectum and sphincter ani {#75-62}
-- **75.69** Repair of  other current obstetric laceration {#75-69}
+#### 75.61 Repair of  current obstetric laceration of  bladder and urethra {#75-61}
+#### 75.62 Repair of  current obstetric laceration of  rectum and sphincter ani {#75-62}
+#### 75.69 Repair of  other current obstetric laceration {#75-69}
   - Episioperineorrhaphy
   - Repair of :
   - pelvic floor
@@ -205,12 +205,12 @@
   - *Excludes:* antepartum tamponade (73.1)
 ### 75.9 Other obstetric operations {#75-9}
 
-- **75.91** Evacuation of obstetrical incisional hematoma of perineum {#75-91}
+#### 75.91 Evacuation of obstetrical incisional hematoma of perineum {#75-91}
   - Evacuation of hematoma of:
   - episiotomy perineorrhaphy
-- **75.92** Evacuation of other hematoma of vulva or vagina {#75-92}
-- **75.93** Surgical correction of inverted uterus {#75-93}
+#### 75.92 Evacuation of other hematoma of vulva or vagina {#75-92}
+#### 75.93 Surgical correction of inverted uterus {#75-93}
   - Spintelli operation
   - *Excludes:* vaginal repair of chronic inversion of uterus ([69.23](#69-23))
-- **75.94** Manual replacement of inverted uterus {#75-94}
-- **75.99** Other {#75-99}
+#### 75.94 Manual replacement of inverted uterus {#75-94}
+#### 75.99 Other {#75-99}
