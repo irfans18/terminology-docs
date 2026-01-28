@@ -8,6 +8,7 @@ export default defineConfig({
   ignoreDeadLinks: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    outline: [2, 4], // Show h2-h4 in "On this page" sidebar
     nav: [
       { text: "Home", link: "/" },
       // { text: "Examples", link: "/markdown-examples" },
