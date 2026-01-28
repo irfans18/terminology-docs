@@ -2,28 +2,28 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "My Awesome Project",
-  description: "A VitePress Site",
+  title: "ICD Docs",
+  description: "ICD-9-CM Procedures",
   srcExclude: ["**/ref/**"],
   ignoreDeadLinks: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
-      { text: "Examples", link: "/markdown-examples" },
+      // { text: "Examples", link: "/markdown-examples" },
       { text: "ICD-9-CM", link: "/icd9cm/chapter-0/" },
     ],
 
     sidebar: [
+      // {
+      //   text: "Examples",
+      //   items: [
+      //     { text: "Markdown Examples", link: "/markdown-examples" },
+      //     { text: "Runtime API Examples", link: "/api-examples" },
+      //   ],
+      // },
       {
-        text: "Examples",
-        items: [
-          { text: "Markdown Examples", link: "/markdown-examples" },
-          { text: "Runtime API Examples", link: "/api-examples" },
-        ],
-      },
-      {
-        text: "ICD-9-CM Procedures",
+        text: "ICD-9-CM 2010 Vol 1",
         collapsed: true,
         items: [
           { text: "Procedures and Interventions (00)", link: "/icd9cm/chapter-0/" },
