@@ -19,20 +19,20 @@
   - 85.111 Mammography-guided stereotactic biopsy/localization of lesion or tissue of breast (IM)
 #### 85.12 Open biopsy of breast {#85-12}
 #### 85.19 Other diagnostic procedures on breast {#85-19}
-  - *Excludes:* mammary ductogram ([87.35](#87-35))
-    - mammography NEC ([87.37](#87-37))
-    - manual examination ([89.36](#89-36))
-    - microscopic examination of specimen ([91.61-91.69](#91-61))
-    - thermography ([88.85](#88-85))
-    - ultrasonography ([88.73](#88-73))
-    - xerography ([87.36](#87-36))
+  - *Excludes:* mammary ductogram ([87.35](../chapter-16/index.md#87-35))
+    - mammography NEC ([87.37](../chapter-16/index.md#87-37))
+    - manual examination ([89.36](../chapter-16/index.md#89-36))
+    - microscopic examination of specimen ([91.61-91.69](../chapter-16/index.md#91-61))
+    - thermography ([88.85](../chapter-16/index.md#88-85))
+    - ultrasonography ([88.73](../chapter-16/index.md#88-73))
+    - xerography ([87.36](../chapter-16/index.md#87-36))
 ### 85.2 Excision or destruction of breast tissue {#85-2}
 
   - *Excludes:* mastectomy ([85.41-85.48](#85-41))
     - reduction mammoplasty ([85.31-85.32](#85-31))
 #### 85.20 Excision or destruction of breast tissue, not otherwise specified {#85-20}
   - *Excludes:* laser interstitial thermal therapy [LITT] of lesion or tissue of breast under guidance
-    - ([17.69](#17-69))
+    - ([17.69](../chapter-3a/index.md#17-69))
 #### 85.21 Local excision of lesion of breast {#85-21}
   - Lumpectomy
   - Removal of  area of  f ibrosis f rom breast
@@ -172,14 +172,14 @@
     - sudoriferous glands
     - superficial fossae
   - *Excludes:* those on skin of:
-    - anus ([49.01-49.99](#49-01))
+    - anus ([49.01-49.99](../chapter-9/index.md#49-01))
     - breast (mastectomy site) (85.0-85.99)
     - ear (18.01-18.9)
-    - eyebrow ([08.01-08.99](#08-01))
-    - eyelid ([08.01-08.99](#08-01))
+    - eyebrow ([08.01-08.99](../chapter-3/index.md#08-01))
+    - eyelid ([08.01-08.99](../chapter-3/index.md#08-01))
     - female perineum (71.01- 71.9)
     - lips (27.0-27.99)
-    - nose ([21.00-21.99](#21-00))
+    - nose ([21.00-21.99](../chapter-5/index.md#21-00))
     - penis (64.0-64.99)
     - scrotum (61.0-61.99)
     - vulva (71.01-71.9)
@@ -199,14 +199,14 @@
 #### 86.04 Other incision with drainage of skin and subcutaneous tissue {#86-04}
   - *Excludes:* drainage of:
     - fascial compartments of face and mouth (27.0)
-    - palmar or thenar spac ([82.04](#82-04))
+    - palmar or thenar spac ([82.04](../chapter-14/index.md#82-04))
     - pilonidal sinus or cys ([86.03](#86-03))
 #### 86.05 Incision with removal of  f oreign body or device f rom skin and subcutaneous tissue {#86-05}
   - Removal of  carotid sinus baroref lex activation device
   - Removal of  loop recorder
   - Removal of  neurostimulator pulse generator (single array, dual array)
   - Removal of  tissue expander(s) f rom skin or sof t tissue other than breast tissue
-  - *Excludes:* removal of foreign body without incision ([98.20-98.29](#98-20))
+  - *Excludes:* removal of foreign body without incision ([98.20-98.29](../chapter-16/index.md#98-20))
 #### 86.06 Insertion of  totally implantable inf usion pump {#86-06}
   - 86.060 Insertion prostatic stent/coil with ultrasound control (IM)
   - 86.061 Insertion prostatic stent/coil with visual (IM)
@@ -224,14 +224,14 @@
   - Relocation of  subcutaneous device pocket NEC
   - Reopening subcutaneous pocket f or device revision without replacement
   - Undercutting of  hair f ollicle
-  - *Excludes:* creation of loop recorder pocket, new site and insertion/relocation of device ([37.79](#37-79))
+  - *Excludes:* creation of loop recorder pocket, new site and insertion/relocation of device ([37.79](../chapter-7/index.md#37-79))
     - creation of pocket for implantable, patient-activated cardiac event recorder and
-    - insertion/relocation of device ([37.79](#37-79))
+    - insertion/relocation of device ([37.79](../chapter-7/index.md#37-79))
     - Escharotomy 83.15 (IM)
-    - removal of catheter from cranial cavity ([01.27](#01-27))
+    - removal of catheter from cranial cavity ([01.27](../chapter-1/index.md#01-27))
     - that for drainage ([86.04](#86-04))
     - that of:
-    - cardiac pacemaker pocket, new site ([37.79](#37-79))
+    - cardiac pacemaker pocket, new site ([37.79](../chapter-7/index.md#37-79))
     - fascial compartments of face and mouth (27.0)
     - 86.090 Frozen Section (Potong Beku) (IM)
 ### 86.1 Diagnostic procedures on skin and subcutaneous tissue {#86-1}
@@ -240,7 +240,7 @@
 #### 86.12 Skin prick test (IM) {#86-12}
 #### 86.13 Skin end-point titration test (IM) {#86-13}
 #### 86.19 Other diagnostic procedures on skin and subcutaneous tissue {#86-19}
-  - *Excludes:* microscopic examination of specimen from skin and subcutaneous tissue ([91.61-91.79](#91-61))
+  - *Excludes:* microscopic examination of specimen from skin and subcutaneous tissue ([91.61-91.79](../chapter-16/index.md#91-61))
 ### 86.2 Excision or destruction of lesion or tissue of skin and subcutaneous tissue {#86-2}
 
 #### 86.21 Excision of pilonidal cyst or sinus {#86-21}
@@ -253,12 +253,12 @@
   - slough
   - *Excludes:* debridement of:
     - abdominal wall (wound) (54.3)
-    - bone ([77.60-77.69](#77-60))
-    - muscle ([83.45](#83-45))
-    - of hand ([82.36](#82-36))
+    - bone ([77.60-77.69](../chapter-14/index.md#77-60))
+    - muscle ([83.45](../chapter-14/index.md#83-45))
+    - of hand ([82.36](../chapter-14/index.md#82-36))
     - nail (bed) (fold) ([86.27](#86-27))
     - nonexcisional debridement of wound, infection, or burn ([86.28](#86-28))
-    - open fracture site ([79.60-79.69](#79-60))
+    - open fracture site ([79.60-79.69](../chapter-14/index.md#79-60))
     - pedicle or flap graft ([86.75](#86-75))
 #### 86.23 Removal of  nail, nail bed, or nail f old {#86-23}
 #### 86.24 Chemosurgery of  skin {#86-24}
@@ -267,7 +267,7 @@
   - That with laser
   - *Excludes:* dermabrasion of wound to remove embedded debris ([86.28](#86-28))
 #### 86.26 Ligation of dermal appendage {#86-26}
-  - *Excludes:* excision of preauricula appendage ([18.29](#18-29))
+  - *Excludes:* excision of preauricula appendage ([18.29](../chapter-4/index.md#18-29))
 #### 86.27 Debridement of nail, nail bed, or nail fold {#86-27}
   - Removal of :
   - necrosis
@@ -311,9 +311,9 @@
 
   - *Includes:* excision of skin for autogenous graft
   - *Excludes:* construction or reconstruction of:
-    - penis ([64.43-64.44](#64-43))
-    - trachea ([31.75](#31-75))
-    - vagina ([70.61-70.64](#70-61))
+    - penis ([64.43-64.44](../chapter-11/index.md#64-43))
+    - trachea ([31.75](../chapter-6/index.md#31-75))
+    - vagina ([70.61-70.64](../chapter-12/index.md#70-61))
 #### 86.60 Free skin graft, not otherwise specified {#86-60}
 #### 86.61 Full-thickness skin graft to hand {#86-61}
   - *Excludes:* heterograft ([86.65](#86-65))
@@ -325,11 +325,11 @@
   - *Excludes:* heterograft ([86.65](#86-65))
     - homograft ([86.66](#86-66))
 #### 86.64 Hair transplant {#86-64}
-  - *Excludes:* hair follicle transplant to eyebrow or eyelash ([08.63](#08-63))
+  - *Excludes:* hair follicle transplant to eyebrow or eyelash ([08.63](../chapter-3/index.md#08-63))
 #### 86.65 Heterograf t to skin {#86-65}
   - Pigskin graft
   - Porcine graft
-  - *Excludes:* application of dressing only ([93.57](#93-57))
+  - *Excludes:* application of dressing only ([93.57](../chapter-16/index.md#93-57))
 #### 86.66 Homograf t to skin {#86-66}
   - Graft to skin of:
   - amnionic membrane from donor skin from donor
@@ -348,9 +348,9 @@
 ### 86.7 Pedicle grafts or flaps {#86-7}
 
   - *Excludes:* construction or reconstruction of:
-    - penis ([64.43-64.44](#64-43))
-    - trachea ([31.75](#31-75))
-    - vagina ([70.61-70.64](#70-61))
+    - penis ([64.43-64.44](../chapter-11/index.md#64-43))
+    - trachea ([31.75](../chapter-6/index.md#31-75))
+    - vagina ([70.61-70.64](../chapter-12/index.md#70-61))
 #### 86.70 Pedicle or flap graft, not otherwise specified {#86-70}
 #### 86.71 Cutting and preparation of  pedicle graf ts or f laps {#86-71}
   - Elevation of pedicle from its bed
@@ -383,7 +383,7 @@
 #### 86.81 Repair f or f acial weakness {#86-81}
 #### 86.82 Facial rhytidectomy {#86-82}
   - Face lift
-  - *Excludes:* rhytidectomy of eyelid ([08.86-08.87](#08-86))
+  - *Excludes:* rhytidectomy of eyelid ([08.86-08.87](../chapter-3/index.md#08-86))
 #### 86.83 Size reduction plastic operation {#86-83}
   - Liposuction
   - Reduction of  adipose tissue of :
@@ -406,7 +406,7 @@
     - Micro-fat grafting
   - *Excludes:* fat graft to breast ([85.55](#85-55))
 #### 86.89 Other repair and reconstruction of skin and subcutaneous tissue {#86-89}
-  - *Excludes:* mentoplasty ([76.67-76.68](#76-67))
+  - *Excludes:* mentoplasty ([76.67-76.68](../chapter-14/index.md#76-67))
 ### 86.9 Other operations on skin and subcutaneous tissue {#86-9}
 
 #### 86.90 Extraction of fat for graft or banking {#86-90}
@@ -417,7 +417,7 @@
   - Excision of skin with closure of donor site
   - *Excludes:* that with graft at sam operative episode ([86.60-86.69](#86-60))
 #### 86.92 Electrolysis and other epilation of skin {#86-92}
-  - *Excludes:* epilation of eyelid ([08.91-08.93](#08-91))
+  - *Excludes:* epilation of eyelid ([08.91-08.93](../chapter-3/index.md#08-91))
 #### 86.93 Insertion of  tissue expander {#86-93}
   - Insertion (subcutaneous) (sof t tissue) of  expander(one or more) in scalp (subgaleal
   - space), face, neck, trunk except breast, and upper and lower extremities for
@@ -429,7 +429,7 @@
   - Pulse generator (single array, single channel) for intracranial, spinal, and peripheral
   - neurostimulator
   - Code also any associated lead implantation (02.93, 03.93, 04.92)
-  - *Excludes:* cranial implantation or replacement of neurostimulator pulse generator ([01.20](#01-20))
+  - *Excludes:* cranial implantation or replacement of neurostimulator pulse generator ([01.20](../chapter-1/index.md#01-20))
     - insertion or replacement of single array rechargeable neurostimulator pulse generator
     - ([86.97](#86-97))
 #### 86.95 Insertion or replacement of  dual array neurostimulator pulse generator, not specif ied as {#86-95}
@@ -437,30 +437,30 @@
   - Pulse generator (dual array, dual channel) for intracranial, spinal, and peripheral
   - neurostimulator
   - Code also any associated lead implantation (02.93, 03.93, 04.92)
-  - *Excludes:* cranial implantation or replacement of neurostimulator pulse generator ([01.20](#01-20))
+  - *Excludes:* cranial implantation or replacement of neurostimulator pulse generator ([01.20](../chapter-1/index.md#01-20))
     - insertion or replacement of dual array rechargeable neurostimulator pulse generator
     - ([86.98](#86-98))
 #### 86.96 Insertion or replacement of  other neurostimulator pulse generator {#86-96}
   - Code also any associated lead implantation (02.93, 03.93, 04.92)
-  - *Excludes:* cranial implantation or replacement of neurostimulator pulse generator ([01.20](#01-20))
+  - *Excludes:* cranial implantation or replacement of neurostimulator pulse generator ([01.20](../chapter-1/index.md#01-20))
     - insertion of dual array neurostimulator pulse generator (86.95, 86.98)
     - insertion of single array neurostimulator pulse generator  (86.94, 86.97)
 #### 86.97 Insertion or replacement of  single array rechargeable neurostimulator pulse generator {#86-97}
   - Rechargeable pulse generator (single array, single channel) f or intracranial, spinal, and
   - peripheral neurostimulator
   - Code also any associated lead implantation (02.93, 03.93, 04.92)
-  - *Excludes:* cranial implantation or replacement of neurostimulator pulse generator ([01.20](#01-20))
+  - *Excludes:* cranial implantation or replacement of neurostimulator pulse generator ([01.20](../chapter-1/index.md#01-20))
 #### 86.98 Insertion or replacement of  dual array rechargeable neurostimulator pulse generator {#86-98}
   - Rechargeable pulse generator (dual array, dual channel) f or intracranial, spinal, and
   - peripheral neurostimulator
   - Code also any associated lead implantation (02.93, 03.93, 04.92)
-  - *Excludes:* cranial implantation or replacement of neurostimulator pulse generator ([01.20](#01-20))
+  - *Excludes:* cranial implantation or replacement of neurostimulator pulse generator ([01.20](../chapter-1/index.md#01-20))
 #### 86.99 Other {#86-99}
   - *Excludes:* removal of sutures from:
-    - abdomen ([97.83](#97-83))
-    - head and neck ([97.38](#97-38))
-    - thorax ([97.43](#97-43))
-    - trunk NEC ([97.84](#97-84))
+    - abdomen ([97.83](../chapter-16/index.md#97-83))
+    - head and neck ([97.38](../chapter-16/index.md#97-38))
+    - thorax ([97.43](../chapter-16/index.md#97-43))
+    - trunk NEC ([97.84](../chapter-16/index.md#97-84))
     - wound catheter:
-    - irrigation ([96.58](#96-58))
-    - replacement ([97.15](#97-15))
+    - irrigation ([96.58](../chapter-16/index.md#96-58))
+    - replacement ([97.15](../chapter-16/index.md#97-15))

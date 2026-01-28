@@ -11,14 +11,14 @@
   - Note : Biopsy or excision of  lymph node(s); open, deep cervical node
 #### 40.19 Other diagnostic procedures on lymphatic structures {#40-19}
   - *Excludes:* lymphangiogram:
-    - abdominal ([88.04](#88-04))
-    - cervical ([87.08](#87-08))
-    - intrathoracic ([87.34](#87-34))
-    - lower limb ([88.36](#88-36))
-    - upper limb ([88.34](#88-34))
-    - microscopic examination of specimen ([90.71-90.79](#90-71))
-    - radioisotope scan ([92.16](#92-16))
-    - thermography ([88.89](#88-89))
+    - abdominal ([88.04](../chapter-16/index.md#88-04))
+    - cervical ([87.08](../chapter-16/index.md#87-08))
+    - intrathoracic ([87.34](../chapter-16/index.md#87-34))
+    - lower limb ([88.36](../chapter-16/index.md#88-36))
+    - upper limb ([88.34](../chapter-16/index.md#88-34))
+    - microscopic examination of specimen ([90.71-90.79](../chapter-16/index.md#90-71))
+    - radioisotope scan ([92.16](../chapter-16/index.md#92-16))
+    - thermography ([88.89](../chapter-16/index.md#88-89))
 ### 40.2 Simple excision of lymphatic structure {#40-2}
 
   - *Excludes:* biopsy of lymphatic structure ([40.11](#40-11))
@@ -45,7 +45,7 @@
 #### 40.42 Radical neck dissection, bilateral {#40-42}
 ### 40.5 Radical excision of  other lymph nodes {#40-5}
 
-  - *Excludes:* that associated with radical mastectomy ([85.45-85.48](#85-45))
+  - *Excludes:* that associated with radical mastectomy ([85.45-85.48](../chapter-15/index.md#85-45))
 #### 40.50 Radical excision of  lymph nodes, not otherwise specif ied {#40-50}
   - Radical (lymph) node dissection NOS
 #### 40.51 Radical excision of  axillary lymph nodes {#40-51}
@@ -111,14 +111,14 @@
 #### 41.32 Closed [aspiration] [percutaneous] biopsy of  spleen {#41-32}
 #### 41.33 Open biopsy of spleen {#41-33}
 #### 41.38 Other diagnostic procedures on bone marrow {#41-38}
-  - *Excludes:* microscopic examination of specimen from bone marrow ([90.61-90.69](#90-61))
-    - radioisotope scan ([92.05](#92-05))
+  - *Excludes:* microscopic examination of specimen from bone marrow ([90.61-90.69](../chapter-16/index.md#90-61))
+    - radioisotope scan ([92.05](../chapter-16/index.md#92-05))
 #### 41.39 Other diagnostic procedures on spleen {#41-39}
-  - *Excludes:* microscopic examination of specimen from spleen ([90.61-90.69](#90-61))
-    - radioisotope scan ([92.05](#92-05))
+  - *Excludes:* microscopic examination of specimen from spleen ([90.61-90.69](../chapter-16/index.md#90-61))
+    - radioisotope scan ([92.05](../chapter-16/index.md#92-05))
 ### 41.4 Excision or destruction of lesion or tissue of spleen {#41-4}
 
-- Code also any application or administration of  an adhesion barrier substance ([99.77](#99-77))
+- Code also any application or administration of  an adhesion barrier substance ([99.77](../chapter-16/index.md#99-77))
   - *Excludes:* excision of accessory spleen ([41.93](#41-93))
 #### 41.41 Marsupialization of splenic cyst {#41-41}
 #### 41.42 Excision of lesion or tissue of spleen {#41-42}
@@ -127,10 +127,10 @@
 ### 41.5 Total splenectomy {#41-5}
 
 - Splenectomy NOS
-- Code also any application or administration of  an adhesion barrier substance ([99.77](#99-77))
+- Code also any application or administration of  an adhesion barrier substance ([99.77](../chapter-16/index.md#99-77))
 ### 41.9 Other operations on spleen and bone marrow {#41-9}
 
-- Code also any application or administration of  an adhesion barrier substance ([99.77](#99-77))
+- Code also any application or administration of  an adhesion barrier substance ([99.77](../chapter-16/index.md#99-77))
 #### 41.91 Aspiration of bone marrow from donor for transplant {#41-91}
   - *Excludes:* biopsy of bone marrow ([41.31](#41-31))
 #### 41.92 Injection into bone marrow {#41-92}

@@ -3,8 +3,8 @@
 ## 60 Operations on prostate and seminal vesicles {#60}
 
   - *Includes:* operations on periprostatic tissue
-    - Code also any application or administration of an adhesion barrier substance ([99.77](#99-77))
-  - *Excludes:* that associated with radical cystectomy  ([57.71](#57-71))
+    - Code also any application or administration of an adhesion barrier substance ([99.77](../chapter-16/index.md#99-77))
+  - *Excludes:* that associated with radical cystectomy  ([57.71](../chapter-10/index.md#57-71))
 ### 60.0 Incision of  prostate {#60-0}
 
 - Drainage of prostatic abscess
@@ -23,13 +23,13 @@
 #### 60.14 Open biopsy of seminal vesicles {#60-14}
 #### 60.15 Biopsy of periprostatic tissue {#60-15}
 #### 60.18 Other diagnostic procedures on prostate and periprostatic tissue {#60-18}
-  - *Excludes:* microscopic examination of specimen from prostate ([91.31-91.39](#91-31))
-    - x-ray of prostate ([87.92](#87-92))
+  - *Excludes:* microscopic examination of specimen from prostate ([91.31-91.39](../chapter-16/index.md#91-31))
+    - x-ray of prostate ([87.92](../chapter-16/index.md#87-92))
 #### 60.19 Other diagnostic procedures on seminal vesicles {#60-19}
-  - *Excludes:* microscopic examination of specimen from seminal vesicles ([91.31-91.39](#91-31))
+  - *Excludes:* microscopic examination of specimen from seminal vesicles ([91.31-91.39](../chapter-16/index.md#91-31))
     - x-ray:
-    - contrast seminal vesiculogra ([87.91](#87-91))
-    - other ([87.92](#87-92))
+    - contrast seminal vesiculogra ([87.91](../chapter-16/index.md#87-91))
+    - other ([87.92](../chapter-16/index.md#87-92))
 ### 60.2 Transurethral prostatectomy {#60-2}
 
   - *Excludes:* local excision of lesion of prostate ([60.61](#60-61))
@@ -60,13 +60,13 @@
 - Prostatovesiculectomy
 - Radical prostatectomy by any approach
 #### 60.50 Laparoscopic radical prostatectomy (IM) {#60-50}
-  - *Excludes:* cystoprostatectomy ([57.71](#57-71))
+  - *Excludes:* cystoprostatectomy ([57.71](../chapter-10/index.md#57-71))
 ### 60.6 Other prostatectomy {#60-6}
 
 #### 60.61 Local excision of lesion of prostate {#60-61}
   - *Excludes:* biopsy of prostate ([60.11-60.12](#60-11))
     - laser interstitial thermal therapy [LITT] of lesion or tissue of prostate under guidance
-    - ([17.69](#17-69))
+    - ([17.69](../chapter-3a/index.md#17-69))
 #### 60.62 Perineal prostatectomy {#60-62}
   - Cryoablation of  prostate (IM)
   - Cryoprostatectomy
@@ -121,7 +121,7 @@
     - suprapubic (60.3)
     - transurethral ([60.21-60.29](#60-21))
 #### 60.99 Other {#60-99}
-  - *Excludes:* prostatic massage ([99.94](#99-94))
+  - *Excludes:* prostatic massage ([99.94](../chapter-16/index.md#99-94))
 ## 61 Operations on scrotum and tunica vaginalis {#61}
 
 ### 61.0 Incision and drainage of  scrotum and tunica vaginalis {#61-0}
@@ -155,7 +155,7 @@
 #### 61.92 Excision of lesion of tunica vaginalis other than hydrocele {#61-92}
   - Excision of hematocele of tunica vaginalis
 #### 61.99 Other {#61-99}
-  - *Excludes:* removal of foreign body from scrotum without incision ([98.24](#98-24))
+  - *Excludes:* removal of foreign body from scrotum without incision ([98.24](../chapter-16/index.md#98-24))
 ## 62 Operations on testes {#62}
 
 ### 62.0 Incision of  testis {#62-0}
@@ -221,9 +221,9 @@
 #### 63.03 Microsurgical epididymal sperm aspiration (MESA) (IM) {#63-03}
 #### 63.04 Excision of spermatocele (IM) {#63-04}
 #### 63.09 Other diagnostic procedures on spermatic cord, epididymis, and vas deferens {#63-09}
-  - *Excludes:* contrast epididymogram ([87.93](#87-93))
-    - contrast vasogram ([87.94](#87-94))
-    - other x-ray of epididymis and vas deferens ([87.95](#87-95))
+  - *Excludes:* contrast epididymogram ([87.93](../chapter-16/index.md#87-93))
+    - contrast vasogram ([87.94](../chapter-16/index.md#87-94))
+    - other x-ray of epididymis and vas deferens ([87.95](../chapter-16/index.md#87-95))
 ### 63.1 Excision of varicocele and hydrocele of spermatic cord {#63-1}
 
 - High ligation of  spermatic vein
@@ -309,7 +309,7 @@
 #### 64.49 Other repair of penis {#64-49}
   - Plication of tunica albuginea of penis
   - 64.490 Phalloplasty (IM)
-  - *Excludes:* repair of epispadias and hypospadias ([58.45](#58-45))
+  - *Excludes:* repair of epispadias and hypospadias ([58.45](../chapter-10/index.md#58-45))
 ### 64.5 Operations for sex transformation, not elsewhere classified {#64-5}
 
 ### 64.9 Other operations on male genital organs {#64-9}
@@ -341,16 +341,16 @@
   - Corpora-saphenous shunt
   - Irrigation of  corpus cavernosum
   - *Excludes:* removal of foreign body:
-    - intraluminal ([98.19](#98-19))
-    - without incision ([98.24](#98-24))
-    - stretching of foreskin ([99.95](#99-95))
+    - intraluminal ([98.19](../chapter-16/index.md#98-19))
+    - without incision ([98.24](../chapter-16/index.md#98-24))
+    - stretching of foreskin ([99.95](../chapter-16/index.md#99-95))
 #### 64.99 Other {#64-99}
-  - *Excludes:* collection of sperm fo artificial insemination ([99.96](#99-96))
+  - *Excludes:* collection of sperm fo artificial insemination ([99.96](../chapter-16/index.md#99-96))
 # 12. OPERATIONS ON THE FEMALE GENITAL ORGANS (65-71)
 
 ## 65 Operations on ovary {#65}
 
-- Code also any application or administration of  an adhesion barrier substance ([99.77](#99-77))
+- Code also any application or administration of  an adhesion barrier substance ([99.77](../chapter-16/index.md#99-77))
 ### 65.0 Oophorotomy {#65-0}
 
 - Salpingo-oophorotomy
@@ -363,13 +363,13 @@
 #### 65.13 Laparoscopic biopsy of ovary {#65-13}
 #### 65.14 Other laparoscopic diagnostic procedures on ovaries {#65-14}
 #### 65.19 Other diagnostic procedures on ovaries {#65-19}
-  - *Excludes:* microscopic examination of specimen from ovary ([91.41-91.49](#91-41))
+  - *Excludes:* microscopic examination of specimen from ovary ([91.41-91.49](../chapter-16/index.md#91-41))
 ### 65.2 Local excision or destruction of ovarian lesion or tissue {#65-2}
 
 #### 65.21 Marsupialization of ovarian cyst {#65-21}
-  - *Excludes:* that by laparoscope ([65.23](#65-23))
+  - *Excludes:* that by laparoscope ([65.23](../chapter-12/index.md#65-23))
 #### 65.22 Wedge resection of ovary {#65-22}
-  - *Excludes:* that by laparoscope ([65.24](#65-24))
+  - *Excludes:* that by laparoscope ([65.24](../chapter-12/index.md#65-24))
 #### 65.23 Laparoscopic marsupialization of ovarian cyst {#65-23}
 #### 65.24 Laparoscopic wedge resection of ovary {#65-24}
 #### 65.25 Other laparoscopic local excision or destruction of ovary {#65-25}
@@ -377,11 +377,11 @@
   - Bisection of ovary
   - Cauterization of  ovary
   - Partial excision of ovary
-  - *Excludes:* biopsy of ovary ([65.11-65.13](#65-11))
-    - that by laparoscope ([65.25](#65-25))
+  - *Excludes:* biopsy of ovary ([65.11-65.13](../chapter-12/index.md#65-11))
+    - that by laparoscope ([65.25](../chapter-12/index.md#65-25))
 ### 65.3 Unilateral oophorectomy {#65-3}
 
 #### 65.31 Laparoscopic unilateral oophorectomy {#65-31}
 #### 65.39 Other unilateral oophorectomy {#65-39}
-  - *Excludes:* that by laparoscope ([65.31](#65-31))
+  - *Excludes:* that by laparoscope ([65.31](../chapter-12/index.md#65-31))
 ### 65.4 Unilateral salpingo-oophorectomy {#65-4}

@@ -9,7 +9,7 @@
     - meatus
 ### 18.0 Incision of  external ear {#18-0}
 
-  - *Excludes:* removal of intraluminal foreign body ([98.11](#98-11))
+  - *Excludes:* removal of intraluminal foreign body ([98.11](../chapter-16/index.md#98-11))
 #### 18.01 Piercing of ear lobe {#18-01}
   - Piercing of pinna
 #### 18.02 Incision of  external auditory canal {#18-02}
@@ -21,7 +21,7 @@
 #### 18.13 Microscopic examination of external ear (IM) {#18-13}
 #### 18.14 Endoscopic examination of external ear (IM) {#18-14}
 #### 18.19 Other diagnostic procedures on external ear {#18-19}
-  - *Excludes:* microscopic examination of specimen from ear ([90.31-90.39](#90-31))
+  - *Excludes:* microscopic examination of specimen from ear ([90.31-90.39](../chapter-16/index.md#90-31))
 ### 18.2 Excision or destruction of lesion of external ear {#18-2}
 
 #### 18.21 Excision of preauricular sinus {#18-21}
@@ -41,7 +41,7 @@
   - Partial excision of ear
   - *Excludes:* biopsy of external ear ([18.12](#18-12))
     - radical excision of lesion ([18.31](#18-31))
-    - removal of cerumen ([96.52](#96-52))
+    - removal of cerumen ([96.52](../chapter-16/index.md#96-52))
 ### 18.3 Other excision of external ear {#18-3}
 
   - *Excludes:* biopsy of external ear ([18.12](#18-12))
@@ -77,11 +77,11 @@
   - Repair of  lop ear
 ### 18.9 Other operations on external ear {#18-9}
 
-  - *Excludes:* irrigation of ear ([96.52](#96-52))
-    - packing of external auditory canal ([96.11](#96-11))
+  - *Excludes:* irrigation of ear ([96.52](../chapter-16/index.md#96-52))
+    - packing of external auditory canal ([96.11](../chapter-16/index.md#96-11))
     - removal of:
-    - cerumen ([96.52](#96-52))
-    - foreign body (w ithout incision) ([98.11](#98-11))
+    - cerumen ([96.52](../chapter-16/index.md#96-52))
+    - foreign body (w ithout incision) ([98.11](../chapter-16/index.md#98-11))
 ## 19 Reconstructive operations on middle ear {#19}
 
 ### 19.0 Stapes mobilization {#19-0}
@@ -165,7 +165,7 @@
 #### 20.35 Electrical stapedial reflex threshold (IM) {#20-35}
 #### 20.39 Other diagnostic procedures on middle and inner ear {#20-39}
   - *Excludes:* auditory and vestibular function tests (89.13, 95.41-95.49)
-    - microscopic examination of specimen from ear  ([90.31-90.39](#90-31))
+    - microscopic examination of specimen from ear  ([90.31-90.39](../chapter-16/index.md#90-31))
 ### 20.4 Mastoidectomy {#20-4}
 
 - Code also any:
@@ -251,5 +251,5 @@
 #### 20.99 Other operations on middle and inner ear {#20-99}
   - Attachment of percutaneous abutment (screw) for prosthetic device
   - Repair or removal of  cochlear prosthetic device (receiver) (electrode)
-  - *Excludes:* adjustment (external components) of cochlear prosthetic device  ([95.49](#95-49))
-    - fitting of hearing aid ([95.48](#95-48))
+  - *Excludes:* adjustment (external components) of cochlear prosthetic device  ([95.49](../chapter-16/index.md#95-49))
+    - fitting of hearing aid ([95.48](../chapter-16/index.md#95-48))

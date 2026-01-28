@@ -35,9 +35,9 @@
 #### 06.13 Biopsy of parathyroid gland {#06-13}
 #### 06.19 Other diagnostic procedures on thyroid and parathyroid glands {#06-19}
   - *Excludes:* radioisotope scan of:
-    - parathyroid ([92.13](#92-13))
-    - thyroid ([92.01](#92-01))
-    - soft tissue x-ray of thyroid field ([87.09](#87-09))
+    - parathyroid ([92.13](../chapter-16/index.md#92-13))
+    - thyroid ([92.01](../chapter-16/index.md#92-01))
+    - soft tissue x-ray of thyroid field ([87.09](../chapter-16/index.md#87-09))
 ### 06.2 Unilateral thyroid lobectomy {#06-2}
 
 - Complete removal of  one lobe of  thyroid (with removal of  isthmus or portion of  other lobe)
@@ -48,7 +48,7 @@
 #### 06.31 Excision of lesion of thyroid {#06-31}
   - *Excludes:* biopsy of thyroid ([06.11-06.12](#06-11))
     - laser interstitial thermal therapy [LITT] of lesion or tissue of neck under guidance
-    - ([17.62](#17-62))
+    - ([17.62](../chapter-3a/index.md#17-62))
 #### 06.32 Endoscopic thyroidectomy (IM) {#06-32}
 #### 06.39 Other {#06-39}
   - Isthmectomy
@@ -98,9 +98,9 @@
     - pituitary gland
     - thymus
   - *Excludes:* operations on:
-    - aortic and carotid bodies ([39.89](#39-89))
+    - aortic and carotid bodies ([39.89](../chapter-7/index.md#39-89))
     - ovaries (65.0-65.99)
-    - pancreas ([52.01-52.99](#52-01))
+    - pancreas ([52.01-52.99](../chapter-9/index.md#52-01))
     - testes (62.0-62.99)
 ### 07.0 Exploration of adrenal field {#07-0}
 
@@ -118,8 +118,8 @@
 #### 07.16 Biopsy of thymus {#07-16}
 #### 07.17 Biopsy of pineal gland {#07-17}
 #### 07.19 Other diagnostic procedures on adrenal glands, pituitary gland, pineal gland, and thymus {#07-19}
-  - *Excludes:* microscopic examination of specimen from endocrine gland  ([90.11-90.19](#90-11))
-    - radioisotope scan of pituitary gland ([92.11](#92-11))
+  - *Excludes:* microscopic examination of specimen from endocrine gland  ([90.11-90.19](../chapter-16/index.md#90-11))
+    - radioisotope scan of pituitary gland ([92.11](../chapter-16/index.md#92-11))
 ### 07.2 Partial adrenalectomy {#07-2}
 
 #### 07.21 Excision of lesion of adrenal gland {#07-21}

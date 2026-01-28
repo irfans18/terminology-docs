@@ -3,7 +3,7 @@
 ## 55 Operations on kidney {#55}
 
   - *Includes:* operations on renal pelvis
-    - Code also any application or administration of  an adhesion barrier substance ([99.77](#99-77))
+    - Code also any application or administration of  an adhesion barrier substance ([99.77](../chapter-16/index.md#99-77))
   - *Excludes:* perirenal tissue (59.00-59.09, 59.21-59.29, 59.91-59.92)
 ### 55.0 Nephrotomy and nephrostomy {#55-0}
 
@@ -49,16 +49,16 @@
   - Endoscopic biopsy via existing nephrostomy, nephrotomy, pyelostomy, or pyelotomy
 #### 55.24 Open biopsy of kidney {#55-24}
 #### 55.29 Other diagnostic procedures on kidney {#55-29}
-  - *Excludes:* microscopic examination of specimen from kidney ([91.21-91.29](#91-21))
+  - *Excludes:* microscopic examination of specimen from kidney ([91.21-91.29](../chapter-16/index.md#91-21))
     - pyelogram:
-    - intravenous ([87.73](#87-73))
-    - percutaneous ([87.75](#87-75))
-    - retrograde ([87.74](#87-74))
-    - radioisotope scan ([92.03](#92-03))
-    - renal arteriography ([88.45](#88-45))
+    - intravenous ([87.73](../chapter-16/index.md#87-73))
+    - percutaneous ([87.75](../chapter-16/index.md#87-75))
+    - retrograde ([87.74](../chapter-16/index.md#87-74))
+    - radioisotope scan ([92.03](../chapter-16/index.md#92-03))
+    - renal arteriography ([88.45](../chapter-16/index.md#88-45))
     - tomography:
-    - C.A.T. scan ([87.71](#87-71))
-    - other ([87.72](#87-72))
+    - C.A.T. scan ([87.71](../chapter-16/index.md#87-71))
+    - other ([87.72](../chapter-16/index.md#87-72))
 ### 55.3 Local excision or destruction of lesion or tissue of kidney {#55-3}
 
 #### 55.31 Marsupialization of kidney lesion {#55-31}
@@ -106,7 +106,7 @@
   - *Excludes:* complete nephrectomy NOS ([55.51](#55-51))
 ### 55.6 Transplant of  kidney {#55-6}
 
-- Note: To report donor source - see codes ([00.91-00.93](#00-91))
+- Note: To report donor source - see codes ([00.91-00.93](../chapter-0/index.md#00-91))
 #### 55.61 Renal autotransplantation {#55-61}
 #### 55.69 Other kidney transplantation {#55-69}
 ### 55.7 Nephropexy {#55-7}
@@ -146,10 +146,10 @@
 #### 55.97 Implantation or replacement of  mechanical kidney {#55-97}
 #### 55.98 Removal of  mechanical kidney {#55-98}
 #### 55.99 Other {#55-99}
-  - *Excludes:* removal of pyelostomy or nephrostomy tube ([97.61](#97-61))
+  - *Excludes:* removal of pyelostomy or nephrostomy tube ([97.61](../chapter-16/index.md#97-61))
 ## 56 Operations on ureter {#56}
 
-- Code also any application or administration of  an adhesion barrier substance ([99.77](#99-77))
+- Code also any application or administration of  an adhesion barrier substance ([99.77](../chapter-16/index.md#99-77))
 ### 56.0 Transurethral removal of  obstruction f rom ureter and renal pelvis {#56-0}
 
 - Removal of :
@@ -191,7 +191,7 @@
 #### 56.36 Semi rigid ureterorenoscopy without stone fragmentation (IM) {#56-36}
 #### 56.37 Flexible ureterorenoscopy without stone fragmentation (IM) {#56-37}
 #### 56.39 Other diagnostic procedures on ureter {#56-39}
-  - *Excludes:* microscopic examination of specimen from ureter ([91.21-91.29](#91-21))
+  - *Excludes:* microscopic examination of specimen from ureter ([91.21-91.29](../chapter-16/index.md#91-21))
 ### 56.4 Ureterectomy {#56-4}
 
 - Code also anastomosis other than end-to-end ([56.51-56.79](#56-51))
@@ -228,14 +228,14 @@
 #### 56.62 Revision of  other cutaneous ureterostomy {#56-62}
   - Revision of  ureterostomy stoma
   - 56.620 Laparoscopic ureterostomy revision (IM)
-  - *Excludes:* nonoperative removal of ureterostomy tube ([97.62](#97-62))
+  - *Excludes:* nonoperative removal of ureterostomy tube ([97.62](../chapter-16/index.md#97-62))
 ### 56.7 Other anastomosis or bypass of ureter {#56-7}
 
   - *Excludes:* ureteropyelostomy ([55.86](#55-86))
 #### 56.71 Urinary diversion to intestine {#56-71}
   - Anastomosis of ureter to intestine
   - Internal urinary diversion NOS
-  - Code also any synchronous colostomy ([46.10-46.13](#46-10))
+  - Code also any synchronous colostomy ([46.10-46.13](../chapter-9/index.md#46-10))
   - *Excludes:* external ureteral ileostomy ([56.51](#56-51))
 #### 56.72 Revision of  ureterointestinal anastomosis {#56-72}
   - *Excludes:* revision of external ureteral ileostomy ([56.52](#56-52))
@@ -282,11 +282,11 @@
 #### 56.96 Endoscopic incision of external urethral sphincter (IM) {#56-96}
 #### 56.97 Endoscopic ureteric stent replacement (IM) {#56-97}
 #### 56.99 Other {#56-99}
-  - *Excludes:* removal of ureterostomy tube an ureteral catheter ([97.62](#97-62))
+  - *Excludes:* removal of ureterostomy tube an ureteral catheter ([97.62](../chapter-16/index.md#97-62))
     - ureteral catheterization (59.8)
 ## 57 Operations on urinary bladder {#57}
 
-- Code also any application or administration of  an adhesion barrier substance ([99.77](#99-77))
+- Code also any application or administration of  an adhesion barrier substance ([99.77](../chapter-16/index.md#99-77))
   - *Excludes:* perivesical tissue (59.11-59.29, 59.91-59.92)
     - ureterovesical orifice (56.0-56.99)
 ### 57.0 Transurethral clearance of  bladder {#57-0}
@@ -311,11 +311,11 @@
   - Percutaneous suprapubic cystostomy
   - Other suprapubic cystostomy (IM)
   - Cystostomy Closure (IM)
-  - *Excludes:* removal of cystostomy tub ([97.63](#97-63))
+  - *Excludes:* removal of cystostomy tub ([97.63](../chapter-16/index.md#97-63))
     - replacement of cystostomy tube ([59.94](#59-94))
 #### 57.18 Other suprapubic cystostomy {#57-18}
   - *Excludes:* percutaneous cystostomy ([57.17](#57-17))
-    - removal of cystostomy tub ([97.63](#97-63))
+    - removal of cystostomy tub ([97.63](../chapter-16/index.md#97-63))
     - replacement of cystostomy tube ([59.94](#59-94))
 #### 57.19 Other cystotomy {#57-19}
   - Cystolithotomy
@@ -336,17 +336,17 @@
 #### 57.32 Other cystoscopy {#57-32}
   - Transurethral cystoscopy
   - *Excludes:* cystourethroscopy with ureteral biopsy ([56.33](#56-33))
-    - retrograde pyelogram ([87.74](#87-74))
+    - retrograde pyelogram ([87.74](../chapter-16/index.md#87-74))
     - that for control of hemorrhage (postoperative):
     - bladder ([57.93](#57-93))
-    - prostate ([60.94](#60-94))
+    - prostate ([60.94](../chapter-11/index.md#60-94))
 #### 57.33 Closed [transurethral] biopsy of  bladder {#57-33}
 #### 57.34 Open biopsy of bladder {#57-34}
 #### 57.39 Other diagnostic procedures on bladder {#57-39}
-  - *Excludes:* cystogram NEC ([87.77](#87-77))
-    - microscopic examination of specimen from bladder ([91.31-91.39](#91-31))
-    - retrograde cystourethrogram ([87.76](#87-76))
-    - therapeutic distention of bladder ([96.25](#96-25))
+  - *Excludes:* cystogram NEC ([87.77](../chapter-16/index.md#87-77))
+    - microscopic examination of specimen from bladder ([91.31-91.39](../chapter-16/index.md#91-31))
+    - retrograde cystourethrogram ([87.76](../chapter-16/index.md#87-76))
+    - therapeutic distention of bladder ([96.25](../chapter-16/index.md#96-25))
 ### 57.4 Transurethral excision or destruction of  bladder tissue {#57-4}
 
 #### 57.41 Transurethral lysis of  intraluminal adhesions {#57-41}
@@ -396,8 +396,8 @@
 ### 57.8 Other repair of urinary bladder {#57-8}
 
   - *Excludes:* repair of:
-    - current obstetric laceration ([75.61](#75-61))
-    - cystocele ([70.50-70.51](#70-50))
+    - current obstetric laceration ([75.61](../chapter-13/index.md#75-61))
+    - cystocele ([70.50-70.51](../chapter-12/index.md#70-50))
     - that for stress incontinence (59.3-59.79)
 #### 57.81 Suture of laceration of bladder {#57-81}
 #### 57.82 Closure of  cystostomy {#57-82}
@@ -430,7 +430,7 @@
   - Replacement of  bladder with ileum or sigmoid [closed ileal bladder]
   - 57.870 Laparoscopic bladder enlargement (IM)
   - 57.871 Open bladder enlargement (IM)
-  - Code also resection of  intestine ([45.50-45.52](#45-50))
+  - Code also resection of  intestine ([45.50-45.52](../chapter-9/index.md#45-50))
 #### 57.88 Other anastomosis of bladder {#57-88}
   - Anastomosis of bladder to intestine NOS
   - Cystocolic anastomosis
@@ -441,7 +441,7 @@
   - Repair of  old obstetric laceration of  bladder
   - Open ruptured bladder repair (IM)
   - 57.890 Laparoscopic ruptured bladder repair (IM)
-  - *Excludes:* repair of current obstetric laceration ([75.61](#75-61))
+  - *Excludes:* repair of current obstetric laceration ([75.61](../chapter-13/index.md#75-61))
 ### 57.9 Other operations on bladder {#57-9}
 
 #### 57.91 Sphincterotomy of bladder {#57-91}
@@ -458,19 +458,19 @@
   - *Excludes:* that with synchronou replacement ([57.97](#57-97))
 #### 57.99 Other {#57-99}
   - *Excludes:* irrigation of:
-    - cystostomy ([96.47](#96-47))
-    - other indwelling urinary catheter ([96.48](#96-48))
+    - cystostomy ([96.47](../chapter-16/index.md#96-47))
+    - other indwelling urinary catheter ([96.48](../chapter-16/index.md#96-48))
     - lysis of external adhesions ([59.11](#59-11))
     - removal of:
-    - cystostomy tube ([97.63](#97-63))
-    - other urinary drainage devic ([97.64](#97-64))
-    - therapeutic distention o bladder ([96.25](#96-25))
+    - cystostomy tube ([97.63](../chapter-16/index.md#97-63))
+    - other urinary drainage devic ([97.64](../chapter-16/index.md#97-64))
+    - therapeutic distention o bladder ([96.25](../chapter-16/index.md#96-25))
 ## 58 Operations on urethra {#58}
 
   - *Includes:* operations on:
     - bulbourethral gland [Cowper's gland]
     - periurethral tissue
-    - Code also any application or administration of  an adhesion barrier substance ([99.77](#99-77))
+    - Code also any application or administration of  an adhesion barrier substance ([99.77](../chapter-16/index.md#99-77))
 ### 58.0 Urethrotomy {#58-0}
 
 - Excision of urethral septum
@@ -490,10 +490,10 @@
 #### 58.23 Biopsy of urethra {#58-23}
 #### 58.24 Biopsy of periurethral tissue {#58-24}
 #### 58.29 Other diagnostic procedures on urethra and periurethral tissue {#58-29}
-  - *Excludes:* microscopic examination of specimen from urethra ([91.31-91.39](#91-31))
-    - retrograde cystourethrogram ([87.76](#87-76))
-    - urethral pressure profil ([89.25](#89-25))
-    - urethral sphincter electromyogram ([89.23](#89-23))
+  - *Excludes:* microscopic examination of specimen from urethra ([91.31-91.39](../chapter-16/index.md#91-31))
+    - retrograde cystourethrogram ([87.76](../chapter-16/index.md#87-76))
+    - urethral pressure profil ([89.25](../chapter-16/index.md#89-25))
+    - urethral sphincter electromyogram ([89.23](../chapter-16/index.md#89-23))
 ### 58.3 Excision or destruction of lesion or tissue of urethra {#58-3}
 
   - *Excludes:* biopsy of urethra ([58.23](#58-23))
@@ -516,7 +516,7 @@
   - *Excludes:* that by endoscopic approach ([58.31](#58-31))
 ### 58.4 Repair of  urethra {#58-4}
 
-  - *Excludes:* repair of current obstetric laceration ([75.61](#75-61))
+  - *Excludes:* repair of current obstetric laceration ([75.61](../chapter-13/index.md#75-61))
 #### 58.41 Suture of laceration of urethra {#58-41}
 #### 58.42 Closure of  urethrostomy {#58-42}
 #### 58.43 Closure of  other f istula of  urethra {#58-43}
@@ -542,8 +542,8 @@
   - 58.491 Urethroplasty with f lap (IM)
   - 58.492 Urethroplasty with pubectomy (IM)
   - *Excludes:* repair of:
-    - current obstetric laceration ([75.61](#75-61))
-    - urethrocele ([70.50-70.51](#70-50))
+    - current obstetric laceration ([75.61](../chapter-13/index.md#75-61))
+    - urethrocele ([70.50-70.51](../chapter-12/index.md#70-50))
 ### 58.5 Release of  urethral stricture {#58-5}
 
 - Cutting of  urethral sphincter
@@ -555,7 +555,7 @@
 - Dilation of urethrovesical junction
 - Passage of sounds through urethra
 - Removal of  calculus f rom urethra without incision
-  - *Excludes:* urethral calibration ([89.29](#89-29))
+  - *Excludes:* urethral calibration ([89.29](../chapter-16/index.md#89-29))
 ### 58.9 Other operations on urethra and periurethral tissue {#58-9}
 
 #### 58.91 Incision of  periurethral tissue {#58-91}
@@ -576,11 +576,11 @@
   - Repair of  inf latable sphincter pump and/or reservoir
   - Surgical correction of hydraulic pressure of inflatable sphincter device
   - *Excludes:* removal of:
-    - intraluminal foreign bod from urethra without incision ([98.19](#98-19))
-    - urethral stent ([97.65](#97-65))
+    - intraluminal foreign bod from urethra without incision ([98.19](../chapter-16/index.md#98-19))
+    - urethral stent ([97.65](../chapter-16/index.md#97-65))
 ## 59 Other operations on urinary tract {#59}
 
-- Code also any application or administration of  an adhesion barrier substance ([99.77](#99-77))
+- Code also any application or administration of  an adhesion barrier substance ([99.77](../chapter-16/index.md#99-77))
 ### 59.0 Dissection of retroperitoneal tissue {#59-0}
 
 #### 59.00 Retroperitoneal dissection, not otherwise specif ied {#59-00}
@@ -605,10 +605,10 @@
 #### 59.21 Biopsy of perirenal or perivesical tissue {#59-21}
 #### 59.29 Other diagnostic procedures on perirenal tissue, perivesical tissue, and retroperitoneum {#59-29}
   - *Excludes:* microscopic examination of specimen from:
-    - perirenal tissue ([91.21-91.29](#91-21))
-    - perivesical tissue ([91.31-91.39](#91-31))
-    - retroperitoneum NEC ([91.11-91.19](#91-11))
-    - retroperitoneal x-ray ([88.14-88.16](#88-14))
+    - perirenal tissue ([91.21-91.29](../chapter-16/index.md#91-21))
+    - perivesical tissue ([91.31-91.39](../chapter-16/index.md#91-31))
+    - retroperitoneum NEC ([91.11-91.19](../chapter-16/index.md#91-11))
+    - retroperitoneal x-ray ([88.14-88.16](../chapter-16/index.md#88-14))
 ### 59.3 Plication of urethrovesical junction {#59-3}
 
 - Kelly-Kennedy operation on urethra
@@ -653,24 +653,24 @@
   - Endoscopic ureteric stent insertion
   - Code also any ureterotomy (56.2)
   - *Excludes:* that for:
-    - retrograde pyelogram ([87.74](#87-74))
+    - retrograde pyelogram ([87.74](../chapter-16/index.md#87-74))
     - transurethral removal of calculus or clot from ureter and renal pelvis (56.0)
 ### 59.9 Other operations on urinary system {#59-9}
 
-  - *Excludes:* nonoperative removal of therapeutic device ([97.61-97.69](#97-61))
+  - *Excludes:* nonoperative removal of therapeutic device ([97.61-97.69](../chapter-16/index.md#97-61))
 #### 59.91 Excision of perirenal or perivesical tissue {#59-91}
   - *Excludes:* biopsy of perirenal or perivesical tissue ([59.21](#59-21))
 #### 59.92 Other operations on perirenal or perivesical tissue {#59-92}
 #### 59.93 Replacement of  ureterostomy tube {#59-93}
   - Change of  ureterostomy tube
   - Reinsertion of  ureterostomy tube
-  - *Excludes:* nonoperative removal of ureterostomy tube ([97.62](#97-62))
+  - *Excludes:* nonoperative removal of ureterostomy tube ([97.62](../chapter-16/index.md#97-62))
 #### 59.94 Replacement of  cystostomy tube {#59-94}
-  - *Excludes:* nonoperative removal of cystostomy tube ([97.63](#97-63))
+  - *Excludes:* nonoperative removal of cystostomy tube ([97.63](../chapter-16/index.md#97-63))
 #### 59.95 Ultrasonic f ragmentation of  urinary stones {#59-95}
   - Shattered urinary stones
   - *Excludes:* percutaneous nephrostomy with fragmentation ([55.04](#55-04))
-    - shock-wave disintegratio ([98.51](#98-51))
+    - shock-wave disintegratio ([98.51](../chapter-16/index.md#98-51))
 #### 59.99 Other {#59-99}
-  - *Excludes:* instillation of medication into urinary tract ([96.49](#96-49))
-    - irrigation of urinary tract ([96.45-96.48](#96-45))
+  - *Excludes:* instillation of medication into urinary tract ([96.49](../chapter-16/index.md#96-49))
+    - irrigation of urinary tract ([96.45-96.48](../chapter-16/index.md#96-45))

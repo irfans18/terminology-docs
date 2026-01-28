@@ -31,9 +31,9 @@
   - *Excludes:* esophagogastroduodenoscopy [EGD] with closed biopsy ([45.16](#45-16))
 #### 42.25 Open biopsy of esophagus {#42-25}
 #### 42.29 Other diagnostic procedures on esophagus {#42-29}
-  - *Excludes:* barium swallow ([87.61](#87-61))
-    - esophageal manometry ([89.32](#89-32))
-    - microscopic examination of specimen from esophagus ([90.81-90.89](#90-81))
+  - *Excludes:* barium swallow ([87.61](../chapter-16/index.md#87-61))
+    - esophageal manometry ([89.32](../chapter-16/index.md#89-32))
+    - microscopic examination of specimen from esophagus ([90.81-90.89](../chapter-16/index.md#90-81))
 ### 42.3 Local excision or destruction of lesion or tissue of esophagus {#42-3}
 
 #### 42.31 Local excision of esophageal diverticulum {#42-31}
@@ -109,10 +109,10 @@
 #### 42.83 Closure of  esophagostomy {#42-83}
 #### 42.84 Repair of  esophageal f istula, not elsewhere classif ied {#42-84}
   - *Excludes:* repair of fistula:
-    - bronchoesophageal ([33.42](#33-42))
-    - esophagopleurocutaneous ([34.73](#34-73))
-    - pharyngoesophageal ([29.53](#29-53))
-    - tracheoesophageal ([31.73](#31-73))
+    - bronchoesophageal ([33.42](../chapter-6/index.md#33-42))
+    - esophagopleurocutaneous ([34.73](../chapter-6/index.md#34-73))
+    - pharyngoesophageal ([29.53](../chapter-5/index.md#29-53))
+    - tracheoesophageal ([31.73](../chapter-6/index.md#31-73))
 #### 42.85 Repair of  esophageal stricture {#42-85}
 #### 42.86 Production of subcutaneous tunnel without esophageal anastomosis {#42-86}
 #### 42.87 Other graft of esophagus {#42-87}
@@ -133,13 +133,13 @@
   - Dilation of cardiac sphincter
   - *Excludes:* intubation of esophagus (96.03, 96.06-96.08)
 #### 42.99 Other {#42-99}
-  - *Excludes:* insertion of Sengstaken tube  ([96.06](#96-06))
+  - *Excludes:* insertion of Sengstaken tube  ([96.06](../chapter-16/index.md#96-06))
     - intubation of esophagus (96.03, 96.06-96.08)
-    - removal of intraluminal foreign body from esophagus without incision ([98.02](#98-02))
-    - tamponade of esophagus ([96.06](#96-06))
+    - removal of intraluminal foreign body from esophagus without incision ([98.02](../chapter-16/index.md#98-02))
+    - tamponade of esophagus ([96.06](../chapter-16/index.md#96-06))
 ## 43 Incision and excision of  stomach {#43}
 
-- Code also any application or administration of  an adhesion barrier substance ([99.77](#99-77))
+- Code also any application or administration of  an adhesion barrier substance ([99.77](../chapter-16/index.md#99-77))
 ### 43.0 Gastrotomy {#43-0}
 
   - *Excludes:* gastrostomy ([43.11-43.19](#43-11))
@@ -196,7 +196,7 @@
   - Radical gastrectomy
 ## 44 Other operations on stomach {#44}
 
-- Code also any application or administration of  an adhesion barrier substance ([99.77](#99-77))
+- Code also any application or administration of  an adhesion barrier substance ([99.77](../chapter-16/index.md#99-77))
 ### 44.0 Vagotomy {#44-0}
 
 #### 44.00 Vagotomy, not otherwise specified {#44-00}
@@ -220,9 +220,9 @@
   - *Excludes:* esophagogastroduodenoscopy [EGD] with closed biopsy ([45.16](#45-16))
 #### 44.15 Open biopsy of stomach {#44-15}
 #### 44.19 Other diagnostic procedures on stomach {#44-19}
-  - *Excludes:* gastric lavage ([96.33](#96-33))
-    - microscopic examination of specimen from stomach ([90.81-90.89](#90-81))
-    - upper GI series ([87.62](#87-62))
+  - *Excludes:* gastric lavage ([96.33](../chapter-16/index.md#96-33))
+    - microscopic examination of specimen from stomach ([90.81-90.89](../chapter-16/index.md#90-81))
+    - upper GI series ([87.62](../chapter-16/index.md#87-62))
 ### 44.2 Pyloroplasty {#44-2}
 
 #### 44.21 Dilation of pylorus by incision {#44-21}
@@ -261,7 +261,7 @@
 #### 44.42 Suture of duodenal ulcer site {#44-42}
 #### 44.43 Endoscopic control of gastric or duodenal bleeding {#44-43}
 #### 44.44 Transcatheter embolization f or gastric or duodenal bleeding {#44-44}
-  - *Excludes:* surgical occlusion of abdominal vessels ([38.86-38.87](#38-86))
+  - *Excludes:* surgical occlusion of abdominal vessels ([38.86-38.87](../chapter-7/index.md#38-86))
 #### 44.49 Other control of hemorrhage of stomach or duodenum {#44-49}
   - That with gastrotomy
 ### 44.5 Revision of  gastric anastomosis {#44-5}
@@ -325,36 +325,36 @@
   - Removal of  either or both:
   - adjustable gastric band
   - subcutaneous port device
-  - *Excludes:* nonoperative removal of gastric restrictive device(s) ([97.86](#97-86))
+  - *Excludes:* nonoperative removal of gastric restrictive device(s) ([97.86](../chapter-16/index.md#97-86))
     - open removal of gastric restrictive device(s) ([44.99](#44-99))
 #### 44.98 (Laparoscopic) adjustment of size of adjustable gastric restrictive device {#44-98}
   - Inf usion of  saline f or device tightening
   - Withdrawal of saline for device loosening
   - Code also any:
-  - abdominal ultrasound ([88.76](#88-76))
-  - abdominal wall fluoroscopy ([88.09](#88-09))
-  - barium swallow ([87.61](#87-61))
+  - abdominal ultrasound ([88.76](../chapter-16/index.md#88-76))
+  - abdominal wall fluoroscopy ([88.09](../chapter-16/index.md#88-09))
+  - barium swallow ([87.61](../chapter-16/index.md#87-61))
 #### 44.99 Other {#44-99}
-  - *Excludes:* change of gastrostomy tube  ([97.02](#97-02))
+  - *Excludes:* change of gastrostomy tube  ([97.02](../chapter-16/index.md#97-02))
     - dilation of cardiac sphincter  ([42.92](#42-92))
     - gastric:
-    - cooling ([96.31](#96-31))
-    - freez ing ([96.32](#96-32))
-    - gavage ([96.35](#96-35))
-    - hypothermia ([96.31](#96-31))
-    - lavage ([96.33](#96-33))
-    - insertion of nasogastric tube  ([96.07](#96-07))
-    - irrigation of gastrostomy  ([96.36](#96-36))
-    - irrigation of nasogastric tube  ([96.34](#96-34))
+    - cooling ([96.31](../chapter-16/index.md#96-31))
+    - freez ing ([96.32](../chapter-16/index.md#96-32))
+    - gavage ([96.35](../chapter-16/index.md#96-35))
+    - hypothermia ([96.31](../chapter-16/index.md#96-31))
+    - lavage ([96.33](../chapter-16/index.md#96-33))
+    - insertion of nasogastric tube  ([96.07](../chapter-16/index.md#96-07))
+    - irrigation of gastrostomy  ([96.36](../chapter-16/index.md#96-36))
+    - irrigation of nasogastric tube  ([96.34](../chapter-16/index.md#96-34))
     - removal of:
-    - gastrostomy tube ([97.51](#97-51))
-    - intraluminal foreign body from stomach without incision ([98.03](#98-03))
+    - gastrostomy tube ([97.51](../chapter-16/index.md#97-51))
+    - intraluminal foreign body from stomach without incision ([98.03](../chapter-16/index.md#98-03))
     - replacement of:
-    - gastrostomy tube ([97.02](#97-02))
-    - (naso-)gastric tube ([97.01](#97-01))
+    - gastrostomy tube ([97.02](../chapter-16/index.md#97-02))
+    - (naso-)gastric tube ([97.01](../chapter-16/index.md#97-01))
 ## 45 Incision, excision, and anastomosis of  intestine {#45}
 
-- Code also any application or administration of  an adhesion barrier substance ([99.77](#99-77))
+- Code also any application or administration of  an adhesion barrier substance ([99.77](../chapter-16/index.md#99-77))
 ### 45.0 Enterotomy {#45-0}
 
   - *Excludes:* duodenocholedochotomy (51.41-51.42, 51.51)
@@ -383,10 +383,10 @@
 #### 45.16 Esophagogastroduodenoscopy [EGD] with closed biopsy {#45-16}
   - Biopsy of one or more sites involving esophagus, stomach, and/or duodenum
 #### 45.19 Other diagnostic procedures on small intestine {#45-19}
-  - *Excludes:* microscopic examination of specimen from small intestine ([90.91-90.99](#90-91))
-    - radioisotope scan ([92.04](#92-04))
-    - ultrasonography ([88.74](#88-74))
-    - x-ray ([87.61-87.69](#87-61))
+  - *Excludes:* microscopic examination of specimen from small intestine ([90.91-90.99](../chapter-16/index.md#90-91))
+    - radioisotope scan ([92.04](../chapter-16/index.md#92-04))
+    - ultrasonography ([88.74](../chapter-16/index.md#88-74))
+    - x-ray ([87.61-87.69](../chapter-16/index.md#87-61))
 ### 45.2 Diagnostic procedures on large intestine {#45-2}
 
 - Code also any laparotomy ([54.11-54.19](#54-11))
@@ -413,10 +413,10 @@
 #### 45.27 Intestinal biopsy, site unspecif ied {#45-27}
 #### 45.28 Other diagnostic procedures on large intestine {#45-28}
 #### 45.29 Other diagnostic procedures on intestine, site unspecified {#45-29}
-  - *Excludes:* microscopic examination of specimen ([90.91-90.99](#90-91))
-    - scan and radioisotope function study ([92.04](#92-04))
-    - ultrasonography ([88.74](#88-74))
-    - x-ray ([87.61-87.69](#87-61))
+  - *Excludes:* microscopic examination of specimen ([90.91-90.99](../chapter-16/index.md#90-91))
+    - scan and radioisotope function study ([92.04](../chapter-16/index.md#92-04))
+    - ultrasonography ([88.74](../chapter-16/index.md#88-74))
+    - x-ray ([87.61-87.69](../chapter-16/index.md#87-61))
 ### 45.3 Local excision or destruction of lesion or tissue of small intestine {#45-3}
 
 #### 45.30 Endoscopic excision or destruction of lesion of duodenum {#45-30}
@@ -491,7 +491,7 @@
 - Code also any synchronous:
 - anastomosis other than end-to-end ([45.92-45.94](#45-92))
 - enterostomy ([46.10-46.39](#46-10))
-  - *Excludes:* laparoscopic partial excision of large intestine ([17.31-17.39](#17-31))
+  - *Excludes:* laparoscopic partial excision of large intestine ([17.31-17.39](../chapter-3a/index.md#17-31))
 #### 45.71 Open and other multiple segmental resection of large intestine {#45-71}
   - Segmental resection for multiple traumatic lesions of large intestine
 #### 45.72 Open and other cecectomy {#45-72}
@@ -529,7 +529,7 @@
   - of small intestine to anus
 ## 46 Other operations on intestine {#46}
 
-- Code also any application or administration of  an adhesion barrier substance ([99.77](#99-77))
+- Code also any application or administration of  an adhesion barrier substance ([99.77](../chapter-16/index.md#99-77))
 ### 46.0 Exteriorization of intestine {#46-0}
 
   - *Includes:* loop enterostomy
@@ -615,25 +615,25 @@
 
   - *Excludes:* closure of:
     - ulcer of duodenum ([44.42](#44-42))
-    - vesicoenteric fistula ([57.83](#57-83))
+    - vesicoenteric fistula ([57.83](../chapter-10/index.md#57-83))
 #### 46.71 Suture of laceration of duodenum {#46-71}
 #### 46.72 Closure of  f istula of  duodenum {#46-72}
 #### 46.73 Suture of laceration of small intestine, except duodenum {#46-73}
 #### 46.74 Closure of  f istula of  small intestine, except duodenum {#46-74}
   - *Excludes:* closure of:
     - artificial stoma ([46.51](#46-51))
-    - vaginal fistula ([70.74](#70-74))
+    - vaginal fistula ([70.74](../chapter-12/index.md#70-74))
     - repair of gastrojejunocolic fistula ([44.63](#44-63))
 #### 46.75 Suture of laceration of large intestine {#46-75}
 #### 46.76 Closure of  f istula of  large intestine {#46-76}
   - *Excludes:* closure of:
     - gastrocolic fistula ([44.63](#44-63))
     - rectal fistula ([48.73](#48-73))
-    - sigmoidovesical fistula ([57.83](#57-83))
+    - sigmoidovesical fistula ([57.83](../chapter-10/index.md#57-83))
     - stoma ([46.52](#46-52))
-    - vaginal fistula ([70.72-70.73](#70-72))
-    - vesicocolic fistula ([57.83](#57-83))
-    - vesicosigmoidovaginal fistula ([57.83](#57-83))
+    - vaginal fistula ([70.72-70.73](../chapter-12/index.md#70-72))
+    - vesicocolic fistula ([57.83](../chapter-10/index.md#57-83))
+    - vesicosigmoidovaginal fistula ([57.83](../chapter-10/index.md#57-83))
 #### 46.79 Other repair of intestine {#46-79}
   - Duodenoplasty
 ### 46.8 Dilation and manipulation of intestine {#46-8}
@@ -645,9 +645,9 @@
   - intestinal volvulus
   - intussusception
   - *Excludes:* reduction of intussusception with:
-    - fluoroscopy ([96.29](#96-29))
-    - ionizing radiation enema ([96.29](#96-29))
-    - ultrasonography guidance ([96.29](#96-29))
+    - fluoroscopy ([96.29](../chapter-16/index.md#96-29))
+    - ionizing radiation enema ([96.29](../chapter-16/index.md#96-29))
+    - ultrasonography guidance ([96.29](../chapter-16/index.md#96-29))
 #### 46.81 Intra-abdominal manipulation of small intestine {#46-81}
 #### 46.82 Intra-abdominal manipulation of large intestine {#46-82}
 #### 46.85 Dilation of intestine {#46-85}
@@ -676,28 +676,28 @@
 #### 46.93 Revision of  anastomosis of  small intestine {#46-93}
 #### 46.94 Revision of  anastomosis of  large intestine {#46-94}
 #### 46.95 Local perfusion of small intestine {#46-95}
-  - Code also substance perf used ([99.21-99.29](#99-21))
+  - Code also substance perf used ([99.21-99.29](../chapter-16/index.md#99-21))
 #### 46.96 Local perfusion of large intestine {#46-96}
-  - Code also substance perf used ([99.21-99.29](#99-21))
+  - Code also substance perf used ([99.21-99.29](../chapter-16/index.md#99-21))
 #### 46.97 Transplant of  intestine {#46-97}
   - Note: To report donor source - see codes 00.91-00.93
 #### 46.99 Other {#46-99}
   - Ileoentectropy
   - *Excludes:* diagnostic procedures on intestine ([45.11-45.29](#45-11))
-    - dilation of enterostomy stoma ([96.24](#96-24))
-    - intestinal intubation ([96.08](#96-08))
+    - dilation of enterostomy stoma ([96.24](../chapter-16/index.md#96-24))
+    - intestinal intubation ([96.08](../chapter-16/index.md#96-08))
     - removal of:
-    - intraluminal foreign body from large intestine without incision ([98.04](#98-04))
-    - intraluminal foreign body from small intestine without incision ([98.03](#98-03))
-    - tube from large intestine ([97.53](#97-53))
-    - tube from small intestine ([97.52](#97-52))
+    - intraluminal foreign body from large intestine without incision ([98.04](../chapter-16/index.md#98-04))
+    - intraluminal foreign body from small intestine without incision ([98.03](../chapter-16/index.md#98-03))
+    - tube from large intestine ([97.53](../chapter-16/index.md#97-53))
+    - tube from small intestine ([97.52](../chapter-16/index.md#97-52))
     - replacement of:
-    - large intestine tube or enterostomy device ([97.04](#97-04))
-    - small intestine tube or enterostomy device ([97.03](#97-03))
+    - large intestine tube or enterostomy device ([97.04](../chapter-16/index.md#97-04))
+    - small intestine tube or enterostomy device ([97.03](../chapter-16/index.md#97-03))
 ## 47 Operations on appendix {#47}
 
   - *Includes:* appendiceal stump
-    - Code also any application or administration of  an adhesion barrier substance ([99.77](#99-77))
+    - Code also any application or administration of  an adhesion barrier substance ([99.77](../chapter-16/index.md#99-77))
 ### 47.0 Appendectomy {#47-0}
 
   - *Excludes:* incidental appendectomy, so described
@@ -721,7 +721,7 @@
   - *Excludes:* diagnostic procedures on appendix ([45.21-45.29](#45-21))
 ## 48 Operations on rectum, rectosigmoid and perirectal tissue {#48}
 
-- Code also any application or administration of  an adhesion barrier substance ([99.77](#99-77))
+- Code also any application or administration of  an adhesion barrier substance ([99.77](../chapter-16/index.md#99-77))
 ### 48.0 Proctotomy {#48-0}
 
 - Decompression of imperforate anus
@@ -744,9 +744,9 @@
 #### 48.25 Open biopsy of rectum {#48-25}
 #### 48.26 Biopsy of perirectal tissue {#48-26}
 #### 48.29 Other diagnostic procedures on rectum, rectosigmoid and perirectal tissue {#48-29}
-  - *Excludes:* digital examination of rectum ([89.34](#89-34))
-    - lower GI series ([87.64](#87-64))
-    - microscopic examination of specimen from rectum ([90.91-90.99](#90-91))
+  - *Excludes:* digital examination of rectum ([89.34](../chapter-16/index.md#89-34))
+    - lower GI series ([87.64](../chapter-16/index.md#87-64))
+    - microscopic examination of specimen from rectum ([90.91-90.99](../chapter-16/index.md#90-91))
 ### 48.3 Local excision or destruction of lesion or tissue of rectum {#48-3}
 
 #### 48.31 Radical electrocoagulation of  rectal lesion or tissue {#48-31}
@@ -811,17 +811,17 @@
 ### 48.7 Repair of  rectum {#48-7}
 
   - *Excludes:* repair of:
-    - current obstetric laceration ([75.62](#75-62))
+    - current obstetric laceration ([75.62](../chapter-13/index.md#75-62))
     - vaginal rectocele (70.50, 70.52, 70.53, 70.55)
 #### 48.71 Suture of laceration of rectum {#48-71}
 #### 48.72 Closure of  proctostomy {#48-72}
 #### 48.73 Closure of  other rectal f istula {#48-73}
   - *Excludes:* fistulectomy:
     - perirectal ([48.93](#48-93))
-    - rectourethral ([58.43](#58-43))
-    - rectovaginal ([70.73](#70-73))
-    - rectovesical ([57.83](#57-83))
-    - rectovesicovaginal ([57.83](#57-83))
+    - rectourethral ([58.43](../chapter-10/index.md#58-43))
+    - rectovaginal ([70.73](../chapter-12/index.md#70-73))
+    - rectovesical ([57.83](../chapter-10/index.md#57-83))
+    - rectovesicovaginal ([57.83](../chapter-10/index.md#57-83))
 #### 48.74 Rectorectostomy {#48-74}
   - Rectal anastomosis NOS
   - Stapled transanal rectal resection (STARR)
@@ -832,14 +832,14 @@
   - Delorme repair of prolapsed rectum
   - Proctosigmoidopexy
   - Puborectalis sling operation
-  - *Excludes:* manual reduction of rectal prolapse ([96.26](#96-26))
+  - *Excludes:* manual reduction of rectal prolapse ([96.26](../chapter-16/index.md#96-26))
 #### 48.79 Other repair of rectum {#48-79}
   - Repair of  old obstetric laceration of  rectum
   - *Excludes:* anastomosis to:
     - large intestine ([45.94](#45-94))
     - small intestine ([45.92-45.93](#45-92))
     - repair of:
-    - current obstetrica laceration ([75.62](#75-62))
+    - current obstetrica laceration ([75.62](../chapter-13/index.md#75-62))
     - vaginal rectocele (70.50, 70.52)
 ### 48.8 Incision or excision of  perirectal tissue or lesion {#48-8}
 
@@ -858,22 +858,22 @@
 #### 48.93 Repair of  perirectal f istula {#48-93}
   - *Excludes:* that opening into rectum ([48.73](#48-73))
 #### 48.99 Other {#48-99}
-  - *Excludes:* digital examination of rectum ([89.34](#89-34))
-    - dilation of rectum ([96.22](#96-22))
-    - insertion of rectal tube ([96.09](#96-09))
-    - irrigation of rectum ([96.38-96.39](#96-38))
-    - manual reduction of rectal prolapse ([96.26](#96-26))
-    - proctoclysis ([96.37](#96-37))
-    - rectal massage ([99.93](#99-93))
-    - rectal packing ([96.19](#96-19))
+  - *Excludes:* digital examination of rectum ([89.34](../chapter-16/index.md#89-34))
+    - dilation of rectum ([96.22](../chapter-16/index.md#96-22))
+    - insertion of rectal tube ([96.09](../chapter-16/index.md#96-09))
+    - irrigation of rectum ([96.38-96.39](../chapter-16/index.md#96-38))
+    - manual reduction of rectal prolapse ([96.26](../chapter-16/index.md#96-26))
+    - proctoclysis ([96.37](../chapter-16/index.md#96-37))
+    - rectal massage ([99.93](../chapter-16/index.md#99-93))
+    - rectal packing ([96.19](../chapter-16/index.md#96-19))
     - removal of:
-    - impacted feces ([96.38](#96-38))
-    - intraluminal foreign body from rectum without incision ([98.05](#98-05))
-    - rectal packing ([97.59](#97-59))
-    - transanal enema ([96.39](#96-39))
+    - impacted feces ([96.38](../chapter-16/index.md#96-38))
+    - intraluminal foreign body from rectum without incision ([98.05](../chapter-16/index.md#98-05))
+    - rectal packing ([97.59](../chapter-16/index.md#97-59))
+    - transanal enema ([96.39](../chapter-16/index.md#96-39))
 ## 49 Operations on anus {#49}
 
-- Code also any application or administration of  an adhesion barrier substance ([99.77](#99-77))
+- Code also any application or administration of  an adhesion barrier substance ([99.77](../chapter-16/index.md#99-77))
 ### 49.0 Incision or excision of  perianal tissue {#49-0}
 
 #### 49.01 Incision of  perianal abscess {#49-01}
@@ -895,7 +895,7 @@
 #### 49.22 Biopsy of perianal tissue {#49-22}
 #### 49.23 Biopsy of anus {#49-23}
 #### 49.29 Other diagnostic procedures on anus and perianal tissue {#49-29}
-  - *Excludes:* microscopic examination of specimen from anus ([90.91-90.99](#90-91))
+  - *Excludes:* microscopic examination of specimen from anus ([90.91-90.99](../chapter-16/index.md#90-91))
 ### 49.3 Local excision or destruction of other lesion or tissue of anus {#49-3}
 
 - Anal cryptotomy
@@ -929,7 +929,7 @@
 
 ### 49.7 Repair of  anus {#49-7}
 
-  - *Excludes:* repair of current obstetric laceration ([75.62](#75-62))
+  - *Excludes:* repair of current obstetric laceration ([75.62](../chapter-13/index.md#75-62))
 #### 49.71 Suture of laceration of anus {#49-71}
 #### 49.72 Anal cerclage {#49-72}
 #### 49.73 Closure of  anal f istula {#49-73}
@@ -944,10 +944,10 @@
 #### 49.79 Other repair of anal sphincter {#49-79}
   - Repair of  old obstetric laceration of  anus
   - *Excludes:* anoplasty with synchronous hemorrhoidectomy ([49.46](#49-46))
-    - repair of current obstetric laceration ([75.62](#75-62))
+    - repair of current obstetric laceration ([75.62](../chapter-13/index.md#75-62))
 ### 49.9 Other operations on anus {#49-9}
 
-  - *Excludes:* dilation of anus (sphincter) ([96.23](#96-23))
+  - *Excludes:* dilation of anus (sphincter) ([96.23](../chapter-16/index.md#96-23))
 #### 49.91 Incision of  anal septum {#49-91}
 #### 49.92 Insertion of  subcutaneous electrical anal stimulator {#49-92}
 #### 49.93 Other incision of anus {#49-93}
@@ -955,14 +955,14 @@
   - foreign body from anus w ith incision
   - seton from anus
   - *Excludes:* anal fistulotomy ([49.11](#49-11))
-    - removal of intraluminal foreign body without incision ([98.05](#98-05))
+    - removal of intraluminal foreign body without incision ([98.05](../chapter-16/index.md#98-05))
 #### 49.94 Reduction of  anal prolapse {#49-94}
-  - *Excludes:* manual reduction of rectal prolapse ([96.26](#96-26))
+  - *Excludes:* manual reduction of rectal prolapse ([96.26](../chapter-16/index.md#96-26))
 #### 49.95 Control of  (postoperative) hemorrhage of  anus {#49-95}
 #### 49.99 Other {#49-99}
 ## 50 Operations on liver {#50}
 
-- Code also any application or administration of  an adhesion barrier substance ([99.77](#99-77))
+- Code also any application or administration of  an adhesion barrier substance ([99.77](../chapter-16/index.md#99-77))
 ### 50.0 Hepatotomy {#50-0}
 
 - Incision of  abscess of  liver
@@ -984,8 +984,8 @@
     - transjugular liver biopsy ([50.13](#50-13))
 #### 50.19 Other diagnostic procedures on liver {#50-19}
   - *Excludes:* laparoscopic liver biopsy ([50.14](#50-14))
-    - liver scan and radioisotope function study ([92.02](#92-02))
-    - microscopic examination of specimen from liver ([91.01-91.09](#91-01))
+    - liver scan and radioisotope function study ([92.02](../chapter-16/index.md#92-02))
+    - microscopic examination of specimen from liver ([91.01-91.09](../chapter-16/index.md#91-01))
     - transjugular liver biopsy ([50.13](#50-13))
 ### 50.2 Local excision or destruction of liver tissue or lesion {#50-2}
 
@@ -1008,7 +1008,7 @@
     - other ([50.26](#50-26))
     - percutaneous ([50.24](#50-24))
     - percutaneous aspiration of lesion ([50.91](#50-91))
-    - laser interstitial thermal therapy [LITT] of lesion or tissue of liver under guidance ([17.63](#17-63))
+    - laser interstitial thermal therapy [LITT] of lesion or tissue of liver under guidance ([17.63](../chapter-3a/index.md#17-63))
 ### 50.3 Lobectomy of liver {#50-3}
 
 - Total hepatic lobectomy with partial excision of  other lobe
@@ -1045,7 +1045,7 @@
     - hepatic duct
     - intrahepatic bile duct
     - sphincter of Oddi
-    - Code also any application or administration of  an adhesion barrier substance ([99.77](#99-77))
+    - Code also any application or administration of  an adhesion barrier substance ([99.77](../chapter-16/index.md#99-77))
 ### 51.0 Cholecystotomy and cholecystostomy {#51-0}
 
 #### 51.01 Percutaneous aspiration of gallbladder {#51-01}
@@ -1080,8 +1080,8 @@
 #### 51.15 Pressure measurement of sphincter of Oddi {#51-15}
   - Pressure measurement of sphincter by procedures classifiable to 51.10-51.11, 52.13
 #### 51.19 Other diagnostic procedures on biliary tract {#51-19}
-  - *Excludes:* biliary tract x-ray ([87.51-87.59](#87-51))
-    - microscopic examination of specimen from biliary tract ([91.01-91.09](#91-01))
+  - *Excludes:* biliary tract x-ray ([87.51-87.59](../chapter-16/index.md#87-51))
+    - microscopic examination of specimen from biliary tract ([91.01-91.09](../chapter-16/index.md#91-01))
 ### 51.2 Cholecystectomy {#51-2}
 
 #### 51.21 Other partial cholecystectomy {#51-21}
@@ -1170,7 +1170,7 @@
   - Endoprosthesis of bile duct
   - Insertion of  stent into bile duct by procedures classif iable to 51.10-51.11, 52.13
   - *Excludes:* nasobiliary drainage tub ([51.86](#51-86))
-    - replacement of stent (tube) ([97.05](#97-05))
+    - replacement of stent (tube) ([97.05](../chapter-16/index.md#97-05))
 #### 51.88 Endoscopic removal of stone(s) from biliary tract {#51-88}
   - Laparoscopic removal of stone(s) from biliary tract
   - Removal of  biliary tract stone(s) by procedures classif iable to 51.10-51.11, 52.13
@@ -1184,7 +1184,7 @@
   - Cholecystogastroenteric f istulectomy
 #### 51.94 Revision of  anastomosis of  biliary tract {#51-94}
 #### 51.95 Removal of  prosthetic device f rom bile duct {#51-95}
-  - *Excludes:* nonoperative removal ([97.55](#97-55))
+  - *Excludes:* nonoperative removal ([97.55](../chapter-16/index.md#97-55))
 #### 51.96 Percutaneous extraction of common duct stones {#51-96}
 #### 51.98 Other percutaneous procedures on biliary tract {#51-98}
   - Percutaneous biliary endoscopy via existing T-tube or other tract for:
@@ -1198,15 +1198,15 @@
 #### 51.99 Other {#51-99}
   - Insertion or replacement of  biliary tract prosthesis
   - *Excludes:* biopsy of gallbladder ([51.12-51.13](#51-12))
-    - irrigation of cholecystostomy and other biliary tube ([96.41](#96-41))
+    - irrigation of cholecystostomy and other biliary tube ([96.41](../chapter-16/index.md#96-41))
     - lysis of peritoneal adhesions (54.5)
     - nonoperative removal of:
-    - cholecystostomy tube ([97.54](#97-54))
-    - tube from biliary tract or liver ([97.55](#97-55))
+    - cholecystostomy tube ([97.54](../chapter-16/index.md#97-54))
+    - tube from biliary tract or liver ([97.55](../chapter-16/index.md#97-55))
 ## 52 Operations on pancreas {#52}
 
   - *Includes:* operations on pancreatic duct
-    - Code also any application or administration of  an adhesion barrier substance ([99.77](#99-77))
+    - Code also any application or administration of  an adhesion barrier substance ([99.77](../chapter-16/index.md#99-77))
 ### 52.0 Pancreatotomy {#52-0}
 
 #### 52.01 Drainage of pancreatic cyst by catheter {#52-01}
@@ -1228,9 +1228,9 @@
 #### 52.14 Closed [endoscopic] biopsy of  pancreatic duct {#52-14}
   - Closed biopsy of  pancreatic duct by procedures classif iable to (51.10-51.11, 52.13)
 #### 52.19 Other diagnostic procedures on pancreas {#52-19}
-  - *Excludes:* contrast pancreatogram ([87.66](#87-66))
+  - *Excludes:* contrast pancreatogram ([87.66](../chapter-16/index.md#87-66))
     - endoscopic retrograde pancreatography [ERP] ([52.13](#52-13))
-    - microscopic examination of specimen from pancreas ([91.01-91.09](#91-01))
+    - microscopic examination of specimen from pancreas ([91.01-91.09](../chapter-16/index.md#91-01))
 ### 52.2 Local excision or destruction of pancreas and pancreatic duct {#52-2}
 
   - *Excludes:* biopsy of pancreas (52.11-52.12, 52.14)
@@ -1273,7 +1273,7 @@
   - *Excludes:* radical subtotal pancreatectomy ([52.53](#52-53))
 ### 52.8 Transplant of  pancreas {#52-8}
 
-- Note: To report donor source - see codes ([00.91-00.93](#00-91))
+- Note: To report donor source - see codes ([00.91-00.93](../chapter-0/index.md#00-91))
 #### 52.80 Pancreatic transplant, not otherwise specified {#52-80}
 #### 52.81 Reimplantation of  pancreatic tissue {#52-81}
 #### 52.82 Homotransplant of  pancreas {#52-82}
@@ -1291,7 +1291,7 @@
   - Insertion of  cannula or stent into pancreatic duct by procedures classif iable to (51.10-
   - 51.11, 52.13)
   - *Excludes:* endoscopic insertion of nasopancreatic drainage tube ([52.97](#52-97))
-    - replacement of stent (tube) ([97.05](#97-05))
+    - replacement of stent (tube) ([97.05](../chapter-16/index.md#97-05))
 #### 52.94 Endoscopic removal of stone(s) from pancreatic duct {#52-94}
   - Removal of  stone(s) f rom pancreatic duct by procedures classif iable to (51.10-51.11,
   - 52.13)
@@ -1310,23 +1310,23 @@
   - Insertion of  nasopancreatic drainage tube by procedures classif iable to (51.10-51.11,
   - 52.13)
   - *Excludes:* drainage of pancreatic cyst by catheter ([52.01](#52-01))
-    - replacement of stent (tube) ([97.05](#97-05))
+    - replacement of stent (tube) ([97.05](../chapter-16/index.md#97-05))
 #### 52.98 Endoscopic dilation of pancreatic duct {#52-98}
   - Dilation of Wirsung's duct by procedures classifiable to (51.10-51.11, 52.13)
 #### 52.99 Other {#52-99}
   - Dilation of pancreatic [Wirsung's] duct by open approach
   - Repair of  pancreatic [Wirsung's] duct by open approach
-  - *Excludes:* irrigation of pancreatic tube ([96.42](#96-42))
-    - removal of pancreatic tub ([97.56](#97-56))
+  - *Excludes:* irrigation of pancreatic tube ([96.42](../chapter-16/index.md#96-42))
+    - removal of pancreatic tub ([97.56](../chapter-16/index.md#97-56))
 ## 53 Repair of  hernia {#53}
 
   - *Includes:* hernioplasty
     - herniorrhaphy
-    - Code also any application or administration of  an adhesion barrier substance ([99.77](#99-77))
-  - *Excludes:* manual reduction of hernia ([96.27](#96-27))
+    - Code also any application or administration of  an adhesion barrier substance ([99.77](../chapter-16/index.md#99-77))
+  - *Excludes:* manual reduction of hernia ([96.27](../chapter-16/index.md#96-27))
 ### 53.0 Other unilateral repair of inguinal hernia {#53-0}
 
-  - *Excludes:* laparoscopic unilateral repair of inguinal hernia ([17.11-17.13](#17-11))
+  - *Excludes:* laparoscopic unilateral repair of inguinal hernia ([17.11-17.13](../chapter-3a/index.md#17-11))
 #### 53.00 Unilateral repair of  inguinal hernia, not otherwise specif ied {#53-00}
   - Inguinal herniorrhaphy NOS
 #### 53.01 Other and open repair of direct inguinal hernia {#53-01}
@@ -1337,7 +1337,7 @@
 #### 53.05 Repair of  inguinal hernia with graf t or prosthesis, not otherwise specif ied {#53-05}
 ### 53.1 Other bilateral repair of inguinal hernia {#53-1}
 
-  - *Excludes:* laparoscopic bilateral repair of inguinal hernia ([17.21-17.24](#17-21))
+  - *Excludes:* laparoscopic bilateral repair of inguinal hernia ([17.21-17.24](../chapter-3a/index.md#17-21))
 #### 53.10 Bilateral repair of inguinal hernia, not otherwise specified {#53-10}
 #### 53.11 Other and open bilateral repair of direct inguinal hernia {#53-11}
 #### 53.12 Other and open bilateral repair of indirect inguinal hernia {#53-12}
@@ -1412,7 +1412,7 @@
 - sciatic
   - *Excludes:* relief of strangulated hernia with exteriorization of intestine (46.01, 46.03)
     - repair of pericolostomy hernia ([46.42](#46-42))
-    - repair of vaginal enterocele ([70.92](#70-92))
+    - repair of vaginal enterocele ([70.92](../chapter-12/index.md#70-92))
 ## 54 Other operations on abdominal region {#54}
 
   - *Includes:* operations on:
@@ -1427,12 +1427,12 @@
     - omentum
     - peritoneum
     - retroperitoneal tissue space
-    - Code also any application or administration of  an adhesion barrier substance ([99.77](#99-77))
+    - Code also any application or administration of  an adhesion barrier substance ([99.77](../chapter-16/index.md#99-77))
   - *Excludes:* hernia repair (53.00-53.9)
-    - obliteration of cul-de-sac ([70.92](#70-92))
-    - retroperitoneal tissue dissection ([59.00-59.09](#59-00))
+    - obliteration of cul-de-sac ([70.92](../chapter-12/index.md#70-92))
+    - retroperitoneal tissue dissection ([59.00-59.09](../chapter-10/index.md#59-00))
     - skin and subcutaneous tissue of abdominal
-    - wall ([86.01-86.99](#86-01))
+    - wall ([86.01-86.99](../chapter-15/index.md#86-01))
 ### 54.0 Incision of  abdominal wall {#54-0}
 
 - Drainage of:
@@ -1463,7 +1463,7 @@
 #### 54.21 Laparoscopy {#54-21}
   - Peritoneoscopy
   - *Excludes:* laparoscopic cholecystectomy ([51.23](#51-23))
-    - that incidental to destruction of fallopian tubes ([66.21-66.29](#66-21))
+    - that incidental to destruction of fallopian tubes ([66.21-66.29](../chapter-12/index.md#66-21))
 #### 54.22 Biopsy of abdominal wall or umbilicus {#54-22}
 #### 54.23 Biopsy of peritoneum {#54-23}
   - Biopsy of:
@@ -1479,34 +1479,34 @@
   - peritoneal implant
   - peritoneum
   - *Excludes:* that of:
-    - fallopian tube ([66.11](#66-11))
-    - ovary ([65.11](#65-11))
-    - uterine ligaments ([68.15](#68-15))
-    - uterus ([68.16](#68-16))
+    - fallopian tube ([66.11](../chapter-12/index.md#66-11))
+    - ovary ([65.11](../chapter-12/index.md#65-11))
+    - uterine ligaments ([68.15](../chapter-12/index.md#68-15))
+    - uterus ([68.16](../chapter-12/index.md#68-16))
 #### 54.25 Peritoneal lavage {#54-25}
   - Diagnostic peritoneal lavage
   - *Excludes:* peritoneal dialysis ([54.98](#54-98))
 #### 54.29 Other diagnostic procedures on abdominal region {#54-29}
-  - *Excludes:* abdominal lymphangiogram ([88.04](#88-04))
-    - abdominal x-ray NEC ([88.19](#88-19))
-    - angiocardiography of venae cava ([88.51](#88-51))
-    - C.A.T. scan of  abdomen ([88.01](#88-01))
-    - contrast x-ray of abdominal cavity ([88.11-88.15](#88-11))
-    - intra-abdominal arteriography NEC ([88.47](#88-47))
-    - microscopic examination of peritoneal and retroperitoneal specimen ([91.11-91.19](#91-11))
+  - *Excludes:* abdominal lymphangiogram ([88.04](../chapter-16/index.md#88-04))
+    - abdominal x-ray NEC ([88.19](../chapter-16/index.md#88-19))
+    - angiocardiography of venae cava ([88.51](../chapter-16/index.md#88-51))
+    - C.A.T. scan of  abdomen ([88.01](../chapter-16/index.md#88-01))
+    - contrast x-ray of abdominal cavity ([88.11-88.15](../chapter-16/index.md#88-11))
+    - intra-abdominal arteriography NEC ([88.47](../chapter-16/index.md#88-47))
+    - microscopic examination of peritoneal and retroperitoneal specimen ([91.11-91.19](../chapter-16/index.md#91-11))
     - phlebography of:
-    - intra-abdominal vessels NEC ([88.65](#88-65))
-    - portal venous system ([88.64](#88-64))
-    - sinogram of abdominal wall ([88.03](#88-03))
-    - soft tissue x-ray of abdominal wall NEC ([88.09](#88-09))
-    - tomography of abdomen NE ([88.02](#88-02))
-    - ultrasonography of abdomen and retroperitoneum ([88.76](#88-76))
+    - intra-abdominal vessels NEC ([88.65](../chapter-16/index.md#88-65))
+    - portal venous system ([88.64](../chapter-16/index.md#88-64))
+    - sinogram of abdominal wall ([88.03](../chapter-16/index.md#88-03))
+    - soft tissue x-ray of abdominal wall NEC ([88.09](../chapter-16/index.md#88-09))
+    - tomography of abdomen NE ([88.02](../chapter-16/index.md#88-02))
+    - ultrasonography of abdomen and retroperitoneum ([88.76](../chapter-16/index.md#88-76))
 ### 54.3 Excision or destruction of lesion or tissue of abdominal wall or umbilicus {#54-3}
 
 - Debridement of abdominal wall
 - Omphalectomy
   - *Excludes:* biopsy of abdominal wall or umbilicus  ([54.22](#54-22))
-    - size reduction operation ([86.83](#86-83))
+    - size reduction operation ([86.83](../chapter-15/index.md#86-83))
     - that of skin of abdominal wall (86.22, 86.26, 86.3)
 ### 54.4 Excision or destruction of peritoneal tissue {#54-4}
 
@@ -1521,7 +1521,7 @@
 - presacral lesion NOS
 - retroperitoneal lesion NOS
   - *Excludes:* biopsy of peritoneum ([54.23](#54-23))
-    - endometrectomy of cul-de-sac ([70.32](#70-32))
+    - endometrectomy of cul-de-sac ([70.32](../chapter-12/index.md#70-32))
 ### 54.5 Lysis of peritoneal adhesions {#54-5}
 
 - Freeing of adhesions of:
@@ -1533,12 +1533,12 @@
 - spleen
 - uterus
   - *Excludes:* lysis of adhesions of:
-    - bladder ([59.11](#59-11))
+    - bladder ([59.11](../chapter-10/index.md#59-11))
     - fallopian tube and ovary
-    - laparoscopic ([65.81](#65-81))
-    - other ([65.89](#65-89))
-    - kidney ([59.02](#59-02))
-    - ureter ([59.02](#59-02))
+    - laparoscopic ([65.81](../chapter-12/index.md#65-81))
+    - other ([65.89](../chapter-12/index.md#65-89))
+    - kidney ([59.02](../chapter-10/index.md#59-02))
+    - ureter ([59.02](../chapter-10/index.md#59-02))
 #### 54.51 Laparoscopic lysis of peritoneal adhesions {#54-51}
 #### 54.59 Other  lysis of peritoneal adhesions {#54-59}
 ### 54.6 Suture of abdominal wall and peritoneum {#54-6}
@@ -1563,7 +1563,7 @@
   - Graft of omentum
   - Omentopexy
   - Reduction of  torsion of  omentum
-  - *Excludes:* cardio-omentopexy ([36.39](#36-39))
+  - *Excludes:* cardio-omentopexy ([36.39](../chapter-7/index.md#36-39))
 #### 54.75 Other repair of mesentery {#54-75}
   - Mesenteric plication
   - Mesenteropexy
@@ -1586,7 +1586,7 @@
 #### 54.96 Injection of  air into peritoneal cavity {#54-96}
   - Pneumoperitoneum
   - *Excludes:* that for:
-    - collapse of lung ([33.33](#33-33))
+    - collapse of lung ([33.33](../chapter-6/index.md#33-33))
     - radiography (88.12-88.13, 88.15)
 #### 54.97 Injection of  locally-acting therapeutic substance into peritoneal cavity {#54-97}
   - *Excludes:* peritoneal dialysis ([54.98](#54-98))
@@ -1599,6 +1599,6 @@
     - 54.984 Insertion of  peritoneal dialysis catheter: open technique (IM)
 #### 54.99 Other {#54-99}
   - *Excludes:* removal of:
-    - abdominal wall suture ([97.83](#97-83))
-    - peritoneal drainage device ([97.82](#97-82))
-    - retroperitoneal drainage device ([97.81](#97-81))
+    - abdominal wall suture ([97.83](../chapter-16/index.md#97-83))
+    - peritoneal drainage device ([97.82](../chapter-16/index.md#97-82))
+    - retroperitoneal drainage device ([97.81](../chapter-16/index.md#97-81))

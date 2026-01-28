@@ -3,8 +3,8 @@
 ## 76 Operations on facial bones and joints {#76}
 
 - _Excludes:_ accessory sinuses (22.00-22.9)
-  - nasal bones ([21.00-21.99](#21-00))
-  - skull ([01.01-02.99](#01-01))
+  - nasal bones ([21.00-21.99](../chapter-5/index.md#21-00))
+  - skull ([01.01-02.99](../chapter-1/index.md#01-01))
 
 ### 76.0 Incision of f acial bone without division {#76-0}
 
@@ -19,7 +19,7 @@
 
 #### 76.11 Biopsy of facial bone {#76-11}
 #### 76.19 Other diagnostic procedures on facial bones and joints {#76-19}
-  - _Excludes:_ contrast arthrogram of temporomandibular joint ([87.13](#87-13))
+  - _Excludes:_ contrast arthrogram of temporomandibular joint ([87.13](../chapter-16/index.md#87-13))
     - other x-ray (87.11-87.12, 87.14-87.16)
 
 ### 76.2 Local excision or destruction of lesion of facial bone {#76-2}
@@ -84,7 +84,7 @@
   - Code also any synchronous:
   - bone graft ([76.91](#76-91))
   - synthetic implant ([76.92](#76-92))
-- _Excludes:_ that of nasal bones ([21.71-21.72](#21-71))
+- _Excludes:_ that of nasal bones ([21.71-21.72](../chapter-5/index.md#21-71))
 #### 76.70 Reduction of f acial f racture, not otherwise specif ied {#76-70}
 #### 76.71 Closed reduction of malar and zygomatic f racture {#76-71}
 #### 76.72 Open reduction of malar and zygomatic fracture {#76-72}
@@ -96,10 +96,10 @@
   - Reduction of alveolar f racture with stabilization of teeth
 #### 76.78 Other closed reduction of facial fracture {#76-78}
   - Closed reduction of orbital f racture
-  - _Excludes:_ nasal bone ([21.71](#21-71))
+  - _Excludes:_ nasal bone ([21.71](../chapter-5/index.md#21-71))
 #### 76.79 Other open reduction of facial fracture {#76-79}
   - Open reduction of orbit rim or wall
-  - _Excludes:_ nasal bone ([21.72](#21-72))
+  - _Excludes:_ nasal bone ([21.72](../chapter-5/index.md#21-72))
 
 ### 76.9 Other operations on facial bones and joints {#76-9}
 
@@ -115,21 +115,21 @@
 #### 76.96 Injection of therapeutic substance into temporomandibular joint {#76-96}
 #### 76.97 Removal of internal f ixation device f rom f acial bone {#76-97}
   - _Excludes:_ removal of:
-    - dental wiring ([97.33](#97-33))
-    - external mandibular fixation device NEC ([97.36](#97-36))
+    - dental wiring ([97.33](../chapter-16/index.md#97-33))
+    - external mandibular fixation device NEC ([97.36](../chapter-16/index.md#97-36))
 #### 76.99 Other {#76-99}
 
 ## 77 Incision, excision, and division of other bones {#77}
 
-- _Excludes:_ laminectomy for decompression ([03.09](#03-09))
+- _Excludes:_ laminectomy for decompression ([03.09](../chapter-1/index.md#03-09))
   - operations on:
   - accessory sinuses (22.00-22.9)
   - ear ossicles (19.0-19.55)
   - facial bones ([76.01-76.99](#76-01))
   - joint structures ([80.00-81.99](#80-00))
   - mastoid (19.9-20.99)
-  - nasal bones ([21.00-21.99](#21-00))
-  - skull ([01.01-02.99](#01-01))
+  - nasal bones ([21.00-21.99](../chapter-5/index.md#21-00))
+  - skull ([01.01-02.99](../chapter-1/index.md#01-01))
   - The f ollowing f ourth-digit subclassification is for use with appropriate categories in section 77 to identify
   - the site. Valid fourth-digit categories are in brackets under each code.
   - 0 unspecified site
@@ -167,8 +167,8 @@
 - [0-9]
 - Osteoarthrotomy
   - _Excludes:_ clavicotomy of fetus (73.8)
-    - laminotomy or incision of vertebra ([03.01-03.09](#03-01))
-    - pubiotomy to assist delivery ([73.94](#73-94))
+    - laminotomy or incision of vertebra ([03.01-03.09](../chapter-1/index.md#03-01))
+    - pubiotomy to assist delivery ([73.94](../chapter-13/index.md#73-94))
     - sternotomy incidental to thoracic operation -- omit code
 
 ### 77.4 Biopsy of bone {#77-4}
@@ -219,8 +219,8 @@
     - arthroplasty (81.40-81.59, 81.71-81.85)
     - excision of cartilage (80.5-80.6, 80.80-80.99)
     - excision of head of femur with synchronous replacement (00.70-00.73, 81.51-81.53)
-    - hemilaminectomy ([03.01-03.09](#03-01))
-    - laminectomy ([03.01-03.09](#03-01))
+    - hemilaminectomy ([03.01-03.09](../chapter-1/index.md#03-01))
+    - laminectomy ([03.01-03.09](../chapter-1/index.md#03-01))
     - ostectomy for hallux valgus ([77.51-77.59](#77-51))
     - partial amputation:
     - finger ([84.01](#84-01))
@@ -241,8 +241,8 @@
   - accessory sinuses (22.00-22.9)
   - facial bones ([76.01-76.99](#76-01))
   - joint structures ([80.00-81.99](#80-00))
-  - nasal bones ([21.00-21.99](#21-00))
-  - skull ([01.01-02.99](#01-01))
+  - nasal bones ([21.00-21.99](../chapter-5/index.md#21-00))
+  - skull ([01.01-02.99](../chapter-1/index.md#01-01))
   - The f ollowing f ourth-digit subclassification is for use with categories in section 78 to identify the site. Valid
   - fourth- digit categories are in [brackets] under each code.
   - 0 unspecified site
@@ -276,7 +276,7 @@
 - [0-9]
 - Fixator with insertion of pins/wires/screws into bone
 - Code also any type of f ixator device, if known ([84.71-84.73](#84-71))
-  - _Excludes:_ other immobilization, pressure, and attention to wound ([93.51-93.59](#93-51))
+  - _Excludes:_ other immobilization, pressure, and attention to wound ([93.51-93.59](../chapter-16/index.md#93-51))
 
 ### 78.2 Limb shortening procedures {#78-2}
 
@@ -303,7 +303,7 @@
     - limb shortening procedures ([78.20-78.29](#78-20))
     - osteotomy (77.3)
     - reconstruction of thumb ([82.61-82.69](#82-61))
-    - repair of pectus deformity ([34.74](#34-74))
+    - repair of pectus deformity ([34.74](../chapter-6/index.md#34-74))
     - repair with bone graft ([78.00-78.09](#78-00))
 
 ### 78.5 Internal f ixation of bone without f racture reduction {#78-5}
@@ -326,10 +326,10 @@
 - Removal of bone growth stimulator (invasive)
 - Removal of internal limb lengthening device
 - Removal of pedicle screw(s) used in spinal f usion
-  - _Excludes:_ removal of cast, splint, and traction device (Kirschner wire) (Steinmann pin) ([97.88](#97-88))
+  - _Excludes:_ removal of cast, splint, and traction device (Kirschner wire) (Steinmann pin) ([97.88](../chapter-16/index.md#97-88))
     - removal of posterior spinal motion preservation (facet replacement, pedicle-based dynamic
     - stabilization, interspinous process) device(s) ([80.09](#80-09))
-    - removal of skull tongs or halo traction device ([02.95](#02-95))
+    - removal of skull tongs or halo traction device ([02.95](../chapter-1/index.md#02-95))
 
 ### 78.7 Osteoclasis {#78-7}
 
@@ -339,11 +339,11 @@
 
 - [0-9]
   - _Excludes:_ biopsy of bone ([77.40-77.49](#77-40))
-    - magnetic resonance imaging ([88.94](#88-94))
-    - microscopic examination of specimen from bone ([91.51-91.59](#91-51))
-    - radioisotope scan ([92.14](#92-14))
+    - magnetic resonance imaging ([88.94](../chapter-16/index.md#88-94))
+    - microscopic examination of specimen from bone ([91.51-91.59](../chapter-16/index.md#91-51))
+    - radioisotope scan ([92.14](../chapter-16/index.md#92-14))
     - skeletal x-ray (87.21-87.29, 87.43, 88.21-88.33)
-    - thermography ([88.83](#88-83))
+    - thermography ([88.83](../chapter-16/index.md#88-83))
 
 ### 78.9 Insertion of bone growth stimulator {#78-9}
 
@@ -352,7 +352,7 @@
 - bone stimulator (electrical) to aid bone healing
 - osteogenic electrodes for bone growth stimulation
 - totally implanted device (invasive)
-  - _Excludes:_ non-invasive (transcutaneous) (surface) stimulator ([99.86](#99-86))
+  - _Excludes:_ non-invasive (transcutaneous) (surface) stimulator ([99.86](../chapter-16/index.md#99-86))
 
 ## 79 Reduction of f racture and dislocation {#79}
 
@@ -365,13 +365,13 @@
   - internal fixation without reduction of fracture ([78.50-78.59](#78-5))
   - operations on:
   - facial bones ([76.70-76.79](#76-70))
-  - nasal bones ([21.71-21.72](#21-71))
+  - nasal bones ([21.71-21.72](../chapter-5/index.md#21-71))
   - orbit ([76.78-76.79](#76-78))
-  - skull ([02.02](#02-02))
-  - vertebrae ([03.53](#03-53))
-  - removal of cast or splint ([97.88](#97-88))
-  - replacement of cast or splint ([97.11-97.14](#97-11))
-  - traction alone for reduction of fracture ([93.41-93.46](#93-41))
+  - skull ([02.02](../chapter-1/index.md#02-02))
+  - vertebrae ([03.53](../chapter-1/index.md#03-53))
+  - removal of cast or splint ([97.88](../chapter-16/index.md#97-88))
+  - replacement of cast or splint ([97.11-97.14](../chapter-16/index.md#97-11))
+  - traction alone for reduction of fracture ([93.41-93.46](../chapter-16/index.md#93-41))
   - The f ollowing f ourth-digit subclassification is for use with appropriate categories in section 79 to identify
   - the site. Valid fourth-digit categories are in [brackets] under each code.
   - 0 unspecified site
@@ -469,7 +469,7 @@
   - synovial membrane
 - _Excludes:_ cartilage of:
   - ear (18.01-18.9)
-  - nose ([21.00-21.99](#21-00))
+  - nose ([21.00-21.99](../chapter-5/index.md#21-00))
   - temporomandibular joint ([76.01-76.99](#76-01))
   - The f ollowing f ourth-digit subclassification is for use with appropriate categories in section 80 to identify
   - the site:
@@ -500,7 +500,7 @@
 - [0-9]
 - Arthrostomy
   - _Excludes:_ that for:
-    - arthrography ([88.32](#88-32))
+    - arthrography ([88.32](../chapter-16/index.md#88-32))
     - arthroscopy ([80.20-80.29](#80-20))
     - injection of drug ([81.92](#81-92))
     - operative approach -- omit code
@@ -523,10 +523,10 @@
 - adherent or constrictive joint capsule
 - joint
 - ligament
-  - _Excludes:_ symphysiotomy to assist delivery ([73.94](#73-94))
+  - _Excludes:_ symphysiotomy to assist delivery ([73.94](../chapter-13/index.md#73-94))
     - that for:
-    - carpal tunnel syndrome ([04.43](#04-43))
-    - tarsal tunnel syndrome ([04.44](#04-44))
+    - carpal tunnel syndrome ([04.43](../chapter-1/index.md#04-43))
+    - tarsal tunnel syndrome ([04.44](../chapter-1/index.md#04-44))
 
 ### 80.5 Excision, destruction and other repair of intervertebral disc {#80-5}
 
@@ -548,14 +548,14 @@
   - _Excludes:_ that for insertion of (non-fusion) spinal disc replacement device ([84.60-84.69](#84-60))
     - that with corpectomy, (vertebral) ([80.99](#80-99))
     - intervertebral chemonucleolysis ([80.52](#80-52))
-    - laminectomy for exploration of intraspinal canal ([03.09](#03-09))
-    - laminotomy for decompression of spinal nerve root only ([03.09](#03-09))
+    - laminectomy for exploration of intraspinal canal ([03.09](../chapter-1/index.md#03-09))
+    - laminotomy for decompression of spinal nerve root only ([03.09](../chapter-1/index.md#03-09))
 #### 80.52 Intervertebral chemonucleolysis {#80-52}
   - With aspiration of disc fragments
   - With diskography
   - Injection of proteolytic enzyme into intervertebral space (chymopapain)
-  - _Excludes:_ injection of anestheti substance ([03.91](#03-91))
-    - injection of other substances ([03.92](#03-92))
+  - _Excludes:_ injection of anestheti substance ([03.91](../chapter-1/index.md#03-91))
+    - injection of other substances ([03.92](../chapter-1/index.md#03-92))
 #### 80.53 Repair of the anulus f ibrosus with graf t or prosthesis {#80-53}
   - Anular disc repair
   - Closure (sealing) of the anulus f ibrosus def ect
@@ -563,7 +563,7 @@
     - soft tissue re-approximation repair with tension bands
     - surgical mesh repair
     - Code also any:
-    - application or administration of adhesion barrier substance, if performed ([99.77](#99-77))
+    - application or administration of adhesion barrier substance, if performed ([99.77](../chapter-16/index.md#99-77))
     - intervertebral discectomy, if performed ([80.51](#80-51))
     - locally harvested fascia for graft ([83.43](#83-43))
 #### 80.54 Other and unspecified repair of the anulus fibrosus {#80-54}
@@ -572,7 +572,7 @@
   - Microsurgical suture repair without fascial autograft
   - Percutaneous repair of the anulus fibrosus
   - Code also any:
-  - application or administration of adhesion barrier substance, if performed ([99.77](#99-77))
+  - application or administration of adhesion barrier substance, if performed ([99.77](../chapter-16/index.md#99-77))
   - intervertebral discectomy, if performed ([80.51](#80-51))
 #### 80.55 Microdissectomy (endoscopic/microscopic) (IM) {#80-55}
 #### 80.59 Other destruction of intervertebral disc {#80-59}
@@ -778,17 +778,17 @@
 #### 81.51 Total hip replacement {#81-51}
   - Replacement of both f emoral head and acetabulum by prosthesis
   - Total reconstruction of hip
-  - Code also any type of bearing surf ace, if known ([00.74-00.77](#00-74))
+  - Code also any type of bearing surf ace, if known ([00.74-00.77](../chapter-0/index.md#00-74))
 #### 81.52 Partial hip replacement {#81-52}
   - Bipolar endoprosthesis
-  - Code also any type of bearing surf ace, if known ([00.74-00.77](#00-74))
+  - Code also any type of bearing surf ace, if known ([00.74-00.77](../chapter-0/index.md#00-74))
 #### 81.53 Revision of hip replacement, not otherwise specif ied {#81-53}
   - Revision of hip replacement, not specif ied as to components(s) replaced, (acetabular,
   - femoral or both)
   - Code also any:
   - removal of (cement)(joint) spacer ([84.57](#84-57))
-  - type of bearing surface, if known ([00.74-00.77](#00-74))
-  - _Excludes:_ revision of hip replacement, components specified ([00.70-00.73](#00-70))
+  - type of bearing surface, if known ([00.74-00.77](../chapter-0/index.md#00-74))
+  - _Excludes:_ revision of hip replacement, components specified ([00.70-00.73](../chapter-0/index.md#00-70))
 #### 81.54 Total knee replacement {#81-54}
   - Bicompartmental
   - Partial knee replacement
@@ -797,7 +797,7 @@
 #### 81.55 Revision of knee replacement,not otherwise specif ied {#81-55}
   - Code also any removal of (cement) spacer ([84.57](#84-57))
   - _Excludes:_ arthrodesis of knee ([81.22](#81-22))
-    - revision of knee replacement, components specified ([00.80-00.84](#00-80))
+    - revision of knee replacement, components specified ([00.80-00.84](../chapter-0/index.md#00-80))
 #### 81.56 Total ankle replacement {#81-56}
 #### 81.57 Replacement of joint of f oot and toe {#81-57}
 #### 81.59 Revision of joint replacement of lower extremity, not elsewhere classif ied {#81-59}
@@ -868,7 +868,7 @@
 #### 81.91 Arthrocentesis {#81-91}
   - Joint aspiration
   - _Excludes:_ that for:
-    - arthrography ([88.32](#88-32))
+    - arthrography ([88.32](../chapter-16/index.md#88-32))
     - biopsy of joint structure ([80.30-80.39](#80-30))
     - injection of drug ([81.92](#81-92))
 #### 81.92 Injection of therapeutic substance into joint or ligament {#81-92}
@@ -887,8 +887,8 @@
 #### 81.98 Other diagnostic procedures on joint structures {#81-98}
   - _Excludes:_ arthroscopy ([80.20-80.29](#80-20))
     - biopsy of joint structure ([80.30-80.39](#80-30))
-    - microscopic examination of specimen from joint ([91.51-91.59](#91-51))
-    - thermography ([88.83](#88-83))
+    - microscopic examination of specimen from joint ([91.51-91.59](../chapter-16/index.md#91-51))
+    - thermography ([88.83](../chapter-16/index.md#88-83))
     - x-ray (87.21-87.29, 88.21-88.33)
 #### 81.99 Other {#81-99}
 
@@ -910,7 +910,7 @@
 #### 82.03 Bursotomy of hand {#82-03}
 #### 82.04 Incision and drainage of palmar or thenar space {#82-04}
 #### 82.09 Other incision of soft tissue of hand {#82-09}
-  - _Excludes:_ incision of skin an subcutaneous tissue alone ([86.01-86.09](#86-01))
+  - _Excludes:_ incision of skin an subcutaneous tissue alone ([86.01-86.09](../chapter-15/index.md#86-01))
 
 ### 82.1 Division of muscle, tendon, and fascia of hand {#82-1}
 
@@ -1014,15 +1014,15 @@
 - _Excludes:_ diagnostic procedures on soft tissue of hand ([83.21-83.29](#83-21))
 #### 82.91 Lysis of adhesions of hand {#82-91}
   - Freeing of adhesions of fascia, muscle, and tendon of hand
-  - _Excludes:_ decompression of carpal tunnel ([04.43](#04-43))
-    - that by stretching o manipulation only ([93.26](#93-26))
+  - _Excludes:_ decompression of carpal tunnel ([04.43](../chapter-1/index.md#04-43))
+    - that by stretching o manipulation only ([93.26](../chapter-16/index.md#93-26))
 #### 82.92 Aspiration of bursa of hand {#82-92}
 #### 82.93 Aspiration of other soft tissue of hand {#82-93}
-  - _Excludes:_ skin and subcutaneous tissue ([86.01](#86-01))
+  - _Excludes:_ skin and subcutaneous tissue ([86.01](../chapter-15/index.md#86-01))
 #### 82.94 Injection of therapeutic substance into bursa of hand {#82-94}
 #### 82.95 Injection of therapeutic substance into tendon of hand {#82-95}
 #### 82.96 Other injection of locally-acting therapeutic substance into soft tissue of hand {#82-96}
-  - _Excludes:_ subcutaneous or intramuscular injection ([99.11-99.29](#99-11))
+  - _Excludes:_ subcutaneous or intramuscular injection ([99.11-99.29](../chapter-16/index.md#99-11))
 #### 82.99 Other operations on muscle, tendon, and fascia of hand {#82-99}
 
 ## 83 Operations on muscle, tendon, fascia, and bursa, except hand {#83}
@@ -1031,7 +1031,7 @@
   - aponeurosis
   - synovial membrane of bursa and tendon sheaths
   - tendon sheaths
-- _Excludes:_ diaphragm ([34.81-34.89](#34-81))
+- _Excludes:_ diaphragm ([34.81-34.89](../chapter-6/index.md#34-81))
   - hand ([82.01-82.99](#82-01))
   - muscles of eye (15.01-15.9)
 
@@ -1041,13 +1041,13 @@
   - Incision of tendon sheath
   - Removal of rice bodies f rom tendon sheath
 #### 83.02 Myotomy {#83-02}
-  - _Excludes:_ cricopharyngeal myotomy ([29.31](#29-31))
+  - _Excludes:_ cricopharyngeal myotomy ([29.31](../chapter-5/index.md#29-31))
 #### 83.03 Bursotomy {#83-03}
   - Removal of calcareous deposit of bursa
   - _Excludes:_ aspiration of burs (percutaneous) ([83.94](#83-94))
 #### 83.09 Other incision of soft tissue {#83-09}
   - Incision of f ascia
-  - _Excludes:_ incision of skin an subcutaneous tissue alone ([86.01-86.09](#86-01))
+  - _Excludes:_ incision of skin an subcutaneous tissue alone ([86.01-86.09](../chapter-15/index.md#86-01))
 
 ### 83.1 Division of muscle, tendon, and fascia {#83-1}
 
@@ -1076,12 +1076,12 @@
 ### 83.2 Diagnostic procedures on muscle, tendon, fascia, and bursa, including that of hand {#83-2}
 
 #### 83.21 Open biopsy of soft tissue {#83-21}
-  - _Excludes:_ biopsy of chest wall ([34.23](#34-23))
-    - closed biopsy of skin and subcutaneous tissue ([86.11](#86-11))
+  - _Excludes:_ biopsy of chest wall ([34.23](../chapter-6/index.md#34-23))
+    - closed biopsy of skin and subcutaneous tissue ([86.11](../chapter-15/index.md#86-11))
 #### 83.29 Other diagnostic procedures on muscle, tendon, fascia, and bursa, including that of hand {#83-29}
-  - _Excludes:_ microscopic examination of specimen ([91.51-91.59](#91-51))
+  - _Excludes:_ microscopic examination of specimen ([91.51-91.59](../chapter-16/index.md#91-51))
     - soft tissue x-ray (87.09, 87.38-87.39, 88.09, 88.35, 88.37)
-    - thermography of muscle ([88.84](#88-84))
+    - thermography of muscle ([88.84](../chapter-16/index.md#88-84))
 
 ### 83.3 Excision of lesion of muscle, tendon, fascia, and bursa {#83-3}
 
@@ -1171,10 +1171,10 @@
 ### 83.9 Other operations on muscle, tendon, fascia, and bursa {#83-9}
 
 - _Excludes:_ nonoperative:
-  - manipulation ([93.25-93.29](#93-25))
-  - stretching ([93.27-93.29](#93-27))
+  - manipulation ([93.25-93.29](../chapter-16/index.md#93-25))
+  - stretching ([93.27-93.29](../chapter-16/index.md#93-27))
 #### 83.91 Lysis of adhesions of muscle, tendon, fascia, and bursa {#83-91}
-  - _Excludes:_ that for tarsal tunnel syndrome ([04.44](#04-44))
+  - _Excludes:_ that for tarsal tunnel syndrome ([04.44](../chapter-1/index.md#04-44))
 #### 83.92 Insertion or replacement of skeletal muscle stimulator {#83-92}
   - Implantation, insertion, placement, or replacement of skeletal muscle:
   - electrodes
@@ -1182,11 +1182,11 @@
 #### 83.93 Removal of skeletal muscle stimulator {#83-93}
 #### 83.94 Aspiration of bursa {#83-94}
 #### 83.95 Aspiration of other soft tissue {#83-95}
-  - _Excludes:_ that of skin and subcutaneous tissue ([86.01](#86-01))
+  - _Excludes:_ that of skin and subcutaneous tissue ([86.01](../chapter-15/index.md#86-01))
 #### 83.96 Injection of therapeutic substance into bursa {#83-96}
 #### 83.97 Injection of therapeutic substance into tendon {#83-97}
 #### 83.98 Injection of locally-acting therapeutic substance into other soft tissue {#83-98}
-  - _Excludes:_ subcutaneous or intramuscular injection ([99.11-99.29](#99-11))
+  - _Excludes:_ subcutaneous or intramuscular injection ([99.11-99.29](../chapter-16/index.md#99-11))
 #### 83.99 Other operations on muscle, tendon, fascia, and bursa {#83-99}
   - Suture of bursa
 
@@ -1201,7 +1201,7 @@
   - Open or guillotine amputation of upper limb NOS
   - Revision of current traumatic amputation of upper limb NOS
 #### 84.01 Amputation and disarticulation of finger {#84-01}
-  - _Excludes:_ ligation of supernumerary finge ([86.26](#86-26))
+  - _Excludes:_ ligation of supernumerary finge ([86.26](../chapter-15/index.md#86-26))
 #### 84.02 Amputation and disarticulation of thumb {#84-02}
 #### 84.03 Amputation through hand {#84-03}
   - Amputation through carpals
@@ -1229,7 +1229,7 @@
   - Metatarsal head amputation
   - Ray amputation of f oot (disarticulation of the metatarsal head of the toe extending
   - across the forefoot just proximal to the metatarsophalangeal crease)
-  - _Excludes:_ ligation of supernumerary toe ([86.26](#86-26))
+  - _Excludes:_ ligation of supernumerary toe ([86.26](../chapter-15/index.md#86-26))
 #### 84.12 Amputation through foot {#84-12}
   - Amputation of forefoot
   - Amputation through middle of foot
@@ -1404,7 +1404,7 @@
 - Dynamic spinal stabilization device(s)
   - _Includes:_ any synchronous f acetectomy (partial, total) perf ormed at the same level
     - Code also any synchronous surgical decompression (f oraminotomy, laminectomy, laminotomy), if
-    - performed ([03.09](#03-09))
+    - performed ([03.09](../chapter-1/index.md#03-09))
   - _Excludes:_ fusion of spine (81.00-81.08, 81.30-81.39)
     - insertion of artificial disc prosthesis ([84.60-84.69](#84-60))
     - insertion of interbody spinal fusion device ([84.51](#84-51))
@@ -1443,7 +1443,7 @@
 
 ### 84.9 Other operations on musculoskeletal system {#84-9}
 
-- _Excludes:_ nonoperative manipulation ([93.25-93.29](#93-25))
+- _Excludes:_ nonoperative manipulation ([93.25-93.29](../chapter-16/index.md#93-25))
 #### 84.91 Amputation, not otherwise specified {#84-91}
 #### 84.92 Separation of equal conjoined twins {#84-92}
 #### 84.93 Separation of unequal conjoined twins {#84-93}

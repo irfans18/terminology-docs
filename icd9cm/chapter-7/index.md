@@ -290,8 +290,8 @@
     - thoracotomy as operative approach
     - Code also any
     - cardiopulmonary bypass, if performed [extracorporeal circulation] [heart-lung machine] ([39.61](#39-61))
-    - injection or infusion of platelet inhibitor ([99.20](#99-20))
-    - injection or infusion of thrombolytic agent ([99.10](#99-10))
+    - injection or infusion of platelet inhibitor ([99.20](../chapter-16/index.md#99-20))
+    - injection or infusion of thrombolytic agent ([99.10](../chapter-16/index.md#99-10))
 ### 36.0 Removal of  coronary artery obstruction and insertion of  stent(s) {#36-0}
 
 #### 36.03 Open chest coronary artery angioplasty {#36-03}
@@ -303,15 +303,15 @@
     - Code also any:
     - insertion of drug-eluting coronary stent(s) ([36.07](#36-07))
     - insertion of non-drug-eluting coronary stent(s) ([36.06](#36-06))
-    - number of vascular stents inserted ([00.45-00.48](#00-45))
-    - number of vessels treated ([00.40-00.43](#00-40))
-    - procedure on vessel bifurcation ([00.44](#00-44))
+    - number of vascular stents inserted ([00.45-00.48](../chapter-0/index.md#00-45))
+    - number of vessels treated ([00.40-00.43](../chapter-0/index.md#00-40))
+    - procedure on vessel bifurcation ([00.44](../chapter-0/index.md#00-44))
 #### 36.04 Intracoronary artery thrombolytic inf usion {#36-04}
   - That by direct coronary artery injection, inf usion, or catheterization
   - Enzyme infusion
   - Platelet inhibitor
-  - *Excludes:* infusion of platelet inhibitor  ([99.20](#99-20))
-    - infusion of thrombolytic agent ([99.10](#99-10))
+  - *Excludes:* infusion of platelet inhibitor  ([99.20](../chapter-16/index.md#99-20))
+    - infusion of thrombolytic agent ([99.10](../chapter-16/index.md#99-10))
     - that associated with any procedure in ([36.03](#36-03))
 #### 36.05 Insertion Of Drug eluting or coated Balloon  (IM) {#36-05}
 #### 36.06 Insertion of  non-drug-eluting coronary artery stent(s) {#36-06}
@@ -322,12 +322,12 @@
   - Endovascular graft(s)
   - Stent grafts
   - Code also any:
-  - number of vascular stents inserted ([00.45-00.48](#00-45))
-  - number of vessels treated ([00.40-00.43](#00-40))
+  - number of vascular stents inserted ([00.45-00.48](../chapter-0/index.md#00-45))
+  - number of vessels treated ([00.40-00.43](../chapter-0/index.md#00-40))
   - open chest coronary artery angioplasty ([36.03](#36-03))
   - percutaneous transluminal coronary angioplasty [PTCA] or coronary atherectomy
-  - ([00.66](#00-66))
-  - procedure on vessel bifurcation ([00.44](#00-44))
+  - ([00.66](../chapter-0/index.md#00-66))
+  - procedure on vessel bifurcation ([00.44](../chapter-0/index.md#00-44))
   - *Excludes:* insertion of drug-eluting coronary artery stent(s) ([36.07](#36-07))
 #### 36.07 Insertion of  drug-eluting coronary artery stent(s) {#36-07}
   - Endograft(s)
@@ -337,29 +337,29 @@
   - Complex chronic total occlusion procedures retrograde approached
   - Coronary bif urcation procedures
   - Code also any:
-  - number of vascular stents inserted ([00.45-00.48](#00-45))
-  - number of vessels treated ([00.40-00.43](#00-40))
+  - number of vascular stents inserted ([00.45-00.48](../chapter-0/index.md#00-45))
+  - number of vessels treated ([00.40-00.43](../chapter-0/index.md#00-40))
   - open chest coronary artery angioplasty ([36.03](#36-03))
   - percutaneous transluminal coronary angioplasty [PTCA] or coronary atherectomy
-  - ([00.66](#00-66))
-  - procedure on vessel bifurcation ([00.44](#00-44))
+  - ([00.66](../chapter-0/index.md#00-66))
+  - procedure on vessel bifurcation ([00.44](../chapter-0/index.md#00-44))
   - *Excludes:* drug-coated stents, e.g., heparin coated ([36.06](#36-06))
     - insertion of non-drug-eluting coronary artery stent(s) ([36.06](#36-06))
 #### 36.09 Other removal of coronary artery obstruction {#36-09}
   - Coronary angioplasty NOS
   - Code also any:
-  - number of vascular stents inserted ([00.45-00.48](#00-45))
-  - number of vessels treated ([00.40-00.43](#00-40))
-  - procedure on vessel bifurcation ([00.44](#00-44))
+  - number of vascular stents inserted ([00.45-00.48](../chapter-0/index.md#00-45))
+  - number of vessels treated ([00.40-00.43](../chapter-0/index.md#00-40))
+  - procedure on vessel bifurcation ([00.44](../chapter-0/index.md#00-44))
   - *Excludes:* that by open angioplasty ([36.03](#36-03))
     - that by percutaneous transluminal coronary angioplasty [PTCA] or coronary
-    - atherectomy ([00.66](#00-66))
+    - atherectomy ([00.66](../chapter-0/index.md#00-66))
 ### 36.1 Bypass anastomosis for heart revascularization {#36-1}
 
 - Note: Do not assign codes f rom series 00.40-00.43 with codes from series ([36.10-36.19](#36-10))
 - Code also : cardiopulmonary bypass [extracorporeal circulation] [heart-lung machine] ([39.61](#39-61))
 - pressurized treatment of venous bypass graft [conduit] with pharmaceutical substance, if
-- performed ([00.16](#00-16))
+- performed ([00.16](../chapter-0/index.md#00-16))
 #### 36.10 Aortocoronary bypass for heart revascularization, not otherwise specified {#36-10}
   - Direct revascularization:
   - cardiac with catheter stent, prosthesis, or vein graft
@@ -426,7 +426,7 @@
   - Repair of  arteriovenous f istula
 ## 37 Other operations on heart and pericardium {#37}
 
-- Code alsoany injection or inf usion of  platelet inhibitor  ([99.20](#99-20))
+- Code alsoany injection or inf usion of  platelet inhibitor  ([99.20](../chapter-16/index.md#99-20))
 ### 37.0 Pericardiocentesis {#37-0}
 
 ### 37.1 Cardiotomy and pericardiotomy {#37-1}
@@ -449,7 +449,7 @@
 #### 37.20 Noninvasive programmed electrical stimulation (NIPS) {#37-20}
   - *Excludes:* that as part of intraoperative testing - omit code
     - catheter based invasive electrophysiologic testing ([37.26](#37-26))
-    - device interrogation only without arrhythmia induction (bedside check) ([89.45-89.49](#89-45))
+    - device interrogation only without arrhythmia induction (bedside check) ([89.45-89.49](../chapter-16/index.md#89-45))
 #### 37.21 Right heart cardiac catheterization {#37-21}
   - Cardiac catheterization NOS
   - *Excludes:* that with catheterization of left heart ([37.23](#37-23))
@@ -463,28 +463,28 @@
   - Electrophysiologic studies [EPS]
   - Code also any concomitant procedure
   - *Excludes:* that as part of intraoperative testing - omit code
-    - device interrogation only without arrhythmia induction (bedside check) ([89.45-89.49](#89-45))
+    - device interrogation only without arrhythmia induction (bedside check) ([89.45-89.49](../chapter-16/index.md#89-45))
     - His bundle recording ([37.29](#37-29))
     - noninvasive programmed electrical stimulation (NIPS) ([37.20](#37-20))
 #### 37.27 Cardiac mapping {#37-27}
   - Cardiac mapping, with general anaesthesia
   - Other nonoperative cardiac diagnostic procedure ( Ajmaline)
   - Code also any concomitant procedure
-  - *Excludes:* electrocardiogram ([89.52](#89-52))
+  - *Excludes:* electrocardiogram ([89.52](../chapter-16/index.md#89-52))
     - His bundle recording ([37.29](#37-29))
 #### 37.28 Intracardiac echocardiography {#37-28}
   - Echocardiography of heart chambers
   - ICE
-  - Code also any synchronous Doppler f low mapping ([88.72](#88-72))
-  - *Excludes:* intravascular imaging of coronary vessels (intravascular ultrasound)(IVUS) ([00.24](#00-24))
+  - Code also any synchronous Doppler f low mapping ([88.72](../chapter-16/index.md#88-72))
+  - *Excludes:* intravascular imaging of coronary vessels (intravascular ultrasound)(IVUS) ([00.24](../chapter-0/index.md#00-24))
 #### 37.29 Other diagnostic procedures on heart and pericardium {#37-29}
-  - *Excludes:* angiocardiography ([88.50-88.58](#88-50))
-    - cardiac function tests  ([89.41-89.69](#89-41))
-    - cardiovascular radioisotopic scan and function study ([92.05](#92-05))
-    - coronary arteriography  ([88.55-88.57](#88-55))
+  - *Excludes:* angiocardiography ([88.50-88.58](../chapter-16/index.md#88-50))
+    - cardiac function tests  ([89.41-89.69](../chapter-16/index.md#89-41))
+    - cardiovascular radioisotopic scan and function study ([92.05](../chapter-16/index.md#92-05))
+    - coronary arteriography  ([88.55-88.57](../chapter-16/index.md#88-55))
     - diagnostic pericardiocentesis  (37.0)
-    - diagnostic ultrasound of heart  ([88.72](#88-72))
-    - x-ray of heart ([87.49](#87-49))
+    - diagnostic ultrasound of heart  ([88.72](../chapter-16/index.md#88-72))
+    - x-ray of heart ([87.49](../chapter-16/index.md#87-49))
 ### 37.3 Pericardiectomy and excision of lesion of heart {#37-3}
 
 - Code also cardiopulmonary bypass [extracorporeal circulation] [heart-lung machine], if performed ([39.61](#39-61))
@@ -561,7 +561,7 @@
   - cardiopulmonary bypass [extracorporeal circulation] [heart-lung machine] if performed ([39.61](#39-61))
   - mitral valve repair (35.02, 35.12)
   - mitral valve replacement (35.23- 35.24)
-  - transesophageal echocardiography ([88.72](#88-72))
+  - transesophageal echocardiography ([88.72](../chapter-16/index.md#88-72))
   - *Excludes:*
     - circulatory assist systems ([37.61-37.68](#37-61))
 #### 37.49 Other repair of heart and pericardium {#37-49}
@@ -591,8 +591,8 @@
   - heart transplantation ([37.51](#37-51))
   - implantation of internal biventricular heart replacement system ([37.52](#37-52))
   - *Excludes:* explantation [removal] of external heart assist system ([37.64](#37-64))
-    - explantation [removal] of percutaneous external heart assist device ([97.44](#97-44))
-    - nonoperative removal of heart assist system ([97.44](#97-44))
+    - explantation [removal] of percutaneous external heart assist device ([97.44](../chapter-16/index.md#97-44))
+    - nonoperative removal of heart assist system ([97.44](../chapter-16/index.md#97-44))
     - that with replacement or repair of heart replacement system (37.53, 37.54)
 ### 37.6 Implantation of  heart and circulatory assist system(s) {#37-6}
 
@@ -628,8 +628,8 @@
 #### 37.64 Removal of  external heart assist system(s) or device(s) {#37-64}
   - Explantation of external device(s) providing left and right ventricular support
   - Explantation of single external device and cannulae
-  - *Excludes:* explantation [removal] of percutaneous external heart assist device ([97.44](#97-44))
-    - nonoperative removal of heart assist system ([97.44](#97-44))
+  - *Excludes:* explantation [removal] of percutaneous external heart assist device ([97.44](../chapter-16/index.md#97-44))
+    - nonoperative removal of heart assist system ([97.44](../chapter-16/index.md#97-44))
     - temporary non-implantable extracorporeal circulatory assist device ([37.62](#37-62))
     - that with replacement of implant ([37.63](#37-63))
 #### 37.65 Implant of  single ventricular (extracorporeal) external heart assist system {#37-65}
@@ -675,7 +675,7 @@
 - or revision of cardiac device pocket
 - Code also any insertion and replacement of  pacemaker device ([37.80-37.87](#37-80))
   - *Excludes:* implantation or replacement of transvenous lead [electrode] into left ventricular cardiac venous
-    - system ([00.52](#00-52))
+    - system ([00.52](../chapter-0/index.md#00-52))
 #### 37.70 Initial insertion of  lead [electrode], not otherwise specif ied {#37-70}
   - Initial insertion of  leadless pacemaker
   - Initial insertion of  leadless pacemaker, with general anaesthesia
@@ -739,14 +739,14 @@
   - revision or relocation of cardiac device procedure include ILR
   - Revision or relocation of  pacemaker pocket, with general anaesthesia
   - Revision or removal of  pacemaker device, with general anaesthesia
-  - *Excludes:* removal of loop recorder ([86.05](#86-05))
+  - *Excludes:* removal of loop recorder ([86.05](../chapter-15/index.md#86-05))
 ### 37.8 Insertion, replacement, removal, and revision of  pacemaker device {#37-8}
 
 - Note:  Device testing during procedure - omit code
 - Code also any lead insertion, lead replacement, lead removal and/or lead revision ([37.70-37.77](#37-70))
-  - *Excludes:* implantation of cardiac resynchronization pacemaker [CRT-P] ([00.50](#00-50))
+  - *Excludes:* implantation of cardiac resynchronization pacemaker [CRT-P] ([00.50](../chapter-0/index.md#00-50))
     - implantation or replacement of cardiac resynchronization pacemaker pulse generator only
-    - [CRT-P] ([00.53](#00-53))
+    - [CRT-P] ([00.53](../chapter-0/index.md#00-53))
 #### 37.80 Insertion of  permanent pacemaker, initial or replacement, type of  device not specif ied {#37-80}
 #### 37.81 Initial insertion of  single-chamber device, not specified as rate responsive {#37-81}
   - Initial insertion of  single chamber leadless
@@ -787,7 +787,7 @@
   - Repair of  pacemaker device
   - *Excludes:* removal of temporary transvenous pacemaker system -- omit code
     - replacement of existing pacemaker device ([37.85-37.87](#37-85))
-    - replacement of existing pacemaker device with CRT-P pacemaker device ([00.53](#00-53))
+    - replacement of existing pacemaker device with CRT-P pacemaker device ([00.53](../chapter-0/index.md#00-53))
 ### 37.9 Other operations on heart and pericardium {#37-9}
 
 #### 37.90 Insertion of  lef t atrial appendage device {#37-90}
@@ -797,7 +797,7 @@
   - Insertion of  lef t atrial appendage device, with general anaesthesia
   - Insertion of  lef t atrial appendage device, with transesophageal echocardiography
 #### 37.91 Open chest cardiac massage {#37-91}
-  - *Excludes:* closed chest cardiac massage  ([99.63](#99-63))
+  - *Excludes:* closed chest cardiac massage  ([99.63](../chapter-16/index.md#99-63))
 #### 37.92 Injection of  therapeutic substance into heart {#37-92}
 #### 37.93 Injection of  therapeutic substance into pericardium {#37-93}
 #### 37.94 Implantation or replacement of  automatic cardioverter/def ibrillator, total system [AICD] {#37-94}
@@ -823,25 +823,25 @@
   - Note:  Device testing during procedure - omit code
   - Code also extracorporeal circulation, if  perf ormed ([39.61](#39-61))
   - Code also any concomitant procedure [e.g., coronary bypass ([36.10-36.19](#36-10)) or CCM, total system
-  - ([17.51](#17-51))]
-  - *Excludes:* implantation of cardiac resynchronization defibrillator, total system [CRT-D] ([00.51](#00-51))
+  - ([17.51](../chapter-3a/index.md#17-51))]
+  - *Excludes:* implantation of cardiac resynchronization defibrillator, total system [CRT-D] ([00.51](../chapter-0/index.md#00-51))
 #### 37.95 Implantation of  automatic cardioverter/def ibrillator lead(s) only {#37-95}
 #### 37.96 Implantation of  automatic cardioverter/def ibrillator pulse generator only {#37-96}
   - Implantation of  dual chamber cardioverter/def ibrillator, with general anaesthesia
   - Note:  Device testing during procedure - omit code
   - *Excludes:* implantation or replacement of cardiac resynchronization defibrillator, pulse generator
-    - device only [CRT-D] ([00.54](#00-54))
+    - device only [CRT-D] ([00.54](../chapter-0/index.md#00-54))
 #### 37.97 Replacement of  automatic cardioverter/def ibrillator lead(s) only {#37-97}
   - *Excludes:* replacement of epicardial lead [electrode] into epicardium ([37.74](#37-74))
     - replacement of transvenous lead [electrode] into left ventricular coronary venous
-    - system ([00.52](#00-52))
+    - system ([00.52](../chapter-0/index.md#00-52))
 #### 37.98 Replacement of  automatic cardioverter/def ibrillator pulse generator only {#37-98}
   - Note:  Device testing during procedure - omit code
   - *Excludes:* replacement of cardiac resynchronization defibrillator, pulse generator device only
-    - [CRT-D] ([00.54](#00-54))
+    - [CRT-D] ([00.54](../chapter-0/index.md#00-54))
 #### 37.99 Other {#37-99}
-  - *Excludes:* cardiac retraining ([93.36](#93-36))
-    - conversion of cardiac rhythm  ([99.60-99.69](#99-60))
+  - *Excludes:* cardiac retraining ([93.36](../chapter-16/index.md#93-36))
+    - conversion of cardiac rhythm  ([99.60-99.69](../chapter-16/index.md#99-60))
     - implantation of prosthetic cardiac support device ([37.41](#37-41))
     - insertion of left atrial appendage device ([37.90](#37-90))
     - maze procedure (Cox-maze), open ([37.33](#37-33))
@@ -853,7 +853,7 @@
 ## 38 Incision, excision, and occlusion of  vessels {#38}
 
 - Code also
-- any application or administration of an adhesion barrier substance ([99.77](#99-77))
+- any application or administration of an adhesion barrier substance ([99.77](../chapter-16/index.md#99-77))
 - cardiopulmonary bypass [extracorporeal circulation] [heart-lung machine] ([39.61](#39-61))
   - *Excludes:* that of coronary vessels (00.66, 36.03, 36.04, 36.09, 36.10-36.99)
     - The f ollowing f ourth-digit subclassification is for use with appropriate categories in section 38.0, 38.1,
@@ -924,15 +924,15 @@
 - temporary bypass during procedure
 - thrombectomy
 - Code also any:
-- number of vascular stents inserted ([00.45-00.48](#00-45))
-- number of vessels treated ([00.40-00.43](#00-40))
-- procedure on vessel bifurcation ([00.44](#00-44))
+- number of vascular stents inserted ([00.45-00.48](../chapter-0/index.md#00-45))
+- number of vessels treated ([00.40-00.43](../chapter-0/index.md#00-40))
+- procedure on vessel bifurcation ([00.44](../chapter-0/index.md#00-44))
 ### 38.2 Diagnostic procedures on blood vessels {#38-2}
 
-  - *Excludes:* adjunct vascular system procedures ([00.40-00.43](#00-40))
+  - *Excludes:* adjunct vascular system procedures ([00.40-00.43](../chapter-0/index.md#00-40))
 #### 38.21 Biopsy of blood vessel {#38-21}
 #### 38.22 Percutaneous angioscopy {#38-22}
-  - *Excludes:* angioscopy of eye ([95.12](#95-12))
+  - *Excludes:* angioscopy of eye ([95.12](../chapter-16/index.md#95-12))
 #### 38.23 Intravascular spectroscopy {#38-23}
   - *Includes:* spectroscopy of  both coronary and peripheral vessels
     - Intravascular chemography
@@ -944,15 +944,15 @@
 #### 38.25 Intravascular imaging of  non-coronary vessel(s) by optical coherence tomography [OCT] {#38-25}
   - *Excludes:* intravascular imaging of coronary vessel(s) by OCT ([38.24](#38-24))
 #### 38.29 Other diagnostic procedures on blood vessels {#38-29}
-  - *Excludes:* blood vessel thermography ([88.86](#88-86))
-    - circulatory monitoring  ([89.61-89.69](#89-61))
+  - *Excludes:* blood vessel thermography ([88.86](../chapter-16/index.md#88-86))
+    - circulatory monitoring  ([89.61-89.69](../chapter-16/index.md#89-61))
     - contrast:
-    - angiocardiography ([88.50-88.58](#88-50))
-    - arteriography ([88.40-88.49](#88-40))
-    - phlebography ([88.60-88.67](#88-60))
-    - impedance phlebography ([88.68](#88-68))
-    - peripheral vascular ultrasonography ([88.77](#88-77))
-    - plethysmogram ([89.58](#89-58))
+    - angiocardiography ([88.50-88.58](../chapter-16/index.md#88-50))
+    - arteriography ([88.40-88.49](../chapter-16/index.md#88-40))
+    - phlebography ([88.60-88.67](../chapter-16/index.md#88-60))
+    - impedance phlebography ([88.68](../chapter-16/index.md#88-68))
+    - peripheral vascular ultrasonography ([88.77](../chapter-16/index.md#88-77))
+    - plethysmogram ([89.58](../chapter-16/index.md#89-58))
 ### 38.3 Resection of  vessel with anastomosis {#38-3}
 
 - [0-9]
@@ -1020,8 +1020,8 @@
 
 - [0-3,5,7,9]
   - *Excludes:* ligation of varices:
-    - esophageal ([42.91](#42-91))
-    - gastric ([44.91](#44-91))
+    - esophageal ([42.91](../chapter-9/index.md#42-91))
+    - gastric ([44.91](../chapter-9/index.md#44-91))
 ### 38.6 Other excision of vessel {#38-6}
 
 - [0-9]
@@ -1047,28 +1047,28 @@
 - Occlusion of blood vessel
 - Percutaneous PDA occlusion
 - Percutaneous PDA occlusion in neonatus
-  - *Excludes:* adrenal vessels ([07.43](#07-43))
-    - esophageal varices ([42.91](#42-91))
-    - gastric or duodenal vessel for ulcer ([44.40-44.49](#44-40))
-    - gastric varices ([44.91](#44-91))
-    - meningeal vessel ([02.13](#02-13))
-    - percutaneous transcatheter infusion embolization ([99.29](#99-29))
+  - *Excludes:* adrenal vessels ([07.43](../chapter-2/index.md#07-43))
+    - esophageal varices ([42.91](../chapter-9/index.md#42-91))
+    - gastric or duodenal vessel for ulcer ([44.40-44.49](../chapter-9/index.md#44-40))
+    - gastric varices ([44.91](../chapter-9/index.md#44-91))
+    - meningeal vessel ([02.13](../chapter-1/index.md#02-13))
+    - percutaneous transcatheter infusion embolization ([99.29](../chapter-16/index.md#99-29))
     - spermatic vein for varicocele (63.1)
     - surgical occlusion of vena cava (38.7)
-    - that for chemoembolization ([99.25](#99-25))
+    - that for chemoembolization ([99.25](../chapter-16/index.md#99-25))
     - that for control of (postoperative) hemorrhage:
-    - anus ([49.95](#49-95))
-    - bladder ([57.93](#57-93))
+    - anus ([49.95](../chapter-9/index.md#49-95))
+    - bladder ([57.93](../chapter-10/index.md#57-93))
     - follow ing vascular procedure ([39.41](#39-41))
-    - nose ([21.00-21.09](#21-00))
-    - prostate ([60.94](#60-94))
+    - nose ([21.00-21.09](../chapter-5/index.md#21-00))
+    - prostate ([60.94](../chapter-11/index.md#60-94))
     - tonsil (28.7)
-    - thyroid vessel ([06.92](#06-92))
+    - thyroid vessel ([06.92](../chapter-2/index.md#06-92))
     - transcatheter (infusion)  99.29
     - 38.850 PDA stenting/PDA closure with device (IM)
 ### 38.9 Puncture of vessel {#38-9}
 
-  - *Excludes:* that for circulatory monitoring ([89.60-89.69](#89-60))
+  - *Excludes:* that for circulatory monitoring ([89.60-89.69](../chapter-16/index.md#89-60))
 #### 38.91 Arterial catheterization {#38-91}
 #### 38.92 Umbilical vein catheterization {#38-92}
 #### 38.93 Venous catheterization, not elsewhere classified {#38-93}
@@ -1079,7 +1079,7 @@
 #### 38.94 Venous cutdown {#38-94}
 #### 38.95 Venous catheterization for renal dialysis {#38-95}
   - Insertion of  hemodialysis catheter
-  - *Excludes:* insertion of totally implantable vascular access device [VAD] ([86.07](#86-07))
+  - *Excludes:* insertion of totally implantable vascular access device [VAD] ([86.07](../chapter-15/index.md#86-07))
 #### 38.97 Central venous catheter placement with guidance {#38-97}
   - *Includes:* guidance by:
     - electrocardiogram
@@ -1087,19 +1087,19 @@
     - ultrasound
 #### 38.98 Other puncture of artery {#38-98}
   - *Excludes:* that for:
-    - arteriography ([88.40-88.49](#88-40))
-    - coronary arteriography ([88.55-88.57](#88-55))
+    - arteriography ([88.40-88.49](../chapter-16/index.md#88-40))
+    - coronary arteriography ([88.55-88.57](../chapter-16/index.md#88-55))
 #### 38.99 Other puncture of vein {#38-99}
   - Phlebotomy
   - *Excludes:* that for:
-    - angiography of veins ([88.60-88.68](#88-60))
+    - angiography of veins ([88.60-88.68](../chapter-16/index.md#88-60))
     - extracorporeal circulation (39.61, 50.92)
     - injection or infusion of:
     - sclerosing solution ([39.92](#39-92))
-    - therapeutic or prophylactic substance ([99.11-99.29](#99-11))
+    - therapeutic or prophylactic substance ([99.11-99.29](../chapter-16/index.md#99-11))
     - perfusion ([39.96-39.97](#39-96))
-    - phlebography ([88.60-88.68](#88-60))
-    - transfusion ([99.01-99.09](#99-01))
+    - phlebography ([88.60-88.68](../chapter-16/index.md#88-60))
+    - transfusion ([99.01-99.09](../chapter-16/index.md#99-01))
 ## 39 Other operations on vessels {#39}
 
   - *Excludes:* those on coronary vessels ([36.03-36.99](#36-03))
@@ -1117,11 +1117,11 @@
 - portal vein to inferior vena cava
 - splenic and renal veins
 - transjugular intrahepatic portosystemic shunt (TIPS)
-  - *Excludes:* peritoneovenous shunt ([54.94](#54-94))
+  - *Excludes:* peritoneovenous shunt ([54.94](../chapter-9/index.md#54-94))
 ### 39.2 Other shunt or vascular bypass {#39-2}
 
 - Code also pressurized treatment of  venous bypass graf t [conduit] with pharmaceutical substance, if
-- performed ([00.16](#00-16))
+- performed ([00.16](../chapter-0/index.md#00-16))
 #### 39.21 Caval-pulmonary artery anastomosis {#39-21}
   - Code also cardiopulmonary bypass ([39.61](#39-61))
 #### 39.22 Aorta-subclavian-carotid bypass {#39-22}
@@ -1146,7 +1146,7 @@
   - aortic-superior mesenteric
   - common hepatic-common iliac-renal
   - Intra-abdominal arterial bypass graft NOS
-  - *Excludes:* peritoneovenous shunt ([54.94](#54-94))
+  - *Excludes:* peritoneovenous shunt ([54.94](../chapter-9/index.md#54-94))
 #### 39.27 Arteriovenostomy for renal dialysis {#39-27}
   - Anastomosis for renal dialysis
   - Formation of (peripheral) arteriovenous
@@ -1170,18 +1170,18 @@
   - femorotibial (anterior) (posterior)
   - popliteal
   - vascular NOS
-  - *Excludes:* peritoneovenous shunt ([54.94](#54-94))
+  - *Excludes:* peritoneovenous shunt ([54.94](../chapter-9/index.md#54-94))
 ### 39.3 Suture of vessel {#39-3}
 
 - Repair of  laceration of  blood vessel
   - *Excludes:* any other vascular puncture closure device - omit code
     - suture of aneurysm ([39.52](#39-52))
     - that for control of hemorrhage (postoperative):
-    - anus ([49.95](#49-95))
-    - bladder ([57.93](#57-93))
+    - anus ([49.95](../chapter-9/index.md#49-95))
+    - bladder ([57.93](../chapter-10/index.md#57-93))
     - follow ing vascular procedure ([39.41](#39-41))
-    - nose ([21.00-21.09](#21-00))
-    - prostate ([60.94](#60-94))
+    - nose ([21.00-21.09](../chapter-5/index.md#21-00))
+    - prostate ([60.94](../chapter-11/index.md#60-94))
     - tonsil (28.7)
 #### 39.30 Suture of unspecified blood vessel {#39-30}
 #### 39.31 Suture of artery {#39-31}
@@ -1191,10 +1191,10 @@
 
 #### 39.41 Control of  hemorrhage f ollowing vascular surgery {#39-41}
   - *Excludes:* that for control of hemorrhage (post operative):
-    - anus ([49.95](#49-95))
-    - bladder ([57.93](#57-93))
-    - nose ([21.00-21.09](#21-00))
-    - prostate ([60.94](#60-94))
+    - anus ([49.95](../chapter-9/index.md#49-95))
+    - bladder ([57.93](../chapter-10/index.md#57-93))
+    - nose ([21.00-21.09](../chapter-5/index.md#21-00))
+    - prostate ([60.94](../chapter-11/index.md#60-94))
     - tonsil (28.7)
 #### 39.42 Revision of  arteriovenous shunt f or renal dialysis {#39-42}
   - Conversion of  renal dialysis:
@@ -1223,12 +1223,12 @@
   - PTA
   - PTV
   - Code also any:
-  - injection or infusion of thrombolytic agent ([99.10](#99-10))
-  - insertion of drug-eluting peripheral vessel stent ([00.55](#00-55))
+  - injection or infusion of thrombolytic agent ([99.10](../chapter-16/index.md#99-10))
+  - insertion of drug-eluting peripheral vessel stent ([00.55](../chapter-0/index.md#00-55))
   - insertion of non-drug-eluting peripheral vessel stent(s) or stent grafts(s) ([39.90](#39-90))
-  - number of vascular stents inserted ([00.45-00.48](#00-45))
-  - number of vessels treated ([00.40-00.43](#00-40))
-  - procedure on vessel bifurcation ([00.44](#00-44))
+  - number of vascular stents inserted ([00.45-00.48](../chapter-0/index.md#00-45))
+  - number of vessels treated ([00.40-00.43](../chapter-0/index.md#00-40))
+  - procedure on vessel bifurcation ([00.44](../chapter-0/index.md#00-44))
   - *Excludes:* percutaneous angioplasty or atherectomy of precerebral or cerebral vessel(s) (00.61-
     - 00.62)
 #### 39.51 Clipping of  aneurysm {#39-51}
@@ -1292,7 +1292,7 @@
   - Artificial heart and lung
   - Cardiopulmonary bypass
   - Pump oxygenator
-  - *Excludes:* extracorporeal hepatic assistance ([50.92](#50-92))
+  - *Excludes:* extracorporeal hepatic assistance ([50.92](../chapter-9/index.md#50-92))
     - extracorporeal membrane oxygenation [ECMO] ([39.65](#39-65))
     - hemodialysis ([39.95](#39-95))
     - percutaneous cardiopulmonary bypass ([39.66](#39-66))
@@ -1309,7 +1309,7 @@
 #### 39.66 Percutaneous cardiopulmonary bypass {#39-66}
   - Closed chest
   - *Excludes:* extracorporeal circulation auxiliary to open heart surgery ([39.61](#39-61))
-    - extracorporeal hepatic assistance ([50.92](#50-92))
+    - extracorporeal hepatic assistance ([50.92](../chapter-9/index.md#50-92))
     - extracorporeal membrane oxygenation [ECMO] ([39.65](#39-65))
     - hemodialysis ([39.95](#39-95))
 ### 39.7 Endovascular procedures on vessel(s) {#39-7}
@@ -1323,9 +1323,9 @@
   - *Excludes:* angioplasty or atherectomy of other non-coronary vessel(s) ([39.50](#39-50))
     - insertion of non-drug-eluting peripheral vessel stent(s) ([39.90](#39-90))
     - other repair of aneurysm  ([39.52](#39-52))
-    - percutaneous insertion of carotid artery stent(s) ([00.63](#00-63))
-    - percutaneous insertion of intracranial stent(s) ([00.65](#00-65))
-    - percutaneous insertion of other precerebral artery stent(s) ([00.64](#00-64))
+    - percutaneous insertion of carotid artery stent(s) ([00.63](../chapter-0/index.md#00-63))
+    - percutaneous insertion of intracranial stent(s) ([00.65](../chapter-0/index.md#00-65))
+    - percutaneous insertion of other precerebral artery stent(s) ([00.64](../chapter-0/index.md#00-64))
     - resection of abdominal aorta with replacement ([38.44](#38-44))
     - resection of lower limb arteries with replacement ([38.48](#38-48))
     - resection of thoracic aorta with replacement ([38.45](#38-45))
@@ -1333,7 +1333,7 @@
 #### 39.71 Endovascular implantation of graft in abdominal aorta {#39-71}
   - Endovascular repair of abdominal aortic aneurysm with graft
   - Stent graft(s)
-  - Code also intra-aneurysm sac pressure monitoring (intraoperative) ([00.58](#00-58))
+  - Code also intra-aneurysm sac pressure monitoring (intraoperative) ([00.58](../chapter-0/index.md#00-58))
 #### 39.72 Endovascular embolization or occlusion of head and neck vessels {#39-72}
   - Endograft(s)
   - Endovascular graft(s)
@@ -1350,16 +1350,16 @@
   - Endovascular repair of defect of thoracic aorta with graft(s) or device(s)
   - Stent graft(s) or device(s)
   - That f or repair of  aneurysm, dissection, or injury
-  - Code also intra-aneurysm sac pressure monitoring (intraoperative) ([00.58](#00-58))
+  - Code also intra-aneurysm sac pressure monitoring (intraoperative) ([00.58](../chapter-0/index.md#00-58))
   - *Excludes:* fenestration of dissecting aneurysm of thoracic aorta ([39.54](#39-54))
 #### 39.74 Endovascular removal of obstruction from head and neck vessel(s) {#39-74}
   - Endovascular embolectomy
   - Endovascular thrombectomy of pre-cerebral and cerebral vessels
   - Mechanical embolectomy or thrombectomy
   - Mechanical thrombectomy
-  - Code also:  any injection or inf usion of  thrombolytic agent ([99.10](#99-10))
-  - number of vessels treated ([00.40-00.43](#00-40))
-  - procedure on vessel bifurcation ([00.44](#00-44))
+  - Code also:  any injection or inf usion of  thrombolytic agent ([99.10](../chapter-16/index.md#99-10))
+  - number of vessels treated ([00.40-00.43](../chapter-0/index.md#00-40))
+  - procedure on vessel bifurcation ([00.44](../chapter-0/index.md#00-44))
   - *Excludes:* endarterectomy of intracranial vessels and other vessels of head and neck (38.11-
     - 38.12)
     - occlusive endovascular embolization of head or neck vessel(s) using bare coils
@@ -1394,17 +1394,17 @@
     - ([39.75](#39-75))
     - endovascular embolization or occlusion of head and neck vessels, bioactive coils
     - ([39.76](#39-76))
-    - insertion of drug-eluting peripheral vessel stent(s) ([00.55](#00-55))
+    - insertion of drug-eluting peripheral vessel stent(s) ([00.55](../chapter-0/index.md#00-55))
     - insertion of non-drug-eluting peripheral vessel (s) (for other than aneurysm repair)
     - ([39.90](#39-90))
     - non-endovascular repair of arteriovenous fistula ([39.53](#39-53))
     - other surgical occlusion of vessels  -see category 38.8
-    - percutaneous transcatheter infusion ([99.29](#99-29))
+    - percutaneous transcatheter infusion ([99.29](../chapter-16/index.md#99-29))
     - thoracic aortic aneurysm resection ([38.45](#38-45))
-    - transcatheter embolization for gastric or duodenal bleeding  ([44.44](#44-44))
+    - transcatheter embolization for gastric or duodenal bleeding  ([44.44](../chapter-9/index.md#44-44))
 ### 39.8 Operations on carotid body, carotid sinus and other vascular bodies {#39-8}
 
-  - *Excludes:* excision of glomus jugulare ([20.51](#20-51))
+  - *Excludes:* excision of glomus jugulare ([20.51](../chapter-4/index.md#20-51))
 #### 39.81 Implantation or replacement of  carotid sinus stimulation device, total system {#39-81}
   - Carotid sinus baroref lex activation device
   - Implantation of  carotid sinus stimulator and lead(s)
@@ -1432,7 +1432,7 @@
   - aortic body
   - carotid body
   - Glomectomy, carotid
-  - *Excludes:* excision of glomus jugulare ([20.51](#20-51))
+  - *Excludes:* excision of glomus jugulare ([20.51](../chapter-4/index.md#20-51))
 ### 39.9 Other operations on vessels {#39-9}
 
 #### 39.90 Insertion of  non-drug-eluting peripheral (non-coronary) vessel stent(s) {#39-90}
@@ -1447,13 +1447,13 @@
   - PDA stenting (38.850 IM—Hapus)
   - Code also any:
   - non-coronary angioplasty or atherectomy ([39.50](#39-50))
-  - number of vascular stents inserted ([00.45-00.48](#00-45))
-  - number of vessels treated ([00.40-00.43](#00-40))
-  - procedure on vessel bifurcation ([00.44](#00-44))
-  - *Excludes:* insertion of drug-eluting peripheral vessel stent(s) ([00.55](#00-55))
-    - percutaneous insertion of carotid artery stent(s) ([00.63](#00-63))
-    - percutaneous insertion of intracranial stent(s) ([00.65](#00-65))
-    - percutaneous insertion of other precerebral artery stent(s) ([00.64](#00-64))
+  - number of vascular stents inserted ([00.45-00.48](../chapter-0/index.md#00-45))
+  - number of vessels treated ([00.40-00.43](../chapter-0/index.md#00-40))
+  - procedure on vessel bifurcation ([00.44](../chapter-0/index.md#00-44))
+  - *Excludes:* insertion of drug-eluting peripheral vessel stent(s) ([00.55](../chapter-0/index.md#00-55))
+    - percutaneous insertion of carotid artery stent(s) ([00.63](../chapter-0/index.md#00-63))
+    - percutaneous insertion of intracranial stent(s) ([00.65](../chapter-0/index.md#00-65))
+    - percutaneous insertion of other precerebral artery stent(s) ([00.64](../chapter-0/index.md#00-64))
     - that for aneurysm repair ([39.71-39.79](#39-71))
 #### 39.91 Freeing of vessel {#39-91}
   - Dissection and freeing of adherent tissue:
@@ -1461,8 +1461,8 @@
   - vascular bundle
 #### 39.92 Injection of  sclerosing agent into vein {#39-92}
   - *Excludes:* injection:
-    - esophageal varices ([42.33](#42-33))
-    - hemorrhoids ([49.42](#49-42))
+    - esophageal varices ([42.33](../chapter-9/index.md#42-33))
+    - hemorrhoids ([49.42](../chapter-9/index.md#49-42))
 #### 39.93 Insertion of  vessel-to-vessel cannula {#39-93}
   - Formation of:
   - arteriovenous:
@@ -1476,11 +1476,11 @@
   - Hemodiaf iltration
   - Hemof iltration
   - Renal dialysis
-  - *Excludes:* peritoneal dialysis ([54.98](#54-98))
+  - *Excludes:* peritoneal dialysis ([54.98](../chapter-9/index.md#54-98))
     - 39.951 Prolonged Intermitent Renal Replacement Therapy (IM)
     - 39.952 Continuous Renal Replacement Therapy (IM)
 #### 39.96 Total body perf usion {#39-96}
-  - Code also substance perf used ([99.21-99.29](#99-21))
+  - Code also substance perf used ([99.21-99.29](../chapter-16/index.md#99-21))
 #### 39.97 Other perfusion {#39-97}
   - Perfusion NOS
   - Perfusion, local [regional] of:
@@ -1490,27 +1490,27 @@
   - lower limb
   - neck
   - upper limb
-  - Code also substance perf used ([99.21-99.29](#99-21))
+  - Code also substance perf used ([99.21-99.29](../chapter-16/index.md#99-21))
   - *Excludes:* perfusion of:
-    - kidney ([55.95](#55-95))
-    - large intestine ([46.96](#46-96))
-    - liver ([50.93](#50-93))
-    - small intestine ([46.95](#46-95))
-    - SuperSaturated oxygen therapy ([00.49](#00-49))
+    - kidney ([55.95](../chapter-10/index.md#55-95))
+    - large intestine ([46.96](../chapter-9/index.md#46-96))
+    - liver ([50.93](../chapter-9/index.md#50-93))
+    - small intestine ([46.95](../chapter-9/index.md#46-95))
+    - SuperSaturated oxygen therapy ([00.49](../chapter-0/index.md#00-49))
 #### 39.98 Control of  hemorrhage, not otherwise specif ied {#39-98}
   - Angiotripsy
   - Control of  postoperative hemorrhage NOS
   - Venotripsy
   - *Excludes:* control of hemorrhage  (postoperative):
-    - anus ([49.95](#49-95))
-    - bladder ([57.93](#57-93))
+    - anus ([49.95](../chapter-9/index.md#49-95))
+    - bladder ([57.93](../chapter-10/index.md#57-93))
     - follow ing vascular procedure ([39.41](#39-41))
-    - nose ([21.00-21.09](#21-00))
-    - prostate ([60.94](#60-94))
+    - nose ([21.00-21.09](../chapter-5/index.md#21-00))
+    - prostate ([60.94](../chapter-11/index.md#60-94))
     - tonsil (28.7)
     - that by:
     - ligation ([38.80-38.89](#38-80))
     - suture ([39.30-39.32](#39-30))
 #### 39.99 Other operations on vessels {#39-99}
-  - *Excludes:* injection or infusion of therapeutic or prophylactic substance ([99.11-99.29](#99-11))
-    - transfusion of blood and blood components ([99.01-99.09](#99-01))
+  - *Excludes:* injection or infusion of therapeutic or prophylactic substance ([99.11-99.29](../chapter-16/index.md#99-11))
+    - transfusion of blood and blood components ([99.01-99.09](../chapter-16/index.md#99-01))

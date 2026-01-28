@@ -60,12 +60,12 @@
 #### 31.44 Closed [endoscopic] biopsy of  trachea {#31-44}
 #### 31.45 Open biopsy of larynx or trachea {#31-45}
 #### 31.48 Other diagnostic procedures on larynx {#31-48}
-  - *Excludes:* contrast laryngogram ([87.07](#87-07))
-    - microscopic examination of specimen from larynx ([90.31-90.39](#90-31))
-    - soft tissue x-ray of larynx NEC  ([87.09](#87-09))
+  - *Excludes:* contrast laryngogram ([87.07](../chapter-16/index.md#87-07))
+    - microscopic examination of specimen from larynx ([90.31-90.39](../chapter-16/index.md#90-31))
+    - soft tissue x-ray of larynx NEC  ([87.09](../chapter-16/index.md#87-09))
 #### 31.49 Other diagnostic procedures on trachea {#31-49}
-  - *Excludes:* microscopic examination of specimen from trachea ([90.41-90.49](#90-41))
-    - x-ray of trachea ([87.49](#87-49))
+  - *Excludes:* microscopic examination of specimen from trachea ([90.41-90.49](../chapter-16/index.md#90-41))
+    - x-ray of trachea ([87.49](../chapter-16/index.md#87-49))
 ### 31.5 Local excision or destruction of lesion or tissue of trachea {#31-5}
 
   - *Excludes:* biopsy of trachea ([31.44-31.45](#31-44))
@@ -114,13 +114,13 @@
   - Dilation of larynx
   - Division of congenital web of larynx
   - Removal of  keel or stent of  larynx
-  - *Excludes:* removal of intraluminal foreign body from larynx without incision ([98.14](#98-14))
+  - *Excludes:* removal of intraluminal foreign body from larynx without incision ([98.14](../chapter-16/index.md#98-14))
 #### 31.99 Other operations on trachea {#31-99}
   - *Excludes:* removal of:
-    - intraluminal foreign body from trachea without incision ([98.15](#98-15))
-    - tracheostomy tube ([97.37](#97-37))
-    - replacement of tracheostomy tube  ([97.23](#97-23))
-    - tracheostomy toilette ([96.55](#96-55))
+    - intraluminal foreign body from trachea without incision ([98.15](../chapter-16/index.md#98-15))
+    - tracheostomy tube ([97.37](../chapter-16/index.md#97-37))
+    - replacement of tracheostomy tube  ([97.23](../chapter-16/index.md#97-23))
+    - tracheostomy toilette ([96.55](../chapter-16/index.md#96-55))
 ## 32 Excision of lung and bronchus {#32}
 
   - *Includes:* rib resection as operative approach
@@ -170,7 +170,7 @@
     - thoracoscopic ([32.25](#32-25))
     - biopsy of lung ([33.26-33.27](#33-26))
     - laser interstitial thermal therapy [LITT] of lesion or tissue of lung under guidance
-    - ([17.69](#17-69))
+    - ([17.69](../chapter-3a/index.md#17-69))
     - that by endoscopic approach ([32.28](#32-28))
     - thoracoscopic excision of lesion or tissue of lung ([32.20](#32-20))
     - wide excision of  lesion of  lung  (32.3)
@@ -225,7 +225,7 @@
   - *Excludes:* that with biopsy (33.24, 33.27)
 #### 33.23 Other bronchoscopy {#33-23}
   - *Excludes:* that for:
-    - aspiration ([96.05](#96-05))
+    - aspiration ([96.05](../chapter-16/index.md#96-05))
     - biopsy (33.24, 33.27)
     - 33.230 Rigid bronchoscopy procedure (IM)
 #### 33.24 Closed [endoscopic] biopsy of  bronchus {#33-24}
@@ -258,16 +258,16 @@
 #### 33.29 Other diagnostic procedures on lung and bronchus {#33-29}
   - *Excludes:* bronchoalveolar lavage [BAL] ([33.24](#33-24))
     - contrast bronchogram:
-    - endotracheal ([87.31](#87-31))
-    - other ([87.32](#87-32))
+    - endotracheal ([87.31](../chapter-16/index.md#87-31))
+    - other ([87.32](../chapter-16/index.md#87-32))
     - endoscopic pulmonary airway flow measurement ([33.72](#33-72))
-    - lung scan ([92.15](#92-15))
-    - magnetic resonance imaging  ([88.92](#88-92))
-    - microscopic examination of specimen from bronchus or lung ([90.41-90.49](#90-41))
-    - routine chest x-ray ([87.44](#87-44))
-    - ultrasonography of lung ([88.73](#88-73))
-    - vital capacity determination  ([89.37](#89-37))
-    - x-ray of bronchus or lung NOS  ([87.49](#87-49))
+    - lung scan ([92.15](../chapter-16/index.md#92-15))
+    - magnetic resonance imaging  ([88.92](../chapter-16/index.md#88-92))
+    - microscopic examination of specimen from bronchus or lung ([90.41-90.49](../chapter-16/index.md#90-41))
+    - routine chest x-ray ([87.44](../chapter-16/index.md#87-44))
+    - ultrasonography of lung ([88.73](../chapter-16/index.md#88-73))
+    - vital capacity determination  ([89.37](../chapter-16/index.md#89-37))
+    - x-ray of bronchus or lung NOS  ([87.49](../chapter-16/index.md#87-49))
 ### 33.3 Surgical collapse of lung {#33-3}
 
 #### 33.31 Destruction of phrenic nerve for collapse of lung {#33-31}
@@ -300,20 +300,20 @@
 
 - Note: To report donor source - see codes 00.91-00.93
   - *Excludes:* combined heart-lung transplantation (33.6)
-    - Code also cardiopulmonary bypass [extracorporeal circulation] [heart-lung machine] ([39.61](#39-61))
+    - Code also cardiopulmonary bypass [extracorporeal circulation] [heart-lung machine] ([39.61](../chapter-7/index.md#39-61))
 #### 33.50 Lung transplantation, not otherwise specified {#33-50}
 #### 33.51 Unilateral lung transplantation {#33-51}
 #### 33.52 Bilateral lung transplantation {#33-52}
   - Double-lung transplantation
   - En bloc transplantation
-  - Code also cardiopulmonary bypass [extracorporeal circulation] [heart-lung machine] ([39.61](#39-61))
+  - Code also cardiopulmonary bypass [extracorporeal circulation] [heart-lung machine] ([39.61](../chapter-7/index.md#39-61))
 ### 33.6 Combined heart-lung transplantation {#33-6}
 
 - Note: To report donor source - see codes 00.91-00.93
-- Code also cardiopulmonary bypass [extracorporeal circulation] [heart-lung machine] ([39.61](#39-61))
+- Code also cardiopulmonary bypass [extracorporeal circulation] [heart-lung machine] ([39.61](../chapter-7/index.md#39-61))
 ### 33.7 Other endoscopic procedures in bronchus or lung {#33-7}
 
-  - *Excludes:* insertion of tracheobronchial stent ([96.05](#96-05))
+  - *Excludes:* insertion of tracheobronchial stent ([96.05](../chapter-16/index.md#96-05))
 #### 33.71 Endoscopic insertion or replacement of bronchial valve(s), single lobe {#33-71}
   - Endobronchial airflow redirection valve
   - Intrabronchial airf low redirection valve
@@ -337,12 +337,12 @@
 #### 33.94 Bronchial dilatation with bronchoscopy (rigid) with or without baloon (IM) {#33-94}
 #### 33.95 Insertion or replacement of  bronchial stent using bronchoscopy (IM) {#33-95}
 #### 33.98 Other operations on bronchus {#33-98}
-  - *Excludes:* bronchial lavage ([96.56](#96-56))
-    - removal of intraluminal foreign body from bronchus without incision ([98.15](#98-15))
+  - *Excludes:* bronchial lavage ([96.56](../chapter-16/index.md#96-56))
+    - removal of intraluminal foreign body from bronchus without incision ([98.15](../chapter-16/index.md#98-15))
 #### 33.99 Other operations on lung {#33-99}
   - Whole lung lavage
-  - *Excludes:* other continuous mechanical ventilation ([96.70-96.72](#96-70))
-    - respiratory therapy ([93.90-93.99](#93-90))
+  - *Excludes:* other continuous mechanical ventilation ([96.70-96.72](../chapter-16/index.md#96-70))
+    - respiratory therapy ([93.90-93.99](../chapter-16/index.md#93-90))
 ## 34 Operations on chest wall, pleura, mediastinum, and diaphragm {#34}
 
   - *Excludes:* operations on breast (85.0-85.99)
@@ -387,25 +387,25 @@
 #### 34.26 Open mediastinal biopsy {#34-26}
 #### 34.27 Biopsy of diaphragm {#34-27}
 #### 34.28 Other diagnostic procedures on chest wall, pleura, and diaphragm {#34-28}
-  - *Excludes:* angiocardiography ([88.50-88.58](#88-50))
-    - aortography ([88.42](#88-42))
+  - *Excludes:* angiocardiography ([88.50-88.58](../chapter-16/index.md#88-50))
+    - aortography ([88.42](../chapter-16/index.md#88-42))
     - arteriography of:
-    - intrathoracic vessels NEC ([88.44](#88-44))
-    - pulmonary arteries ([88.43](#88-43))
+    - intrathoracic vessels NEC ([88.44](../chapter-16/index.md#88-44))
+    - pulmonary arteries ([88.43](../chapter-16/index.md#88-43))
     - microscopic examination of specimen from chest wall, pleura, and diaphragm (90.41-
     - 90.49)
     - phlebography of:
-    - intrathoracic vessels NEC ([88.63](#88-63))
-    - pulmonary veins ([88.62](#88-62))
+    - intrathoracic vessels NEC ([88.63](../chapter-16/index.md#88-63))
+    - pulmonary veins ([88.62](../chapter-16/index.md#88-62))
     - radiological examinations of thorax:
-    - C.A.T. scan ([87.41](#87-41))
-    - diaphragmatic x-ray ([87.49](#87-49))
-    - intrathoracic lymphangiogram ([87.34](#87-34))
-    - routine chest x-ray ([87.44](#87-44))
-    - sinogram of chest wall ([87.38](#87-38))
-    - soft tissue x-ray of chest wall NEC ([87.39](#87-39))
-    - tomogram of thorax NEC ([87.42](#87-42))
-    - ultrasonography of thorax ([88.73](#88-73))
+    - C.A.T. scan ([87.41](../chapter-16/index.md#87-41))
+    - diaphragmatic x-ray ([87.49](../chapter-16/index.md#87-49))
+    - intrathoracic lymphangiogram ([87.34](../chapter-16/index.md#87-34))
+    - routine chest x-ray ([87.44](../chapter-16/index.md#87-44))
+    - sinogram of chest wall ([87.38](../chapter-16/index.md#87-38))
+    - soft tissue x-ray of chest wall NEC ([87.39](../chapter-16/index.md#87-39))
+    - tomogram of thorax NEC ([87.42](../chapter-16/index.md#87-42))
+    - ultrasonography of thorax ([88.73](../chapter-16/index.md#88-73))
     - 34.281 Thoracoscopy, surgical; with removal of  intrapleural f oreign body or f ibrin deposit (IM)
     - 34.282 Thoracoscopy, surgical; with thoracic sympathectomy (IM)
     - 34.283 Thoracoscopy, surgical; with pleurodesis (e.g., mechanical or chemical) (IM)
@@ -414,8 +414,8 @@
     - 34.286 Thoracoscopy, surgical; with excision of  mediastinal cyst, tumor, or mass (IM)
 #### 34.29 Other diagnostic procedures on mediastinum {#34-29}
   - *Excludes:* mediastinal:
-    - pneumogram ([87.33](#87-33))
-    - x-ray NEC ([87.49](#87-49))
+    - pneumogram ([87.33](../chapter-16/index.md#87-33))
+    - x-ray NEC ([87.49](../chapter-16/index.md#87-49))
     - 34.291 Mediastinotomy with exploration or biopsy; cervical approach (IM)
     - 34.292 Mediastinotomy with exploration or biopsy; transthoracic approach (IM)
 ### 34.3 Excision or destruction of lesion or tissue of mediastinum {#34-3}
@@ -428,10 +428,10 @@
 - Excision of lesion of chest wall NOS (with excision of ribs)
 - Note : Excision of chest wall tumor involving ribs, with reconstruction
   - *Excludes:* biopsy of chest wall ([34.23](#34-23))
-    - costectomy not incidental to thoracic procedure ([77.91](#77-91))
+    - costectomy not incidental to thoracic procedure ([77.91](../chapter-14/index.md#77-91))
     - excision of lesion of:
-    - breast ([85.20-85.25](#85-20))
-    - cartilage ([80.89](#80-89))
+    - breast ([85.20-85.25](../chapter-15/index.md#85-20))
+    - cartilage ([80.89](../chapter-14/index.md#80-89))
     - skin (86.2-86.3)
     - fistulectomy ([34.73](#34-73))
 #### 34.41 Radical resection of  sternum (IM) {#34-41}
@@ -451,7 +451,7 @@
 ### 34.7 Repair of  chest wall {#34-7}
 
 #### 34.71 Suture of laceration of chest wall {#34-71}
-  - *Excludes:* suture of skin and subcutaneous tissue alone ([86.59](#86-59))
+  - *Excludes:* suture of skin and subcutaneous tissue alone ([86.59](../chapter-15/index.md#86-59))
 #### 34.72 Closure of  thoracostomy {#34-72}
 #### 34.73 Closure of  other f istula of  thorax {#34-73}
   - Closure of :
@@ -489,11 +489,11 @@
   - Chemical pleurodesis
   - Injection of  cytotoxic agent or tetracycline
   - Instillation into thoracic cavity
-  - Requires additional code f or any cancer chemotherapeutic substance ([99.25](#99-25))
+  - Requires additional code f or any cancer chemotherapeutic substance ([99.25](../chapter-16/index.md#99-25))
   - *Excludes:* that for collapse of lung  ([33.32](#33-32))
 #### 34.93 Repair of  pleura {#34-93}
 #### 34.99 Other {#34-99}
   - *Excludes:* removal of:
-    - mediastinal drain ([97.42](#97-42))
-    - sutures ([97.43](#97-43))
-    - thoracotomy tube ([97.41](#97-41))
+    - mediastinal drain ([97.42](../chapter-16/index.md#97-42))
+    - sutures ([97.43](../chapter-16/index.md#97-43))
+    - thoracotomy tube ([97.41](../chapter-16/index.md#97-41))

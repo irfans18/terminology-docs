@@ -101,8 +101,8 @@
 #### 09.11 Biopsy of lacrimal gland {#09-11}
 #### 09.12 Biopsy of lacrimal sac {#09-12}
 #### 09.19 Other diagnostic procedures on lacrimal system {#09-19}
-  - *Excludes:* contrast dacryocystogram ([87.05](#87-05))
-    - soft tissue x-ray of nasolacrimal duct ([87.09](#87-09))
+  - *Excludes:* contrast dacryocystogram ([87.05](../chapter-16/index.md#87-05))
+    - soft tissue x-ray of nasolacrimal duct ([87.09](../chapter-16/index.md#87-09))
 ### 09.2 Excision of lesion or tissue of lacrimal gland {#09-2}
 
 #### 09.20 Excision of lacrimal gland, not otherwise specified {#09-20}
@@ -117,7 +117,7 @@
 
   - *Includes:* removal of calculus
     - that with dilation
-  - *Excludes:* contrast dacryocystogram ([87.05](#87-05))
+  - *Excludes:* contrast dacryocystogram ([87.05](../chapter-16/index.md#87-05))
 #### 09.41 Probing of lacrimal punctum {#09-41}
 #### 09.42 Probing of lacrimal canaliculi {#09-42}
 #### 09.43 Probing of nasolacrimal duct {#09-43}
@@ -157,8 +157,8 @@
 ### 10.0 Removal of  embedded f oreign body f rom conjunctiva by incision {#10-0}
 
   - *Excludes:* removal of:
-    - embedded foreign body without incision ([98.22](#98-22))
-    - superficial foreign body ([98.21](#98-21))
+    - embedded foreign body without incision ([98.22](../chapter-16/index.md#98-22))
+    - superficial foreign body ([98.21](../chapter-16/index.md#98-21))
 ### 10.1 Other incision of conjunctiva {#10-1}
 
 ### 10.2 Diagnostic procedures on conjunctiva {#10-2}
@@ -536,7 +536,7 @@
 
 ## 16 Operations on orbit and eyeball {#16}
 
-  - *Excludes:* reduction of fracture of orbit ([76.78-76.79](#76-78))
+  - *Excludes:* reduction of fracture of orbit ([76.78-76.79](../chapter-14/index.md#76-78))
 ### 16.0 Orbitotomy {#16-0}
 
 #### 16.01 Orbitotomy with bone flap {#16-01}
@@ -546,19 +546,19 @@
 #### 16.09 Other orbitotomy {#16-09}
 ### 16.1 Removal of  penetrating f oreign body f rom eye, not otherwise specif ied {#16-1}
 
-  - *Excludes:* removal of nonpenetrating foreign body ([98.21](#98-21))
+  - *Excludes:* removal of nonpenetrating foreign body ([98.21](../chapter-16/index.md#98-21))
 ### 16.2 Diagnostic procedures on orbit and eyeball {#16-2}
 
 #### 16.21 Ophthalmoscopy {#16-21}
 #### 16.22 Diagnostic aspiration of orbit {#16-22}
 #### 16.23 Biopsy of eyeball and orbit {#16-23}
 #### 16.29 Other diagnostic procedures on orbit and eyeball {#16-29}
-  - *Excludes:* examination of form and structure of eye ([95.11-95.16](#95-11))
-    - general and subjective eye examination ([95.01-95.09](#95-01))
-    - microscopic examination of specimen from eye  ([90.21-90.29](#90-21))
-    - objective functional tests of eye ([95.21-95.26](#95-21))
-    - ocular thermography ([88.82](#88-82))
-    - tonometry ([89.11](#89-11))
+  - *Excludes:* examination of form and structure of eye ([95.11-95.16](../chapter-16/index.md#95-11))
+    - general and subjective eye examination ([95.01-95.09](../chapter-16/index.md#95-01))
+    - microscopic examination of specimen from eye  ([90.21-90.29](../chapter-16/index.md#90-21))
+    - objective functional tests of eye ([95.21-95.26](../chapter-16/index.md#95-21))
+    - ocular thermography ([88.82](../chapter-16/index.md#88-82))
+    - tonometry ([89.11](../chapter-16/index.md#89-11))
     - x-ray of orbit (87.14, 87.16)
 ### 16.3 Evisceration of eyeball {#16-3}
 
@@ -599,7 +599,7 @@
 ### 16.8 Repair of  injury of  eyeball and orbit {#16-8}
 
 #### 16.81 Repair of  wound of  orbit {#16-81}
-  - *Excludes:* reduction of orbital fracture ([76.78-76.79](#76-78))
+  - *Excludes:* reduction of orbital fracture ([76.78-76.79](../chapter-14/index.md#76-78))
     - repair of extraocular muscles (15.7)
 #### 16.82 Repair of  rupture of  eyeball {#16-82}
   - Repair of  multiple structures of  eye
@@ -609,13 +609,13 @@
 #### 16.89 Other repair of injury of eyeball or orbit {#16-89}
 ### 16.9 Other operations on orbit and eyeball {#16-9}
 
-  - *Excludes:* irrigation of eye ([96.51](#96-51))
-    - prescription and fitting of low vision aids ([95.31-95.33](#95-31))
+  - *Excludes:* irrigation of eye ([96.51](../chapter-16/index.md#96-51))
+    - prescription and fitting of low vision aids ([95.31-95.33](../chapter-16/index.md#95-31))
     - removal of:
-    - eye prosthesis NEC ([97.31](#97-31))
-    - nonpenetrating foreign body from eye without incision ([98.21](#98-21))
+    - eye prosthesis NEC ([97.31](../chapter-16/index.md#97-31))
+    - nonpenetrating foreign body from eye without incision ([98.21](../chapter-16/index.md#98-21))
 #### 16.91 Retrobulbar injection of  therapeutic agent {#16-91}
-  - *Excludes:* injection of radiographic contrast material ([87.14](#87-14))
+  - *Excludes:* injection of radiographic contrast material ([87.14](../chapter-16/index.md#87-14))
     - opticociliary injection ([12.79](#12-79))
 #### 16.92 Excision of lesion of orbit {#16-92}
   - *Excludes:* biopsy of orbit ([16.23](#16-23))

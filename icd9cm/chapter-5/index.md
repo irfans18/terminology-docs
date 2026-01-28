@@ -28,11 +28,11 @@
 #### 21.22 Biopsy of nose {#21-22}
 #### 21.23 Nasoendoskopi (IM) {#21-23}
 #### 21.29 Other diagnostic procedures on nose {#21-29}
-  - *Excludes:* microscopic examination of specimen from nose ([90.31-90.39](#90-31))
+  - *Excludes:* microscopic examination of specimen from nose ([90.31-90.39](../chapter-16/index.md#90-31))
     - nasal:
-    - function study ([89.12](#89-12))
-    - x-ray ([87.16](#87-16))
-    - rhinomanometry ([89.12](#89-12))
+    - function study ([89.12](../chapter-16/index.md#89-12))
+    - x-ray ([87.16](../chapter-16/index.md#87-16))
+    - rhinomanometry ([89.12](../chapter-16/index.md#89-12))
     - 21.290 Peak nasal inspiratory flowmetry (PNIF) (IM)
     - 21.291 Smell test (IM)
     - 21.292 Blue light fluorescein test (IM)
@@ -94,12 +94,12 @@
 #### 21.91 Lysis of adhesions of nose {#21-91}
   - Posterior nasal scrub
 #### 21.99 Other {#21-99}
-  - *Excludes:* dilation of frontonasal duct ([96.21](#96-21))
-    - irrigation of nasal passages ([96.53](#96-53))
+  - *Excludes:* dilation of frontonasal duct ([96.21](../chapter-16/index.md#96-21))
+    - irrigation of nasal passages ([96.53](../chapter-16/index.md#96-53))
     - removal of:
-    - intraluminal foreign body without incision ([98.12](#98-12))
-    - nasal packing ([97.32](#97-32))
-    - replacement of nasal packing ([97.21](#97-21))
+    - intraluminal foreign body without incision ([98.12](../chapter-16/index.md#98-12))
+    - nasal packing ([97.32](../chapter-16/index.md#97-32))
+    - replacement of nasal packing ([97.21](../chapter-16/index.md#97-21))
 ## 22 Operations on nasal sinuses {#22}
 
 ### 22.0 Aspiration and lavage of nasal sinus {#22-0}
@@ -113,8 +113,8 @@
 #### 22.12 Open biopsy of nasal sinus {#22-12}
 #### 22.19 Other diagnostic procedures on nasal sinuses {#22-19}
   - Endoscopy without biopsy
-  - *Excludes:* transillumination of sinus ([89.35](#89-35))
-    - x-ray of sinus ([87.15-87.16](#87-15))
+  - *Excludes:* transillumination of sinus ([89.35](../chapter-16/index.md#89-35))
+    - x-ray of sinus ([87.15-87.16](../chapter-16/index.md#87-15))
 ### 22.2 Intranasal antrotomy {#22-2}
 
   - *Excludes:* antrotomy with external approach ([22.31-22.39](#22-31))
@@ -172,7 +172,7 @@
 
 - Exteriorization of maxillary sinus
 - Fistulization of sinus
-  - *Excludes:* dilation of frontonasal duct ([96.21](#96-21))
+  - *Excludes:* dilation of frontonasal duct ([96.21](../chapter-16/index.md#96-21))
 ## 23 Removal and restoration of  teeth {#23}
 
 ### 23.0 Forceps extraction of tooth {#23-0}
@@ -222,11 +222,11 @@
 #### 24.12 Biopsy of alveolus {#24-12}
 #### 24.19 Other diagnostic procedures on teeth, gums, and alveoli {#24-19}
   - *Excludes:* dental:
-    - examination ([89.31](#89-31))
+    - examination ([89.31](../chapter-16/index.md#89-31))
     - x-ray:
-    - full-mouth ([87.11](#87-11))
-    - other ([87.12](#87-12))
-    - microscopic examination of dental specimen ([90.81-90.89](#90-81))
+    - full-mouth ([87.11](../chapter-16/index.md#87-11))
+    - other ([87.12](../chapter-16/index.md#87-12))
+    - microscopic examination of dental specimen ([90.81-90.89](../chapter-16/index.md#90-81))
 ### 24.2 Gingivoplasty {#24-2}
 
 - Gingivoplasty with bone or soft tissue graft
@@ -254,31 +254,31 @@
 - orthodontic obturator
 - orthodontic wiring
 - periodontal splint
-  - *Excludes:* nonorthodontic dental wiring ([93.55](#93-55))
+  - *Excludes:* nonorthodontic dental wiring ([93.55](../chapter-16/index.md#93-55))
 ### 24.8 Other orthodontic operation {#24-8}
 
 - Closure of  diastema (alveolar) (dental)
 - Occlusal adjustment
 - Removal of  arch bars
 - Repair of  dental arch
-  - *Excludes:* removal of nonorthodontic wiring ([97.33](#97-33))
+  - *Excludes:* removal of nonorthodontic wiring ([97.33](../chapter-16/index.md#97-33))
 ### 24.9 Other dental operations {#24-9}
 
 #### 24.91 Extension or deepening of buccolabial or lingual sulcus {#24-91}
 #### 24.99 Other {#24-99}
   - *Excludes:* dental:
-    - debridement ([96.54](#96-54))
-    - examination ([89.31](#89-31))
-    - prophylaxis ([96.54](#96-54))
-    - scaling and polishing ([96.54](#96-54))
-    - wiring ([93.55](#93-55))
-    - fitting of dental appliance [denture] ([99.97](#99-97))
-    - microscopic examination of dental specimen ([90.81-90.89](#90-81))
+    - debridement ([96.54](../chapter-16/index.md#96-54))
+    - examination ([89.31](../chapter-16/index.md#89-31))
+    - prophylaxis ([96.54](../chapter-16/index.md#96-54))
+    - scaling and polishing ([96.54](../chapter-16/index.md#96-54))
+    - wiring ([93.55](../chapter-16/index.md#93-55))
+    - fitting of dental appliance [denture] ([99.97](../chapter-16/index.md#99-97))
+    - microscopic examination of dental specimen ([90.81-90.89](../chapter-16/index.md#90-81))
     - removal of dental:
-    - packing ([97.34](#97-34))
-    - prosthesis ([97.35](#97-35))
-    - wiring ([97.33](#97-33))
-    - replacement of dental packing ([97.22](#97-22))
+    - packing ([97.34](../chapter-16/index.md#97-34))
+    - prosthesis ([97.35](../chapter-16/index.md#97-35))
+    - wiring ([97.33](../chapter-16/index.md#97-33))
+    - replacement of dental packing ([97.22](../chapter-16/index.md#97-22))
 ## 25 Operations on tongue {#25}
 
 ### 25.0 Diagnostic procedures on tongue {#25-0}
@@ -298,11 +298,11 @@
 ### 25.3 Complete glossectomy {#25-3}
 
 - Glossectomy NOS
-- Code also any neck dissection ([40.40-40.42](#40-40))
+- Code also any neck dissection ([40.40-40.42](../chapter-8/index.md#40-40))
 ### 25.4 Radical glossectomy {#25-4}
 
 - Code also any:
-- neck dissection ([40.40-40.42](#40-40))
+- neck dissection ([40.40-40.42](../chapter-8/index.md#40-40))
 - tracheostomy (31.1-31.29)
 ### 25.5 Repair of  tongue and glossoplasty {#25-5}
 
@@ -328,7 +328,7 @@
     - parotid gland and duct
     - sublingual gland and duct
     - submaxillary gland and duct
-    - Code also any neck dissection ([40.40-40.42](#40-40))
+    - Code also any neck dissection ([40.40-40.42](../chapter-8/index.md#40-40))
 ### 26.0 Incision of  salivary gland or duct {#26-0}
 
 ### 26.1 Diagnostic procedures on salivary glands and ducts {#26-1}
@@ -336,7 +336,7 @@
 #### 26.11 Closed [needle] biopsy of  salivary gland or duct {#26-11}
 #### 26.12 Open biopsy of salivary gland or duct {#26-12}
 #### 26.19 Other diagnostic procedures on salivary glands and ducts {#26-19}
-  - *Excludes:* x-ray of salivary gland ([87.09](#87-09))
+  - *Excludes:* x-ray of salivary gland ([87.09](../chapter-16/index.md#87-09))
 ### 26.2 Excision of lesion of salivary gland {#26-2}
 
 #### 26.21 Marsupialization of salivary gland cyst {#26-21}
@@ -377,7 +377,7 @@
 - facial region (abscess)
 - fascial compartment of face
 - Ludwig's angina
-  - *Excludes:* drainage of thyroglossal tract ([06.09](#06-09))
+  - *Excludes:* drainage of thyroglossal tract ([06.09](../chapter-2/index.md#06-09))
 ### 27.1 Incision of  palate {#27-1}
 
 ### 27.2 Diagnostic procedures on oral cavity {#27-2}
@@ -387,7 +387,7 @@
 #### 27.23 Biopsy of lip {#27-23}
 #### 27.24 Biopsy of mouth, unspecified structure {#27-24}
 #### 27.29 Other diagnostic procedures on oral cavity {#27-29}
-  - *Excludes:* soft tissue x-ray ([87.09](#87-09))
+  - *Excludes:* soft tissue x-ray ([87.09](../chapter-16/index.md#87-09))
 ### 27.3 Excision of lesion or tissue of bony palate {#27-3}
 
 #### 27.31 Local excision or destruction of lesion or tissue of bony palate {#27-31}
@@ -468,8 +468,8 @@
 #### 27.99 Other operations on oral cavity {#27-99}
   - Graft of buccal sulcus
   - *Excludes:* removal of:
-    - intraluminal foreign body ([98.01](#98-01))
-    - penetrating foreign body from mouth without incision ([98.22](#98-22))
+    - intraluminal foreign body ([98.01](../chapter-16/index.md#98-01))
+    - penetrating foreign body from mouth without incision ([98.22](../chapter-16/index.md#98-22))
 ## 28 Operations on tonsils and adenoids {#28}
 
 ### 28.0 Incision and drainage of  tonsil and peritonsillar structures {#28-0}
@@ -483,7 +483,7 @@
 
 #### 28.11 Biopsy of tonsils and adenoids {#28-11}
 #### 28.19 Other diagnostic procedures on tonsils and adenoids {#28-19}
-  - *Excludes:* soft tissue x-ray ([87.09](#87-09))
+  - *Excludes:* soft tissue x-ray ([87.09](../chapter-16/index.md#87-09))
 ### 28.2 Tonsillectomy without adenoidectomy {#28-2}
 
 ### 28.3 Tonsillectomy with adenoidectomy {#28-3}
@@ -500,7 +500,7 @@
 ### 28.9 Other operations on tonsils and adenoids {#28-9}
 
 #### 28.91 Removal of  f oreign body f rom tonsil and adenoid by incision {#28-91}
-  - *Excludes:* that without incision ([98.13](#98-13))
+  - *Excludes:* that without incision ([98.13](../chapter-16/index.md#98-13))
 #### 28.92 Excision of lesion of tonsil and adenoid {#28-92}
   - *Excludes:* biopsy of tonsil and adenoid  ([28.11](#28-11))
 #### 28.99 Other {#28-99}
@@ -516,7 +516,7 @@
 
 - Drainage of pharyngeal bursa
   - *Excludes:* incision and drainage of retropharyngeal abscess (28.0)
-    - removal of foreign body (without incision) ([98.13](#98-13))
+    - removal of foreign body (without incision) ([98.13](../chapter-16/index.md#98-13))
 ### 29.1 Diagnostic procedures on pharynx {#29-1}
 
 #### 29.11 Pharyngoscopy {#29-11}
@@ -525,8 +525,8 @@
 #### 29.13 Flexible endoscopic evaluation of swallowing (FEES) (IM) {#29-13}
 #### 29.19 Other diagnostic procedures on pharynx {#29-19}
   - *Excludes:* x-ray of nasopharynx:
-    - contrast ([87.06](#87-06))
-    - other ([87.09](#87-09))
+    - contrast ([87.06](../chapter-16/index.md#87-06))
+    - other ([87.09](../chapter-16/index.md#87-09))
 ### 29.2 Excision of branchial cleft cyst or vestige {#29-2}
 
   - *Excludes:* branchial cleft fistulectomy ([29.52](#29-52))
@@ -558,5 +558,5 @@
   - 29.911 Repair of  choanal atresia transpalatal (IM)
 #### 29.92 Division of glossopharyngeal nerve {#29-92}
 #### 29.99 Other {#29-99}
-  - *Excludes:* insertion of radium into pharynx and nasopharynx ([92.27](#92-27))
-    - removal of intraluminal foreign body ([98.13](#98-13))
+  - *Excludes:* insertion of radium into pharynx and nasopharynx ([92.27](../chapter-16/index.md#92-27))
+    - removal of intraluminal foreign body ([98.13](../chapter-16/index.md#98-13))

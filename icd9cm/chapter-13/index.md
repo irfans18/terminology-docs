@@ -56,7 +56,7 @@
 
 - Induction by cervical dilation
   - *Excludes:* injection for abortion (75.0)
-    - insertion of suppository for abortion ([96.49](#96-49))
+    - insertion of suppository for abortion ([96.49](../chapter-16/index.md#96-49))
 ### 73.2 Internal and combined version and extraction {#73-2}
 
 #### 73.21 Internal and combined version without extraction {#73-21}
@@ -101,12 +101,12 @@
 #### 73.99 Other {#73-99}
   - *Excludes:* dilation of cervix, obstetrical to induce labor (73.1)
     - insertion of bag or bougie to induce labor (73.1)
-    - removal of cerclage material ([69.96](#69-96))
+    - removal of cerclage material ([69.96](../chapter-12/index.md#69-96))
 ## 74 Cesarean section and removal of  f etus {#74}
 
 - Code also any synchronous:
 - hysterectomy (68.3-68.4, 68.6, 68.8)
-- myomectomy ([68.29](#68-29))
+- myomectomy ([68.29](../chapter-12/index.md#68-29))
 - sterilization (66.31-66.39, 66.63)
 ### 74.0 Classical cesarean section {#74-0}
 
@@ -122,9 +122,9 @@
 - Removal of :
 - ectopic abdominal pregnancy
 - fetus from peritoneal or extraperitoneal cavity follow ing uterine or tubal rupture
-  - *Excludes:* that by salpingostomy ([66.02](#66-02))
-    - that by salpingotomy ([66.01](#66-01))
-    - that with synchronous salpingectomy ([66.62](#66-62))
+  - *Excludes:* that by salpingostomy ([66.02](../chapter-12/index.md#66-02))
+    - that by salpingotomy ([66.01](../chapter-12/index.md#66-01))
+    - that with synchronous salpingectomy ([66.62](../chapter-12/index.md#66-62))
 ### 74.4 Cesarean section of  other specif ied type {#74-4}
 
 - Peritoneal exclusion cesarean section
@@ -146,7 +146,7 @@
 - prostaglandin for induction of abortion
 - saline for induction of abortion
 - Termination of  pregnancy by intrauterine injection
-  - *Excludes:* insertion of prostaglandin suppository for abortion ([96.49](#96-49))
+  - *Excludes:* insertion of prostaglandin suppository for abortion ([96.49](../chapter-16/index.md#96-49))
 ### 75.1 Diagnostic amniocentesis {#75-1}
 
 ### 75.2 Intrauterine transf usion {#75-2}
@@ -172,14 +172,14 @@
     - diagnostic procedures on gravid uterus and placenta (87.81, 88.46, 88.78, 92.17)
 #### 75.36 Correction of  f etal def ect {#75-36}
 #### 75.37 Amnioinfusion {#75-37}
-  - Code also injection of  antibiotic ([99.21](#99-21))
+  - Code also injection of  antibiotic ([99.21](../chapter-16/index.md#99-21))
 #### 75.38 Fetal pulse oximetry {#75-38}
   - Transcervical f etal oxygen saturation monitoring
   - Transcervical f etal SpO2 monitoring
 ### 75.4 Manual removal of retained placenta {#75-4}
 
-  - *Excludes:* aspiration curettage ([69.52](#69-52))
-    - dilation and curettage ([69.02](#69-02))
+  - *Excludes:* aspiration curettage ([69.52](../chapter-12/index.md#69-52))
+    - dilation and curettage ([69.02](../chapter-12/index.md#69-02))
 ### 75.5 Repair of  current obstetric laceration of  uterus {#75-5}
 
 #### 75.50 Repair of  current obstetric laceration of  uterus, not otherwise specif ied {#75-50}
@@ -211,6 +211,6 @@
 #### 75.92 Evacuation of other hematoma of vulva or vagina {#75-92}
 #### 75.93 Surgical correction of inverted uterus {#75-93}
   - Spintelli operation
-  - *Excludes:* vaginal repair of chronic inversion of uterus ([69.23](#69-23))
+  - *Excludes:* vaginal repair of chronic inversion of uterus ([69.23](../chapter-12/index.md#69-23))
 #### 75.94 Manual replacement of inverted uterus {#75-94}
 #### 75.99 Other {#75-99}

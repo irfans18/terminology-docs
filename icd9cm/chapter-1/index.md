@@ -6,7 +6,7 @@
 
 #### 01.01 Cisternal puncture {#01-01}
   - Cisternal tap
-  - *Excludes:* pneumocisternogram ([87.02](#87-02))
+  - *Excludes:* pneumocisternogram ([87.02](../chapter-16/index.md#87-02))
 #### 01.02 Ventriculopuncture through previously implanted catheter {#01-02}
   - Puncture of ventricular shunt tubing
 #### 01.09 Other cranial puncture {#01-09}
@@ -38,31 +38,31 @@
 #### 01.18 Other diagnostic procedures on brain and cerebral meninges {#01-18}
   - *Excludes:* brain temperature monitoring ([01.17](#01-17))
     - cerebral:
-    - arteriography ([88.41](#88-41))
-    - thermography ([88.81](#88-81))
-    - contrast radiogram of brain ([87.01-87.02](#87-01))
-    - echoencephalogram ([88.71](#88-71))
-    - electroencephalogram ([89.14](#89-14))
+    - arteriography ([88.41](../chapter-16/index.md#88-41))
+    - thermography ([88.81](../chapter-16/index.md#88-81))
+    - contrast radiogram of brain ([87.01-87.02](../chapter-16/index.md#87-01))
+    - echoencephalogram ([88.71](../chapter-16/index.md#88-71))
+    - electroencephalogram ([89.14](../chapter-16/index.md#89-14))
     - intracranial oxygen monitoring ([01.16](#01-16))
     - intracranial pressure monitoring ([01.10](#01-10))
     - microscopic examination of specimen from nervous system and of spinal fluid ( 90.01-
     - 90.09)
-    - neurologic examination ([89.13](#89-13))
-    - phlebography of head and neck  ([88.61](#88-61))
-    - pneumoencephalogram ([87.01](#87-01))
+    - neurologic examination ([89.13](../chapter-16/index.md#89-13))
+    - phlebography of head and neck  ([88.61](../chapter-16/index.md#88-61))
+    - pneumoencephalogram ([87.01](../chapter-16/index.md#87-01))
     - radioisotope scan:
-    - cerebral ([92.11](#92-11))
-    - head NEC ([92.12](#92-12))
+    - cerebral ([92.11](../chapter-16/index.md#92-11))
+    - head NEC ([92.12](../chapter-16/index.md#92-12))
     - tomography of head:
-    - C.A.T. scan ([87.03](#87-03))
-    - other ([87.04](#87-04))
+    - C.A.T. scan ([87.03](../chapter-16/index.md#87-03))
+    - other ([87.04](../chapter-16/index.md#87-04))
 #### 01.19 Other diagnostic procedures on skull {#01-19}
-  - *Excludes:* transillumination of skull ([89.16](#89-16))
-    - x-ray of skull ([87.17](#87-17))
+  - *Excludes:* transillumination of skull ([89.16](../chapter-16/index.md#89-16))
+    - x-ray of skull ([87.17](../chapter-16/index.md#87-17))
 ### 01.2 Craniotomy and craniectomy {#01-2}
 
   - *Excludes:* decompression of skull fracture ([02.02](#02-02))
-    - exploration of orbit ([16.01-16.09](#16-01))
+    - exploration of orbit ([16.01-16.09](../chapter-3/index.md#16-01))
     - that as operative approach -- omit code
 #### 01.20 Cranial implantation or replacement of  neurostimulator pulse generator {#01-20}
   - Code also any associated lead implantation ([02.93](#02-93))
@@ -70,7 +70,7 @@
     - 86.98)
 #### 01.21 Incision and drainage of  cranial sinus {#01-21}
 #### 01.22 Removal of  intracranial neurostimulator lead(s) {#01-22}
-  - Code also any removal of  neurostimulator pulse generator ([86.05](#86-05))
+  - Code also any removal of  neurostimulator pulse generator ([86.05](../chapter-15/index.md#86-05))
   - *Excludes:* removal with synchronous replacement ([02.93](#02-93))
 #### 01.23 Reopening of  craniotomy site {#01-23}
 #### 01.24 Other craniotomy {#01-24}
@@ -121,11 +121,11 @@
 #### 01.41 Operations on thalamus {#01-41}
   - Chemothalamectomy
   - Thalamotomy
-  - *Excludes:* that by stereotactic radiosurgery ([92.30-92.39](#92-30))
+  - *Excludes:* that by stereotactic radiosurgery ([92.30-92.39](../chapter-16/index.md#92-30))
 #### 01.42 Operations on globus pallidus {#01-42}
   - Pallidoansectomy
   - Pallidotomy
-  - *Excludes:* that by stereotactic radiosurgery ([92.30-92.39](#92-30))
+  - *Excludes:* that by stereotactic radiosurgery ([92.30-92.39](../chapter-16/index.md#92-30))
 ### 01.5 Other excision or destruction of brain and meninges {#01-5}
 
 #### 01.51 Excision of lesion or tissue of cerebral meninges {#01-51}
@@ -143,8 +143,8 @@
   - Transtemporal (mastoid) excision of  brain tumor
   - *Excludes:* biopsy of brain ([01.13-01.14](#01-13))
     - laser interstitial thermal therapy [LITT] of lesion or tissue of brain under guidance
-    - ([17.61](#17-61))
-    - that by stereotactic radiosurgery ([92.30-92.39](#92-30))
+    - ([17.61](../chapter-3a/index.md#17-61))
+    - that by stereotactic radiosurgery ([92.30-92.39](../chapter-16/index.md#92-30))
 ### 01.6 Excision of lesion of skull {#01-6}
 
 - Removal of  granulation tissue of  cranium
@@ -222,7 +222,7 @@
   - Ventricular shunt to extracranial site NEC
 ### 02.4 Revision, removal, and irrigation of  ventricular shunt {#02-4}
 
-  - *Excludes:* revision of distal catheter of ventricular shunt ([54.95](#54-95))
+  - *Excludes:* revision of distal catheter of ventricular shunt ([54.95](../chapter-9/index.md#54-95))
 #### 02.41 Irrigation and exploration of  ventricular shunt {#02-41}
   - Exploration of ventriculoperitoneal shunt at ventricular site
   - Re-programming of ventriculoperitoneal shunt
@@ -251,18 +251,18 @@
   - Code also any:
   - insertion of cranial implantation or replacement of neurostimulator pulse generator
   - ([01.20](#01-20))
-  - insertion of subcutaneous neurostimulator pulse generator ([86.94-86.98](#86-94))
+  - insertion of subcutaneous neurostimulator pulse generator ([86.94-86.98](../chapter-15/index.md#86-94))
 #### 02.94 Insertion or replacement of  skull tongs or halo traction device {#02-94}
 #### 02.95 Removal of  skull tongs or halo traction device {#02-95}
 #### 02.96 Insertion of  sphenoidal electrodes {#02-96}
 #### 02.99 Other {#02-99}
-  - *Excludes:* chemical shock therapy ([94.24](#94-24))
+  - *Excludes:* chemical shock therapy ([94.24](../chapter-16/index.md#94-24))
     - electroshock therapy:
-    - subconvulsive ([94.26](#94-26))
-    - other ([94.27](#94-27))
+    - subconvulsive ([94.26](../chapter-16/index.md#94-26))
+    - other ([94.27](../chapter-16/index.md#94-27))
 ## 03 Operations on spinal cord and spinal canal structures {#03}
 
-- Code also any application or administration of  an adhesion barrier substance ([99.77](#99-77))
+- Code also any application or administration of  an adhesion barrier substance ([99.77](../chapter-16/index.md#99-77))
 ### 03.0 Exploration and decompression of spinal canal structures {#03-0}
 
 #### 03.01 Removal of  f oreign body f rom spinal canal {#03-01}
@@ -276,9 +276,9 @@
   - Exploration of spinal nerve root
   - Foraminotomy
   - Code also any synchronous insertion, replacement and revision of  posterior
-  - spinal motion preservation device(s), if performed ([84.80-84.85](#84-80))
+  - spinal motion preservation device(s), if performed ([84.80-84.85](../chapter-14/index.md#84-80))
   - *Excludes:* drainage of spinal fluid by anastomosis ([03.71-03.79](#03-71))
-    - laminectomy with excision of intervertebral disc ([80.51](#80-51))
+    - laminectomy with excision of intervertebral disc ([80.51](../chapter-14/index.md#80-51))
     - spinal tap ([03.31](#03-31))
     - that as operative approach -- omit code
 ### 03.1 Division of intraspinal nerve root {#03-1}
@@ -297,12 +297,12 @@
 
 #### 03.31 Spinal tap {#03-31}
   - Lumbar puncture for removal of dye
-  - *Excludes:* lumbar puncture for injection of dye [myelogram] ([87.21](#87-21))
+  - *Excludes:* lumbar puncture for injection of dye [myelogram] ([87.21](../chapter-16/index.md#87-21))
 #### 03.32 Biopsy of spinal cord or spinal meninges {#03-32}
 #### 03.39 Other diagnostic procedures on spinal cord and spinal canal structures {#03-39}
   - *Excludes:* microscopic examination of specimen from nervous system or of spinal fluid (90.01 -
     - 90.09)
-    - x-ray of spine ([87.21-87.29](#87-21))
+    - x-ray of spine ([87.21-87.29](../chapter-16/index.md#87-21))
 ### 03.4 Excision or destruction of lesion of spinal cord or spinal meninges {#03-4}
 
 - Curettage of  spinal cord or spinal meninges
@@ -319,8 +319,8 @@
   - Elevation of spinal bone fragments
   - Reduction of  f racture of  vertebrae
   - Removal of  bony spicules f rom spinal canal
-  - *Excludes:* percutaneous vertebral augmentation ([81.66](#81-66))
-    - percutaneous vertebroplasty ([81.65](#81-65))
+  - *Excludes:* percutaneous vertebral augmentation ([81.66](../chapter-14/index.md#81-66))
+    - percutaneous vertebroplasty ([81.65](../chapter-14/index.md#81-65))
 #### 03.59 Other repair and plastic operations on spinal cord structures {#03-59}
   - Repair of :
   - diastematomyelia
@@ -346,19 +346,19 @@
 #### 03.90 Insertion of  catheter into spinal canal f or inf usion of  therapeutic or palliative substances {#03-90}
   - Insertion of  catheter into epidural, subarachnoid, or subdural space of  spine with
   - intermittent or continuous infusion of drug (with creation of any reservoir)
-  - Code also any implantation of  inf usion pump ([86.06](#86-06))
+  - Code also any implantation of  inf usion pump ([86.06](../chapter-15/index.md#86-06))
 #### 03.91 Injection of  anesthetic into spinal canal f or analgesia {#03-91}
   - *Excludes:* that for operative anesthesia -- omit code
 #### 03.92 Injection of  other agent into spinal canal {#03-92}
   - Intrathecal injection of  steroid
   - Subarachnoid perfusion of refrigerated saline
   - *Excludes:* injection of:
-    - contrast material for myelogram ([87.21](#87-21))
+    - contrast material for myelogram ([87.21](../chapter-16/index.md#87-21))
     - destructive agent into spinal canal (03.8)
 #### 03.93 Implantation or replacement of  spinal neurostimulator lead(s) {#03-93}
-  - Code also any insertion of  neurostimulator pulse generator ([86.94-86.98](#86-94))
+  - Code also any insertion of  neurostimulator pulse generator ([86.94-86.98](../chapter-15/index.md#86-94))
 #### 03.94 Removal of  spinal neurostimulator lead(s) {#03-94}
-  - Code also any removal of  neurostimulator pulse generator ([86.05](#86-05))
+  - Code also any removal of  neurostimulator pulse generator ([86.05](../chapter-15/index.md#86-05))
 #### 03.95 Spinal blood patch {#03-95}
 #### 03.96 Percutaneous denervation of facet {#03-96}
 #### 03.97 Revision of  spinal thecal shunt {#03-97}
@@ -368,20 +368,20 @@
 
 ### 04.0 Incision, division, and excision of  cranial and peripheral nerves {#04-0}
 
-  - *Excludes:* opticociliary neurectomy ([12.79](#12-79))
+  - *Excludes:* opticociliary neurectomy ([12.79](../chapter-3/index.md#12-79))
     - sympathetic ganglionectomy ([05.21-05.29](#05-21))
 #### 04.01 Excision of acoustic neuroma {#04-01}
   - That by craniotomy
-  - *Excludes:* that by stereotactic radiosurgery ([92.30-92.39](#92-30))
+  - *Excludes:* that by stereotactic radiosurgery ([92.30-92.39](../chapter-16/index.md#92-30))
 #### 04.02 Division of trigeminal nerve {#04-02}
   - Retrogasserian neurotomy
 #### 04.03 Division or crushing of other cranial and peripheral nerves {#04-03}
   - *Excludes:* that of:
-    - glossopharyngeal nerve ([29.92](#29-92))
-    - laryngeal nerve ([31.91](#31-91))
-    - nerves to adrenal glands ([07.42](#07-42))
-    - phrenic nerve for collapse of lung ([33.31](#33-31))
-    - vagus nerve ([44.00-44.03](#44-00))
+    - glossopharyngeal nerve ([29.92](../chapter-5/index.md#29-92))
+    - laryngeal nerve ([31.91](../chapter-6/index.md#31-91))
+    - nerves to adrenal glands ([07.42](../chapter-2/index.md#07-42))
+    - phrenic nerve for collapse of lung ([33.31](../chapter-6/index.md#33-31))
+    - vagus nerve ([44.00-44.03](../chapter-9/index.md#44-00))
 #### 04.04 Other incision of cranial and peripheral nerves {#04-04}
 #### 04.05 Gasserian ganglionectomy {#04-05}
 #### 04.06 Other cranial or peripheral ganglionectomy {#04-06}
@@ -399,8 +399,8 @@
   - Endoscopic biopsy for pineal tumor (IM)
 #### 04.12 Open biopsy of cranial or peripheral nerve or ganglion {#04-12}
 #### 04.19 Other diagnostic procedures on cranial and peripheral nerves and ganglia {#04-19}
-  - *Excludes:* microscopic examination of specimen from nervous system  ([90.01-90.09](#90-01))
-    - neurologic examination ([89.13](#89-13))
+  - *Excludes:* microscopic examination of specimen from nervous system  ([90.01-90.09](../chapter-16/index.md#90-01))
+    - neurologic examination ([89.13](../chapter-16/index.md#89-13))
 ### 04.2 Destruction of cranial and peripheral nerves {#04-2}
 
 - Destruction of cranial or peripheral nerves by:
@@ -447,17 +447,17 @@
 
 #### 04.91 Neurectasis {#04-91}
 #### 04.92 Implantation or replacement of  peripheral neurostimulator lead(s) {#04-92}
-  - Code also any insertion of  neurostimulator pulse generator ([86.94-86.98](#86-94))
-  - *Excludes:* implantation or replacement of carotid sinus stimulation lead(s) ([39.82](#39-82))
+  - Code also any insertion of  neurostimulator pulse generator ([86.94-86.98](../chapter-15/index.md#86-94))
+  - *Excludes:* implantation or replacement of carotid sinus stimulation lead(s) ([39.82](../chapter-7/index.md#39-82))
 #### 04.93 Removal of  peripheral neurostimulator lead(s) {#04-93}
-  - Code also any removal of  neurostimulator pulse generator ([86.05](#86-05))
+  - Code also any removal of  neurostimulator pulse generator ([86.05](../chapter-15/index.md#86-05))
 #### 04.99 Other {#04-99}
 ## 05 Operations on sympathetic nerves or ganglia {#05}
 
   - *Excludes:* paracervical uterine denervation (69.3)
 ### 05.0 Division of sympathetic nerve or ganglion {#05-0}
 
-  - *Excludes:* that of nerves to adrenal glands ([07.42](#07-42))
+  - *Excludes:* that of nerves to adrenal glands ([07.42](../chapter-2/index.md#07-42))
 ### 05.1 Diagnostic procedures on sympathetic nerves or ganglia {#05-1}
 
 #### 05.11 Biopsy of sympathetic nerve or ganglion {#05-11}
@@ -475,12 +475,12 @@
   - Excision or avulsion of sympathetic nerve NOS
   - Sympathetic ganglionectomy NOS
   - *Excludes:* biopsy of sympathetic nerve or ganglion ([05.11](#05-11))
-    - opticociliary neurectomy ([12.79](#12-79))
+    - opticociliary neurectomy ([12.79](../chapter-3/index.md#12-79))
     - periarterial sympathectomy  ([05.25](#05-25))
-    - tympanosympathectomy ([20.91](#20-91))
+    - tympanosympathectomy ([20.91](../chapter-4/index.md#20-91))
 ### 05.3 Injection into sympathetic nerve or ganglion {#05-3}
 
-  - *Excludes:* injection of ciliary sympathetic ganglion ([12.79](#12-79))
+  - *Excludes:* injection of ciliary sympathetic ganglion ([12.79](../chapter-3/index.md#12-79))
 #### 05.31 Injection of  anesthetic into sympathetic nerve f or analgesia {#05-31}
 #### 05.32 Injection of  neurolytic agent into sympathetic nerve {#05-32}
 #### 05.39 Other injection into sympathetic nerve or ganglion {#05-39}

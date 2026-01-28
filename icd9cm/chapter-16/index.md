@@ -273,7 +273,7 @@
 - _Includes:_ arterial puncture and insertion of arterial catheter for injection of contrast material
   - cineangiocardiography
   - selective angiocardiography
-  - Code also synchronous cardiac catheterization ([37.21-37.23](#37-21))
+  - Code also synchronous cardiac catheterization ([37.21-37.23](../chapter-7/index.md#37-21))
 - _Excludes:_ angiography of pulmonary vessels (88.43, 88.62)
 - **88.50** Angiocardiography, not otherwise specified {#88-50}
 - **88.51** Angiocardiography of venae cavae {#88-51}
@@ -346,8 +346,8 @@
   - Non-invasive ultrasound
   - Ultrasonic angiography
   - Ultrasonography
-- _Excludes:_ intravascular imaging (adjunctive) (IVUS) ([00.21-00.29](#00-21))
-  - therapeutic ultrasound ([00.01-00.09](#00-01))
+- _Excludes:_ intravascular imaging (adjunctive) (IVUS) ([00.21-00.29](../chapter-0/index.md#00-21))
+  - therapeutic ultrasound ([00.01-00.09](../chapter-0/index.md#00-01))
 - **88.70** Videourodynamic (IM) {#88-70}
 - **88.71** Diagnostic ultrasound of head and neck {#88-71}
   - Determination of midline shift of brain
@@ -358,9 +358,9 @@
   - Transesophageal echocardiography (IM)
   - 88.720 Transesophageal echocardiography (TEE) (IM)
   - 88.721 Diagnostic doppler ultrasound of heart (IM)
-  - _Excludes:_ echocardiography of heart chambers ([37.28](#37-28))
-    - intracardiac echocardiography (ICE) ([37.28](#37-28))
-    - intravascular (IVUS) imaging of coronary vessels ([00.24](#00-24))
+  - _Excludes:_ echocardiography of heart chambers ([37.28](../chapter-7/index.md#37-28))
+    - intracardiac echocardiography (ICE) ([37.28](../chapter-7/index.md#37-28))
+    - intravascular (IVUS) imaging of coronary vessels ([00.24](../chapter-0/index.md#00-24))
 - **88.73** Diagnostic ultrasound of other sites of thorax {#88-73}
   - Aortic arch ultrasonography
   - Breast ultrasonography
@@ -372,7 +372,7 @@
   - 88.761 Transrectal ultra sound (IM)
 - **88.77** Diagnostic ultrasound of peripheral vascular system {#88-77}
   - Deep vein thrombosis ultrasonic scanning
-  - _Excludes:_ adjunct vascular system procedures ([00.40-00.43](#00-40))
+  - _Excludes:_ adjunct vascular system procedures ([00.40-00.43](../chapter-0/index.md#00-40))
 - **88.78** Diagnostic ultrasound of gravid uterus {#88-78}
   - Intrauterine cephalometry:
   - echo
@@ -408,14 +408,14 @@
 - **88.91** Magnetic resonance imaging of brain and brain stem {#88-91}
   - _Excludes:_ intraoperative magnetic resonance imaging ([88.96](#88-96))
     - laser interstitial thermal therapy [LITT] of lesion or tissue of brain under guidance
-    - ([17.61](#17-61))
+    - ([17.61](../chapter-3a/index.md#17-61))
     - real-time magnetic resonance imaging ([88.96](#88-96))
 - **88.92** Magnetic resonance imaging of chest and myocardium {#88-92}
   - For evaluation of hilar and mediastinal lymphadenopathy
   - _Excludes:_ laser interstitial thermal therapy [LITT] of lesion or tissue of breast under guidance
-    - ([17.69](#17-69))
+    - ([17.69](../chapter-3a/index.md#17-69))
     - laser interstitial thermal therapy [LITT] of lesion or tissue of lung under guidance
-    - ([17.69](#17-69))
+    - ([17.69](../chapter-3a/index.md#17-69))
 - **88.93** Magnetic resonance imaging of spinal canal {#88-93}
   - Spinal cord levels:
   - cervical
@@ -428,7 +428,7 @@
   - Extremities (upper) (lower)
 - **88.95** Magnetic resonance imaging of pelvis, prostate, and bladder {#88-95}
   - _Excludes:_ laser interstitial thermal therapy [LITT] of lesion or tissue of prostate under guidance
-    - ([17.69](#17-69))
+    - ([17.69](../chapter-3a/index.md#17-69))
 - **88.96** Other intraoperative magnetic resonance imaging {#88-96}
   - iMRI
   - Real-time magnetic resonance imaging
@@ -438,7 +438,7 @@
   - Face
   - Neck
   - _Excludes:_ laser interstitial thermal therapy [LITT] of lesion or tissue of other and unspecified site
-    - under guidance ([17.69](#17-69))
+    - under guidance ([17.69](../chapter-3a/index.md#17-69))
 - **88.98** Bone mineral density studies {#88-98}
   - Dual photon absorptiometry
   - Quantitative computed tomography (CT)
@@ -529,11 +529,11 @@
 - **89.36** Manual examination of breast {#89-36}
 - **89.37** Vital capacity determination {#89-37}
   - 89.370 Six minute walking test (IM)
-  - _Excludes:_ endoscopic pulmonary airway flow measurement ([33.72](#33-72))
+  - _Excludes:_ endoscopic pulmonary airway flow measurement ([33.72](../chapter-6/index.md#33-72))
 - **89.38** Other nonoperative respiratory measurements {#89-38}
   - Plethysmography for measurement of respiratory function
   - Thoracic impedance plethysmography
-  - _Excludes:_ endoscopic pulmonary airway flow measurement ([33.72](#33-72))
+  - _Excludes:_ endoscopic pulmonary airway flow measurement ([33.72](../chapter-6/index.md#33-72))
 - **89.39** Other nonoperative measurements and examinations {#89-39}
 
 ## 14 C-Urea breath test {#14}
@@ -560,8 +560,8 @@
   - Artificial pacemaker function check NOS
   - Bedside device check of pacemaker or cardiac resynchronization pacemaker [CRT-P]
   - Interrogation only without arrhythmia induction
-  - _Excludes:_ catheter based invasive electrophysiologic testing ([37.26](#37-26))
-    - noninvasive programmed electrical stimulation [NIPS] (arrhythmia induction) ([37.20](#37-20))
+  - _Excludes:_ catheter based invasive electrophysiologic testing ([37.26](../chapter-7/index.md#37-26))
+    - noninvasive programmed electrical stimulation [NIPS] (arrhythmia induction) ([37.20](../chapter-7/index.md#37-20))
 - **89.46** Artificial pacemaker artifact wave form check {#89-46}
 - **89.47** Artificial pacemaker electrode impedance check {#89-47}
 - **89.48** Artificial pacemaker voltage or amperage threshold check {#89-48}
@@ -569,12 +569,12 @@
   - Bedside check of an AICD or cardiac resynchronization defibrillator [CRT-D]
   - Checking pacing thresholds of device
   - Interrogation only without arrhythmia induction
-  - _Excludes:_ catheter based invasive electrophysiologic testing ([37.26](#37-26))
-    - noninvasive programmed electrical stimulation [NIPS] (arrhythmia induction) ([37.20](#37-20))
+  - _Excludes:_ catheter based invasive electrophysiologic testing ([37.26](../chapter-7/index.md#37-26))
+    - noninvasive programmed electrical stimulation [NIPS] (arrhythmia induction) ([37.20](../chapter-7/index.md#37-20))
 
 ### 89.5 Other nonoperative cardiac and vascular diagnostic procedures {#89-5}
 
-- _Excludes:_ fetal EKG ([75.32](#75-32))
+- _Excludes:_ fetal EKG ([75.32](../chapter-13/index.md#75-32))
 - **89.50** Ambulatory cardiac monitoring {#89-50}
   - Analog devices [Holter-type]
 - **89.51** Rhythm electrocardiogram {#89-51}
@@ -602,18 +602,18 @@
 
 - _Excludes:_ electrocardiographic monitoring during surgery -- omit code
   - implantation or replacement of subcutaneous device for intracardiac hemodynamic
-  - monitoring ([00.57](#00-57))
+  - monitoring ([00.57](../chapter-0/index.md#00-57))
   - insertion or replacement of implantable pressure sensor (lead) for intracardiac hemodynamic
-  - monitoring ([00.56](#00-56))
+  - monitoring ([00.56](../chapter-0/index.md#00-56))
 - **89.60** Continuous intra-arterial blood gas monitoring {#89-60}
   - Insertion of blood gas monitoring system and continuous monitoring of blood gases
   - through an intra-arterial sensor
 - **89.61** Systemic arterial pressure monitoring {#89-61}
-  - _Excludes:_ intra-aneurysm sac pressure monitoring (intraoperative) ([00.58](#00-58))
-    - intravascular pressure measurement of intrathoracic arteries ([00.67](#00-67))
-    - intravascular pressure measurement of peripheral arteries ([00.68](#00-68))
+  - _Excludes:_ intra-aneurysm sac pressure monitoring (intraoperative) ([00.58](../chapter-0/index.md#00-58))
+    - intravascular pressure measurement of intrathoracic arteries ([00.67](../chapter-0/index.md#00-67))
+    - intravascular pressure measurement of peripheral arteries ([00.68](../chapter-0/index.md#00-68))
 - **89.62** Central venous pressure monitoring {#89-62}
-  - _Excludes:_ intravascular pressure measurement, other specified and unspecified vessels ([00.69](#00-69))
+  - _Excludes:_ intravascular pressure measurement, other specified and unspecified vessels ([00.69](../chapter-0/index.md#00-69))
 - **89.63** Pulmonary artery pressure monitoring {#89-63}
   - _Excludes:_ pulmonary artery wedge monitoring ([89.64](#89-64))
 - **89.64** Pulmonary artery wedge monitoring {#89-64}
@@ -628,7 +628,7 @@
   - Cardiac output monitor by thermodilution indicator
 - **89.69** Monitoring of coronary blood flow {#89-69}
   - Coronary blood f low monitoring by coincidence counting technique
-  - _Excludes:_ intravascular pressure measurement of coronary arteries ([00.59](#00-59))
+  - _Excludes:_ intravascular pressure measurement of coronary arteries ([00.59](../chapter-0/index.md#00-59))
 
 ### 89.7 General physical examination {#89-7}
 
@@ -1584,8 +1584,8 @@ The following fourth-digit subclassification is for use with categories in secti
 ### 92.2 Therapeutic radiology and nuclear medicine {#92-2}
 
 - _Excludes:_ that for:
-  - ablation of pituitary gland ([07.64-07.69](#07-64))
-  - destruction of chorioretinal lesion ([14.26-14.27](#14-26))
+  - ablation of pituitary gland ([07.64-07.69](../chapter-2/index.md#07-64))
+  - destruction of chorioretinal lesion ([14.26-14.27](../chapter-3/index.md#14-26))
 - **92.20** Inf usion of liquid brachytherapy radioisotope {#92-20}
   - I-125 radioisotope
   - Intracavitary brachytherapy
@@ -1703,7 +1703,7 @@ The following fourth-digit subclassification is for use with categories in secti
 - **93.14** Training in joint movements {#93-14}
 - **93.15** Mobilization of spine {#93-15}
 - **93.16** Mobilization of other joints {#93-16}
-  - _Excludes:_ manipulation o temporomandibular joint ([76.95](#76-95))
+  - _Excludes:_ manipulation o temporomandibular joint ([76.95](../chapter-14/index.md#76-95))
 - **93.17** Other passive musculoskeletal exercise {#93-17}
 - **93.18** Breathing exercise {#93-18}
 - **93.19** Exercise, not elsewhere classified {#93-19}
@@ -1754,7 +1754,7 @@ The following fourth-digit subclassification is for use with categories in secti
   - Crutchf ield tongs
   - halo device
   - Vinke tongs
-  - _Excludes:_ insertion of tongs or halo traction device ([02.94](#02-94))
+  - _Excludes:_ insertion of tongs or halo traction device ([02.94](../chapter-1/index.md#02-94))
 - **93.42** Other spinal traction {#93-42}
   - Cotrel's traction
   - _Excludes:_ cervical collar ([93.52](#93-52))
@@ -1773,7 +1773,7 @@ The following fourth-digit subclassification is for use with categories in secti
 
 ### 93.5 Other immobilization, pressure, and attention to wound {#93-5}
 
-- _Excludes:_ external fixator device ([84.71-84.73](#84-71))
+- _Excludes:_ external fixator device ([84.71-84.73](../chapter-14/index.md#84-71))
   - wound cleansing ([96.58-96.59](#96-58))
 - **93.51** Application of plaster jacket {#93-51}
   - _Excludes:_ Minerva jacket ([93.52](#93-52))
@@ -1898,13 +1898,13 @@ The following fourth-digit subclassification is for use with categories in secti
   - Oxygenators
   - Oxygen therapy
   - _Excludes:_ oxygenation of wound ([93.59](#93-59))
-    - SuperSaturated oxygen therapy ([00.49](#00-49))
+    - SuperSaturated oxygen therapy ([00.49](../chapter-0/index.md#00-49))
     - 93.960 High f low nasal canule oxygenation (IM)
 - **93.97** Decompression chamber {#93-97}
 - **93.98** Other control of atmospheric pressure and composition {#93-98}
   - Antigen-free air conditioning
   - Helium therapy
-  - _Excludes:_ inhaled nitric oxide therapy (INO) ([00.12](#00-12))
+  - _Excludes:_ inhaled nitric oxide therapy (INO) ([00.12](../chapter-0/index.md#00-12))
 - **93.99** Other respiratory procedures {#93-99}
   - Continuous negative pressure ventilation [CNP]
   - Postural drainage
@@ -2120,7 +2120,7 @@ The following fourth-digit subclassification is for use with categories in secti
   - 95.465 Vestibular evoked myogenic potential (IM)
 - **95.47** Hearing examination, not otherwise specif ied {#95-47}
 - **95.48** Fitting of hearing aid {#95-48}
-  - _Excludes:_ implantation of electromagnetic hearing device ([20.95](#20-95))
+  - _Excludes:_ implantation of electromagnetic hearing device ([20.95](../chapter-4/index.md#20-95))
 - **95.49** Other nonoperative procedures related to hearing {#95-49}
   - Adjustment (external components) of cochlear prosthetic device
 
@@ -2147,7 +2147,7 @@ The following fourth-digit subclassification is for use with categories in secti
 
 ### 96.1 Other nonoperative insertion {#96-1}
 
-- _Excludes:_ nasolacrimal intubation ([09.44](#09-44))
+- _Excludes:_ nasolacrimal intubation ([09.44](../chapter-3/index.md#09-44))
 - **96.11** Packing of external auditory canal {#96-11}
 - **96.14** Vaginal packing {#96-14}
 - **96.15** Insertion of vaginal mold {#96-15}
@@ -2175,7 +2175,7 @@ The following fourth-digit subclassification is for use with categories in secti
   - ultrasonography guidance
   - Hydrostatic reduction
   - Pneumatic reduction
-  - _Excludes:_ intra-abdominal manipulation of intestine, not otherwise specified ([46.80](#46-80))
+  - _Excludes:_ intra-abdominal manipulation of intestine, not otherwise specified ([46.80](../chapter-9/index.md#46-80))
 
 ### 96.3 Nonoperative alimentary tract irrigation, cleaning, and local instillation {#96-3}
 
@@ -2220,8 +2220,8 @@ The following fourth-digit subclassification is for use with categories in secti
   - Plaque removal
 - **96.55** Tracheostomy toilette {#96-55}
 - **96.56** Other lavage of bronchus and trachea {#96-56}
-  - _Excludes:_ diagnostic bronchoalveolar lavage (BAL)([33.24](#33-24))
-    - whole lung lavage ([33.99](#33-99))
+  - _Excludes:_ diagnostic bronchoalveolar lavage (BAL)([33.24](../chapter-6/index.md#33-24))
+    - whole lung lavage ([33.99](../chapter-6/index.md#33-99))
 - **96.57** Irrigation of vascular catheter {#96-57}
 - **96.58** Irrigation of wound catheter {#96-58}
 - **96.59** Other irrigation of wound {#96-59}
@@ -2310,8 +2310,8 @@ The following fourth-digit subclassification is for use with categories in secti
 ### 97.3 Nonoperative removal of therapeutic device f rom head and neck {#97-3}
 
 - **97.31** Removal of eye prosthesis {#97-31}
-  - _Excludes:_ removal of ocular implan ([16.71](#16-71))
-    - removal of orbital implan ([16.72](#16-72))
+  - _Excludes:_ removal of ocular implan ([16.71](../chapter-3/index.md#16-71))
+    - removal of orbital implan ([16.72](../chapter-3/index.md#16-72))
 - **97.32** Removal of nasal packing {#97-32}
 - **97.33** Removal of dental wiring {#97-33}
 - **97.34** Removal of dental packing {#97-34}
@@ -2320,7 +2320,7 @@ The following fourth-digit subclassification is for use with categories in secti
 - **97.37** Removal of tracheostomy tube {#97-37}
 - **97.38** Removal of sutures f rom head and neck {#97-38}
 - **97.39** Removal of other therapeutic device f rom head and neck {#97-39}
-  - _Excludes:_ removal of skull tongs ([02.94](#02-94))
+  - _Excludes:_ removal of skull tongs ([02.94](../chapter-1/index.md#02-94))
 
 ### 97.4 Nonoperative removal of therapeutic device f rom thorax {#97-4}
 
@@ -2336,7 +2336,7 @@ The following fourth-digit subclassification is for use with categories in secti
   - Removal of pVAD
   - Removal of percutaneous heart assist device
 - **97.49** Removal of other device f rom thorax {#97-49}
-  - _Excludes:_ Endoscopic removal of bronchial device(s) or substances ([33.78](#33-78))
+  - _Excludes:_ Endoscopic removal of bronchial device(s) or substances ([33.78](../chapter-6/index.md#33-78))
 
 ### 97.5 Nonoperative removal of therapeutic device f rom digestive system {#97-5}
 
@@ -2406,7 +2406,7 @@ The following fourth-digit subclassification is for use with categories in secti
 - **98.13** Removal of intraluminal f oreign body f rom pharynx without incision {#98-13}
 - **98.14** Removal of intraluminal f oreign body f rom larynx without incision {#98-14}
 - **98.15** Removal of intraluminal f oreign body f rom trachea and bronchus without incision {#98-15}
-  - _Excludes:_ Endoscopic removal of bronchial device(s) or substances ([33.78](#33-78))
+  - _Excludes:_ Endoscopic removal of bronchial device(s) or substances ([33.78](../chapter-6/index.md#33-78))
 - **98.16** Removal of intraluminal f oreign body f rom uterus without incision {#98-16}
   - _Excludes:_ removal of intrauterine contraceptive device ([97.71](#97-71))
 - **98.17** Removal of intraluminal f oreign body f rom vagina without incision {#98-17}
@@ -2441,7 +2441,7 @@ The following fourth-digit subclassification is for use with categories in secti
 
 ### 99.0 Transf usion of blood and blood components {#99-0}
 
-- Code also f or that done via catheter or cutdown ([38.92-38.94](#38-92))
+- Code also f or that done via catheter or cutdown ([38.92-38.94](../chapter-7/index.md#38-92))
 - **99.00** Perioperative autologous transfusion of whole blood or blood components {#99-00}
   - Intraoperative blood collection
   - Postoperative blood collection
@@ -2493,7 +2493,7 @@ The following fourth-digit subclassification is for use with categories in secti
   - _Excludes:_ aspirin - omit code
     - GP IIB/IIIa plalet inhibitor ([99.20](#99-20))
     - heparin ([99.19](#99-19))
-    - SuperSaturated oxygen therapy ([00.49](#00-49))
+    - SuperSaturated oxygen therapy ([00.49](../chapter-0/index.md#00-49))
     - warf arin - omit code
 - **99.11** Injection of Rh immune globulin {#99-11}
   - Injection of :
@@ -2516,7 +2516,7 @@ The following fourth-digit subclassification is for use with categories in secti
 - **99.17** Injection of insulin {#99-17}
 - **99.18** Injection or inf usion of electrolytes {#99-18}
 - **99.19** Injection of anticoagulant {#99-19}
-  - _Excludes:_ infusion of drotrecogin alfa (activated)([00.11](#00-11))
+  - _Excludes:_ infusion of drotrecogin alfa (activated)([00.11](../chapter-0/index.md#00-11))
 
 ### 99.2 Injection or inf usion of other therapeutic or prophylactic substance {#99-2}
 
@@ -2526,22 +2526,22 @@ The following fourth-digit subclassification is for use with categories in secti
   - intravenously acting locally or systemically
   - Code also f or:
   - injection (into):
-  - breast ([85.92](#85-92))
+  - breast ([85.92](../chapter-15/index.md#85-92))
   - bursa (82.94, 83.96)
-  - intraperitoneal (cavity) ([54.97](#54-97))
-  - intrathecal ([03.92](#03-92))
+  - intraperitoneal (cavity) ([54.97](../chapter-9/index.md#54-97))
+  - intrathecal ([03.92](../chapter-1/index.md#03-92))
   - joint (76.96, 81.92)
-  - kidney ([55.96](#55-96))
-  - liver ([50.94](#50-94))
-  - orbit ([16.91](#16-91))
+  - kidney ([55.96](../chapter-10/index.md#55-96))
+  - liver ([50.94](../chapter-9/index.md#50-94))
+  - orbit ([16.91](../chapter-3/index.md#16-91))
   - other sites -- see Alphabetic Index
   - perfusion:
-  - NOS ([39.97](#39-97))
+  - NOS ([39.97](../chapter-7/index.md#39-97))
   - intestine (46.95, 46.96)
-  - kidney ([55.95](#55-95))
-  - liver ([50.93](#50-93))
-  - total body ([39.96](#39-96))
-- _Excludes:_ SuperSaturated oxygen therapy ([00.49](#00-49))
+  - kidney ([55.95](../chapter-10/index.md#55-95))
+  - liver ([50.93](../chapter-9/index.md#50-93))
+  - total body ([39.96](../chapter-7/index.md#39-96))
+- _Excludes:_ SuperSaturated oxygen therapy ([00.49](../chapter-0/index.md#00-49))
 - **99.20** Injection or inf usion of platelet inhibitor {#99-20}
   - Glycoprotein IIB/IIIa inhibitor
   - GP IIB/IIIa inhibitor
@@ -2549,9 +2549,9 @@ The following fourth-digit subclassification is for use with categories in secti
   - _Excludes:_ infusion of heparin ([99.19](#99-19))
     - injection or infusion of thrombolytic agent ([99.10](#99-10))
 - **99.21** Injection of antibiotic {#99-21}
-  - _Excludes:_ injection or infusion of oxazolidinone class of antibiotics ([00.14](#00-14))
+  - _Excludes:_ injection or infusion of oxazolidinone class of antibiotics ([00.14](../chapter-0/index.md#00-14))
 - **99.22** Injection of other anti-infective {#99-22}
-  - _Excludes:_ injection or infusion of oxazolidinone class of antibiotics ([00.14](#00-14))
+  - _Excludes:_ injection or infusion of oxazolidinone class of antibiotics ([00.14](../chapter-0/index.md#00-14))
 - **99.23** Injection of steroid {#99-23}
   - Injection of cortisone
   - Subdermal implantation of progesterone
@@ -2560,13 +2560,13 @@ The following fourth-digit subclassification is for use with categories in secti
   - Chemoembolization
   - Injection or inf usion of antineoplastic agent
   - 99.250 Transarterial Chemoembolization (TACE) (IM)
-  - Use additional code: f or disruption of blood brain barrier, if perf ormed [BBBD] ([00.19](#00-19))
+  - Use additional code: f or disruption of blood brain barrier, if perf ormed [BBBD] ([00.19](../chapter-0/index.md#00-19))
   - _Excludes:_ immunotherapy, antineoplastic (00.15, 99.28)
-    - implantation of chemotherapeutic agent ([00.10](#00-10))
+    - implantation of chemotherapeutic agent ([00.10](../chapter-0/index.md#00-10))
     - injection of radioisotope ([92.28](#92-28))
     - injection or infusion of biological response modifier [BRM] as an antineoplastic agent
     - ([99.28](#99-28))
-    - intravenous infusion of clofarabine ([17.70](#17-70))
+    - intravenous infusion of clofarabine ([17.70](../chapter-3a/index.md#17-70))
 - **99.26** Injection of tranquilizer {#99-26}
 - **99.27** Iontophoresis {#99-27}
 - **99.28** Injection or inf usion of biological response modif ier [BRM] as an antineoplastic agent {#99-28}
@@ -2575,18 +2575,18 @@ The following fourth-digit subclassification is for use with categories in secti
   - Interleukin therapy
   - Low-dose interleukin-2 (IL-2) therapy
   - Tumor vaccine
-  - _Excludes:_ high-dose infusion interleukin-2 [IL-2] ([00.15](#00-15))
+  - _Excludes:_ high-dose infusion interleukin-2 [IL-2] ([00.15](../chapter-0/index.md#00-15))
 - **99.29** Injection or inf usion of other therapeutic or prophylactic substance {#99-29}
   - _Includes:_ Therapeutic intravesical injection
   - _Excludes:_ administration of neuroprotective agent ([99.75](#99-75))
     - immunization ([99.31-99.59](#99-31))
-    - infusion of blood brain barrier disruption substance ([00.19](#00-19))
+    - infusion of blood brain barrier disruption substance ([00.19](../chapter-0/index.md#00-19))
     - injection of sclerosing agent into:
-    - esophageal varices ([42.33](#42-33))
-    - hemorrhoids ([49.42](#49-42))
-    - veins ([39.92](#39-92))
-    - injection or infusion of human B-type natriuretic peptide (hBNP)([00.13](#00-13))
-    - injection or infusion of nesiritide ([00.13](#00-13))
+    - esophageal varices ([42.33](../chapter-9/index.md#42-33))
+    - hemorrhoids ([49.42](../chapter-9/index.md#49-42))
+    - veins ([39.92](../chapter-7/index.md#39-92))
+    - injection or infusion of human B-type natriuretic peptide (hBNP)([00.13](../chapter-0/index.md#00-13))
+    - injection or infusion of nesiritide ([00.13](../chapter-0/index.md#00-13))
     - injection or infusion of platelet inhibitor ([99.20](#99-20))
     - injection or infusion of thrombolytic agent ([99.10](#99-10))
     - 99.290 Injection of contrast agent (IM)
@@ -2659,8 +2659,8 @@ The following fourth-digit subclassification is for use with categories in secti
 ### 99.6 Conversion of cardiac rhythm {#99-6}
 
 - _Excludes:_ open chest cardiac:
-  - electric stimulation ([37.91](#37-91))
-  - massage ([37.91](#37-91))
+  - electric stimulation ([37.91](../chapter-7/index.md#37-91))
+  - massage ([37.91](../chapter-7/index.md#37-91))
 - **99.60** Cardiopulmonary resuscitation, not otherwise specif ied {#99-60}
 - **99.61** Atrial cardioversion {#99-61}
 - **99.62** Other electric countershock of heart {#99-62}
@@ -2695,8 +2695,8 @@ The following fourth-digit subclassification is for use with categories in secti
 - **99.78** Aquapheresis {#99-78}
   - Plasma water removal
   - Ultraf iltration [f or water removal]
-  - _Excludes:_ hemodiafiltration ([39.95](#39-95))
-    - hemodialysis ([39.95](#39-95))
+  - _Excludes:_ hemodiafiltration ([39.95](../chapter-7/index.md#39-95))
+    - hemodialysis ([39.95](../chapter-7/index.md#39-95))
     - therapeutic plasmapheresis ([99.71](#99-71))
 - **99.79** Other {#99-79}
   - Apheresis (harvest) of stem cells
@@ -2706,7 +2706,7 @@ The following fourth-digit subclassification is for use with categories in secti
 - **99.81** Hypothermia (central) (local) {#99-81}
   - _Excludes:_ gastric cooling ([96.31](#96-31))
     - gastric freezing ([96.32](#96-32))
-    - that incidental to open heart surgery ([39.62](#39-62))
+    - that incidental to open heart surgery ([39.62](../chapter-7/index.md#39-62))
 - **99.82** Ultraviolet light therapy {#99-82}
   - Actinotherapy
 - **99.83** Other phototherapy {#99-83}
@@ -2725,7 +2725,7 @@ The following fourth-digit subclassification is for use with categories in secti
   - Transcutaneous (surf ace) placement of pads or patches f or stimulation to aid bone
   - healing
   - _Excludes:_ insertion of invasive or semi invasive bone growth stimulators (device) (percutaneous
-    - electrodes) ([78.90-78.99](#78-90))
+    - electrodes) ([78.90-78.99](../chapter-14/index.md#78-90))
 - **99.88** Therapeutic photopheresis {#99-88}
   - Extracorporeal photochemotherapy
   - Extracorporeal photopheresis

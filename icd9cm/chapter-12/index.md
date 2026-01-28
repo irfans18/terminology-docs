@@ -2,7 +2,7 @@
 
 ## 65 Operations on ovary {#65}
 
-- Code also any application or administration of  an adhesion barrier substance ([99.77](#99-77))
+- Code also any application or administration of  an adhesion barrier substance ([99.77](../chapter-16/index.md#99-77))
 ### 65.0 Oophorotomy {#65-0}
 
 - Salpingo-oophorotomy
@@ -15,7 +15,7 @@
 #### 65.13 Laparoscopic biopsy of ovary {#65-13}
 #### 65.14 Other laparoscopic diagnostic procedures on ovaries {#65-14}
 #### 65.19 Other diagnostic procedures on ovaries {#65-19}
-  - *Excludes:* microscopic examination of specimen from ovary ([91.41-91.49](#91-41))
+  - *Excludes:* microscopic examination of specimen from ovary ([91.41-91.49](../chapter-16/index.md#91-41))
 ### 65.2 Local excision or destruction of ovarian lesion or tissue {#65-2}
 
 #### 65.21 Marsupialization of ovarian cyst {#65-21}
@@ -96,7 +96,7 @@
   - Ovarian drilling
 ## 66 Operations on fallopian tubes {#66}
 
-- Code also any application or administration of an adhesion barrier substance ([99.77](#99-77))
+- Code also any application or administration of an adhesion barrier substance ([99.77](../chapter-16/index.md#99-77))
 ### 66.0 Salpingotomy and salpingostomy {#66-0}
 
 #### 66.01 Salpingotomy {#66-01}
@@ -108,7 +108,7 @@
 #### 66.11 Biopsy of fallopian tube {#66-11}
 #### 66.18 Laparoscopy, other diagnostic procedures on fallopian tubes (IM) {#66-18}
 #### 66.19 Other diagnostic procedures on fallopian tubes {#66-19}
-  - *Excludes:* microscopic examination of specimen from fallopian tubes ([91.41-91.49](#91-41))
+  - *Excludes:* microscopic examination of specimen from fallopian tubes ([91.41-91.49](../chapter-16/index.md#91-41))
     - radiography of fallopian tubes (87.82-87.83, 87.85)
     - Rubin's test (66.8)
 ### 66.2 Bilateral endoscopic destruction or occlusion of fallopian tubes {#66-2}
@@ -178,7 +178,7 @@
 - saline
 - Rubin's test
   - *Excludes:* insufflation of therapeutic agent  ([66.95](#66-95))
-    - that for hysterosalpingography ([87.82-87.83](#87-82))
+    - that for hysterosalpingography ([87.82-87.83](../chapter-16/index.md#87-82))
 ### 66.9 Other operations on fallopian tubes {#66-9}
 
 #### 66.91 Aspiration of fallopian tube {#66-91}
@@ -195,7 +195,7 @@
     - other ([65.89](#65-89))
 ## 67 Operations on cervix {#67}
 
-- Code also any application or administration of  an adhesion barrier substance ([99.77](#99-77))
+- Code also any application or administration of  an adhesion barrier substance ([99.77](../chapter-16/index.md#99-77))
 ### 67.0 Dilation of cervical canal {#67-0}
 
   - *Excludes:* dilation and curettage ([69.01-69.09](#69-01))
@@ -208,7 +208,7 @@
   - Punch biopsy of cervix NOS
   - *Excludes:* conization of cervix (67.2)
 #### 67.19 Other diagnostic procedures on cervix {#67-19}
-  - *Excludes:* microscopic examination of specimen from cervix ([91.41-91.49](#91-41))
+  - *Excludes:* microscopic examination of specimen from cervix ([91.41-91.49](../chapter-16/index.md#91-41))
 ### 67.2 Conization of  cervix {#67-2}
 
   - *Excludes:* that by:
@@ -242,27 +242,27 @@
     - transabdominal cerclage of cervix ([67.51](#67-51))
 ### 67.6 Other repair of cervix {#67-6}
 
-  - *Excludes:* repair of current obstetric laceration ([75.51](#75-51))
+  - *Excludes:* repair of current obstetric laceration ([75.51](../chapter-13/index.md#75-51))
 #### 67.61 Suture of laceration of cervix {#67-61}
 #### 67.62 Repair of  f istula of  cervix {#67-62}
   - Cervicosigmoidal f istulectomy
   - *Excludes:* fistulectomy:
-    - cervicovesical ([57.84](#57-84))
-    - ureterocervical ([56.84](#56-84))
-    - vesicocervicovaginal ([57.84](#57-84))
+    - cervicovesical ([57.84](../chapter-10/index.md#57-84))
+    - ureterocervical ([56.84](../chapter-10/index.md#56-84))
+    - vesicocervicovaginal ([57.84](../chapter-10/index.md#57-84))
 #### 67.69 Other repair of cervix {#67-69}
   - Repair of  old obstetric laceration of  cervix
 ## 68 Other incision and excision of uterus {#68}
 
-- Code also any application or administration of  an adhesion barrier substance ([99.77](#99-77))
+- Code also any application or administration of  an adhesion barrier substance ([99.77](../chapter-16/index.md#99-77))
 ### 68.0 Hysterotomy {#68-0}
 
 - Hysterotomy with removal of  hydatidif orm mole
-  - *Excludes:* hysterotomy for termination of pregnancy  ([74.91](#74-91))
+  - *Excludes:* hysterotomy for termination of pregnancy  ([74.91](../chapter-13/index.md#74-91))
 ### 68.1 Diagnostic procedures on uterus and supporting structures {#68-1}
 
 #### 68.11 Digital examination of uterus {#68-11}
-  - *Excludes:* pelvic examination, so describe ([89.26](#89-26))
+  - *Excludes:* pelvic examination, so describe ([89.26](../chapter-16/index.md#89-26))
     - postpartal manual exploration o uterine cavity (75.7)
 #### 68.12 Hysteroscopy {#68-12}
   - *Excludes:* that with biopsy ([68.16](#68-16))
@@ -279,13 +279,13 @@
   - *Excludes:* diagnostic:
     - aspiration curettage ([69.59](#69-59))
     - dilation and curettage ([69.09](#69-09))
-    - microscopic examination of specimen from uterus ([91.41-91.49](#91-41))
-    - pelvic examination ([89.26](#89-26))
+    - microscopic examination of specimen from uterus ([91.41-91.49](../chapter-16/index.md#91-41))
+    - pelvic examination ([89.26](../chapter-16/index.md#89-26))
     - radioisotope scan of:
-    - placenta ([92.17](#92-17))
-    - uterus ([92.19](#92-19))
-    - ultrasonography of uterus ([88.78-88.79](#88-78))
-    - x-ray of uterus ([87.81-87.89](#87-81))
+    - placenta ([92.17](../chapter-16/index.md#92-17))
+    - uterus ([92.19](../chapter-16/index.md#92-19))
+    - ultrasonography of uterus ([88.78-88.79](../chapter-16/index.md#88-78))
+    - x-ray of uterus ([87.81-87.89](../chapter-16/index.md#87-81))
 ### 68.2 Excision or destruction of lesion or tissue of uterus {#68-2}
 
 #### 68.21 Division of endometrial synechiae {#68-21}
@@ -356,9 +356,9 @@
 - Removal of  ovaries, tubes, uterus, vagina, bladder,  and urethra (with removal of  sigmoid colon
 - and rectum)
 - Code also any synchronous:
-- colostomy ([46.12-46.13](#46-12))
+- colostomy ([46.12-46.13](../chapter-9/index.md#46-12))
 - lymph gland dissection (40.3, 40.5)
-- urinary diversion ([56.51-56.79](#56-51))
+- urinary diversion ([56.51-56.79](../chapter-10/index.md#56-51))
 ### 68.9 Other and unspecified hysterectomy {#68-9}
 
 - Hysterectomy, NOS
@@ -366,7 +366,7 @@
     - vaginal hysterectomy, any approach (68.51-68.59, 68.71-68.79)
 ## 69 Other operations on uterus and supporting structures {#69}
 
-- Code also any application or administration of  an adhesion barrier substance ([99.77](#99-77))
+- Code also any application or administration of  an adhesion barrier substance ([99.77](../chapter-16/index.md#99-77))
 ### 69.0 Dilation and curettage of uterus {#69-0}
 
   - *Excludes:* aspiration curettage of uterus ([69.51-69.59](#69-51))
@@ -392,11 +392,11 @@
 
 ### 69.4 Uterine repair {#69-4}
 
-  - *Excludes:* repair of current obstetric laceration ([75.50-75.52](#75-50))
+  - *Excludes:* repair of current obstetric laceration ([75.50-75.52](../chapter-13/index.md#75-50))
 #### 69.40 Laparoscopic reconstructive surgery of uterus (IM) {#69-40}
 #### 69.41 Suture of laceration of uterus {#69-41}
 #### 69.42 Closure of  f istula of  uterus {#69-42}
-  - *Excludes:* uterovesical fistulectom ([57.84](#57-84))
+  - *Excludes:* uterovesical fistulectom ([57.84](../chapter-10/index.md#57-84))
 #### 69.49 Other repair of uterus {#69-49}
   - Repair of  old obstetric laceration of  uterus
 ### 69.5 Aspiration curettage of uterus {#69-5}
@@ -422,23 +422,23 @@
 #### 69.92 Artificial insemination {#69-92}
 #### 69.93 Insertion of  laminaria {#69-93}
 #### 69.94 Manual replacement of inverted uterus {#69-94}
-  - *Excludes:* that in immediate postpartal period ([75.94](#75-94))
+  - *Excludes:* that in immediate postpartal period ([75.94](../chapter-13/index.md#75-94))
 #### 69.95 Incision of  cervix {#69-95}
-  - *Excludes:* that to assist delivery ([73.93](#73-93))
+  - *Excludes:* that to assist delivery ([73.93](../chapter-13/index.md#73-93))
 #### 69.96 Removal of  cerclage material f rom cervix {#69-96}
 #### 69.97 Removal of  other penetrating f oreign body f rom cervix {#69-97}
-  - *Excludes:* removal of intraluminal foreign body from cervix ([98.16](#98-16))
+  - *Excludes:* removal of intraluminal foreign body from cervix ([98.16](../chapter-16/index.md#98-16))
 #### 69.98 Other operations on supporting structures of uterus {#69-98}
   - *Excludes:* biopsy of uterine ligamen ([68.14](#68-14))
 #### 69.99 Other operations on cervix and uterus {#69-99}
   - *Excludes:* removal of:
-    - foreign body ([98.16](#98-16))
-    - intrauterine contraceptive device ([97.71](#97-71))
-    - obstetric bag, bougie, or pack ([97.72](#97-72))
-    - packing ([97.72](#97-72))
+    - foreign body ([98.16](../chapter-16/index.md#98-16))
+    - intrauterine contraceptive device ([97.71](../chapter-16/index.md#97-71))
+    - obstetric bag, bougie, or pack ([97.72](../chapter-16/index.md#97-72))
+    - packing ([97.72](../chapter-16/index.md#97-72))
 ## 70 Operations on vagina and cul-de-sac {#70}
 
-- Code also any application or administration of  an adhesion barrier substance ([99.77](#99-77))
+- Code also any application or administration of  an adhesion barrier substance ([99.77](../chapter-16/index.md#99-77))
 ### 70.0 Culdocentesis {#70-0}
 
 ### 70.1 Incision of  vagina and cul-de-sac {#70-1}
@@ -481,7 +481,7 @@
   - Posterior colporrhaphy
   - *Excludes:* repair of cystocele and rectocele with graft or prosthesis ([70.53](#70-53))
     - repair of rectocele wtih graft or prosthesis ([70.55](#70-55))
-    - STARR procedure ([48.74](#48-74))
+    - STARR procedure ([48.74](../chapter-9/index.md#48-74))
 #### 70.53 Repair of cystocele and rectocele with graft or prosthesis {#70-53}
   - Use additional code: f or biological substance ([70.94](#70-94)) or synthetic substance ([70.95](#70-95)), if known
 #### 70.54 Repair of  cystocele with graf t or prosthesis {#70-54}
@@ -503,7 +503,7 @@
 ### 70.7 Other repair of vagina {#70-7}
 
   - *Excludes:* lysis of intraluminal adhesions ([70.13](#70-13))
-    - repair of current obstetric laceration ([75.69](#75-69))
+    - repair of current obstetric laceration ([75.69](../chapter-13/index.md#75-69))
     - that associated with cervical amputation  (67.4)
 #### 70.70 Laparoscopic reconstructive surgery of pelvic floor (IM) {#70-70}
 #### 70.71 Suture of laceration of vagina {#70-71}
@@ -512,14 +512,14 @@
 #### 70.74 Repair of  other vaginoenteric f istula {#70-74}
 #### 70.75 Repair of  other f istula of  vagina {#70-75}
   - *Excludes:* repair of fistula:
-    - rectovesicovaginal ([57.83](#57-83))
-    - ureterovaginal ([56.84](#56-84))
-    - urethrovaginal ([58.43](#58-43))
+    - rectovesicovaginal ([57.83](../chapter-10/index.md#57-83))
+    - ureterovaginal ([56.84](../chapter-10/index.md#56-84))
+    - urethrovaginal ([58.43](../chapter-10/index.md#58-43))
     - uterovaginal ([69.42](#69-42))
-    - vesicocervicovaginal ([57.84](#57-84))
-    - vesicosigmoidovaginal ([57.83](#57-83))
-    - vesicoureterovaginal ([56.84](#56-84))
-    - vesicovaginal ([57.84](#57-84))
+    - vesicocervicovaginal ([57.84](../chapter-10/index.md#57-84))
+    - vesicosigmoidovaginal ([57.83](../chapter-10/index.md#57-83))
+    - vesicoureterovaginal ([56.84](../chapter-10/index.md#56-84))
+    - vesicovaginal ([57.84](../chapter-10/index.md#57-84))
 #### 70.76 Hymenorrhaphy {#70-76}
 #### 70.77 Vaginal suspension and fixation {#70-77}
 #### 70.78 Vaginal suspension and fixation with graft or prosthesis {#70-78}
@@ -534,22 +534,22 @@
 
 #### 70.91 Other operations on vagina {#70-91}
   - *Excludes:* insertion of:
-    - diaphragm ([96.17](#96-17))
-    - mold ([96.15](#96-15))
-    - pack ([96.14](#96-14))
-    - pessary ([96.18](#96-18))
-    - suppository ([96.49](#96-49))
+    - diaphragm ([96.17](../chapter-16/index.md#96-17))
+    - mold ([96.15](../chapter-16/index.md#96-15))
+    - pack ([96.14](../chapter-16/index.md#96-14))
+    - pessary ([96.18](../chapter-16/index.md#96-18))
+    - suppository ([96.49](../chapter-16/index.md#96-49))
     - removal of:
-    - diaphragm ([97.73](#97-73))
-    - foreign body ([98.17](#98-17))
-    - pack ([97.75](#97-75))
-    - pessary ([97.74](#97-74))
+    - diaphragm ([97.73](../chapter-16/index.md#97-73))
+    - foreign body ([98.17](../chapter-16/index.md#98-17))
+    - pack ([97.75](../chapter-16/index.md#97-75))
+    - pessary ([97.74](../chapter-16/index.md#97-74))
     - replacement of:
-    - diaphragm ([97.24](#97-24))
-    - pack ([97.26](#97-26))
-    - pessary ([97.25](#97-25))
-    - vaginal dilation ([96.16](#96-16))
-    - vaginal douche ([96.44](#96-44))
+    - diaphragm ([97.24](../chapter-16/index.md#97-24))
+    - pack ([97.26](../chapter-16/index.md#97-26))
+    - pessary ([97.25](../chapter-16/index.md#97-25))
+    - vaginal dilation ([96.16](../chapter-16/index.md#96-16))
+    - vaginal douche ([96.44](../chapter-16/index.md#96-44))
 #### 70.92 Other operations on cul-de-sac {#70-92}
   - Obliteration of cul-de-sac
   - Repair of  vaginal enterocele
@@ -583,13 +583,13 @@
   - Vaginal suspension and fixation ([70.78](#70-78))
 ## 71 Operations on vulva and perineum {#71}
 
-- Code also any application or administration of  an adhesion barrier substance ([99.77](#99-77))
+- Code also any application or administration of  an adhesion barrier substance ([99.77](../chapter-16/index.md#99-77))
 ### 71.0 Incision of  vulva and perineum {#71-0}
 
 #### 71.01 Lysis of vulvar adhesions {#71-01}
 #### 71.09 Other incision of vulva and perineum {#71-09}
   - Enlargement of introitus NOS
-  - *Excludes:* removal of foreign body without incision ([98.23](#98-23))
+  - *Excludes:* removal of foreign body without incision ([98.23](../chapter-16/index.md#98-23))
 ### 71.1 Diagnostic procedures on vulva {#71-1}
 
 #### 71.11 Biopsy of vulva {#71-11}
@@ -621,19 +621,19 @@
   - Vulvectomy NOS
 ### 71.7 Repair of  vulva and perineum {#71-7}
 
-  - *Excludes:* repair of current obstetric laceration ([75.69](#75-69))
+  - *Excludes:* repair of current obstetric laceration ([75.69](../chapter-13/index.md#75-69))
 #### 71.71 Suture of laceration of vulva or perineum {#71-71}
 #### 71.72 Repair of  f istula of  vulva or perineum {#71-72}
   - *Excludes:* repair of fistula:
-    - urethroperineal ([58.43](#58-43))
-    - urethroperineovesical ([57.84](#57-84))
+    - urethroperineal ([58.43](../chapter-10/index.md#58-43))
+    - urethroperineovesical ([57.84](../chapter-10/index.md#57-84))
     - vaginoperineal ([70.75](#70-75))
 #### 71.79 Other repair of vulva and perineum {#71-79}
   - Repair of  old obstetric laceration of  vulva or perineum
 ### 71.8 Other operations on vulva {#71-8}
 
   - *Excludes:* removal of:
-    - foreign body w ithout incision ([98.23](#98-23))
-    - packing ([97.75](#97-75))
-    - replacement of packing ([97.26](#97-26))
+    - foreign body w ithout incision ([98.23](../chapter-16/index.md#98-23))
+    - packing ([97.75](../chapter-16/index.md#97-75))
+    - replacement of packing ([97.26](../chapter-16/index.md#97-26))
 ### 71.9 Other operations on female genital organs {#71-9}
