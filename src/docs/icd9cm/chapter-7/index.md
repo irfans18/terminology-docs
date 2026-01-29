@@ -367,8 +367,8 @@
   - heart muscle with catheter stent, prosthesis, or vein graft
   - myocardial with catheter stent, prosthesis, or vein graft
   - Heart revascularization NOS
-  - 36.100 Aortocoronary bypass for heart revascularization with surgical ventricular restoration (IM)
-  - 36.101 Aortocoronary bypass for heart revascularization with IVS Rupture Repair (IM)
+##### 36.100 Aortocoronary bypass for heart revascularization with surgical ventricular restoration (IM)
+##### 36.101 Aortocoronary bypass for heart revascularization with IVS Rupture Repair (IM)
 #### 36.11 (Aorto)coronary bypass of one coronary artery {#36-11}
 #### 36.12 (Aorto)coronary bypass of two coronary arteries {#36-12}
 #### 36.13 (Aorto)coronary bypass of three coronary arteries {#36-13}
@@ -514,14 +514,14 @@
   - Endovenous ablation :
   - Endovenous Ablation for Arteriovenous Malformation
   - Endovenous Ablation for Varicose Veins
-  - 37.340 Catheter based invasive electrophysiologic 3-dimensional cryo-ablation
+##### 37.340 Catheter based invasive electrophysiologic 3-dimensional cryo-ablation
   - Catheter based invasive electrophysiologic 3-dimensional cryo-ablation with general
   - anaesthesia
-  - 37.341 Catheter based invasive electrophysiologic 3-dimensional radiofrequency
+##### 37.341 Catheter based invasive electrophysiologic 3-dimensional radiofrequency
   - ablation
   - Catheter based invasive electrophysiologic 3-dimensional radiofrequency ablation with
   - general anaesthesia
-  - 37.242 Catheter based invasive electrophysiologic cryo-ablation
+##### 37.242 Catheter based invasive electrophysiologic cryo-ablation
   - Catheter based invasive electrophysiologic cryo-ablation with general anaesthesia
   - *Excludes:* ablation, excision or destruction of lesion or tissue of heart:
     - open approach ([37.33](#37-33))
@@ -1151,8 +1151,8 @@
   - Anastomosis for renal dialysis
   - Formation of (peripheral) arteriovenous
   - fistula for renal [kidney] dialysis
-  - 39.270 Insertion of  temporary central dialysis catheter (IM)
-  - 39.271 Insertion of  permanent central dialysis catheter (IM)
+##### 39.270 Insertion of  temporary central dialysis catheter (IM)
+##### 39.271 Insertion of  permanent central dialysis catheter (IM)
   - *Includes:* Laparoscopic repair of indwelling peritoneal catheter for dialysis
     - 39.272 Insertion of  peritoneal dialysis catheter: peritoneoscopy technique (IM)
     - 39.273 Insertion of  peritoneal dialysis catheter: percutaneous technique (IM)
@@ -1276,10 +1276,10 @@
   - Plication of vein (peripheral)
   - Reimplantation of  artery
   - Aortic repair perkutan
-  - 39.590 Direct anastomosis for renal artery repair (IM)
-  - 39.591 Direct anastomosis for renal vein repair (IM)
-  - 39.951 Prolonged intermitent renal replacement therapy (IM)
-  - 39.952 Continuous renal replacement therapy (IM)
+##### 39.590 Direct anastomosis for renal artery repair (IM)
+##### 39.591 Direct anastomosis for renal vein repair (IM)
+##### 39.951 Prolonged intermitent renal replacement therapy (IM)
+##### 39.952 Continuous renal replacement therapy (IM)
   - Code also cardiopulmonary bypass  [extracorporeal circulation] [heart-lung machine] ([39.61](#39-61))
   - *Excludes:* interruption of the vena cava (38.7)
     - reimplantation of renal artery  ([39.55](#39-55))

@@ -8,37 +8,57 @@ This skill converts bold procedure code items to proper heading hierarchy in ICD
 
 ## Hierarchy Structure
 
-| Level | Markdown | Example                                                       |
-| ----- | -------- | ------------------------------------------------------------- |
-| h1    | `#`      | `# 0. PROCEDURES AND INTERVENTIONS...` (Chapter title)        |
-| h2    | `##`     | `## 00 Procedures and interventions...` (Section - 2-digit)   |
-| h3    | `###`    | `### 00.0 Therapeutic ultrasound` (Category - 3-digit)        |
-| h4    | `####`   | `#### 00.01 Therapeutic ultrasound...` (Procedure - 4+ digit) |
+| Level | Markdown | Example                                                      |
+| ----- | -------- | ------------------------------------------------------------ |
+| h1    | `#`      | `# 0. PROCEDURES AND INTERVENTIONS...` (Chapter title)       |
+| h2    | `##`     | `## 00 Procedures and interventions...` (Section - 2-digit)  |
+| h3    | `###`    | `### 00.0 Therapeutic ultrasound` (Category - 3-digit)       |
+| h4    | `####`   | `#### 00.01 Therapeutic ultrasound...` (Procedure - 4-digit) |
+| h5    | `#####`  | `##### 37.340 Catheter based...` (Procedure - 5-digit)       |
+| h6    | `######` | `###### 39.2720 Insertion of...` (Procedure - 6-digit)       |
 
 ## Reference File
 
-Use `icd9cm/chapter-0/index.md` as the reference for correct formatting.
+Use `src/docs/icd9cm/chapter-0/index.md` as the reference for correct formatting.
 
 ## Conversion Steps
 
-### 1. Convert Bold Codes to H4 Headings
+### 1. Convert Bold Codes to H4 Headings (4-digit codes)
 
-Run sed command to convert `- **XX.XX** Title {#anchor}` to `#### XX.XX Title {#anchor}`:
+Run sed command to convert `- **XX.XX** Title` to `#### XX.XX Title`:
 
 ```bash
 // turbo
-sed -E 's/^- \*\*([0-9]+\.[0-9]+)\*\* (.*)/#### \1 \2/' icd9cm/chapter-X/index.md > temp.md && mv temp.md icd9cm/chapter-X/index.md
+sed -E 's/^- \*\*([0-9]+\.[0-9]{2})\*\* (.*)/#### \1 \2/' src/docs/icd9cm/chapter-X/index.md > temp.md && mv temp.md src/docs/icd9cm/chapter-X/index.md
+```
+
+### 2. Convert 5-digit Codes to H5 Headings
+
+Run sed command to convert `  - XX.XXX Title` to `##### XX.XXX Title`:
+
+```bash
+// turbo
+sed -E 's/^  - ([0-9]+\.[0-9]{3}) (.*)/##### \1 \2/' src/docs/icd9cm/chapter-X/index.md > temp.md && mv temp.md src/docs/icd9cm/chapter-X/index.md
+```
+
+### 3. Convert 6-digit Codes to H6 Headings
+
+Run sed command to convert `    - XX.XXXX Title` to `###### XX.XXXX Title`:
+
+```bash
+// turbo
+sed -E 's/^    - ([0-9]+\.[0-9]{4}) (.*)/##### \1 \2/' src/docs/icd9cm/chapter-X/index.md > temp.md && mv temp.md src/docs/icd9cm/chapter-X/index.md
 ```
 
 Replace `chapter-X` with the target chapter.
 
-### 2. Verify VitePress Config
+### 4. Verify VitePress Config
 
-Ensure `.vitepress/config.mts` has outline depth set to show h4:
+Ensure `.vitepress/config.mts` has outline depth set to show h4-h6:
 
 ```typescript
 themeConfig: {
-  outline: [2, 4], // Show h2-h4 in "On this page" sidebar
+  outline: [2, 6], // Show h2-h6 in "On this page" sidebar
   // ...
 }
 ```

@@ -4,6 +4,7 @@ const env = loadEnv('', process.cwd())
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  srcDir: 'src/docs',
   title: "Terminology Documentation",
   description: "Terminology Documentation",
   srcExclude: ["**/ref/**"],
@@ -11,7 +12,7 @@ export default defineConfig({
   lastUpdated: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    outline: [2, 4], // Show h2-h4 in "On this page" sidebar
+    outline: [2, 6], // Show h2-h6 in "On this page" sidebar
     editLink: {
       pattern: `${env.VITE_REPO_URL}/edit/${env.VITE_REPO_BRANCH}/:path`,
       text: 'Edit this page on GitHub'
