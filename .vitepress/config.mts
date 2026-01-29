@@ -1,4 +1,6 @@
-import { defineConfig } from "vitepress";
+import { defineConfig, loadEnv } from "vitepress";
+
+const env = loadEnv('', process.cwd())
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -9,6 +11,10 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     outline: [2, 4], // Show h2-h4 in "On this page" sidebar
+    editLink: {
+      pattern: `${env.VITE_REPO_URL}/edit/main/:path`,
+      text: 'Edit this page on GitHub'
+    },
     nav: [
       { text: "Home", link: "/" },
       // { text: "Examples", link: "/markdown-examples" },
