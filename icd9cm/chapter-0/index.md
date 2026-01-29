@@ -56,25 +56,25 @@
 - Interstitial/ intracavitary
 - _Excludes:_ injection or infusion of cancer chemotherapeutic substance ([99.25](../chapter-16/index.md#99-25))
 
-#### 00.11 Inf usion of drotrecogin alf a (activated) {#00-11}
+#### 00.11 Infusion of drotrecogin alf a (activated) {#00-11}
 
-- Inf usion of recombinant protein
+- Infusion of recombinant protein
 
 #### 00.12 Administration of inhaled nitric oxide {#00-12}
 
 - Nitric oxide therapy
 
-#### 00.13 Injection or inf usion of nesiritide {#00-13}
+#### 00.13 Injection or Infusion of nesiritide {#00-13}
 
 - Human B-type natriuretic peptide (hBNP)
 
-#### 00.14 Injection or inf usion of oxazolidinone class of antibiotics {#00-14}
+#### 00.14 Injection or Infusion of oxazolidinone class of antibiotics {#00-14}
 
 - Linezolid injection
 
 #### 00.15 High-dose infusion interleukin-2 [IL-2] {#00-15}
 
-- Inf usion (IV bolus, CIV) interleukin
+- Infusion (IV bolus, CIV) interleukin
 - Injection of aldesleukin
 - _Excludes:_ low-dose infusion interleukin-2 ([99.28](../chapter-16/index.md#99-28))
 
@@ -83,9 +83,9 @@
 - Ex-vivo treatment of vessel
 - Hyperbaric pressurized graf t [conduit]
 
-#### 00.17 Inf usion of vasopressor agent {#00-17}
+#### 00.17 Infusion of vasopressor agent {#00-17}
 
-#### 00.18 Inf usion of immunosuppressive antibody therapy {#00-18}
+#### 00.18 Infusion of immunosuppressive antibody therapy {#00-18}
 
 - _Includes:_ during induction phase of solid organ transplantation
   - monoclonal antibody therapy
@@ -93,7 +93,7 @@
 
 #### 00.19 Disruption of blood brain barrier via infusion [BBBD] {#00-19}
 
-- Inf usion of substance to disrupt blood brain barrier
+- Infusion of substance to disrupt blood brain barrier
 - Code also chemotherapy ([99.25](../chapter-16/index.md#99-25))
 - _Excludes:_ other perfusion ([39.97](../chapter-7/index.md#39-97))
 
@@ -239,7 +239,7 @@
 - Aqueous oxygen (AO) therapy
 - SS02
 - SuperOxygenation infusion therapy
-- Code also any: injection or inf usion of thrombolytic agent ([99.10](../chapter-16/index.md#99-10))
+- Code also any: injection or Infusion of thrombolytic agent ([99.10](../chapter-16/index.md#99-10))
 - insertion of coronary artery stent(s) ([36.06-36.07](../chapter-7/index.md#36-06))
 - intracoronary artery thrombolytic infusion ([36.04](../chapter-7/index.md#36-04))
 - number of vascular stents inserted ([00.45-00.48](#00-45))
