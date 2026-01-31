@@ -65,4 +65,9 @@ export default defineConfig({
       provider: "local",
     },
   },
+  vite: {
+    build: {
+      chunkSizeWarningLimit: 3000,
+    },
+  },
 });
