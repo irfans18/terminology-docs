@@ -998,7 +998,7 @@ The following fourth-digit subclassification is for use with categories in secti
 
 ##### 90.040 Microscopic examination of specimen from nervous system and of spinal fluid, parasitology culture and others (IM)
 
-##### 90.041 Microscopic examination of specimen from nervous system and of spinal fluid, Parasite and fungal serology / molecular examination (I M)
+##### 90.041 Microscopic examination of specimen from nervous system and of spinal fluid, Parasite and fungal serology / molecular examination (IM)
 
 ##### 90.042 Microscopic examination of specimen from nervous system and of spinal fluid, Fungal culture yeast and susceptibility test (IM)
 
@@ -1040,95 +1040,55 @@ The following fourth-digit subclassification is for use with categories in secti
 
 ### 90.1 Microscopic examination of specimen from endocrine gland, not elsewhere classified {#90-1}
 
-##### 90.140 Microscopic examination of specimen from endocrine gland, not elsewhere classified,
+##### 90.140 Microscopic examination of specimen from endocrine gland, not elsewhere classified, parasitology culture and others (IM)
 
-- parasitology culture and others (IM)
+##### 90.141 Microscopic examination of specimen from endocrine gland, not elsewhere classified, Parasite and fungal serology / molecular examination (IM)
 
-##### 90.141 Microscopic examination of specimen from endocrine gland, not elsewhere classified, Parasite
+##### 90.142 Microscopic examination of specimen from endocrine gland, not elsewhere classified, Fungal culture yeast and susceptibility test (IM)
 
-- and fungal serology / molecular examination (IM)
+##### 90.143 Microscopic examination of specimen from endocrine gland, not elsewhere classified, Fungal culture mold and susceptibility test (IM)
 
-##### 90.142 Microscopic examination of specimen from endocrine gland, not elsewhere classified, Fungal
-
-- culture yeast and susceptibility test (IM)
-
-##### 90.143 Microscopic examination of specimen from endocrine gland, not elsewhere classified, Fungal
-
-- culture mold and susceptibility test (IM)
-
-##### 90.149 Microscopic examination of specimen from endocrine gland, not elsewhere classified,
-
-- Parasitology smear (IM)
+##### 90.149 Microscopic examination of specimen from endocrine gland, not elsewhere classified, Parasitology smear (IM)
 
 ##### 90.160 Microscopic examination of specimen from endocrine gland, not elsewhere classified, cell block (IM)
 
-###### 90.1600 Microscopic examination of specimen from endocrine gland, not elsewhere classified,
+###### 90.1600 Microscopic examination of specimen from endocrine gland, not elsewhere classified, Microscopic Immunohistochemistry examination (IM)
 
-- Microscopic Immunohistochemistry examination (IM)
+###### 90.1601 Microscopic examination of specimen from endocrine gland, not elsewhere classified, Microscopic Histophatology examination of specimen from biopsy (IM)
 
-###### 90.1601 Microscopic examination of specimen from endocrine gland, not elsewhere classified,
+###### 90.1602 Microscopic examination of specimen from endocrine gland, not elsewhere classified, Microscopic Histophatology examination of specimen from debulking (IM)
 
-- Microscopic Histophatology examination of specimen from biopsy (IM)
+###### 90.1603 Microscopic examination of specimen from endocrine gland, not elsewhere classified, Microscopic Histochemistry examination (IM)
 
-###### 90.1602 Microscopic examination of specimen from endocrine gland, not elsewhere classified,
+##### 90.161 Microscopic examination of specimen from endocrine gland, not elsewhere classified, papanicolaou and giemsa smear (IM)
 
-- Microscopic Histophatology examination of specimen from debulking (IM)
-
-###### 90.1603 Microscopic examination of specimen from endocrine gland, not elsewhere classified,
-
-- Microscopic Histochemistry examination (IM)
-
-##### 90.161 Microscopic examination of specimen from endocrine gland, not elsewhere classified,
-
-- papanicolaou and giemsa smear (IM)
-
-##### 90.169 Microscopic examination of specimen from endocrine gland, not elsewhere classified, other cell
-
-- block and papanicolaou smear (IM)
+##### 90.169 Microscopic examination of specimen from endocrine gland, not elsewhere classified, other cell block and papanicolaou smear (IM)
 
 #### 90.17 Microscopic examination of specimen from endocrine gland, not elsewhere classified, Molecular {#90-17}
 
 - biological test (IM) or Cythopathologic (IM)
 
-##### 90.190 Microscopic examination of specimen from endocrine gland, not elsewhere classified,
+##### 90.190 Microscopic examination of specimen from endocrine gland, not elsewhere classified, Microscopic ISH examination (IM)
 
-- Microscopic ISH examination (IM
+##### 90.191 Microscopic examination of specimen from endocrine gland, not elsewhere classified, Microscopic CISH examination (IM)
 
-##### 90.191 Microscopic examination of specimen from endocrine gland, not elsewhere classified,
+##### 90.192 Microscopic examination of specimen from endocrine gland, not elsewhere classified, Microscopic FISH examination (IM)
 
-- Microscopic CISH examination (IM)
+##### 90.193 Microscopic examination of specimen from endocrine gland, not elsewhere classified, Microscopic FCR examination (IM)
 
-##### 90.192 Microscopic examination of specimen from endocrine gland, not elsewhere classified,
+##### 90.194 Microscopic examination of specimen from endocrine gland, not elsewhere classified, Screening for the H uman I mmunodeficiency Virus (H I V) I nfection (IM)
 
-- Microscopic FISH examination (IM)
+##### 90.195 Microscopic examination of specimen from endocrine gland, not elsewhere classified, Prognostic Monitoring for the Human Immunodeficiency Virus (HIV) (IM)
 
-##### 90.193 Microscopic examination of specimen from endocrine gland, not elsewhere classified,
+##### 90.198 Microscopic examination of specimen from endocrine gland, not elsewhere classified, Other specified microscopic examinations (IM)
 
-- Microscopic FCR examination (IM)
-
-##### 90.194 Microscopic examination of specimen from endocrine gland, not elsewhere classified, Screening
-
-- for the H uman I mmunodeficiency Virus (H I V) I nfection (I M)
-
-##### 90.195 Microscopic examination of specimen from endocrine gland, not elsewhere classified, Prognostic
-
-- Monitoring for the Human Immunodeficiency Virus (HIV) (IM)
-
-##### 90.198 Microscopic examination of specimen from endocrine gland, not elsewhere classified, Other
-
-- specified microscopic examinations (IM)
-
-##### 90.199 Microscopic examination of specimen from endocrine gland, not elsewhere classified, Other
-
-- Microscopic examination (IM)
+##### 90.199 Microscopic examination of specimen from endocrine gland, not elsewhere classified, Other Microscopic examination (IM)
 
 ### 90.2 Microscopic examination of specimen from eye {#90-2}
 
 ##### 90.240 Microscopic examination of specimen from eye, parasitology culture and others (IM)
 
-##### 90.241 Microscopic examination of specimen from eye, Parasite and fungal serology / molecular
-
-- examination (IM)
+##### 90.241 Microscopic examination of specimen from eye, Parasite and fungal serology / molecular examination (IM)
 
 ##### 90.242 Microscopic examination of specimen from eye, Fungal culture yeast and susceptibility test (IM)
 
@@ -1138,17 +1098,11 @@ The following fourth-digit subclassification is for use with categories in secti
 
 ##### 90.260 Microscopic examination of specimen from eye, cell block (IM)
 
-###### 90.2600 Microscopic examination of specimen from eye, Microscopic Immunohistochemistry
+###### 90.2600 Microscopic examination of specimen from eye, Microscopic Immunohistochemistry examination (IM)
 
-- examination (IM)
+###### 90.2601 Microscopic examination of specimen from eye, Microscopic Histophatology examination of specimen from biopsy (IM)
 
-###### 90.2601 Microscopic examination of specimen from eye, Microscopic Histophatology examination of
-
-- specimen from biopsy (IM)
-
-###### 90.2602 Microscopic examination of specimen from eye, Microscopic Histophatology examination of
-
-- specimen from debulking (IM)
+###### 90.2602 Microscopic examination of specimen from eye, Microscopic Histophatology examination of specimen from debulking (IM)
 
 ###### 90.2603 Microscopic examination of specimen from eye, Microscopic Histochemistry examination (IM)
 
@@ -1166,13 +1120,9 @@ The following fourth-digit subclassification is for use with categories in secti
 
 ##### 90.293 Microscopic examination of specimen from eye, Microscopic FCR examination (IM)
 
-##### 90.294 Microscopic examination of specimen from eye, Screening for the Human Immunodeficiency
+##### 90.294 Microscopic examination of specimen from eye, Screening for the Human Immunodeficiency Virus (HIV) Infection (IM)
 
-- Virus (HIV) Infection (IM)
-
-##### 90.295 Microscopic examination of specimen from eye, Prognostic Monitoring for the Human
-
-- Immunodef iciency Virus (HIV) (IM)
+##### 90.295 Microscopic examination of specimen from eye, Prognostic Monitoring for the Human Immunodef iciency Virus (HIV) (IM)
 
 ##### 90.298 Microscopic examination of specimen from eye, Other specified microscopic examinations (IM)
 
@@ -1180,49 +1130,29 @@ The following fourth-digit subclassification is for use with categories in secti
 
 ### 90.3 Microscopic examination of specimen from ear, nose, throat, and larynx {#90-3}
 
-##### 90.340 Microscopic examination of specimen from ear, nose, throat, and larynx parasitology culture and
+##### 90.340 Microscopic examination of specimen from ear, nose, throat, and larynx parasitology culture and others (IM)
 
-- others (IM)
+##### 90.341 Microscopic examination of specimen from ear, nose, throat, and larynx Parasite and fungal serology / molecular examination (IM)
 
-##### 90.341 Microscopic examination of specimen from ear, nose, throat, and larynx Parasite and fungal
+##### 90.342 Microscopic examination of specimen from ear, nose, throat, and larynx Fungal culture yeast and susceptibility test (IM)
 
-- serology / molecular examination (IM)
-
-##### 90.342 Microscopic examination of specimen from ear, nose, throat, and larynx Fungal culture yeast and
-
-- susceptibility test (IM)
-
-##### 90.343 Microscopic examination of specimen from ear, nose, throat, and larynx Fungal culture mold and
-
-- susceptibility test (IM)
+##### 90.343 Microscopic examination of specimen from ear, nose, throat, and larynx Fungal culture mold and susceptibility test (IM)
 
 ##### 90.349 Microscopic examination of specimen from ear, nose, throat, and larynx Parasitology smear (IM)
 
 ##### 90.360 Microscopic examination of specimen from ear, nose, throat, and larynx cell block (IM)
 
-###### 90.3600 Microscopic examination of specimen from ear, nose, throat, and larynx Microscopic
+###### 90.3600 Microscopic examination of specimen from ear, nose, throat, and larynx Microscopic Immunohistochemistry examination (IM)
 
-- Immunohistochemistry examination (IM)
+###### 90.3601 Microscopic examination of specimen from ear, nose, throat, and larynx Microscopic Histophatology examination of specimen f rom biopsy (IM)
 
-###### 90.3601 Microscopic examination of specimen from ear, nose, throat, and larynx Microscopic
+###### 90.3602 Microscopic examination of specimen from ear, nose, throat, and larynx Microscopic Histophatology examination of specimen f rom debulking (IM)
 
-- Histophatology examination of specimen f rom biopsy (IM)
+###### 90.3603 Microscopic examination of specimen from ear, nose, throat, and larynx Microscopic Histochemistry examination (IM)
 
-###### 90.3602 Microscopic examination of specimen from ear, nose, throat, and larynx Microscopic
+##### 90.361 Microscopic examination of specimen from ear, nose, throat, and larynx papanicolaou and giemsa smear (IM)
 
-- Histophatology examination of specimen f rom debulking (IM)
-
-###### 90.3603 Microscopic examination of specimen from ear, nose, throat, and larynx Microscopic
-
-- Histochemistry examination (IM)
-
-##### 90.361 Microscopic examination of specimen from ear, nose, throat, and larynx papanicolaou and
-
-- giemsa smear (IM)
-
-##### 90.369 Microscopic examination of specimen from ear, nose, throat, and larynx other cell block and
-
-- papanicolaou smear (IM)
+##### 90.369 Microscopic examination of specimen from ear, nose, throat, and larynx other cell block and papanicolaou smear (IM)
 
 #### 90.37 Microscopic examination of specimen from ear, nose, throat, and larynx Molecular biological test (IM) or Cythopathologic (IM) {#90-37}
 
@@ -1236,7 +1166,7 @@ The following fourth-digit subclassification is for use with categories in secti
 
 ##### 90.394 Microscopic examination of specimen from ear, nose, throat, and larynx Screening for the Human Immunodef iciency Virus (HIV) Inf ection (IM)
 
-##### 90.395 Microscopic examination of specimen from ear, nose, throat, and larynx Prognostic Monitoring for the H uman I mmunodeficiency Virus (H I V) (I M)
+##### 90.395 Microscopic examination of specimen from ear, nose, throat, and larynx Prognostic Monitoring for the H uman I mmunodeficiency Virus (H I V) (IM)
 
 ##### 90.398 Microscopic examination of specimen from ear, nose, throat, and larynx Other specified microscopic examinations (IM)
 
@@ -1270,7 +1200,7 @@ The following fourth-digit subclassification is for use with categories in secti
 
 #### 90.47 Microscopic examination of specimen from trachea, bronchus, pleura, lung, and other thoracic specimen, and of sputum, Molecular biological test (IM) or Cythopathologic (IM) {#90-47}
 
-##### 90.490 Microscopic examination of specimen from trachea, bronchus, pleura, lung, and other thoracic specimen, and of sputum, Microscopic ISH examination (IM
+##### 90.490 Microscopic examination of specimen from trachea, bronchus, pleura, lung, and other thoracic specimen, and of sputum, Microscopic ISH examination (IM)
 
 ##### 90.491 Microscopic examination of specimen from trachea, bronchus, pleura, lung, and other thoracic specimen, and of sputum, Microscopic CISH examination (IM)
 
@@ -1408,7 +1338,7 @@ The following fourth-digit subclassification is for use with categories in secti
 
 #### 90.77 Microscopic examination of specimen from lymph node and of lymph, Molecular biological test {#90-77} (IM) or Cythopathologic (IM)
 
-##### 90.790 Microscopic examination of specimen from lymph node and of lymph, Microscopic ISH examination (IM
+##### 90.790 Microscopic examination of specimen from lymph node and of lymph, Microscopic ISH examination (IM)
 
 ##### 90.791 Microscopic examination of specimen from lymph node and of lymph, Microscopic CISH examination (IM)
 
@@ -1460,7 +1390,7 @@ The following fourth-digit subclassification is for use with categories in secti
 
 ##### 90.893 Microscopic examination of specimen from upper gastrointestinal tract and of vomitus, Microscopic FCR examination (IM)
 
-##### 90.894 Microscopic examination of specimen from upper gastrointestinal tract and of vomitus, Screening for the H uman I mmunodeficiency Virus (H I V) I nfection (I M)
+##### 90.894 Microscopic examination of specimen from upper gastrointestinal tract and of vomitus, Screening for the H uman I mmunodeficiency Virus (H I V) I nfection (IM)
 
 ##### 90.895 Microscopic examination of specimen from upper gastrointestinal tract and of vomitus, Prognostic Monitoring for the Human Immunodeficiency Virus (HIV) (IM)
 
@@ -1472,7 +1402,7 @@ The following fourth-digit subclassification is for use with categories in secti
 
 ##### 90.940 Microscopic examination of specimen from lower gastrointestinal tract and of stool, parasitology culture and others (IM)
 
-##### 90.941 Microscopic examination of specimen from lower gastrointestinal tract and of stool, Parasite and fungal serology / molecular examination (I M)
+##### 90.941 Microscopic examination of specimen from lower gastrointestinal tract and of stool, Parasite and fungal serology / molecular examination (IM)
 
 ##### 90.942 Microscopic examination of specimen from lower gastrointestinal tract and of stool, Fungal culture yeast and susceptibility test (IM)
 
@@ -1616,300 +1546,164 @@ The following fourth-digit subclassification is for use with categories in secti
 
 #### 91.17 Microscopic examination of peritoneal and retroperitoneal specimen, Molecular biological test (IM) or Cythopathologic (IM) {#91-17}
 
-##### 91.190 Microscopic examination of peritoneal and retroperitoneal specimen, Microscopic ISH
+##### 91.190 Microscopic examination of peritoneal and retroperitoneal specimen, Microscopic ISH examination (IM)
 
-- examination (IM
+##### 91.191 Microscopic examination of peritoneal and retroperitoneal specimen, Microscopic CISH examination (IM)
 
-##### 91.191 Microscopic examination of peritoneal and retroperitoneal specimen, Microscopic CISH
+##### 91.192 Microscopic examination of peritoneal and retroperitoneal specimen, Microscopic FISH examination (IM)
 
-- examination (IM)
+##### 91.193 Microscopic examination of peritoneal and retroperitoneal specimen, Microscopic FCR examination (IM)
 
-##### 91.192 Microscopic examination of peritoneal and retroperitoneal specimen, Microscopic FISH
+##### 91.194 Microscopic examination of peritoneal and retroperitoneal specimen, Screening for the Human Immunodef iciency Virus (HIV) Inf ection (IM)
 
-- examination (IM)
+##### 91.195 Microscopic examination of peritoneal and retroperitoneal specimen, Prognostic Monitoring for the Human Immunodeficiency Virus (HIV) (IM)
 
-##### 91.193 Microscopic examination of peritoneal and retroperitoneal specimen, Microscopic FCR
+##### 91.198 Microscopic examination of peritoneal and retroperitoneal specimen, Other specified microscopic examinations (IM)
 
-- examination (IM)
-
-##### 91.194 Microscopic examination of peritoneal and retroperitoneal specimen, Screening for the Human
-
-- Immunodef iciency Virus (HIV) Inf ection (IM)
-
-##### 91.195 Microscopic examination of peritoneal and retroperitoneal specimen, Prognostic Monitoring for
-
-- the Human Immunodeficiency Virus (HIV) (IM)
-
-##### 91.198 Microscopic examination of peritoneal and retroperitoneal specimen, Other specified
-
-- microscopic examinations (IM)
-
-##### 91.199 Microscopic examination of peritoneal and retroperitoneal specimen, Other Microscopic
-
-- examination (IM)
+##### 91.199 Microscopic examination of peritoneal and retroperitoneal specimen, Other Microscopic examination (IM)
 
 ### 91.2 Microscopic examination of specimen from kidney, ureter, perirenal and periureteral tissue {#91-2}
 
-##### 91.240 Microscopic examination of specimen from kidney,ureter, perirenal and periureteral tissue,
+##### 91.240 Microscopic examination of specimen from kidney,ureter, perirenal and periureteral tissue, parasitology culture and others (IM)
 
-- parasitology culture and others (IM)
+##### 91.241 Microscopic examination of specimen from kidney,ureter, perirenal and periureteral tissue, Parasite and fungal serology / molecular examination (IM)
 
-##### 91.241 Microscopic examination of specimen from kidney,ureter, perirenal and periureteral tissue,
+##### 91.242 Microscopic examination of specimen from kidney,ureter, perirenal and periureteral tissue, Fungal culture yeast and susceptibility test (IM)
 
-- Parasite and fungal serology / molecular examination (IM)
+##### 91.243 Microscopic examination of specimen from kidney,ureter, perirenal and periureteral tissue, Fungal culture mold and susceptibility test (IM)
 
-##### 91.242 Microscopic examination of specimen from kidney,ureter, perirenal and periureteral tissue,
+##### 91.249 Microscopic examination of specimen from kidney,ureter, perirenal and periureteral tissue, Parasitology smear (IM)
 
-- Fungal culture yeast and susceptibility test (IM)
+##### 91.260 Microscopic examination of specimen from kidney,ureter, perirenal and periureteral tissue, cell block (IM)
 
-##### 91.243 Microscopic examination of specimen from kidney,ureter, perirenal and periureteral tissue,
+###### 91.2600 Microscopic examination of specimen from kidney,ureter, perirenal and periureteral tissue, Microscopic Immunohistochemistry examination (IM)
 
-- Fungal culture mold and susceptibility test (IM)
+###### 91.2601 Microscopic examination of specimen from kidney,ureter, perirenal and periureteral tissue, Microscopic Histophatology examination of specimen from biopsy (IM)
 
-##### 91.249 Microscopic examination of specimen from kidney,ureter, perirenal and periureteral tissue,
+###### 91.2602 Microscopic examination of specimen from kidney,ureter, perirenal and periureteral tissue, Microscopic Histophatology examination of specimen from debulking (IM)
 
-- Parasitology smear (IM)
+###### 91.2603 Microscopic examination of specimen from kidney,ureter, perirenal and periureteral tissue, Microscopic Histochemistry examination (IM)
 
-##### 91.260 Microscopic examination of specimen from kidney,ureter, perirenal and periureteral tissue, cell
+##### 91.261 Microscopic examination of specimen from kidney,ureter, perirenal and periureteral tissue, papanicolaou and giemsa smear (IM)
 
-- block (IM)
-
-###### 91.2600 Microscopic examination of specimen from kidney,ureter, perirenal and periureteral tissue,
-
-- Microscopic Immunohistochemistry examination (IM)
-
-###### 91.2601 Microscopic examination of specimen from kidney,ureter, perirenal and periureteral tissue,
-
-- Microscopic Histophatology examination of specimen from biopsy (IM)
-
-###### 91.2602 Microscopic examination of specimen from kidney,ureter, perirenal and periureteral tissue,
-
-- Microscopic Histophatology examination of specimen from debulking (IM)
-
-###### 91.2603 Microscopic examination of specimen from kidney,ureter, perirenal and periureteral tissue,
-
-- Microscopic Histochemistry examination (IM)
-
-##### 91.261 Microscopic examination of specimen from kidney,ureter, perirenal and periureteral tissue,
-
-- papanicolaou and giemsa smear (IM)
-
-##### 91.269 Microscopic examination of specimen from kidney,ureter, perirenal and periureteral tissue, other
-
-- cell block and papanicolaou smear (IM)
+##### 91.269 Microscopic examination of specimen from kidney,ureter, perirenal and periureteral tissue, other cell block and papanicolaou smear (IM)
 
 #### 91.27 Microscopic examination of specimen from kidney,ureter, perirenal and periureteral tissue, {#91-27}
 
 - Molecular biological test (IM) or Cythopathologic (IM)
 
-##### 91.290 Microscopic examination of specimen from kidney,ureter, perirenal and periureteral tissue,
+##### 91.290 Microscopic examination of specimen from kidney,ureter, perirenal and periureteral tissue, Microscopic ISH examination (IM)
 
-- Microscopic ISH examination (IM
+##### 91.291 Microscopic examination of specimen from kidney,ureter, perirenal and periureteral tissue, Microscopic CISH examination (IM)
 
-##### 91.291 Microscopic examination of specimen from kidney,ureter, perirenal and periureteral tissue,
+##### 91.292 Microscopic examination of specimen from kidney,ureter, perirenal and periureteral tissue, Microscopic FISH examination (IM)
 
-- Microscopic CISH examination (IM)
+##### 91.293 Microscopic examination of specimen from kidney,ureter, perirenal and periureteral tissue, Microscopic FCR examination (IM)
 
-##### 91.292 Microscopic examination of specimen from kidney,ureter, perirenal and periureteral tissue,
+##### 91.294 Microscopic examination of specimen from kidney,ureter, perirenal and periureteral tissue, Screening for the Human Immunodeficiency Virus (HIV) Infection (IM)
 
-- Microscopic FISH examination (IM)
+##### 91.295 Microscopic examination of specimen from kidney,ureter, perirenal and periureteral tissue, Prognostic Monitoring for the Human Immunodeficiency Virus (HIV) (IM)
 
-##### 91.293 Microscopic examination of specimen from kidney,ureter, perirenal and periureteral tissue,
+##### 91.298 Microscopic examination of specimen from kidney,ureter, perirenal and periureteral tissue, Other specified microscopic examinations (IM)
 
-- Microscopic FCR examination (IM)
-
-##### 91.294 Microscopic examination of specimen from kidney,ureter, perirenal and periureteral tissue,
-
-- Screening for the Human Immunodeficiency Virus (HIV) Infection (IM)
-
-##### 91.295 Microscopic examination of specimen from kidney,ureter, perirenal and periureteral tissue,
-
-- Prognostic Monitoring for the Human Immunodeficiency Virus (HIV) (IM)
-
-##### 91.298 Microscopic examination of specimen from kidney,ureter, perirenal and periureteral tissue, Other
-
-- specified microscopic examinations (IM)
-
-##### 91.299 Microscopic examination of specimen from kidney,ureter, perirenal and periureteral tissue, Other
-
-- Microscopic examination (IM)
+##### 91.299 Microscopic examination of specimen from kidney,ureter, perirenal and periureteral tissue, Other Microscopic examination (IM)
 
 ### 91.3 Microscopic examination of specimen from bladder, urethra, prostate, seminal vesicle, perivesical {#91-3}
 
 - tissue, and of urine and semen
 
-##### 91.340 Microscopic examination of specimen from bladder, urethra,prostate, seminal vesicle, perivesical
+##### 91.340 Microscopic examination of specimen from bladder, urethra,prostate, seminal vesicle, perivesical tissue, and of urine and semen, parasitology culture and others (IM)
 
-- tissue, and of urine and semen, parasitology culture and others (IM)
+##### 91.341 Microscopic examination of specimen from bladder, urethra,prostate, seminal vesicle, perivesical tissue, and of urine and semen, Parasite and fungal serology / molecular examination (IM)
 
-##### 91.341 Microscopic examination of specimen from bladder, urethra,prostate, seminal vesicle, perivesical
+##### 91.342 Microscopic examination of specimen from bladder, urethra,prostate, seminal vesicle, perivesical tissue, and of urine and semen, Fungal culture yeast and susceptibility test (IM)
 
-- tissue, and of urine and semen, Parasite and fungal serology / molecular examination (IM)
+##### 91.343 Microscopic examination of specimen from bladder, urethra,prostate, seminal vesicle, perivesical tissue, and of urine and semen, Fungal culture mold and susceptibility test (IM)
 
-##### 91.342 Microscopic examination of specimen from bladder, urethra,prostate, seminal vesicle, perivesical
+##### 91.349 Microscopic examination of specimen from bladder, urethra,prostate, seminal vesicle, perivesical tissue, and of urine and semen, Parasitology smear (IM)
 
-- tissue, and of urine and semen, Fungal culture yeast and susceptibility test (IM)
+##### 91.360 Microscopic examination of specimen from bladder, urethra,prostate, seminal vesicle, perivesical tissue, and of urine and semen, cell block (IM)
 
-##### 91.343 Microscopic examination of specimen from bladder, urethra,prostate, seminal vesicle, perivesical
+###### 91.3600 Microscopic examination of specimen from bladder, urethra,prostate, seminal vesicle, perivesical tissue, and of urine and semen, Microscopic Immunohistochemistry examination (IM)
 
-- tissue, and of urine and semen, Fungal culture mold and susceptibility test (IM)
+###### 91.3601 Microscopic examination of specimen from bladder, urethra,prostate, seminal vesicle, perivesical tissue, and of urine and semen, Microscopic Histophatology examination of specimen from biopsy (IM)
 
-##### 91.349 Microscopic examination of specimen from bladder, urethra,prostate, seminal vesicle, perivesical
+###### 91.3602 Microscopic examination of specimen from bladder, urethra,prostate, seminal vesicle, perivesical tissue, and of urine and semen, Microscopic Histophatology examination of specimen from debulking (IM)
 
-- tissue, and of urine and semen, Parasitology smear (IM)
+###### 91.3603 Microscopic examination of specimen from bladder, urethra,prostate, seminal vesicle, perivesical tissue, and of urine and semen, Microscopic Histochemistry examination (IM)
 
-##### 91.360 Microscopic examination of specimen from bladder, urethra,prostate, seminal vesicle, perivesical
+##### 91.361 Microscopic examination of specimen from bladder, urethra,prostate, seminal vesicle, perivesical tissue, and of urine and semen, papanicolaou and giemsa smear (IM)
 
-- tissue, and of urine and semen, cell block (IM)
-
-###### 91.3600 Microscopic examination of specimen from bladder, urethra,prostate, seminal vesicle,
-
-- perivesical tissue, and of urine and semen, Microscopic Immunohistochemistry examination (IM)
-
-###### 91.3601 Microscopic examination of specimen from bladder, urethra,prostate, seminal vesicle,
-
-- perivesical tissue, and of urine and semen, Microscopic Histophatology examination of specimen
-- from biopsy (I M)
-
-###### 91.3602 Microscopic examination of specimen from bladder, urethra,prostate, seminal vesicle,
-
-- perivesical tissue, and of urine and semen, Microscopic Histophatology examination of specimen
-- from debulking (I M)
-
-###### 91.3603 Microscopic examination of specimen from bladder, urethra,prostate, seminal vesicle,
-
-- perivesical tissue, and of urine and semen, Microscopic Histochemistry examination (IM)
-
-##### 91.361 Microscopic examination of specimen from bladder, urethra,prostate, seminal vesicle, perivesical
-
-- tissue, and of urine and semen, papanicolaou and giemsa smear (IM)
-
-##### 91.369 Microscopic examination of specimen from bladder, urethra,prostate, seminal vesicle, perivesical
-
-- tissue, and of urine and semen, other cell block and papanicolaou smear (IM)
+##### 91.369 Microscopic examination of specimen from bladder, urethra,prostate, seminal vesicle, perivesical tissue, and of urine and semen, other cell block and papanicolaou smear (IM)
 
 #### 91.37 Microscopic examination of specimen from bladder, urethra,prostate, seminal vesicle, perivesical {#91-37}
 
 - tissue, and of urine and semen, Molecular biological test (IM) or Cythopathologic (IM)
 
-##### 91.390 Microscopic examination of specimen from bladder, urethra,prostate, seminal vesicle, perivesical
+##### 91.390 Microscopic examination of specimen from bladder, urethra,prostate, seminal vesicle, perivesical tissue, and of urine and semen, Microscopic ISH examination (IM)
 
-- tissue, and of urine and semen, Microscopic ISH examination (IM
+##### 91.391 Microscopic examination of specimen from bladder, urethra,prostate, seminal vesicle, perivesical tissue, and of urine and semen, Microscopic CISH examination (IM)
 
-##### 91.391 Microscopic examination of specimen from bladder, urethra,prostate, seminal vesicle, perivesical
+##### 91.392 Microscopic examination of specimen from bladder, urethra,prostate, seminal vesicle, perivesical tissue, and of urine and semen, Microscopic FISH examination (IM)
 
-- tissue, and of urine and semen, Microscopic CISH examination (IM)
+##### 91.393 Microscopic examination of specimen from bladder, urethra,prostate, seminal vesicle, perivesical tissue, and of urine and semen, Microscopic FCR examination (IM)
 
-##### 91.392 Microscopic examination of specimen from bladder, urethra,prostate, seminal vesicle, perivesical
+##### 91.394 Microscopic examination of specimen from bladder, urethra,prostate, seminal vesicle, perivesical, tissue, and of urine and semen, Screening for the Human Immunodeficiency Virus (HIV) Infection (IM)
 
-- tissue, and of urine and semen, Microscopic FISH examination (IM)
+##### 91.395 Microscopic examination of specimen from bladder, urethra,prostate, seminal vesicle, perivesical, tissue, and of urine and semen, Prognostic Monitoring for the Human Immunodeficiency Virus (HIV) (IM)
 
-##### 91.393 Microscopic examination of specimen from bladder, urethra,prostate, seminal vesicle, perivesical
+##### 91.398 Microscopic examination of specimen from bladder, urethra,prostate, seminal vesicle, perivesical tissue, and of urine and semen, Other specified microscopic examinations (IM)
 
-- tissue, and of urine and semen, Microscopic FCR examination (IM)
-
-##### 91.394 Microscopic examination of specimen from bladder, urethra,prostate, seminal vesicle, perivesical
-
-- tissue, and of urine and semen, Screening for the Human Immunodeficiency Virus (HIV) Infection
-- (IM)
-
-##### 91.395 Microscopic examination of specimen from bladder, urethra,prostate, seminal vesicle, perivesical
-
-- tissue, and of urine and semen, Prognostic Monitoring for the Human Immunodeficiency Virus
-- (HIV) (IM)
-
-##### 91.398 Microscopic examination of specimen from bladder, urethra,prostate, seminal vesicle, perivesical
-
-- tissue, and of urine and semen, Other specified microscopic examinations (IM)
-
-##### 91.399 Microscopic examination of specimen from bladder, urethra,prostate, seminal vesicle, perivesical
-
-- tissue, and of urine and semen, Other Microscopic examination (IM)
+##### 91.399 Microscopic examination of specimen from bladder, urethra,prostate, seminal vesicle, perivesical tissue, and of urine and semen, Other Microscopic examination (IM)
 
 ### 91.4 Microscopic examination of specimen from female genital tract {#91-4}
 
 - Amnionic sac
 - Fetus
 
-##### 91.440 Microscopic examination of specimen from female genital tract, parasitology culture and others
+##### 91.440 Microscopic examination of specimen from female genital tract, parasitology culture and others (IM)
 
-- (IM)
+##### 91.441 Microscopic examination of specimen from female genital tract, Parasite and fungal serology / molecular examination (IM)
 
-##### 91.441 Microscopic examination of specimen from female genital tract, Parasite and fungal serology /
+##### 91.442 Microscopic examination of specimen from female genital tract, Fungal culture yeast and susceptibility test (IM)
 
-- molecular examination (IM)
-
-##### 91.442 Microscopic examination of specimen from female genital tract, Fungal culture yeast and
-
-- susceptibility test (IM)
-
-##### 91.443 Microscopic examination of specimen from female genital tract, Fungal culture mold and
-
-- susceptibility test (IM)
+##### 91.443 Microscopic examination of specimen from female genital tract, Fungal culture mold and susceptibility test (IM)
 
 ##### 91.449 Microscopic examination of specimen from female genital tract, Parasitology smear (IM)
 
 ##### 91.460 Microscopic examination of specimen from female genital tract, cell block (IM)
 
-###### 91.4600 Microscopic examination of specimen from female genital tract, Microscopic
+###### 91.4600 Microscopic examination of specimen from female genital tract, Microscopic Immunohistochemistry examination (IM)
 
-- Immunohistochemistry examination (IM)
+###### 91.4601 Microscopic examination of specimen from female genital tract, Microscopic Histophatology examination of specimen from biopsy (IM)
 
-###### 91.4601 Microscopic examination of specimen from female genital tract, Microscopic Histophatology
+###### 91.4602 Microscopic examination of specimen from female genital tract, Microscopic Histophatology examination of specimen from debulking (IM)
 
-- examination of specimen from biopsy (IM)
+###### 91.4603 Microscopic examination of specimen from female genital tract, Microscopic Histochemistry examination (IM)
 
-###### 91.4602 Microscopic examination of specimen from female genital tract, Microscopic Histophatology
+##### 91.461 Microscopic examination of specimen from female genital tract, papanicolaou and giemsa smear (IM)
 
-- examination of specimen from debulking (IM)
-
-###### 91.4603 Microscopic examination of specimen from female genital tract, Microscopic Histochemistry
-
-- examination (IM)
-
-##### 91.461 Microscopic examination of specimen from female genital tract, papanicolaou and giemsa smear
-
-- (IM)
-
-##### 91.469 Microscopic examination of specimen from female genital tract, other cell block and
-
-- papanicolaou smear (IM)
+##### 91.469 Microscopic examination of specimen from female genital tract, other cell block and papanicolaou smear (IM)
 
 #### 91.47 Microscopic examination of specimen from female genital tract, Molecular biological test (IM) or {#91-47}
 
 - Cythopathologic (IM)
 
-##### 91.490 Microscopic examination of specimen from female genital tract, Microscopic ISH examination
+##### 91.490 Microscopic examination of specimen from female genital tract, Microscopic ISH examination (IM)
 
-- (IM
+##### 91.491 Microscopic examination of specimen from female genital tract, Microscopic CISH examination (IM)
 
-##### 91.491 Microscopic examination of specimen from female genital tract, Microscopic CISH examination
+##### 91.492 Microscopic examination of specimen from female genital tract, Microscopic FISH examination (IM)
 
-- (IM)
+##### 91.493 Microscopic examination of specimen from female genital tract, Microscopic FCR examination (IM)
 
-##### 91.492 Microscopic examination of specimen from female genital tract, Microscopic FISH examination
+##### 91.494 Microscopic examination of specimen from female genital tract, Screening for the Human Immunodef iciency Virus (HIV) Inf ection (IM)
 
-- (IM)
+##### 91.495 Microscopic examination of specimen from female genital tract, Prognostic Monitoring for the Human Immunodef iciency Virus (HIV) (IM)
 
-##### 91.493 Microscopic examination of specimen from female genital tract, Microscopic FCR examination
+##### 91.498 Microscopic examination of specimen from female genital tract, Other specified microscopic examinations (IM)
 
-- (IM)
-
-##### 91.494 Microscopic examination of specimen from female genital tract, Screening for the Human
-
-- Immunodef iciency Virus (HIV) Inf ection (IM)
-
-##### 91.495 Microscopic examination of specimen from female genital tract, Prognostic Monitoring for the
-
-- Human Immunodef iciency Virus (HIV) (IM)
-
-##### 91.498 Microscopic examination of specimen from female genital tract, Other specified microscopic
-
-- examinations (IM)
-
-##### 91.499 Microscopic examination of specimen from female genital tract, Other Microscopic examination
-
-- (IM)
+##### 91.499 Microscopic examination of specimen from female genital tract, Other Microscopic examination (IM)
 
 ### 91.5 Microscopic examination of specimen from musculoskeletal system and of joint fluid {#91-5}
 
@@ -1923,89 +1717,49 @@ The following fourth-digit subclassification is for use with categories in secti
 - synovial membrane
 - tendon
 
-##### 91.540 Microscopic examination of specimen from musculoskeletal system and of joint fluid, parasitology
+##### 91.540 Microscopic examination of specimen from musculoskeletal system and of joint fluid, parasitology culture and others (IM)
 
-- culture and others (IM)
+##### 91.541 Microscopic examination of specimen from musculoskeletal system and of joint fluid, Parasite and fungal serology / molecular examination (IM)
 
-##### 91.541 Microscopic examination of specimen from musculoskeletal system and of joint fluid, Parasite
+##### 91.542 Microscopic examination of specimen from musculoskeletal system and of joint fluid, Fungal culture yeast and susceptibility test (IM)
 
-- and fungal serology / molecular examination (IM)
+##### 91.543 Microscopic examination of specimen from musculoskeletal system and of joint fluid, Fungal culture mold and susceptibility test (IM)
 
-##### 91.542 Microscopic examination of specimen from musculoskeletal system and of joint fluid, Fungal
+##### 91.549 Microscopic examination of specimen from musculoskeletal system and of joint fluid, Parasitology smear (IM)
 
-- culture yeast and susceptibility test (IM)
+##### 91.560 Microscopic examination of specimen from musculoskeletal system and of joint fluid, cell block (IM)
 
-##### 91.543 Microscopic examination of specimen from musculoskeletal system and of joint fluid, Fungal
+###### 91.5600 Microscopic examination of specimen from musculoskeletal system and of joint fluid, Microscopic Immunohistochemistry examination (IM)
 
-- culture mold and susceptibility test (IM)
+###### 91.5601 Microscopic examination of specimen from musculoskeletal system and of joint fluid, Microscopic Histophatology examination of specimen from biopsy (IM)
 
-##### 91.549 Microscopic examination of specimen from musculoskeletal system and of joint fluid,
+###### 91.5602 Microscopic examination of specimen from musculoskeletal system and of joint fluid, Microscopic Histophatology examination of specimen from debulking (IM)
 
-- Parasitology smear (IM)
+###### 91.5603 Microscopic examination of specimen from musculoskeletal system and of joint fluid, Microscopic Histochemistry examination (IM)
 
-##### 91.560 Microscopic examination of specimen from musculoskeletal system and of joint fluid, cell block
+##### 91.561 Microscopic examination of specimen from musculoskeletal system and of joint fluid, papanicolaou and giemsa smear (IM)
 
-- (IM)
-
-###### 91.5600 Microscopic examination of specimen from musculoskeletal system and of joint fluid,
-
-- Microscopic Immunohistochemistry examination (IM)
-
-###### 91.5601 Microscopic examination of specimen from musculoskeletal system and of joint fluid,
-
-- Microscopic Histophatology examination of specimen from biopsy (IM)
-
-###### 91.5602 Microscopic examination of specimen from musculoskeletal system and of joint fluid,
-
-- Microscopic Histophatology examination of specimen from debulking (IM)
-
-###### 91.5603 Microscopic examination of specimen from musculoskeletal system and of joint fluid,
-
-- Microscopic Histochemistry examination (IM)
-
-##### 91.561 Microscopic examination of specimen from musculoskeletal system and of joint fluid,
-
-- papanicolaou and giemsa smear (IM)
-
-##### 91.569 Microscopic examination of specimen from musculoskeletal system and of joint fluid, other cell
-
-- block and papanicolaou smear (IM)
+##### 91.569 Microscopic examination of specimen from musculoskeletal system and of joint fluid, other cell block and papanicolaou smear (IM)
 
 #### 91.57 Microscopic examination of specimen from musculoskeletal system and of joint fluid, Molecular {#91-57}
 
 - biological test (IM) or Cythopathologic (IM)
 
-##### 91.590 Microscopic examination of specimen from musculoskeletal system and of joint fluid, Microscopic
+##### 91.590 Microscopic examination of specimen from musculoskeletal system and of joint fluid, Microscopic ISH examination (IM)
 
-- ISH examination (IM
+##### 91.591 Microscopic examination of specimen from musculoskeletal system and of joint fluid, Microscopic CISH examination (IM)
 
-##### 91.591 Microscopic examination of specimen from musculoskeletal system and of joint fluid, Microscopic
+##### 91.592 Microscopic examination of specimen from musculoskeletal system and of joint fluid, Microscopic FISH examination (IM)
 
-- CISH examination (IM)
+##### 91.593 Microscopic examination of specimen from musculoskeletal system and of joint fluid, Microscopic FCR examination (IM)
 
-##### 91.592 Microscopic examination of specimen from musculoskeletal system and of joint fluid, Microscopic
+##### 91.594 Microscopic examination of specimen from musculoskeletal system and of joint fluid, Screening for the H uman I mmunodeficiency Virus (H I V) I nfection (IM)
 
-- FISH examination (IM)
+##### 91.595 Microscopic examination of specimen from musculoskeletal system and of joint fluid, Prognostic Monitoring for the Human Immunodeficiency Virus (HIV) (IM)
 
-##### 91.593 Microscopic examination of specimen from musculoskeletal system and of joint fluid, Microscopic
+##### 91.598 Microscopic examination of specimen from musculoskeletal system and of joint fluid, Other specified microscopic examinations (IM)
 
-- FCR examination (IM)
-
-##### 91.594 Microscopic examination of specimen from musculoskeletal system and of joint fluid, Screening
-
-- for the H uman I mmunodeficiency Virus (H I V) I nfection (I M)
-
-##### 91.595 Microscopic examination of specimen from musculoskeletal system and of joint fluid, Prognostic
-
-- Monitoring for the Human Immunodeficiency Virus (HIV) (IM)
-
-##### 91.598 Microscopic examination of specimen from musculoskeletal system and of joint fluid, Other
-
-- specified microscopic examinations (IM)
-
-##### 91.599 Microscopic examination of specimen from musculoskeletal system and of joint fluid, Other
-
-- Microscopic examination (IM)
+##### 91.599 Microscopic examination of specimen from musculoskeletal system and of joint fluid, Other Microscopic examination (IM)
 
 ### 91.6 Microscopic examination of specimen from skin and other integument {#91-6}
 
@@ -2042,161 +1796,99 @@ The following fourth-digit subclassification is for use with categories in secti
 
 - (IM) or Cythopathologic (IM)
 
-##### 91.690 Microscopic examination of specimen from skin and other integument, Microscopic ISH
+##### 91.690 Microscopic examination of specimen from skin and other integument, Microscopic ISH examination (IM)
 
-- examination (IM
+##### 91.691 Microscopic examination of specimen from skin and other integument, Microscopic CISH examination (IM)
 
-##### 91.691 Microscopic examination of specimen from skin and other integument, Microscopic CISH
+##### 91.692 Microscopic examination of specimen from skin and other integument, Microscopic FISH examination (IM)
 
-- examination (IM)
+##### 91.693 Microscopic examination of specimen from skin and other integument, Microscopic FCR examination (IM)
 
-##### 91.692 Microscopic examination of specimen from skin and other integument, Microscopic FISH
+##### 91.694 Microscopic examination of specimen from skin and other integument, Screening for the Human Immunodef iciency Virus (HIV) Inf ection (IM)
 
-- examination (IM)
+##### 91.695 Microscopic examination of specimen from skin and other integument, Prognostic Monitoring for the Human Immunodeficiency Virus (HIV) (IM)
 
-##### 91.693 Microscopic examination of specimen from skin and other integument, Microscopic FCR
+##### 91.698 Microscopic examination of specimen from skin and other integument, Other specified microscopic examinations (IM)
 
-- examination (IM)
-
-##### 91.694 Microscopic examination of specimen from skin and other integument, Screening for the Human
-
-- Immunodef iciency Virus (HIV) Inf ection (IM)
-
-##### 91.695 Microscopic examination of specimen from skin and other integument, Prognostic Monitoring for
-
-- the Human Immunodeficiency Virus (HIV) (IM)
-
-##### 91.698 Microscopic examination of specimen from skin and other integument, Other specified
-
-- microscopic examinations (IM)
-
-##### 91.699 Microscopic examination of specimen from skin and other integument, Other Microscopic
-
-- examination (IM)
+##### 91.699 Microscopic examination of specimen from skin and other integument, Other Microscopic examination (IM)
 
 ### 91.7 Microscopic examination of specimen from operative wound {#91-7}
 
-##### 91.740 Microscopic examination of specimen from operative wound, parasitology culture and others
+##### 91.740 Microscopic examination of specimen from operative wound, parasitology culture and others (IM)
 
-- (IM)
+##### 91.741 Microscopic examination of specimen from operative wound, Parasite and fungal serology / molecular examination (IM)
 
-##### 91.741 Microscopic examination of specimen from operative wound, Parasite and fungal serology /
+##### 91.742 Microscopic examination of specimen from operative wound, Fungal culture yeast and susceptibility test (IM)
 
-- molecular examination (IM)
-
-##### 91.742 Microscopic examination of specimen from operative wound, Fungal culture yeast and
-
-- susceptibility test (IM)
-
-##### 91.743 Microscopic examination of specimen from operative wound, Fungal culture mold and
-
-- susceptibility test (IM)
+##### 91.743 Microscopic examination of specimen from operative wound, Fungal culture mold and susceptibility test (IM)
 
 ##### 91.749 Microscopic examination of specimen from operative wound, Parasitology smear (IM)
 
 ##### 91.760 Microscopic examination of specimen from operative wound, cell block (IM)
 
-###### 91.7600 Microscopic examination of specimen from operative wound, Microscopic
+###### 91.7600 Microscopic examination of specimen from operative wound, Microscopic Immunohistochemistry examination (IM)
 
-- Immunohistochemistry examination (IM)
+###### 91.7601 Microscopic examination of specimen from operative wound, Microscopic Histophatology examination of specimen from biopsy (IM)
 
-###### 91.7601 Microscopic examination of specimen from operative wound, Microscopic Histophatology
+###### 91.7602 Microscopic examination of specimen from operative wound, Microscopic Histophatology examination of specimen from debulking (IM)
 
-- examination of specimen from biopsy (IM)
+###### 91.7603 Microscopic examination of specimen from operative wound, Microscopic Histochemistry examination (IM)
 
-###### 91.7602 Microscopic examination of specimen from operative wound, Microscopic Histophatology
+##### 91.761 Microscopic examination of specimen from operative wound, papanicolaou and giemsa smear (IM)
 
-- examination of specimen from debulking (IM)
-
-###### 91.7603 Microscopic examination of specimen from operative wound, Microscopic Histochemistry
-
-- examination (IM)
-
-##### 91.761 Microscopic examination of specimen from operative wound, papanicolaou and giemsa smear
-
-- (IM)
-
-##### 91.769 Microscopic examination of specimen from operative wound, other cell block and papanicolaou
-
-- smear (IM)
+##### 91.769 Microscopic examination of specimen from operative wound, other cell block and papanicolaou smear (IM)
 
 #### 91.77 Microscopic examination of specimen from operative wound, Molecular biological test (IM) or {#91-77}
 
 - Cythopathologic (IM)
 
-##### 91.790 Microscopic examination of specimen from operative wound, Microscopic ISH examination (IM
+##### 91.790 Microscopic examination of specimen from operative wound, Microscopic ISH examination (IM)
 
-##### 91.791 Microscopic examination of specimen from operative wound, Microscopic CISH examination
-
-- (IM)
+##### 91.791 Microscopic examination of specimen from operative wound, Microscopic CISH examination (IM)
 
 ##### 91.792 Microscopic examination of specimen from operative wound, Microscopic FISH examination (IM)
 
 ##### 91.793 Microscopic examination of specimen from operative wound, Microscopic FCR examination (IM)
 
-##### 91.794 Microscopic examination of specimen from operative wound, Screening for the Human
+##### 91.794 Microscopic examination of specimen from operative wound, Screening for the Human Immunodef iciency Virus (HIV) Inf ection (IM)
 
-- Immunodef iciency Virus (HIV) Inf ection (IM)
+##### 91.795 Microscopic examination of specimen from operative wound, Prognostic Monitoring for the Human Immunodef iciency Virus (HIV) (IM)
 
-##### 91.795 Microscopic examination of specimen from operative wound, Prognostic Monitoring for the
+##### 91.798 Microscopic examination of specimen from operative wound, Other specified microscopic examinations (IM)
 
-- Human Immunodef iciency Virus (HIV) (IM)
-
-##### 91.798 Microscopic examination of specimen from operative wound, Other specified microscopic
-
-- examinations (IM)
-
-##### 91.799 Microscopic examination of specimen from operative wound, Other Microscopic examination
-
-- (IM)
+##### 91.799 Microscopic examination of specimen from operative wound, Other Microscopic examination (IM)
 
 ### 91.8 Microscopic examination of specimen from other site {#91-8}
 
 ##### 91.840 Microscopic examination of specimen from other site, parasitology culture and others (IM)
 
-##### 91.841 Microscopic examination of specimen from other site, Parasite and fungal serology / molecular
+##### 91.841 Microscopic examination of specimen from other site, Parasite and fungal serology / molecular examination (IM)
 
-- examination (IM)
+##### 91.842 Microscopic examination of specimen from other site, Fungal culture yeast and susceptibility test (IM)
 
-##### 91.842 Microscopic examination of specimen from other site, Fungal culture yeast and susceptibility test
-
-- (IM)
-
-##### 91.843 Microscopic examination of specimen from other site, Fungal culture mold and susceptibility test
-
-- (IM)
+##### 91.843 Microscopic examination of specimen from other site, Fungal culture mold and susceptibility test (IM)
 
 ##### 91.849 Microscopic examination of specimen from other site, Parasitology smear (IM)
 
 ##### 91.860 Microscopic examination of specimen from other site, cell block (IM)
 
-###### 91.8600 Microscopic examination of specimen from other site, Microscopic Immunohistochemistry
+###### 91.8600 Microscopic examination of specimen from other site, Microscopic Immunohistochemistry examination (IM)
 
-- examination (IM)
+###### 91.8601 Microscopic examination of specimen from other site, Microscopic Histophatology examination of specimen from biopsy (IM)
 
-###### 91.8601 Microscopic examination of specimen from other site, Microscopic Histophatology examination
+###### 91.8602 Microscopic examination of specimen from other site, Microscopic Histophatology examination of specimen from debulking (IM)
 
-- of specimen from biopsy (IM)
-
-###### 91.8602 Microscopic examination of specimen from other site, Microscopic Histophatology examination
-
-- of specimen from debulking (IM)
-
-###### 91.8603 Microscopic examination of specimen from other site, Microscopic Histochemistry examination
-
-- (IM)
+###### 91.8603 Microscopic examination of specimen from other site, Microscopic Histochemistry examination (IM)
 
 ##### 91.861 Microscopic examination of specimen from other site, papanicolaou and giemsa smear (IM)
 
-##### 91.869 Microscopic examination of specimen from other site, other cell block and papanicolaou smear
-
-- (IM)
+##### 91.869 Microscopic examination of specimen from other site, other cell block and papanicolaou smear (IM)
 
 #### 91.87 Microscopic examination of specimen from other site, Molecular biological test (IM) or {#91-87}
 
 - Cythopathologic (IM)
 
-##### 91.890 Microscopic examination of specimen from other site, Microscopic ISH examination (IM
+##### 91.890 Microscopic examination of specimen from other site, Microscopic ISH examination (IM)
 
 ##### 91.891 Microscopic examination of specimen from other site, Microscopic CISH examination (IM)
 
@@ -2204,17 +1896,11 @@ The following fourth-digit subclassification is for use with categories in secti
 
 ##### 91.893 Microscopic examination of specimen from other site, Microscopic FCR examination (IM)
 
-##### 91.894 Microscopic examination of specimen from other site, Screening for the Human
+##### 91.894 Microscopic examination of specimen from other site, Screening for the Human Immunodef iciency Virus (HIV) Inf ection (IM)
 
-- Immunodef iciency Virus (HIV) Inf ection (IM)
+##### 91.895 Microscopic examination of specimen from other site, Prognostic Monitoring for the Human Immunodef iciency Virus (HIV) (IM)
 
-##### 91.895 Microscopic examination of specimen from other site, Prognostic Monitoring for the Human
-
-- Immunodef iciency Virus (HIV) (IM)
-
-##### 91.898 Microscopic examination of specimen from other site, Other specified microscopic examinations
-
-- (IM)
+##### 91.898 Microscopic examination of specimen from other site, Other specified microscopic examinations (IM)
 
 ##### 91.899 Microscopic examination of specimen from other site, Other Microscopic examination (IM)
 
@@ -2222,51 +1908,33 @@ The following fourth-digit subclassification is for use with categories in secti
 
 ##### 91.940 Microscopic examination of specimen from unspecified site, parasitology culture and others (IM)
 
-##### 91.941 Microscopic examination of specimen from unspecified site, Parasite and fungal serology /
+##### 91.941 Microscopic examination of specimen from unspecified site, Parasite and fungal serology / molecular examination (IM)
 
-- molecular examination (IM)
+##### 91.942 Microscopic examination of specimen from unspecified site, Fungal culture yeast and susceptibility test (IM)
 
-##### 91.942 Microscopic examination of specimen from unspecified site, Fungal culture yeast and
-
-- susceptibility test (IM)
-
-##### 91.943 Microscopic examination of specimen from unspecified site, Fungal culture mold and
-
-- susceptibility test (IM)
+##### 91.943 Microscopic examination of specimen from unspecified site, Fungal culture mold and susceptibility test (IM)
 
 ##### 91.949 Microscopic examination of specimen from unspecified site, Parasitology smear (IM)
 
 ##### 91.960 Microscopic examination of specimen from unspecified site, cell block (IM)
 
-###### 91.9600 Microscopic examination of specimen from unspecified site, Microscopic
+###### 91.9600 Microscopic examination of specimen from unspecified site, Microscopic Immunohistochemistry examination (IM)
 
-- Immunohistochemistry examination (IM)
+###### 91.9601 Microscopic examination of specimen from unspecified site, Microscopic Histophatology examination of specimen from biopsy (IM)
 
-###### 91.9601 Microscopic examination of specimen from unspecified site, Microscopic Histophatology
+###### 91.9602 Microscopic examination of specimen from unspecified site, Microscopic Histophatology examination of specimen from debulking (IM)
 
-- examination of specimen from biopsy (IM)
+###### 91.9603 Microscopic examination of specimen from unspecified site, Microscopic Histochemistry examination (IM)
 
-###### 91.9602 Microscopic examination of specimen from unspecified site, Microscopic Histophatology
+##### 91.961 Microscopic examination of specimen from unspecified site, papanicolaou and giemsa smear (IM)
 
-- examination of specimen from debulking (IM)
-
-###### 91.9603 Microscopic examination of specimen from unspecified site, Microscopic Histochemistry
-
-- examination (IM)
-
-##### 91.961 Microscopic examination of specimen from unspecified site, papanicolaou and giemsa smear
-
-- (IM)
-
-##### 91.969 Microscopic examination of specimen from unspecified site, other cell block and papanicolaou
-
-- smear (IM)
+##### 91.969 Microscopic examination of specimen from unspecified site, other cell block and papanicolaou smear (IM)
 
 #### 91.97 Microscopic examination of specimen from unspecified site, Molecular biological test (IM) or {#91-97}
 
 - Cythopathologic (IM)
 
-##### 91.990 Microscopic examination of specimen from unspecified site, Microscopic ISH examination (IM
+##### 91.990 Microscopic examination of specimen from unspecified site, Microscopic ISH examination (IM)
 
 ##### 91.991 Microscopic examination of specimen from unspecified site, Microscopic CISH examination (IM)
 
@@ -2274,17 +1942,11 @@ The following fourth-digit subclassification is for use with categories in secti
 
 ##### 91.993 Microscopic examination of specimen from unspecified site, Microscopic FCR examination (IM)
 
-##### 91.994 Microscopic examination of specimen from unspeified site, Screening for the Human
+##### 91.994 Microscopic examination of specimen from unspeified site, Screening for the Human Immunodef iciency Virus (HIV) Inf ection (IM)
 
-- Immunodef iciency Virus (HIV) Inf ection (IM)
+##### 91.995 Microscopic examination of specimen from unspecified site, Prognostic Monitoring for the Human Immunodef iciency Virus (HIV) (IM)
 
-##### 91.995 Microscopic examination of specimen from unspecified site, Prognostic Monitoring for the
-
-- Human Immunodef iciency Virus (HIV) (IM)
-
-##### 91.998 Microscopic examination of specimen from unspecified site, Other specified microscopic
-
-- examinations (IM)
+##### 91.998 Microscopic examination of specimen from unspecified site, Other specified microscopic examinations (IM)
 
 ##### 91.999 Microscopic examination of specimen from unspecified site, Other Microscopic examination (IM)
 
@@ -2435,9 +2097,8 @@ The following fourth-digit subclassification is for use with categories in secti
 
 ##### 92.274 Implantation or insertion of radioactive elements interstitial (IM)
 
-##### 92.275 Implantation or insertion of radioactive elements specialized / perioperative
+##### 92.275 Implantation or insertion of radioactive elements specialized / perioperative brachytherapy procedures (IM)
 
-- brachytherapy procedures (IM)
 - Code also incision of site
 - _Excludes:_ infusion of liquid brachytherapy radioisotope ([92.20](#92-20))
 
@@ -3120,9 +2781,7 @@ The following fourth-digit subclassification is for use with categories in secti
 
 ##### 95.414 Eustachian tube function test (IM)
 
-##### 95.415 Free field test (visual reinforcement audiometry, behavioral observational
-
-- audiometry, play audiometry) (IM)
+##### 95.415 Free field test (visual reinforcement audiometry, behavioral observational audiometry, play audiometry) (IM)
 
 ##### 95.418 Other audiometry test (SISI test, ABLB test, tinnitogram, decay) (IM)
 
@@ -3160,9 +2819,7 @@ The following fourth-digit subclassification is for use with categories in secti
 
 ##### 95.461 Automatic BERA (IM)
 
-##### 95.462 Brainstem evoked response audiometry/auditory potential (BERA/BAEP) for
-
-- hearing assessment (IM)
+##### 95.462 Brainstem evoked response audiometry/auditory potential (BERA/BAEP) for hearing assessment (IM)
 
 ##### 95.463 Auditory steady state response (ASSR) (IM)
 
