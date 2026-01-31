@@ -11,7 +11,7 @@
 
 - _Excludes:_ percutaneous (balloon) valvuloplasty ([35.96](#35-96))
 
-#### 35.00 Closed heart valvotomy, unspecif ied valve {#35-00}
+#### 35.00 Closed heart valvotomy, unspecified valve {#35-00}
 
 #### 35.01 Closed heart valvotomy, aortic valve {#35-01}
 
@@ -28,7 +28,7 @@
   - endocardial cushion defect ([35.54](#35-54), [35.63](#35-63), [35.73](#35-73))
   - valvular defect associated with atrial and ventricular septal defects ([35.54](#35-54), [35.63](#35-63), [35.73](#35-73))
   - percutaneous (balloon) valvuloplasty ([35.96](#35-96))
-  - Code also cardiopulmonary bypass if perf ormed [extracorporeal circulation] [heart-lung machine] ([39.61](#39-61))
+  - Code also cardiopulmonary bypass if performed [extracorporeal circulation] [heart-lung machine] ([39.61](#39-61))
 
 #### 35.10 Open heart valvuloplasty without replacement, unspecified valve {#35-10}
 
@@ -48,9 +48,9 @@
   - endocardial cushion defect ([35.54](#35-54), [35.63](#35-63), [35.73](#35-73))
   - valvular defect associated with atrial and ventricular septal defects ([35.54](#35-54), [35.63](#35-63), [35.73](#35-73))
 
-#### 35.20 Replacement of unspecif ied heart valve {#35-20}
+#### 35.20 Replacement of unspecified heart valve {#35-20}
 
-- Repair of unspecif ied heart valve with tissue graf t or prosthetic implant
+- Repair of unspecified heart valve with tissue graf t or prosthetic implant
 
 #### 35.21 Replacement of aortic valve with tissue graf t {#35-21}
 
@@ -149,7 +149,7 @@
 - _Includes:_ repair of septa with synthetic implant or patch
   - Code also cardiopulmonary bypass [extracorporeal circulation] [heart-lung machine] ([39.61](#39-61))
 
-#### 35.50 Repair of unspecif ied septal def ect of heart with prosthesis {#35-50}
+#### 35.50 Repair of unspecified septal def ect of heart with prosthesis {#35-50}
 
 - _Excludes:_ that associated with repair of:
   - endocardial cushion defect ([35.54](#35-54))
@@ -202,7 +202,7 @@
 
 - Code also cardiopulmonary bypass [extracorporeal circulation] [heart-lung machine] ([39.61](#39-61))
 
-#### 35.60 Repair of unspecif ied septal def ect of heart with tissue graf t {#35-60}
+#### 35.60 Repair of unspecified septal def ect of heart with tissue graf t {#35-60}
 
 - _Excludes:_ that associated with repair of:
   - endocardial cushion defect ([35.63](#35-63))
@@ -255,7 +255,7 @@
 - atrial septum
 - foramen ovale (patent)
 - ostium secundum defect
-- Replacement of unspecif ied heart valve with Sinus Valsava Repair
+- Replacement of unspecified heart valve with Sinus Valsava Repair
 - _Excludes:_ that associated with repair of:
   - atrial septal defect associated with valvular ventricular septal defects ([35.73](#35-73))
   - endocardial cushion defect ([35.73](#35-73))
@@ -320,7 +320,7 @@
 - ligation of connections between aorta and pulmonary artery
 - repair of ventricular septal defect (with prosthesis)
 
-#### 35.84 Total correction of transposition of great vessels, not elsewhere classif ied {#35-84}
+#### 35.84 Total correction of transposition of great vessels, not elsewhere classified {#35-84}
 
 - Arterial switch operation [Jatene]
 - Total correction of transposition of great arteries at the arterial level by switching the
@@ -331,7 +331,7 @@
 
 ### 35.9 Other operations on valves and septa of heart {#35-9}
 
-- Code also cardiopulmonary bypass, if perf ormed [extracorporeal circulation] [heart-lung machine] ([39.61](#39-61))
+- Code also cardiopulmonary bypass, if performed [extracorporeal circulation] [heart-lung machine] ([39.61](#39-61))
 
 #### 35.91 Interatrial transposition of venous return {#35-91}
 
@@ -415,9 +415,9 @@
   - number of vessels treated ([00.40-00.43](../chapter-0/index.md#00-40))
   - procedure on vessel bifurcation ([00.44](../chapter-0/index.md#00-44))
 
-#### 36.04 Intracoronary artery thrombolytic inf usion {#36-04}
+#### 36.04 Intracoronary artery thrombolytic infusion {#36-04}
 
-- That by direct coronary artery injection, inf usion, or catheterization
+- That by direct coronary artery injection, infusion, or catheterization
 - Enzyme infusion
 - Platelet inhibitor
 - _Excludes:_ infusion of platelet inhibitor ([99.20](../chapter-16/index.md#99-20))
@@ -474,7 +474,7 @@
 
 ### 36.1 Bypass anastomosis for heart revascularization {#36-1}
 
-- Note: Do not assign codes f rom series 00.40-00.43 with codes from series ([36.10-36.19](#36-10))
+- Note: Do not assign codes from series 00.40-00.43 with codes from series ([36.10-36.19](#36-10))
 - Code also : cardiopulmonary bypass [extracorporeal circulation] [heart-lung machine] ([39.61](#39-61))
 - pressurized treatment of venous bypass graft [conduit] with pharmaceutical substance, if
 - performed ([00.16](../chapter-0/index.md#00-16))
@@ -570,11 +570,11 @@
 - Exploration of coronary artery
 - Incision of coronary artery
 - Ligation of coronary artery
-- Repair of arteriovenous f istula
+- Repair of arteriovenous fistula
 
 ## 37 Other operations on heart and pericardium {#37}
 
-- Code alsoany injection or inf usion of platelet inhibitor ([99.20](../chapter-16/index.md#99-20))
+- Code alsoany injection or infusion of platelet inhibitor ([99.20](../chapter-16/index.md#99-20))
 
 ### 37.0 Pericardiocentesis {#37-0}
 
@@ -582,7 +582,7 @@
 
 - Code also cardiopulmonary bypass [extracorporeal circulation] [heart-lung machine] ([39.61](#39-61))
 
-#### 37.10 Incision of heart, not otherwise specif ied {#37-10}
+#### 37.10 Incision of heart, not otherwise specified {#37-10}
 
 - Cardiolysis NOS
 
@@ -729,7 +729,7 @@
   - Exclusion of left atrial appendage
   - Oversewing of left atrial appendage
   - Stapling of left atrial appendage
-  - Code also any concomitant procedure perf ormed
+  - Code also any concomitant procedure performed
 - _Excludes:_ ablation, excision or destruction of lesion or tissue of heart, endovascular approach ( 37.34)
 
 #### 37.37 Excision or destruction of other lesion or tissue of heart, thoracoscopic approach {#37-37}
@@ -786,7 +786,7 @@
 - system
 - Implantable battery
 - Implantable controller
-- Transcutaneous energy transf er [TET] device
+- Transcutaneous energy transfer [TET] device
 - _Excludes:_ replacement and repair of heart assist system [VAD] ([37.63](#37-63))
   - replacement or repair of thoracic unit of (total) replacement heart system ([37.53](#37-53))
 
@@ -808,9 +808,9 @@
 
 #### 37.60 Implantation or insertion of biventricular external heart assist system {#37-60}
 
-- Temporary cardiac support f or both lef t and right ventricles, inserted in the same
+- Temporary cardiac support for both lef t and right ventricles, inserted in the same
 - operative episode
-- _Includes:_ open chest (sternotomy) procedure f or cannulae attachments
+- _Includes:_ open chest (sternotomy) procedure for cannulae attachments
   - Note: Device (outside the body but connected to heart) with external circulation pump. Ventriculotomy is
 - _Includes:_ d; do not code separately.
 - _Excludes:_ implantation of internal biventricular heart replacement system (artificial heart) ([37.52](#37-52))
@@ -854,8 +854,8 @@
 
 - Insertion of one device into one ventricle
 - Note: Device (outside the body but connected to heart) with external circulation and pump.
-- Note: Insertion or implantation of one external VAD f or lef t or right heart support.
-- _Includes:_ open chest (sternotomy) procedure f or cannulae attachments
+- Note: Insertion or implantation of one external VAD for lef t or right heart support.
+- _Includes:_ open chest (sternotomy) procedure for cannulae attachments
 - _Excludes:_ implant of pulsation balloon ([37.61](#37-61))
   - implantation of total internal biventricular heart replacement system ([37.52](#37-52))
   - insertion of implantable heart assist system ([37.66](#37-66))
@@ -876,7 +876,7 @@
 - Ventricular assist device (VAD) not otherwise specified
 - Note: Device directly connected to the heart and implanted in the upper left quadrant of
 - peritoneal cavity.
-- Note: This device can be used f or either destination therapy (DT) or bridge-to-transplant (BTT)
+- Note: This device can be used for either destination therapy (DT) or bridge-to-transplant (BTT)
 - _Excludes:_ implant of pulsation balloon ([37.61](#37-61))
   - implantation of total internal biventricular heart replacement system [artificial heart]
   - ([37.52](#37-52))
@@ -903,7 +903,7 @@
   - _Excludes:_ implantation or replacement of transvenous lead [electrode] into left ventricular cardiac venous
     - system ([00.52](../chapter-0/index.md#00-52))
 
-#### 37.70 Initial insertion of lead [electrode], not otherwise specif ied {#37-70}
+#### 37.70 Initial insertion of lead [electrode], not otherwise specified {#37-70}
 
 - Initial insertion of leadless pacemaker
 - Initial insertion of leadless pacemaker, with general anaesthesia
@@ -972,13 +972,13 @@
 - Relocation of pocket [creation of new pocket] pacemaker or CRT-P
 - Removal of cardiac device/pulse generator without replacement
 - Removal of the implantable hemodynamic pressure sensor (lead) and monitor device
-- Removal without replacement of cardiac resynchronization def ibrillator device
+- Removal without replacement of cardiac resynchronization defibrillator device
 - Repositioning of implantable hemodynamic pressure sensor (lead) and monitor device
 - Repositioning of pulse generator
-- Revision of cardioverter/def ibrillator (automatic) pocket
-- Revision of pocket f or intracardiac hemodynamic monitoring
+- Revision of cardioverter/defibrillator (automatic) pocket
+- Revision of pocket for intracardiac hemodynamic monitoring
 - Revision or relocation of CRT-D pocket
-- Revision or relocation of pacemaker, def ibrillator, or other implanted cardiac device
+- Revision or relocation of pacemaker, defibrillator, or other implanted cardiac device
 - pocket
 - Insertion of implantable loop recorder (ILR)
 - Insertion of implantable loop recorder (ILR), with general anaesthesia
@@ -995,7 +995,7 @@
     - implantation or replacement of cardiac resynchronization pacemaker pulse generator only
     - [CRT-P] ([00.53](../chapter-0/index.md#00-53))
 
-#### 37.80 Insertion of permanent pacemaker, initial or replacement, type of device not specif ied {#37-80}
+#### 37.80 Insertion of permanent pacemaker, initial or replacement, type of device not specified {#37-80}
 
 #### 37.81 Initial insertion of single-chamber device, not specified as rate responsive {#37-81}
 
@@ -1069,9 +1069,9 @@
 
 #### 37.93 Injection of therapeutic substance into pericardium {#37-93}
 
-#### 37.94 Implantation or replacement of automatic cardioverter/def ibrillator, total system [AICD] {#37-94}
+#### 37.94 Implantation or replacement of automatic cardioverter/defibrillator, total system [AICD] {#37-94}
 
-- Implantation of def ibrillator with leads (epicardial patches), f ormation of pocket
+- Implantation of defibrillator with leads (epicardial patches), formation of pocket
 - (abdominal fascia) (subcutaneous), any transvenous leads, intraoperative
 - procedures for evaluation of lead signals, and obtaining defibrillator threshold
 - measurements
@@ -1079,39 +1079,39 @@
 - lateral thoracotomy
 - medial sternotomy
 - subxiphoid procedure
-- Implantation of automatic cardioverter/def ibrillator pulse generator only, with general
+- Implantation of automatic cardioverter/defibrillator pulse generator only, with general
 - anaesthesia
-- Implantation of dual chamber cardioverter/def ibrillator
-- Implantation of subcutaneous cardioverter/def ibrillator
-- Implantation of subcutaneous cardioverter/def ibrillator, with general anaesthesia
-- Implantation or replacement of automatic cardioverter/ def ibrillator, total system (AICD),
+- Implantation of dual chamber cardioverter/defibrillator
+- Implantation of subcutaneous cardioverter/defibrillator
+- Implantation of subcutaneous cardioverter/defibrillator, with general anaesthesia
+- Implantation or replacement of automatic cardioverter/ defibrillator, total system (AICD),
 - with general
 - initial insertion of dual chamber ICD \*
 - initial insertion of subcutaenus defibrilator ICD \*
 - Implantation or replacement of transvenous lead (electrode) into lef t ventricular
 - coronary venous system, with general anaesthesia
 - Note: Device testing during procedure - omit code
-- Code also extracorporeal circulation, if perf ormed ([39.61](#39-61))
+- Code also extracorporeal circulation, if performed ([39.61](#39-61))
 - Code also any concomitant procedure [e.g., coronary bypass ([36.10-36.19](#36-10)) or CCM, total system
 - ([17.51](../chapter-3a/index.md#17-51))]
 - _Excludes:_ implantation of cardiac resynchronization defibrillator, total system [CRT-D] ([00.51](../chapter-0/index.md#00-51))
 
-#### 37.95 Implantation of automatic cardioverter/def ibrillator lead(s) only {#37-95}
+#### 37.95 Implantation of automatic cardioverter/defibrillator lead(s) only {#37-95}
 
-#### 37.96 Implantation of automatic cardioverter/def ibrillator pulse generator only {#37-96}
+#### 37.96 Implantation of automatic cardioverter/defibrillator pulse generator only {#37-96}
 
-- Implantation of dual chamber cardioverter/def ibrillator, with general anaesthesia
+- Implantation of dual chamber cardioverter/defibrillator, with general anaesthesia
 - Note: Device testing during procedure - omit code
 - _Excludes:_ implantation or replacement of cardiac resynchronization defibrillator, pulse generator
   - device only [CRT-D] ([00.54](../chapter-0/index.md#00-54))
 
-#### 37.97 Replacement of automatic cardioverter/def ibrillator lead(s) only {#37-97}
+#### 37.97 Replacement of automatic cardioverter/defibrillator lead(s) only {#37-97}
 
 - _Excludes:_ replacement of epicardial lead [electrode] into epicardium ([37.74](#37-74))
   - replacement of transvenous lead [electrode] into left ventricular coronary venous
   - system ([00.52](../chapter-0/index.md#00-52))
 
-#### 37.98 Replacement of automatic cardioverter/def ibrillator pulse generator only {#37-98}
+#### 37.98 Replacement of automatic cardioverter/defibrillator pulse generator only {#37-98}
 
 - Note: Device testing during procedure - omit code
 - _Excludes:_ replacement of cardiac resynchronization defibrillator, pulse generator device only
@@ -1540,7 +1540,7 @@
   - prostate ([60.94](../chapter-11/index.md#60-94))
   - tonsil ([28.7](#28-7))
 
-#### 39.42 Revision of arteriovenous shunt f or renal dialysis {#39-42}
+#### 39.42 Revision of arteriovenous shunt for renal dialysis {#39-42}
 
 - Conversion of renal dialysis:
 - end-to-end anastomosis to end-to-side
@@ -1549,7 +1549,7 @@
 - Removal of old arteriovenous shunt and creation of new shunt
 - _Excludes:_ replacement of vessel-to-vessel cannula ([39.94](#39-94))
 
-#### 39.43 Removal of arteriovenous shunt f or renal dialysis {#39-43}
+#### 39.43 Removal of arteriovenous shunt for renal dialysis {#39-43}
 
 - _Excludes:_ that with replacement [revision] of shunt ([39.42](#39-42))
 
@@ -1603,10 +1603,10 @@
   - graft replacement ([38.40-38.49](#38-40))
   - resection ([38.30](#38-30)-[38.49](#38-49), [38.60](#38-60)-[38.69](#38-69))
 
-#### 39.53 Repair of arteriovenous f istula {#39-53}
+#### 39.53 Repair of arteriovenous fistula {#39-53}
 
 - Embolization of carotid cavernous fistula
-- Repair of arteriovenous f istula by:
+- Repair of arteriovenous fistula by:
 - clipping
 - coagulation
 - ligation and division
@@ -1632,7 +1632,7 @@
 
 - _Excludes:_ that with resection ([38.40-38.49](#38-40))
 
-#### 39.58 Repair of blood vessel with unspecif ied type of patch graf t {#39-58}
+#### 39.58 Repair of blood vessel with unspecified type of patch graf t {#39-58}
 
 - _Excludes:_ that with resection ([38.40-38.49](#38-40))
 
@@ -1728,7 +1728,7 @@
 - Endovascular graft(s)
 - Liquid tissue adhesive (glue) embolization or occlusion
 - Other implant or substance for repair, embolization or occlusion
-- That f or repair of aneurysm, arteriovenous malf ormation[AVM] or f istula
+- That for repair of aneurysm, arteriovenous malformation[AVM] or fistula
 - Vascular embolization
 - _Excludes:_ embolization of head or neck vessels using bare coils ([39.75](#39-75))
   - embolization of head or neck vessels using bioactive coils ([39.76](#39-76))
@@ -1740,7 +1740,7 @@
 - Endovascular graft(s)
 - Endovascular repair of defect of thoracic aorta with graft(s) or device(s)
 - Stent graft(s) or device(s)
-- That f or repair of aneurysm, dissection, or injury
+- That for repair of aneurysm, dissection, or injury
 - Code also intra-aneurysm sac pressure monitoring (intraoperative) ([00.58](../chapter-0/index.md#00-58))
 - _Excludes:_ fenestration of dissecting aneurysm of thoracic aorta ([39.54](#39-54))
 
@@ -1750,7 +1750,7 @@
 - Endovascular thrombectomy of pre-cerebral and cerebral vessels
 - Mechanical embolectomy or thrombectomy
 - Mechanical thrombectomy
-- Code also: any injection or inf usion of thrombolytic agent ([99.10](../chapter-16/index.md#99-10))
+- Code also: any injection or infusion of thrombolytic agent ([99.10](../chapter-16/index.md#99-10))
 - number of vessels treated ([00.40-00.43](../chapter-0/index.md#00-40))
 - procedure on vessel bifurcation ([00.44](../chapter-0/index.md#00-44))
 - _Excludes:_
@@ -1763,14 +1763,14 @@
 
 - Bare metal coils
 - Bare platinum coils [BPC]
-- That f or treatment of aneurysm, arteriovenous malf ormation [AVM] or f istula
+- That for treatment of aneurysm, arteriovenous malformation [AVM] or fistula
 
 #### 39.76 Endovascular embolization or occlusion of vessel(s) of head or neck using bioactive coils {#39-76}
 
 - Biodegradable inner luminal polymer coils
 - Coil embolization or occlusion utilizing bioactive coils
 - Coils containing polyglycolic acid [PGA]
-- That f or treatment of aneurysm, arteriovenous malf ormation [AVM] or f istula
+- That for treatment of aneurysm, arteriovenous malformation [AVM] or fistula
 
 #### 39.79 Other endovascular procedures on other vessels {#39-79}
 
@@ -1780,8 +1780,8 @@
 - Other coil embolization or occlusion
 - Other implant or substance for repair, embolization or occlusion
 - Repair of aneurysm
-- Coiling f istulae in one vessel
-- Coiling coronary f istula
+- Coiling fistulae in one vessel
+- Coiling coronary fistula
 - Coiling MAPCA
 - coronary fistula intervention with coiling or alcohol ablation
 - _Excludes:_ abdominal aortic aneurysm resection [AAA] ([38.44](#38-44))
@@ -1905,7 +1905,7 @@
   - 39.951 Prolonged Intermitent Renal Replacement Therapy (IM)
   - 39.952 Continuous Renal Replacement Therapy (IM)
 
-#### 39.96 Total body perf usion {#39-96}
+#### 39.96 Total body perfusion {#39-96}
 
 - Code also substance perf used ([99.21-99.29](../chapter-16/index.md#99-21))
 
@@ -1927,7 +1927,7 @@
   - small intestine ([46.95](../chapter-9/index.md#46-95))
   - SuperSaturated oxygen therapy ([00.49](../chapter-0/index.md#00-49))
 
-#### 39.98 Control of hemorrhage, not otherwise specif ied {#39-98}
+#### 39.98 Control of hemorrhage, not otherwise specified {#39-98}
 
 - Angiotripsy
 - Control of postoperative hemorrhage NOS

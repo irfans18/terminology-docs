@@ -7,7 +7,7 @@
     - skin of nose
 ### 21.0 Control of  epistaxis {#21-0}
 
-#### 21.00 Control of  epistaxis, not otherwise specif ied {#21-00}
+#### 21.00 Control of  epistaxis, not otherwise specified {#21-00}
 #### 21.01 Control of  epistaxis by anterior nasal packing {#21-01}
 #### 21.02 Control of  epistaxis by posterior (and anterior) packing {#21-02}
 #### 21.03 Control of  epistaxis by cauterization (and packing) {#21-03}
@@ -63,7 +63,7 @@
 ### 21.8 Repair and plastic operations on the nose {#21-8}
 
 #### 21.81 Suture of laceration of nose {#21-81}
-#### 21.82 Closure of  nasal f istula {#21-82}
+#### 21.82 Closure of  nasal fistula {#21-82}
   - Nasolabial f istulectomy
   - Nasopharyngeal f istulectomy
   - Oronasal fistulectomy
@@ -85,7 +85,7 @@
   - Rhinoplasty NOS
 #### 21.88 Other septoplasty {#21-88}
   - Crushing of  nasal septum
-  - Repair of  septal perf oration
+  - Repair of  septal perforation
   - *Excludes:* septoplasty associated with submucous resection of septum  ([21.5](#21-5))
 #### 21.89 Other repair and plastic operations on nose {#21-89}
   - Reattachment of  amputated nose
@@ -163,7 +163,7 @@
   - 22.641 Sphenoidectomy dextra (IM)
 ### 22.7 Repair of  nasal sinus {#22-7}
 
-#### 22.71 Closure of  nasal sinus f istula {#22-71}
+#### 22.71 Closure of  nasal sinus fistula {#22-71}
   - Repair of  oro-antral fistula
 #### 22.79 Other repair of nasal sinus {#22-79}
   - Reconstruction of  f rontonasal duct
@@ -185,11 +185,11 @@
 #### 23.11 Removal of  residual root {#23-11}
 #### 23.12 Odontectomy NOS (IM) {#23-12}
 #### 23.13 Removal of  impacted tooth (IM) {#23-13}
-#### 23.14 Tooth extraction with elevationof  mucoperiosteal f lap (IM) {#23-14}
+#### 23.14 Tooth extraction with elevationof  mucoperiosteal flap (IM) {#23-14}
 #### 23.19 Other surgical extraction of tooth {#23-19}
   - Odontectomy NOS (IM) to 23.12
   - Removal of  impacted tooth (IM) to 23.13
-  - Tooth extraction with elevation of  mucoperiosteal f lap (IM) to 23.14
+  - Tooth extraction with elevation of  mucoperiosteal flap (IM) to 23.14
 ### 23.2 Restoration of  tooth by f illing {#23-2}
 
 ### 23.3 Restoration of  tooth by inlay {#23-3}
@@ -207,7 +207,7 @@
 - Endosseous dental implant
 ### 23.7 Apicoectomy and root canal therapy {#23-7}
 
-#### 23.70 Root canal, not otherwise specif ied {#23-70}
+#### 23.70 Root canal, not otherwise specified {#23-70}
 #### 23.71 Root canal therapy with irrigation {#23-71}
 #### 23.72 Root canal therapy with apicoectomy {#23-72}
 #### 23.73 Apicoectomy {#23-73}
@@ -353,7 +353,7 @@
 ### 26.4 Repair of  salivary gland or duct {#26-4}
 
 #### 26.41 Suture of laceration of salivary gland {#26-41}
-#### 26.42 Closure of  salivary f istula {#26-42}
+#### 26.42 Closure of  salivary fistula {#26-42}
 #### 26.49 Other repair and plastic operations on salivary gland or duct {#26-49}
   - Fistulization of salivary gland
   - Plastic repair of salivary gland or duct NOS
@@ -419,7 +419,7 @@
   - *Excludes:* palatoplasty ([27.61-27.69](#27-61))
 #### 27.51 Suture of laceration of lip {#27-51}
 #### 27.52 Suture of laceration of other part of mouth {#27-52}
-#### 27.53 Closure of  f istula of  mouth {#27-53}
+#### 27.53 Closure of  fistula of  mouth {#27-53}
   - *Excludes:* fistulectomy:
     - nasolabial ([21.82](#21-82))
     - oro-antral ([22.71](#22-71))
@@ -458,7 +458,7 @@
 #### 27.91 Labial frenotomy {#27-91}
   - Division of labial frenum
   - *Excludes:* lingual frenotomy ([25.91](#25-91))
-#### 27.92 Incision of  mouth, unspecif ied structure {#27-92}
+#### 27.92 Incision of  mouth, unspecified structure {#27-92}
   - *Excludes:* incision of:
     - gum ([24.0](#24-0))
     - palate ([27.1](#27-1))
@@ -495,11 +495,11 @@
 ### 28.6 Adenoidectomy without tonsillectomy {#28-6}
 
 - Excision of adenoid tag
-### 28.7 Control of  hemorrhage af ter tonsillectomy and adenoidectomy {#28-7}
+### 28.7 Control of  hemorrhage after tonsillectomy and adenoidectomy {#28-7}
 
 ### 28.9 Other operations on tonsils and adenoids {#28-9}
 
-#### 28.91 Removal of  f oreign body f rom tonsil and adenoid by incision {#28-91}
+#### 28.91 Removal of  foreign body from tonsil and adenoid by incision {#28-91}
   - *Excludes:* that without incision ([98.13](../chapter-16/index.md#98-13))
 #### 28.92 Excision of lesion of tonsil and adenoid {#28-92}
   - *Excludes:* biopsy of tonsil and adenoid  ([28.11](#28-11))
@@ -545,8 +545,8 @@
 ### 29.5 Other repair of pharynx {#29-5}
 
 #### 29.51 Suture of laceration of pharynx {#29-51}
-#### 29.52 Closure of  branchial clef t f istula {#29-52}
-#### 29.53 Closure of  other f istula of  pharynx {#29-53}
+#### 29.52 Closure of  branchial clef t fistula {#29-52}
+#### 29.53 Closure of  other fistula of  pharynx {#29-53}
   - Pharyngoesophageal fistulectomy
 #### 29.54 Lysis of pharyngeal adhesions {#29-54}
 #### 29.59 Other {#29-59}

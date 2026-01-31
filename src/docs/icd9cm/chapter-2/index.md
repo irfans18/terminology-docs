@@ -12,7 +12,7 @@
     - drainage by incision ([06.09](#06-09))
     - postoperative aspiration of field ([06.02](#06-02))
 #### 06.02 Reopening of  wound of  thyroid f ield {#06-02}
-  - Reopening of  wound of  thyroid f ield f or:
+  - Reopening of  wound of  thyroid f ield for:
   - control of (postoperative) hemorrhage
   - examination
   - exploration
@@ -23,7 +23,7 @@
   - Exploration:
   - neck by incision
   - thyroid (field) by incision
-  - Removal of  f oreign body by incision
+  - Removal of  foreign body by incision
   - Thyroidotomy NOS by incision
   - *Excludes:* postoperative exploration ([06.02](#06-02))
     - removal of hematoma by aspiration ([06.01](#06-01))
@@ -170,8 +170,8 @@
   - Ablation of pituitary by implantation (strontium-yttrium) (Y) transfrontal approach
   - Cryohypophysectomy, complete transf rontal approach
 #### 07.65 Total excision of  pituitary gland, transsphenoidal approach {#07-65}
-#### 07.68 Total excision of  pituitary gland, other specif ied approach {#07-68}
-#### 07.69 Total excision of  pituitary gland, unspecif ied approach {#07-69}
+#### 07.68 Total excision of  pituitary gland, other specified approach {#07-68}
+#### 07.69 Total excision of  pituitary gland, unspecified approach {#07-69}
   - Hypophysectomy NOS
   - Pituitectomy NOS
 ### 07.7 Other operations on hypophysis {#07-7}
@@ -189,7 +189,7 @@
   - Insertion of  pack into sella turcica
 ### 07.8 Thymectomy {#07-8}
 
-#### 07.80 Thymectomy, not otherwise specif ied {#07-80}
+#### 07.80 Thymectomy, not otherwise specified {#07-80}
 #### 07.81 Other partial excision of thymus {#07-81}
   - Open partial excision of thymus
   - *Excludes:* biopsy of thymus ([07.16](#07-16))

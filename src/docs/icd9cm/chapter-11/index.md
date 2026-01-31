@@ -101,7 +101,7 @@
 #### 60.93 Repair of  prostate {#60-93}
 #### 60.94 Control of  (postoperative) hemorrhage of  prostate {#60-94}
   - Coagulation of  prostatic bed
-  - Cystoscopy f or control of  prostatic hemorrhage
+  - Cystoscopy for control of  prostatic hemorrhage
 #### 60.95 Transurethral balloon dilation of  the prostatic urethra {#60-95}
 #### 60.96 Transurethral destruction of  prostate tissue by microwave thermotherapy {#60-96}
   - Transurethral microwave thermotherapy (TUMT) of  prostate
@@ -112,7 +112,7 @@
     - suprapubic ([60.3](#60-3))
     - transurethral ([60.21-60.29](#60-21))
 #### 60.97 Other transurethral destruction of prostate tissue by other thermotherapy {#60-97}
-  - Radiof requency thermotherapy
+  - Radiofrequency thermotherapy
   - Transurethral needle ablation (TUNA) of  prostate (IM) to 60.22
   - *Excludes:* Prostatectomy:
     - other ([60.61-60.69](#60-61))
@@ -145,9 +145,9 @@
 ### 61.4 Repair of  scrotum and tunica vaginalis {#61-4}
 
 #### 61.41 Suture of laceration of scrotum and tunica vaginalis {#61-41}
-#### 61.42 Repair of  scrotal f istula {#61-42}
+#### 61.42 Repair of  scrotal fistula {#61-42}
 #### 61.49 Other repair of scrotum and tunica vaginalis {#61-49}
-  - Reconstruction with rotational or pedicle f laps
+  - Reconstruction with rotational or pedicle flaps
 ### 61.9 Other operations on scrotum and tunica vaginalis {#61-9}
 
 #### 61.91 Percutaneous aspiration of tunica vaginalis {#61-91}
@@ -193,9 +193,9 @@
 - Mobilization and replacement of testis in scrotum
 - Orchiopexy with detorsion of testis
 - Torek (-Bevan) operation (orchidopexy) (first stage) (second stage)
-- Transplantation to and f ixation of  testis in scrotum
+- Transplantation to and fixation of  testis in scrotum
 #### 62.50 Laparoscopic orchidopexy (IM) {#62-50}
-#### 62.51 Revision orchidopexy f or undescended testis (IM) {#62-51}
+#### 62.51 Revision orchidopexy for undescended testis (IM) {#62-51}
 #### 62.52 Laparoscopic orchidopexy fowler stephen (IM) {#62-52}
 ### 62.6 Repair of  testes {#62-6}
 
@@ -264,8 +264,8 @@
 #### 63.81 Suture of laceration of vas deferens and epididymis {#63-81}
 #### 63.82 Reconstruction of  surgically divided vas def erens {#63-82}
 #### 63.83 Epididymovasostomy {#63-83}
-#### 63.84 Removal of  ligature f rom vas def erens {#63-84}
-#### 63.85 Removal of  valve f rom vas def erens {#63-85}
+#### 63.84 Removal of  ligature from vas def erens {#63-84}
+#### 63.85 Removal of  valve from vas def erens {#63-85}
 #### 63.89 Other repair of vas deferens and epididymis {#63-89}
 ### 63.9 Other operations on spermatic cord, epididymis, and vas deferens {#63-9}
 
@@ -332,7 +332,7 @@
   - Removal without replacement of  non- inflatable or inflatable penile prosthesis
 #### 64.97 Insertion or replacement of  inf latable penile prosthesis {#64-97}
   - Insertion of  cylinders into shaf t of  penis and placement of  pump and reservoir
-  - 64.970 Revision artif icial erection device (IM)
+  - 64.970 Revision artificial erection device (IM)
   - *Excludes:* external penile prosthesi ([64.94](#64-94))
     - non-inflatable penile prosthesi ([64.95](#64-95))
     - plastic repair, penis ([64.43-64.49](#64-43))

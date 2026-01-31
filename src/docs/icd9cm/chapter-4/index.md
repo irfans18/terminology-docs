@@ -121,7 +121,7 @@
 ### 19.5 Other tympanoplasty {#19-5}
 
 #### 19.52 Type II tympanoplasty {#19-52}
-  - Closure of  perf oration with graf t against incus or malleus
+  - Closure of  perforation with graf t against incus or malleus
 #### 19.53 Type III tympanoplasty {#19-53}
   - Graft placed in contact with mobile and intact stapes
 #### 19.54 Type IV tympanoplasty {#19-54}
@@ -132,7 +132,7 @@
 
 ### 19.9 Other repair of middle ear {#19-9}
 
-- Closure of  mastoid f istula
+- Closure of  mastoid fistula
 - Mastoid myoplasty
 - Obliteration of tympanomastoid cavity
 ## 20 Other operations on middle and inner ear {#20}
@@ -228,7 +228,7 @@
 #### 20.91 Tympanosympathectomy {#20-91}
 #### 20.92 Revision of  mastoidectomy {#20-92}
 #### 20.93 Repair of  oval and round windows {#20-93}
-  - Closure of  f istula:
+  - Closure of  fistula:
   - oval window
   - perilymph
   - round window
@@ -236,7 +236,7 @@
 #### 20.95 Implantation of  electromagnetic hearing device {#20-95}
   - Bone conduction hearing device
   - *Excludes:* cochlear prosthetic device ([20.96-20.98](#20-96))
-#### 20.96 Implantation or replacement of  cochlear prosthetic device, not otherwise specif ied {#20-96}
+#### 20.96 Implantation or replacement of  cochlear prosthetic device, not otherwise specified {#20-96}
   - Implantation of  receiver (within skull) and insertion of  electrode(s) in the cochlea
   - *Includes:* mastoidectomy
   - *Excludes:* electromagnetic hearing device ([20.95](#20-95))

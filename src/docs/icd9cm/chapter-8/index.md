@@ -40,13 +40,13 @@
 
 - Resection of  cervical lymph nodes down to muscle and deep f ascia
   - *Excludes:* that associated with radical laryngectomy ([30.4](#30-4))
-#### 40.40 Radical neck dissection, not otherwise specif ied {#40-40}
+#### 40.40 Radical neck dissection, not otherwise specified {#40-40}
 #### 40.41 Radical neck dissection, unilateral {#40-41}
 #### 40.42 Radical neck dissection, bilateral {#40-42}
 ### 40.5 Radical excision of  other lymph nodes {#40-5}
 
   - *Excludes:* that associated with radical mastectomy ([85.45-85.48](../chapter-15/index.md#85-45))
-#### 40.50 Radical excision of  lymph nodes, not otherwise specif ied {#40-50}
+#### 40.50 Radical excision of  lymph nodes, not otherwise specified {#40-50}
   - Radical (lymph) node dissection NOS
 #### 40.51 Radical excision of  axillary lymph nodes {#40-51}
 #### 40.52 Radical excision of  periaortic lymph nodes {#40-52}
@@ -60,7 +60,7 @@
 
 #### 40.61 Cannulation of  thoracic duct {#40-61}
 #### 40.62 Fistulization of thoracic duct {#40-62}
-#### 40.63 Closure of  f istula of  thoracic duct {#40-63}
+#### 40.63 Closure of  fistula of  thoracic duct {#40-63}
 #### 40.64 Ligation of thoracic duct {#40-64}
 #### 40.69 Other operations on thoracic duct {#40-69}
 ### 40.9 Other operations on lymphatic structures {#40-9}

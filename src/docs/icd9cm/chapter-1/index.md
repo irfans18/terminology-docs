@@ -21,7 +21,7 @@
 ### 01.1 Diagnostic procedures on skull, brain, and cerebral meninges {#01-1}
 
 #### 01.10 Intracranial pressure monitoring {#01-10}
-  - *Includes:* insertion of  catheter or probe f or monitoring
+  - *Includes:* insertion of  catheter or probe for monitoring
 #### 01.11 Closed [percutaneous] [needle] biopsy of  cerebral meninges {#01-11}
   - Burr hole approach
 #### 01.12 Open biopsy of cerebral meninges {#01-12}
@@ -31,10 +31,10 @@
 #### 01.14 Open biopsy of brain {#01-14}
 #### 01.15 Biopsy of skull {#01-15}
 #### 01.16 Intracranial oxygen monitoring {#01-16}
-  - *Includes:* insertion of  catheter or probe f or monitoring
+  - *Includes:* insertion of  catheter or probe for monitoring
     - Partial pressure of brain oxygen (PbtO2)
 #### 01.17 Brain temperature monitoring {#01-17}
-  - *Includes:* insertion of  catheter or probe f or monitoring
+  - *Includes:* insertion of  catheter or probe for monitoring
 #### 01.18 Other diagnostic procedures on brain and cerebral meninges {#01-18}
   - *Excludes:* brain temperature monitoring ([01.17](#01-17))
     - cerebral:
@@ -92,11 +92,11 @@
 #### 01.26 Insertion of  catheter(s) into cranial cavity or tissue {#01-26}
   - Code also any concomitant procedure (e.g. resection ([01.59](#01-59)))
   - *Excludes:* placement of intracerebral catheter(s) via burr hole(s) ([01.28](#01-28))
-#### 01.27 Removal of  catheter(s) f rom cranial cavity or tissue {#01-27}
+#### 01.27 Removal of  catheter(s) from cranial cavity or tissue {#01-27}
 #### 01.28 Placement of intracerebral catheter(s) via burr hole(s) {#01-28}
   - Convection enhanced delivery
   - Stereotactic placement of intracerebral catheter(s)
-  - Code also inf usion of  medication
+  - Code also infusion of  medication
   - *Excludes:* insertion of catheter(s) into cranial cavity or tissue(s) ([01.26](#01-26))
 #### 01.29 Removal of  cranial neurostimulator pulse generator {#01-29}
 ### 01.3 Incision of  brain and cerebral meninges {#01-3}
@@ -166,14 +166,14 @@
   - *Excludes:* debridement of skull NOS ([01.25](#01-25))
     - removal of granulation tissue of cranium ([01.6](#01-6))
 #### 02.03 Formation of cranial bone flap {#02-03}
-  - Repair of  skull with f lap
+  - Repair of  skull with flap
 #### 02.04 Bone graft to skull {#02-04}
   - Pericranial graft (autogenous) (heterogenous)
 #### 02.05 Insertion of  skull plate {#02-05}
   - Replacement of  skull plate
 #### 02.06 Other cranial osteoplasty {#02-06}
   - Repair of  skull NOS
-  - Revision of  bone f lap of  skull
+  - Revision of  bone flap of  skull
 #### 02.07 Removal of  skull plate {#02-07}
   - *Excludes:* removal with synchronous replacement ([02.05](#02-05))
 ### 02.1 Repair of  cerebral meninges {#02-1}
@@ -181,7 +181,7 @@
   - *Excludes:* marsupialization of cerebral lesion ([01.59](#01-59))
 #### 02.11 Simple suture of dura mater of brain {#02-11}
 #### 02.12 Other repair of cerebral meninges {#02-12}
-  - Closure of  f istula of  cerebrospinal f luid
+  - Closure of  fistula of  cerebrospinal fluid
   - Dural graft
   - Repair of  encephalocele including synchronous cranioplasty
   - Repair of  meninges NOS
@@ -265,7 +265,7 @@
 - Code also any application or administration of  an adhesion barrier substance ([99.77](../chapter-16/index.md#99-77))
 ### 03.0 Exploration and decompression of spinal canal structures {#03-0}
 
-#### 03.01 Removal of  f oreign body f rom spinal canal {#03-01}
+#### 03.01 Removal of  foreign body from spinal canal {#03-01}
   - Endoscopic procedure to establish ventricular drainage (IM)
 #### 03.02 Reopening of  laminectomy site {#03-02}
 #### 03.09 Other exploration and decompression of spinal canal {#03-09}
@@ -318,7 +318,7 @@
 #### 03.53 Repair of  vertebral f racture {#03-53}
   - Elevation of spinal bone fragments
   - Reduction of  f racture of  vertebrae
-  - Removal of  bony spicules f rom spinal canal
+  - Removal of  bony spicules from spinal canal
   - *Excludes:* percutaneous vertebral augmentation ([81.66](../chapter-14/index.md#81-66))
     - percutaneous vertebroplasty ([81.65](../chapter-14/index.md#81-65))
 #### 03.59 Other repair and plastic operations on spinal cord structures {#03-59}
@@ -343,11 +343,11 @@
 
 ### 03.9 Other operations on spinal cord and spinal canal structures {#03-9}
 
-#### 03.90 Insertion of  catheter into spinal canal f or inf usion of  therapeutic or palliative substances {#03-90}
+#### 03.90 Insertion of  catheter into spinal canal for infusion of  therapeutic or palliative substances {#03-90}
   - Insertion of  catheter into epidural, subarachnoid, or subdural space of  spine with
   - intermittent or continuous infusion of drug (with creation of any reservoir)
-  - Code also any implantation of  inf usion pump ([86.06](../chapter-15/index.md#86-06))
-#### 03.91 Injection of  anesthetic into spinal canal f or analgesia {#03-91}
+  - Code also any implantation of  infusion pump ([86.06](../chapter-15/index.md#86-06))
+#### 03.91 Injection of  anesthetic into spinal canal for analgesia {#03-91}
   - *Excludes:* that for operative anesthesia -- omit code
 #### 03.92 Injection of  other agent into spinal canal {#03-92}
   - Intrathecal injection of  steroid
@@ -407,7 +407,7 @@
 - cryoanalgesia
 - injection of neurolytic agent
 - radiofrequency
-- Radiof requency ablation
+- Radiofrequency ablation
 ### 04.3 Suture of cranial and peripheral nerves {#04-3}
 
 ### 04.4 Lysis of adhesions and decompression of cranial and peripheral nerves {#04-4}
@@ -439,7 +439,7 @@
 
   - *Excludes:* destruction of nerve (by injection of neurolytic agent) ([04.2](#04-2))
 #### 04.80 Peripheral nerve injection, not otherwise specified {#04-80}
-#### 04.81 Injection of  anesthetic into peripheral nerve f or analgesia {#04-81}
+#### 04.81 Injection of  anesthetic into peripheral nerve for analgesia {#04-81}
   - *Excludes:* that for operative anesthesia -- omit code
 #### 04.89 Injection of  other agent, except neurolytic {#04-89}
   - *Excludes:* injection of neurolytic agent ([04.2](#04-2))
@@ -481,7 +481,7 @@
 ### 05.3 Injection into sympathetic nerve or ganglion {#05-3}
 
   - *Excludes:* injection of ciliary sympathetic ganglion ([12.79](../chapter-3/index.md#12-79))
-#### 05.31 Injection of  anesthetic into sympathetic nerve f or analgesia {#05-31}
+#### 05.31 Injection of  anesthetic into sympathetic nerve for analgesia {#05-31}
 #### 05.32 Injection of  neurolytic agent into sympathetic nerve {#05-32}
 #### 05.39 Other injection into sympathetic nerve or ganglion {#05-39}
 ### 05.8 Other operations on sympathetic nerves or ganglia {#05-8}

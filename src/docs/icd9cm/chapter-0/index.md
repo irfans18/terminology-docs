@@ -145,9 +145,9 @@
 - Renal artery
 - _Excludes:_ diagnostic ultrasound (non-invasive) of urinary system ([88.75](../chapter-16/index.md#88-75))
 
-#### 00.28 Intravascular imaging, other specif ied vessel(s) {#00-28}
+#### 00.28 Intravascular imaging, other specified vessel(s) {#00-28}
 
-#### 00.29 Intravascular imaging, unspecif ied vessel(s) {#00-29}
+#### 00.29 Intravascular imaging, unspecified vessel(s) {#00-29}
 
 ### 00.3 Computer assisted surgery [CAS] {#00-3}
 
@@ -180,7 +180,7 @@
 - conjunction with other
 - therapeutic procedure codes to provide additional information on the number of vessels upon
 - which a procedure
-- was perf ormed and/or the number of stents inserted. As appropriate, code both the number
+- was performed and/or the number of stents inserted. As appropriate, code both the number
 - of vessels operated
 - on ([00.40-00.43](#00-40)), and the number of stents inserted ([00.45-00.48](#00-45)).
 - Code also any:
@@ -191,7 +191,7 @@
 
 #### 00.40 Procedure on single vessel {#00-40}
 
-- Number of vessels, unspecif ied
+- Number of vessels, unspecified
 - _Excludes:_ (aorto)coronary bypass ([36.10-36.19](../chapter-7/index.md#36-10))
   - intravascular imaging of blood vessels ([00.21-00.29](#00-21))
 
@@ -218,9 +218,9 @@
 
 #### 00.45 Insertion of one vascular stent {#00-45}
 
-- Number of stents, unspecif ied
+- Number of stents, unspecified
 - 00.450 Insertion of one vascular drug eluting or coated baloon (IM)
-- Number of drug eluting or coated baloon, unspecif ied (IM)
+- Number of drug eluting or coated baloon, unspecified (IM)
 
 #### 00.46 Insertion of two vascular stents {#00-46}
 
@@ -273,7 +273,7 @@
   - replacement of cardiac resynchronization pacemaker pulse generator only [CRT-
   - P]([00.53](#00-53))
 
-#### 00.51 Implantation of cardiac resynchronization def ibrillator, total system [CRT-D] {#00-51}
+#### 00.51 Implantation of cardiac resynchronization defibrillator, total system [CRT-D] {#00-51}
 
 - BiV defibrillator
 - Biventricular defibrillator
@@ -314,7 +314,7 @@
   - only [CRT-D](<[00.54](#00-54)>)
   - insertion or replacement of any type pacemaker device ([37.80-37.87](../chapter-7/index.md#37-80))
 
-#### 00.54 Implantation or replacement of cardiac resynchronization def ibrillator pulse generator {#00-54}
+#### 00.54 Implantation or replacement of cardiac resynchronization defibrillator pulse generator {#00-54}
 
 - device only [CRT-D]
 - Implantation of CRT-D device with removal of any existing CRT-D, CRT-P, pacemaker,
@@ -345,17 +345,17 @@
   - peripheral vessel ([39.90](../chapter-7/index.md#39-90))
   - that for other endovascular procedure ([39.71-39.79](../chapter-7/index.md#39-71))
 
-#### 00.56 Insertion or replacement of implantable pressure sensor (lead) f or intracardiac or great {#00-56}
+#### 00.56 Insertion or replacement of implantable pressure sensor (lead) for intracardiac or great {#00-56}
 
 - vessel hemodynamic monitoring
 - Code also any associated implantation or replacement of monitor ([00.57](#00-57))
 - _Excludes:_ circulatory monitoring (blood gas, arterial or venous pressure, cardiac output and
   - coronary blood flow) ([89.60-89.69](../chapter-16/index.md#89-60))
 
-#### 00.57 Implantation or replacement of subcutaneous device f or intracardiac or great vessel {#00-57}
+#### 00.57 Implantation or replacement of subcutaneous device for intracardiac or great vessel {#00-57}
 
 - hemodynamic monitoring
-- Implantation of monitoring device with f ormation of subcutaneous pocket and
+- Implantation of monitoring device with formation of subcutaneous pocket and
 - connection to intracardiac pressure sensor (lead)
 - Code also any associated insertion or replacement of implanted pressure sensor (lead) ([00.56](#00-56))
 
@@ -491,7 +491,7 @@
 - Vessels of leg(s)
 - Code also any synchronous diagnostic or therapeutic procedures
 
-#### 00.69 Intravascular pressure measurement, other specif ied and unspecif ied vessels {#00-69}
+#### 00.69 Intravascular pressure measurement, other specified and unspecified vessels {#00-69}
 
 - Assessment of
 - Iliac vessels
@@ -524,7 +524,7 @@
 - That with:
 - exchange of acetabular cup and liner
 - exchange of femoral head
-- Code also any type of bearing surf ace, if known ([00.74-00.77](#00-74))
+- Code also any type of bearing surface, if known ([00.74-00.77](#00-74))
 - _Excludes:_
   - revision of hip replacement, both acetabular and femoral components ([00.70](#00-70))
   - revision of hip replacement, femoral component ([00.72](#00-72))
@@ -537,7 +537,7 @@
 - That with:
 - exchange of acetabular liner
 - exchange of femoral stem and head
-- Code also any type of bearing surf ace, if known ([00.74-00.77](#00-74))
+- Code also any type of bearing surface, if known ([00.74-00.77](#00-74))
 - _Excludes:_
   - revision of hip replacement, acetabular component ([00.71](#00-71))
   - revision of hip replacement, both acetabular and femoral components ([00.70](#00-70))
@@ -548,13 +548,13 @@
 
 - Code also any type of bearing surface, if known ([00.74-00.77](#00-74))
 
-#### 00.74 Hip bearing surf ace, metal-on-polyethylene {#00-74}
+#### 00.74 Hip bearing surface, metal-on-polyethylene {#00-74}
 
-#### 00.75 Hip bearing surf ace, metal-on-metal {#00-75}
+#### 00.75 Hip bearing surface, metal-on-metal {#00-75}
 
-#### 00.76 Hip bearing surf ace, ceramic-on-ceramic {#00-76}
+#### 00.76 Hip bearing surface, ceramic-on-ceramic {#00-76}
 
-#### 00.77 Hip bearing surf ace, ceramic-on-polyethylene {#00-77}
+#### 00.77 Hip bearing surface, ceramic-on-polyethylene {#00-77}
 
 ### 00.8 Other knee and hip procedures {#00-8}
 
@@ -609,15 +609,15 @@
 
 ### 00.9 Other procedures and interventions {#00-9}
 
-#### 00.91 Transplant f rom live related donor {#00-91}
+#### 00.91 Transplant from live related donor {#00-91}
 
 - Code also organ transplant procedure
 
-#### 00.92 Transplant f rom live non-related donor {#00-92}
+#### 00.92 Transplant from live non-related donor {#00-92}
 
 - Code also organ transplant procedure
 
-#### 00.93 Transplant f rom cadaver {#00-93}
+#### 00.93 Transplant from cadaver {#00-93}
 
 - Code also organ transplant procedure
 

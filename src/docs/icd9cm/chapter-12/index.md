@@ -244,7 +244,7 @@
 
   - *Excludes:* repair of current obstetric laceration ([75.51](../chapter-13/index.md#75-51))
 #### 67.61 Suture of laceration of cervix {#67-61}
-#### 67.62 Repair of  f istula of  cervix {#67-62}
+#### 67.62 Repair of  fistula of  cervix {#67-62}
   - Cervicosigmoidal f istulectomy
   - *Excludes:* fistulectomy:
     - cervicovesical ([57.84](../chapter-10/index.md#57-84))
@@ -257,7 +257,7 @@
 - Code also any application or administration of  an adhesion barrier substance ([99.77](../chapter-16/index.md#99-77))
 ### 68.0 Hysterotomy {#68-0}
 
-- Hysterotomy with removal of  hydatidif orm mole
+- Hysterotomy with removal of  hydatidiform mole
   - *Excludes:* hysterotomy for termination of pregnancy  ([74.91](../chapter-13/index.md#74-91))
 ### 68.1 Diagnostic procedures on uterus and supporting structures {#68-1}
 
@@ -395,7 +395,7 @@
   - *Excludes:* repair of current obstetric laceration ([75.50-75.52](../chapter-13/index.md#75-50))
 #### 69.40 Laparoscopic reconstructive surgery of uterus (IM) {#69-40}
 #### 69.41 Suture of laceration of uterus {#69-41}
-#### 69.42 Closure of  f istula of  uterus {#69-42}
+#### 69.42 Closure of  fistula of  uterus {#69-42}
   - *Excludes:* uterovesical fistulectom ([57.84](../chapter-10/index.md#57-84))
 #### 69.49 Other repair of uterus {#69-49}
   - Repair of  old obstetric laceration of  uterus
@@ -425,8 +425,8 @@
   - *Excludes:* that in immediate postpartal period ([75.94](../chapter-13/index.md#75-94))
 #### 69.95 Incision of  cervix {#69-95}
   - *Excludes:* that to assist delivery ([73.93](../chapter-13/index.md#73-93))
-#### 69.96 Removal of  cerclage material f rom cervix {#69-96}
-#### 69.97 Removal of  other penetrating f oreign body f rom cervix {#69-97}
+#### 69.96 Removal of  cerclage material from cervix {#69-96}
+#### 69.97 Removal of  other penetrating foreign body from cervix {#69-97}
   - *Excludes:* removal of intraluminal foreign body from cervix ([98.16](../chapter-16/index.md#98-16))
 #### 69.98 Other operations on supporting structures of uterus {#69-98}
   - *Excludes:* biopsy of uterine ligamen ([68.14](#68-14))
@@ -483,13 +483,13 @@
     - repair of rectocele wtih graft or prosthesis ([70.55](#70-55))
     - STARR procedure ([48.74](../chapter-9/index.md#48-74))
 #### 70.53 Repair of cystocele and rectocele with graft or prosthesis {#70-53}
-  - Use additional code: f or biological substance ([70.94](#70-94)) or synthetic substance ([70.95](#70-95)), if known
+  - Use additional code: for biological substance ([70.94](#70-94)) or synthetic substance ([70.95](#70-95)), if known
 #### 70.54 Repair of  cystocele with graf t or prosthesis {#70-54}
   - Anterior colporrhaphy (with urethrocele repair)
-  - Use additional code: f or biological substance ([70.94](#70-94)) or synthetic substance ([70.95](#70-95)), if known
+  - Use additional code: for biological substance ([70.94](#70-94)) or synthetic substance ([70.95](#70-95)), if known
 #### 70.55 Repair of  rectocele with graf t or prosthesis {#70-55}
   - Posterior colporrhaphy
-  - Use additional code: f or biological substance ([70.94](#70-94)) or synthetic substance ([70.95](#70-95)), if known
+  - Use additional code: for biological substance ([70.94](#70-94)) or synthetic substance ([70.95](#70-95)), if known
 ### 70.6 Vaginal construction and reconstruction {#70-6}
 
 #### 70.61 Vaginal construction {#70-61}
@@ -498,7 +498,7 @@
   - Use additional code: for biological substance ([70.94](#70-94)) or synthetic substance ([70.95](#70-95)), if known
   - *Excludes:* vaginal construction ([70.61](#70-61))
 #### 70.64 Vaginal reconstruction with graft or prosthesis {#70-64}
-  - Use additional code: f or biological substance ([70.94](#70-94)) or synthetic substance ([70.95](#70-95)), if known
+  - Use additional code: for biological substance ([70.94](#70-94)) or synthetic substance ([70.95](#70-95)), if known
   - *Excludes:* vaginal reconstruction ([70.62](#70-62))
 ### 70.7 Other repair of vagina {#70-7}
 
@@ -507,10 +507,10 @@
     - that associated with cervical amputation  ([67.4](#67-4))
 #### 70.70 Laparoscopic reconstructive surgery of pelvic floor (IM) {#70-70}
 #### 70.71 Suture of laceration of vagina {#70-71}
-#### 70.72 Repair of  colovaginal f istula {#70-72}
-#### 70.73 Repair of  rectovaginal f istula {#70-73}
-#### 70.74 Repair of  other vaginoenteric f istula {#70-74}
-#### 70.75 Repair of  other f istula of  vagina {#70-75}
+#### 70.72 Repair of  colovaginal fistula {#70-72}
+#### 70.73 Repair of  rectovaginal fistula {#70-73}
+#### 70.74 Repair of  other vaginoenteric fistula {#70-74}
+#### 70.75 Repair of  other fistula of  vagina {#70-75}
   - *Excludes:* repair of fistula:
     - rectovesicovaginal ([57.83](../chapter-10/index.md#57-83))
     - ureterovaginal ([56.84](../chapter-10/index.md#56-84))
@@ -523,7 +523,7 @@
 #### 70.76 Hymenorrhaphy {#70-76}
 #### 70.77 Vaginal suspension and fixation {#70-77}
 #### 70.78 Vaginal suspension and fixation with graft or prosthesis {#70-78}
-  - Use additional code: f or biological substance ([70.94](#70-94)) or synthetic substance ([70.95](#70-95)), if known
+  - Use additional code: for biological substance ([70.94](#70-94)) or synthetic substance ([70.95](#70-95)), if known
 #### 70.79 Other repair of vagina {#70-79}
   - Colpoperineoplasty
   - Repair of  old obstetric laceration of  vagina
@@ -555,7 +555,7 @@
   - Repair of  vaginal enterocele
 #### 70.93 Other operations on cul-de-sac with graft or prosthesis {#70-93}
   - Repair of  vaginal enterocele with graf t or prosthesis
-  - Use additional code: f or biological substance ([70.94](#70-94)) or synthetic substance ([70.95](#70-95)), if known
+  - Use additional code: for biological substance ([70.94](#70-94)) or synthetic substance ([70.95](#70-95)), if known
 #### 70.94 Insertion of biological graft {#70-94}
   - Allogenic material or substance
   - Allograft
@@ -623,7 +623,7 @@
 
   - *Excludes:* repair of current obstetric laceration ([75.69](../chapter-13/index.md#75-69))
 #### 71.71 Suture of laceration of vulva or perineum {#71-71}
-#### 71.72 Repair of  f istula of  vulva or perineum {#71-72}
+#### 71.72 Repair of  fistula of  vulva or perineum {#71-72}
   - *Excludes:* repair of fistula:
     - urethroperineal ([58.43](../chapter-10/index.md#58-43))
     - urethroperineovesical ([57.84](../chapter-10/index.md#57-84))

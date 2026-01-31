@@ -79,8 +79,8 @@
 #### 42.56 Other intrathoracic esophagocolostomy {#42-56}
   - Esophagocolostomy NOS
 #### 42.58 Intrathoracic esophageal anastomosis with other interposition {#42-58}
-  - Construction of  artif icial esophagus
-  - Retrosternal f ormation of  reversed gastric tube
+  - Construction of  artificial esophagus
+  - Retrosternal formation of  reversed gastric tube
 #### 42.59 Other intrathoracic anastomosis of esophagus {#42-59}
 ### 42.6 Antesternal anastomosis of esophagus {#42-6}
 
@@ -107,7 +107,7 @@
 #### 42.81 Insertion of  permanent tube into esophagus {#42-81}
 #### 42.82 Suture of laceration of esophagus {#42-82}
 #### 42.83 Closure of  esophagostomy {#42-83}
-#### 42.84 Repair of  esophageal f istula, not elsewhere classif ied {#42-84}
+#### 42.84 Repair of  esophageal fistula, not elsewhere classified {#42-84}
   - *Excludes:* repair of fistula:
     - bronchoesophageal ([33.42](../chapter-6/index.md#33-42))
     - esophagopleurocutaneous ([34.73](../chapter-6/index.md#34-73))
@@ -260,7 +260,7 @@
   - *Excludes:* ligation of gastric varices  ([44.91](#44-91))
 #### 44.42 Suture of duodenal ulcer site {#44-42}
 #### 44.43 Endoscopic control of gastric or duodenal bleeding {#44-43}
-#### 44.44 Transcatheter embolization f or gastric or duodenal bleeding {#44-44}
+#### 44.44 Transcatheter embolization for gastric or duodenal bleeding {#44-44}
   - *Excludes:* surgical occlusion of abdominal vessels ([38.86-38.87](../chapter-7/index.md#38-86))
 #### 44.49 Other control of hemorrhage of stomach or duodenum {#44-49}
   - That with gastrotomy
@@ -276,7 +276,7 @@
 #### 44.61 Suture of laceration of stomach {#44-61}
   - *Excludes:* that of ulcer site ([44.41](#44-41))
 #### 44.62 Closure of  gastrostomy {#44-62}
-#### 44.63 Closure of  other gastric f istula {#44-63}
+#### 44.63 Closure of  other gastric fistula {#44-63}
   - Closure of :
   - gastrocolic fistula
   - gastrojejunocolic fistula
@@ -328,7 +328,7 @@
   - *Excludes:* nonoperative removal of gastric restrictive device(s) ([97.86](../chapter-16/index.md#97-86))
     - open removal of gastric restrictive device(s) ([44.99](#44-99))
 #### 44.98 (Laparoscopic) adjustment of size of adjustable gastric restrictive device {#44-98}
-  - Inf usion of  saline f or device tightening
+  - Infusion of  saline for device tightening
   - Withdrawal of saline for device loosening
   - Code also any:
   - abdominal ultrasound ([88.76](../chapter-16/index.md#88-76))
@@ -360,7 +360,7 @@
   - *Excludes:* duodenocholedochotomy ([51.41](#51-41)-[51.42](#51-42), [51.51](#51-51))
     - that for destruction of lesion ([45.30-45.34](#45-30))
     - that of exteriorized intestine ([46.14](#46-14), [46.24](#46-24), [46.31](#46-31))
-#### 45.00 Incision of  intestine, not otherwise specif ied {#45-00}
+#### 45.00 Incision of  intestine, not otherwise specified {#45-00}
 #### 45.01 Incision of  duodenum {#45-01}
 #### 45.02 Other incision of small intestine {#45-02}
 #### 45.03 Incision of  large intestine {#45-03}
@@ -410,7 +410,7 @@
   - Colonoscopy with biopsy
   - *Excludes:* proctosigmoidoscopy with biopsy  ([48.24](#48-24))
 #### 45.26 Open biopsy of large intestine {#45-26}
-#### 45.27 Intestinal biopsy, site unspecif ied {#45-27}
+#### 45.27 Intestinal biopsy, site unspecified {#45-27}
 #### 45.28 Other diagnostic procedures on large intestine {#45-28}
 #### 45.29 Other diagnostic procedures on intestine, site unspecified {#45-29}
   - *Excludes:* microscopic examination of specimen ([90.91-90.99](../chapter-16/index.md#90-91))
@@ -458,14 +458,14 @@
 - Code also any synchronous:
 - anastomosis other than end-to-end ([45.90-45.94](#45-90))
 - enterostomy ([46.10-46.39](#46-10))
-#### 45.50 Isolation of  intestinal segment, not otherwise specif ied {#45-50}
-  - Isolation of  intestinal pedicle f lap
+#### 45.50 Isolation of  intestinal segment, not otherwise specified {#45-50}
+  - Isolation of  intestinal pedicle flap
   - Reversal of  intestinal segment
 #### 45.51 Isolation of  segment of  small intestine {#45-51}
   - Isolation of  ileal loop
-  - Resection of  small intestine f or interposition
+  - Resection of  small intestine for interposition
 #### 45.52 Isolation of  segment of  large intestine {#45-52}
-  - Resection of  colon f or interposition
+  - Resection of  colon for interposition
 ### 45.6 Other excision of small intestine {#45-6}
 
 - Code also any synchronous:
@@ -517,7 +517,7 @@
 
 - Code also any synchronous resection ([45.31](#45-31)-[45.8](#45-8), [48.41](#48-41)-[48.69](#48-69))
   - *Excludes:* end-to-end anastomosis -- omit code
-#### 45.90 Intestinal anastomosis, not otherwise specif ied {#45-90}
+#### 45.90 Intestinal anastomosis, not otherwise specified {#45-90}
 #### 45.91 Small-to-small intestinal anastomosis {#45-91}
 #### 45.92 Anastomosis of small intestine to rectal stump {#45-92}
   - Hampton procedure
@@ -550,7 +550,7 @@
   - *Excludes:* loop colostomy ([46.03](#46-03))
     - that with abdominoperineal resection of rectum ([48.5](#48-5))
     - that with synchronous anterior rectal resection ([48.62](#48-62))
-#### 46.10 Colostomy, not otherwise specif ied {#46-10}
+#### 46.10 Colostomy, not otherwise specified {#46-10}
 #### 46.11 Temporary colostomy {#46-11}
 #### 46.13 Permanent colostomy {#46-13}
 #### 46.14 Delayed opening of colostomy {#46-14}
@@ -558,7 +558,7 @@
 
 - Code also any synchronous resection ([45.34](#45-34), [45.61](#45-61)-[45.63](#45-63))
   - *Excludes:* loop ileostomy ([46.01](#46-01))
-#### 46.20 Ileostomy, not otherwise specif ied {#46-20}
+#### 46.20 Ileostomy, not otherwise specified {#46-20}
 #### 46.21 Temporary ileostomy {#46-21}
 #### 46.22 Continent ileostomy {#46-22}
 #### 46.23 Other permanent ileostomy {#46-23}
@@ -576,7 +576,7 @@
   - Feeding enterostomy
 ### 46.4 Revision of  intestinal stoma {#46-4}
 
-#### 46.40 Revision of  intestinal stoma, not otherwise specif ied {#46-40}
+#### 46.40 Revision of  intestinal stoma, not otherwise specified {#46-40}
   - Plastic enlargement of intestinal stoma
   - Reconstruction of  stoma of  intestine
   - Release of  scar tissue of  intestinal stoma
@@ -589,7 +589,7 @@
 ### 46.5 Closure of  intestinal stoma {#46-5}
 
 - Code also any synchronous resection ([45.34](#45-34), [45.49](#45-49), [45.61](#45-61)-[45.8](#45-8))
-#### 46.50 Closure of  intestinal stoma, not otherwise specif ied {#46-50}
+#### 46.50 Closure of  intestinal stoma, not otherwise specified {#46-50}
 #### 46.51 Closure of  stoma of  small intestine {#46-51}
 #### 46.52 Closure of  stoma of  large intestine {#46-52}
   - Closure or take-down of:
@@ -609,23 +609,23 @@
   - Cecocoloplicopexy
   - Sigmoidopexy (Moschowitz)
 #### 46.64 Other fixation of large intestine {#46-64}
-  - Cecof ixation
-  - Colof ixation
+  - Cecofixation
+  - Colofixation
 ### 46.7 Other repair of intestine {#46-7}
 
   - *Excludes:* closure of:
     - ulcer of duodenum ([44.42](#44-42))
     - vesicoenteric fistula ([57.83](../chapter-10/index.md#57-83))
 #### 46.71 Suture of laceration of duodenum {#46-71}
-#### 46.72 Closure of  f istula of  duodenum {#46-72}
+#### 46.72 Closure of  fistula of  duodenum {#46-72}
 #### 46.73 Suture of laceration of small intestine, except duodenum {#46-73}
-#### 46.74 Closure of  f istula of  small intestine, except duodenum {#46-74}
+#### 46.74 Closure of  fistula of  small intestine, except duodenum {#46-74}
   - *Excludes:* closure of:
     - artificial stoma ([46.51](#46-51))
     - vaginal fistula ([70.74](../chapter-12/index.md#70-74))
     - repair of gastrojejunocolic fistula ([44.63](#44-63))
 #### 46.75 Suture of laceration of large intestine {#46-75}
-#### 46.76 Closure of  f istula of  large intestine {#46-76}
+#### 46.76 Closure of  fistula of  large intestine {#46-76}
   - *Excludes:* closure of:
     - gastrocolic fistula ([44.63](#44-63))
     - rectal fistula ([48.73](#48-73))
@@ -715,7 +715,7 @@
 ### 47.9 Other operations on appendix {#47-9}
 
 #### 47.91 Appendicostomy {#47-91}
-#### 47.92 Closure of  appendiceal f istula {#47-92}
+#### 47.92 Closure of  appendiceal fistula {#47-92}
 #### 47.99 Other {#47-99}
   - Anastomosis of appendix
   - *Excludes:* diagnostic procedures on appendix ([45.21-45.29](#45-21))
@@ -815,7 +815,7 @@
     - vaginal rectocele ([70.50](#70-50), [70.52](#70-52), [70.53](#70-53), [70.55](#70-55))
 #### 48.71 Suture of laceration of rectum {#48-71}
 #### 48.72 Closure of  proctostomy {#48-72}
-#### 48.73 Closure of  other rectal f istula {#48-73}
+#### 48.73 Closure of  other rectal fistula {#48-73}
   - *Excludes:* fistulectomy:
     - perirectal ([48.93](#48-93))
     - rectourethral ([58.43](../chapter-10/index.md#58-43))
@@ -855,7 +855,7 @@
 
 #### 48.91 Incision of  rectal stricture {#48-91}
 #### 48.92 Anorectal myectomy {#48-92}
-#### 48.93 Repair of  perirectal f istula {#48-93}
+#### 48.93 Repair of  perirectal fistula {#48-93}
   - *Excludes:* that opening into rectum ([48.73](#48-73))
 #### 48.99 Other {#48-99}
   - *Excludes:* digital examination of rectum ([89.34](../chapter-16/index.md#89-34))
@@ -884,7 +884,7 @@
 #### 49.04 Other excision of perianal tissue {#49-04}
   - *Excludes:* anal fistulectomy ([49.12](#49-12))
     - biopsy of perianal tissu ([49.22](#49-22))
-### 49.1 Incision or excision of  anal f istula {#49-1}
+### 49.1 Incision or excision of  anal fistula {#49-1}
 
   - *Excludes:* closure of anal fistula ([49.73](#49-73))
 #### 49.11 Anal fistulotomy {#49-11}
@@ -932,13 +932,13 @@
   - *Excludes:* repair of current obstetric laceration ([75.62](../chapter-13/index.md#75-62))
 #### 49.71 Suture of laceration of anus {#49-71}
 #### 49.72 Anal cerclage {#49-72}
-#### 49.73 Closure of  anal f istula {#49-73}
+#### 49.73 Closure of  anal fistula {#49-73}
   - *Excludes:* excision of anal fistula ([49.12](#49-12))
 #### 49.74 Gracilis muscle transplant for anal incontinence {#49-74}
-#### 49.75 Implantation or revision of  artif icial anal sphincter {#49-75}
+#### 49.75 Implantation or revision of  artificial anal sphincter {#49-75}
   - Removal with subsequent replacement
   - Replacement during same or subsequent operative episode
-#### 49.76 Removal of  artif icial anal sphincter {#49-76}
+#### 49.76 Removal of  artificial anal sphincter {#49-76}
   - Explantation or removal without replacement
   - *Excludes:* revision with implantation during same operative episode ([49.75](#49-75))
 #### 49.79 Other repair of anal sphincter {#49-79}
@@ -966,7 +966,7 @@
 ### 50.0 Hepatotomy {#50-0}
 
 - Incision of  abscess of  liver
-- Removal of  gallstones f rom liver
+- Removal of  gallstones from liver
 - Stromeyer-Little operation
 ### 50.1 Diagnostic procedures on liver {#50-1}
 
@@ -1111,14 +1111,14 @@
   - liver
   - pancreas
   - stomach
-### 51.4 Incision of  bile duct f or relief  of  obstruction {#51-4}
+### 51.4 Incision of  bile duct for relief  of  obstruction {#51-4}
 
-#### 51.41 Common duct exploration f or removal of  calculus {#51-41}
+#### 51.41 Common duct exploration for removal of  calculus {#51-41}
   - *Excludes:* percutaneous extraction ([51.96](#51-96))
-#### 51.42 Common duct exploration f or relief  of  other obstruction {#51-42}
-#### 51.43 Insertion of  choledochohepatic tube f or decompression {#51-43}
+#### 51.42 Common duct exploration for relief  of  other obstruction {#51-42}
+#### 51.43 Insertion of  choledochohepatic tube for decompression {#51-43}
   - Hepatocholedochostomy
-#### 51.49 Incision of  other bile ducts f or relief  of  obstruction {#51-49}
+#### 51.49 Incision of  other bile ducts for relief  of  obstruction {#51-49}
 ### 51.5 Other incision of bile duct {#51-5}
 
   - *Excludes:* that for relief of obstruction ([51.41-51.49](#51-41))
@@ -1144,9 +1144,9 @@
 
 #### 51.71 Simple suture of common bile duct {#51-71}
 #### 51.72 Choledochoplasty {#51-72}
-  - Repair of  f istula of  common bile duct
+  - Repair of  fistula of  common bile duct
 #### 51.79 Repair of  other bile ducts {#51-79}
-  - Closure of  artif icial opening of  bile duct
+  - Closure of  artificial opening of  bile duct
   - NOS
   - Suture of bile duct NOS
   - *Excludes:* operative removal of prosthetic device ([51.95](#51-95))
@@ -1180,10 +1180,10 @@
 
 #### 51.91 Repair of  laceration of  gallbladder {#51-91}
 #### 51.92 Closure of  cholecystostomy {#51-92}
-#### 51.93 Closure of  other biliary f istula {#51-93}
+#### 51.93 Closure of  other biliary fistula {#51-93}
   - Cholecystogastroenteric f istulectomy
 #### 51.94 Revision of  anastomosis of  biliary tract {#51-94}
-#### 51.95 Removal of  prosthetic device f rom bile duct {#51-95}
+#### 51.95 Removal of  prosthetic device from bile duct {#51-95}
   - *Excludes:* nonoperative removal ([97.55](../chapter-16/index.md#97-55))
 #### 51.96 Percutaneous extraction of common duct stones {#51-96}
 #### 51.98 Other percutaneous procedures on biliary tract {#51-98}
@@ -1282,7 +1282,7 @@
   - Homotransplantation of  islet cells of  pancreas
 #### 52.85 Allotransplantation of cells of Islets of Langerhans {#52-85}
   - Heterotransplantation of  islet cells of  pancreas
-#### 52.86 Transplantation of  cells of  Islets of  Langerhans, not otherwise specif ied {#52-86}
+#### 52.86 Transplantation of  cells of  Islets of  Langerhans, not otherwise specified {#52-86}
 ### 52.9 Other operations on pancreas {#52-9}
 
 #### 52.92 Cannulation of  pancreatic duct {#52-92}
@@ -1293,7 +1293,7 @@
   - *Excludes:* endoscopic insertion of nasopancreatic drainage tube ([52.97](#52-97))
     - replacement of stent (tube) ([97.05](../chapter-16/index.md#97-05))
 #### 52.94 Endoscopic removal of stone(s) from pancreatic duct {#52-94}
-  - Removal of  stone(s) f rom pancreatic duct by procedures classif iable to (51.10-51.11,
+  - Removal of  stone(s) from pancreatic duct by procedures classif iable to (51.10-51.11,
   - 52.13)
 #### 52.95 Other repair of pancreas {#52-95}
   - Fistulectomy of pancreas
@@ -1327,14 +1327,14 @@
 ### 53.0 Other unilateral repair of inguinal hernia {#53-0}
 
   - *Excludes:* laparoscopic unilateral repair of inguinal hernia ([17.11-17.13](../chapter-3a/index.md#17-11))
-#### 53.00 Unilateral repair of  inguinal hernia, not otherwise specif ied {#53-00}
+#### 53.00 Unilateral repair of  inguinal hernia, not otherwise specified {#53-00}
   - Inguinal herniorrhaphy NOS
 #### 53.01 Other and open repair of direct inguinal hernia {#53-01}
   - Direct and indirect inguinal hernia
 #### 53.02 Other and open repair of indirect inguinal hernia {#53-02}
 #### 53.03 Other and open repair of direct inguinal hernia with graft or prosthesis {#53-03}
 #### 53.04 Other and open repair of indirect inguinal hernia with graft or prosthesis {#53-04}
-#### 53.05 Repair of  inguinal hernia with graf t or prosthesis, not otherwise specif ied {#53-05}
+#### 53.05 Repair of  inguinal hernia with graf t or prosthesis, not otherwise specified {#53-05}
 ### 53.1 Other bilateral repair of inguinal hernia {#53-1}
 
   - *Excludes:* laparoscopic bilateral repair of inguinal hernia ([17.21-17.24](../chapter-3a/index.md#17-21))
@@ -1388,12 +1388,12 @@
 
 #### 53.71 Laparoscopic repair of diaphragmatic hernia, abdominal approach {#53-71}
 #### 53.72 Other and open repair of diaphragmatic hernia, abdominal approach {#53-72}
-#### 53.75 Repair of  diaphragmatic hernia, abdominal approach, not otherwise specif ied {#53-75}
+#### 53.75 Repair of  diaphragmatic hernia, abdominal approach, not otherwise specified {#53-75}
   - *Excludes:* laparoscopic repair of diaphragmatic hernia ([53.71](#53-71))
     - other and open repair of diaphragmatic hernia ([53.72](#53-72))
 ### 53.8 Repair of  diaphragmatic hernia, thoracic approach {#53-8}
 
-#### 53.80 Repair of  diaphragmatic hernia with thoracic approach, not otherwise specif ied {#53-80}
+#### 53.80 Repair of  diaphragmatic hernia with thoracic approach, not otherwise specified {#53-80}
   - Thoracoabdominal repair of  diaphragmatic hernia
 #### 53.81 Plication of the diaphragm {#53-81}
 #### 53.82 Repair of  parasternal hernia {#53-82}
@@ -1446,7 +1446,7 @@
 #### 54.11 Exploratory laparotomy {#54-11}
   - *Excludes:* exploration incidental to intra abdominal surgery -- omit code
 #### 54.12 Reopening of  recent laparotomy site {#54-12}
-  - Reopening of  recent laparotomy site f or:
+  - Reopening of  recent laparotomy site for:
   - control of hemorrhage
   - exploration
   - incision of hematoma
@@ -1573,8 +1573,8 @@
 #### 54.91 Percutaneous abdominal drainage {#54-91}
   - Paracentesis
   - *Excludes:* creation of cutaneoperitoneal fistula ([54.93](#54-93))
-#### 54.92 Removal of  f oreign body f rom peritoneal cavity {#54-92}
-#### 54.93 Creation of  cutaneoperitoneal f istula {#54-93}
+#### 54.92 Removal of  foreign body from peritoneal cavity {#54-92}
+#### 54.93 Creation of  cutaneoperitoneal fistula {#54-93}
 #### 54.94 Creation of  peritoneovascular shunt {#54-94}
   - Peritoneovenous shunt
 #### 54.95 Incision of  peritoneum {#54-95}

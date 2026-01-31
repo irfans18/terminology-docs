@@ -35,7 +35,7 @@
     - ([17.69](../chapter-3a/index.md#17-69))
 #### 85.21 Local excision of lesion of breast {#85-21}
   - Lumpectomy
-  - Removal of  area of  f ibrosis f rom breast
+  - Removal of  area of  fibrosis from breast
   - *Excludes:* biopsy of breast ([85.11-85.12](#85-11))
 #### 85.22 Resection of  quadrant of  breast {#85-22}
 #### 85.23 Subtotal mastectomy {#85-23}
@@ -88,16 +88,16 @@
 
   - *Excludes:* that associated with subcutaneous mammectomy ([85.33](#85-33), [85.35](#85-35))
 #### 85.50 Augmentation mammoplasty, not otherwise specified {#85-50}
-#### 85.51 Unilateral injection into breast f or augmentation {#85-51}
+#### 85.51 Unilateral injection into breast for augmentation {#85-51}
   - *Excludes:* injection of fat graft of breast ([85.55](#85-55))
 #### 85.52 Bilateral injection into breast for augmentation {#85-52}
-  - Injection into breast f or augmentation NOS
+  - Injection into breast for augmentation NOS
   - *Excludes:* injection of fat graft of breast ([85.55](#85-55))
 #### 85.53 Unilateral breast implant {#85-53}
 #### 85.54 Bilateral breast implant {#85-54}
   - Breast implant NOS
 #### 85.55 Fat graft to breast {#85-55}
-  - *Includes:* extraction of  f at f or autologous graf t
+  - *Includes:* extraction of  f at for autologous graf t
     - Autologous fat transplantation or transfer
     - Fat graft to breast NOS
     - Fat graft to breast with or without use of enriched graft
@@ -107,7 +107,7 @@
 
 ### 85.7 Total reconstruction of  breast {#85-7}
 
-#### 85.70 Total reconstruction of  breast, not otherwise specif ied {#85-70}
+#### 85.70 Total reconstruction of  breast, not otherwise specified {#85-70}
   - Perforator flap, free
   - 85.701 Superomedial thigh flap (IM)
   - 85.702 Lateral arm free (IM)
@@ -118,9 +118,9 @@
   - 85.708 Jejunal flap, free (IM)
   - 85.709 Dorsalis pedis flap, free (IM)
 #### 85.71 Latissimus dorsi myocutaneous flap {#85-71}
-#### 85.72 Transverse rectus abdominis myocutaneous (TRAM) f lap, pedicled {#85-72}
+#### 85.72 Transverse rectus abdominis myocutaneous (TRAM) flap, pedicled {#85-72}
   - *Excludes:* transverse rectus abdominis myocutaneous (TRAM) flap, free ([85.73](#85-73))
-#### 85.73 Transverse rectus abdominis myocutaneous (TRAM) f lap, f ree {#85-73}
+#### 85.73 Transverse rectus abdominis myocutaneous (TRAM) flap, free {#85-73}
   - *Excludes:* transverse rectus abdominis myocutaneous (TRAM) flap, pedicled ([85.72](#85-72))
 #### 85.74 Deep inferior epigastric artery perforator (DIEP) flap, free {#85-74}
 #### 85.75 Superficial inferior epigastric artery (SIEA) flap, free {#85-75}
@@ -201,13 +201,13 @@
     - fascial compartments of face and mouth ([27.0](#27-0))
     - palmar or thenar spac ([82.04](../chapter-14/index.md#82-04))
     - pilonidal sinus or cys ([86.03](#86-03))
-#### 86.05 Incision with removal of  f oreign body or device f rom skin and subcutaneous tissue {#86-05}
+#### 86.05 Incision with removal of  foreign body or device from skin and subcutaneous tissue {#86-05}
   - Removal of  carotid sinus baroref lex activation device
   - Removal of  loop recorder
   - Removal of  neurostimulator pulse generator (single array, dual array)
-  - Removal of  tissue expander(s) f rom skin or sof t tissue other than breast tissue
+  - Removal of  tissue expander(s) from skin or sof t tissue other than breast tissue
   - *Excludes:* removal of foreign body without incision ([98.20-98.29](../chapter-16/index.md#98-20))
-#### 86.06 Insertion of  totally implantable inf usion pump {#86-06}
+#### 86.06 Insertion of  totally implantable infusion pump {#86-06}
   - 86.060 Insertion prostatic stent/coil with ultrasound control (IM)
   - 86.061 Insertion prostatic stent/coil with visual (IM)
   - Code also any associated catheterization
@@ -222,7 +222,7 @@
   - sinus tract, skin
   - superficial fossa
   - Relocation of  subcutaneous device pocket NEC
-  - Reopening subcutaneous pocket f or device revision without replacement
+  - Reopening subcutaneous pocket for device revision without replacement
   - Undercutting of  hair f ollicle
   - *Excludes:* creation of loop recorder pocket, new site and insertion/relocation of device ([37.79](../chapter-7/index.md#37-79))
     - creation of pocket for implantable, patient-activated cardiac event recorder and
@@ -273,7 +273,7 @@
   - necrosis
   - slough
   - *Excludes:* removal of nail, nail bed, or nail fold ([86.23](#86-23))
-#### 86.28 Nonexcisional debridement of  wound, inf ection or burn {#86-28}
+#### 86.28 Nonexcisional debridement of  wound, infection or burn {#86-28}
   - Debridement NOS
   - Maggot therapy
   - Removal of  devitalized tissue, necrosis and slough by such methods as:
@@ -352,12 +352,12 @@
     - trachea ([31.75](../chapter-6/index.md#31-75))
     - vagina ([70.61-70.64](../chapter-12/index.md#70-61))
 #### 86.70 Pedicle or flap graft, not otherwise specified {#86-70}
-#### 86.71 Cutting and preparation of  pedicle graf ts or f laps {#86-71}
+#### 86.71 Cutting and preparation of  pedicle graf ts or flaps {#86-71}
   - Elevation of pedicle from its bed
   - Flap design and raising
   - Partial cutting of pedicle or tube
   - Pedicle delay
-  - 86.710 Tongue f lap (IM)
+  - 86.710 Tongue flap (IM)
   - *Excludes:* pollicization or digita transfer ([82.61](#82-61), [82.81](#82-81))
     - revision of pedicle ([86.75](#86-75))
 #### 86.72 Advancement of pedicle graft {#86-72}
@@ -371,16 +371,16 @@
   - rotating flap
   - sliding flap
   - tube graft
-  - 86.740 Cross leg f lap (IM)
+  - 86.740 Cross leg flap (IM)
   - 86.741 Deltopectoral flap (IM)
   - 86.742 Omental flap (IM)
   - 86.743 Simple & small local skin flap, genitals (IM)
-#### 86.75 Revision of  pedicle or f lap graf t {#86-75}
+#### 86.75 Revision of  pedicle or flap graf t {#86-75}
   - Debridement of pedicle or flap graft
   - Defatting of pedicle or flap graft
 ### 86.8 Other repair and reconstruction of skin and subcutaneous tissue {#86-8}
 
-#### 86.81 Repair f or f acial weakness {#86-81}
+#### 86.81 Repair for f acial weakness {#86-81}
 #### 86.82 Facial rhytidectomy {#86-82}
   - Face lift
   - *Excludes:* rhytidectomy of eyelid ([08.86-08.87](../chapter-3/index.md#08-86))
@@ -399,7 +399,7 @@
 #### 86.85 Correction of  syndactyly {#86-85}
 #### 86.86 Onychoplasty {#86-86}
 #### 86.87 Fat graft of skin and subcutaneous tissue {#86-87}
-  - *Includes:* extraction of  f at f or autologous graf t
+  - *Includes:* extraction of  f at for autologous graf t
     - Autologous fat transplantation or transfer
     - Fat graft to breast NOS
     - Fat graft to breast with or without use of enriched graft
@@ -410,7 +410,7 @@
 ### 86.9 Other operations on skin and subcutaneous tissue {#86-9}
 
 #### 86.90 Extraction of fat for graft or banking {#86-90}
-  - Harvest of  f at f or extraction of  cells f or f uture use
+  - Harvest of  f at for extraction of  cells for f uture use
   - Liposuction to harvest fat graft
   - *Excludes:* that with graft at same operative episode ([85.55](#85-55), [86.87](#86-87))
 #### 86.91 Excision of skin for graft {#86-91}
@@ -424,7 +424,7 @@
   - development of skin flaps for donor use
   - *Excludes:* flap graft preparation ([86.71](#86-71))
     - tissue expander, breast ([85.95](#85-95))
-#### 86.94 Insertion or replacement of  single array neurostimulator pulse generator, not specif ied as {#86-94}
+#### 86.94 Insertion or replacement of  single array neurostimulator pulse generator, not specified as {#86-94}
   - rechargeable
   - Pulse generator (single array, single channel) for intracranial, spinal, and peripheral
   - neurostimulator
@@ -432,7 +432,7 @@
   - *Excludes:* cranial implantation or replacement of neurostimulator pulse generator ([01.20](../chapter-1/index.md#01-20))
     - insertion or replacement of single array rechargeable neurostimulator pulse generator
     - ([86.97](#86-97))
-#### 86.95 Insertion or replacement of  dual array neurostimulator pulse generator, not specif ied as {#86-95}
+#### 86.95 Insertion or replacement of  dual array neurostimulator pulse generator, not specified as {#86-95}
   - rechargeable
   - Pulse generator (dual array, dual channel) for intracranial, spinal, and peripheral
   - neurostimulator
@@ -446,12 +446,12 @@
     - insertion of dual array neurostimulator pulse generator ([86.95](#86-95), [86.98](#86-98))
     - insertion of single array neurostimulator pulse generator  ([86.94](#86-94), [86.97](#86-97))
 #### 86.97 Insertion or replacement of  single array rechargeable neurostimulator pulse generator {#86-97}
-  - Rechargeable pulse generator (single array, single channel) f or intracranial, spinal, and
+  - Rechargeable pulse generator (single array, single channel) for intracranial, spinal, and
   - peripheral neurostimulator
   - Code also any associated lead implantation ([02.93](#02-93), [03.93](#03-93), [04.92](#04-92))
   - *Excludes:* cranial implantation or replacement of neurostimulator pulse generator ([01.20](../chapter-1/index.md#01-20))
 #### 86.98 Insertion or replacement of  dual array rechargeable neurostimulator pulse generator {#86-98}
-  - Rechargeable pulse generator (dual array, dual channel) f or intracranial, spinal, and
+  - Rechargeable pulse generator (dual array, dual channel) for intracranial, spinal, and
   - peripheral neurostimulator
   - Code also any associated lead implantation ([02.93](#02-93), [03.93](#03-93), [04.92](#04-92))
   - *Excludes:* cranial implantation or replacement of neurostimulator pulse generator ([01.20](../chapter-1/index.md#01-20))

@@ -36,21 +36,21 @@
 ### 31.1 Temporary tracheostomy {#31-1}
 
 - Temporary percutaneous dilatational tracheostomy [PDT]
-- Tracheotomy f or assistance in breathing
-- Code also any synchronous bronchoscopy, if  perf ormed ([33.21](#33-21)-[33.24](#33-24), [33.27](#33-27))
+- Tracheotomy for assistance in breathing
+- Code also any synchronous bronchoscopy, if  performed ([33.21](#33-21)-[33.24](#33-24), [33.27](#33-27))
 ### 31.2 Permanent tracheostomy {#31-2}
 
 #### 31.21 Mediastinal tracheostomy {#31-21}
 #### 31.29 Other permanent tracheostomy {#31-29}
   - Permanent percutaneous dilatational tracheostomy [PDT]
-  - Code also any synchronous bronchoscopy, if  perf ormed ([33.21](#33-21)-[33.24](#33-24), [33.27](#33-27))
+  - Code also any synchronous bronchoscopy, if  performed ([33.21](#33-21)-[33.24](#33-24), [33.27](#33-27))
   - *Excludes:* that with laryngectomy ([30.3](#30-3)-[30.4](#30-4))
 ### 31.3 Other incision of larynx or trachea {#31-3}
 
   - *Excludes:* that for assistance in breathing ([31.1](#31-1)-[31.29](#31-29))
 ### 31.4 Diagnostic procedures on larynx and trachea {#31-4}
 
-#### 31.41 Tracheoscopy through artif icial stoma {#31-41}
+#### 31.41 Tracheoscopy through artificial stoma {#31-41}
   - *Excludes:* that with biopsy ([31.43-31.44](#31-43))
 #### 31.42 Laryngoscopy and other tracheoscopy {#31-42}
   - *Excludes:* that with biopsy ([31.43-31.44](#31-43))
@@ -78,7 +78,7 @@
 ### 31.6 Repair of  larynx {#31-6}
 
 #### 31.61 Suture of laceration of larynx {#31-61}
-#### 31.62 Closure of  f istula of  larynx {#31-62}
+#### 31.62 Closure of  fistula of  larynx {#31-62}
   - Laryngotracheal fistulectomy
   - Take-down of laryngostomy
 #### 31.63 Revision of  laryngostomy {#31-63}
@@ -93,14 +93,14 @@
 #### 31.71 Suture of laceration of trachea {#31-71}
   - 31.711 Suture of tracheal wound or injury; cervical (IM)
   - 31.712 Suture of tracheal wound or injury; intrathoracic (IM)
-#### 31.72 Closure of  external f istula of  trachea {#31-72}
+#### 31.72 Closure of  external fistula of  trachea {#31-72}
   - Closure of  tracheotomy
-#### 31.73 Closure of  other f istula of  trachea {#31-73}
+#### 31.73 Closure of  other fistula of  trachea {#31-73}
   - Tracheoesophageal f istulectomy
   - *Excludes:* laryngotracheal fistulectomy  ([31.62](#31-62))
 #### 31.74 Revision of  tracheostomy {#31-74}
-#### 31.75 Reconstruction of  trachea and construction of  artif icial larynx {#31-75}
-  - Tracheoplasty with artif icial larynx
+#### 31.75 Reconstruction of  trachea and construction of  artificial larynx {#31-75}
+  - Tracheoplasty with artificial larynx
 #### 31.76 Tracheoplasty; intrathoracic (IM) {#31-76}
 #### 31.79 Other repair and plastic operations on trachea {#31-79}
 ### 31.9 Other operations on larynx and trachea {#31-9}
@@ -272,7 +272,7 @@
 
 #### 33.31 Destruction of phrenic nerve for collapse of lung {#33-31}
 #### 33.32 Artificial pneumothorax for collapse of lung {#33-32}
-  - Thoracotomy f or collapse of  lung
+  - Thoracotomy for collapse of  lung
 #### 33.33 Pneumoperitoneum for collapse of lung {#33-33}
 #### 33.34 Thoracoplasty {#33-34}
 #### 33.39 Other surgical collapse of lung {#33-39}
@@ -280,7 +280,7 @@
 ### 33.4 Repair and plastic operation on lung and bronchus {#33-4}
 
 #### 33.41 Suture of laceration of bronchus {#33-41}
-#### 33.42 Closure of  bronchial f istula {#33-42}
+#### 33.42 Closure of  bronchial fistula {#33-42}
   - Closure of  bronchostomy
   - Fistulectomy:
   - bronchocutaneous
@@ -320,7 +320,7 @@
   - *Excludes:* endoscopic insertion or replacement of bronchial valve(s), multiple lobes ([33.73](#33-73))
 #### 33.72 Endoscopic pulmonary airway flow measurement {#33-72}
   - Assessment of pulmonary airway flow
-  - Code also any diagnostic or therapeutic procedure if  perf ormed
+  - Code also any diagnostic or therapeutic procedure if  performed
 #### 33.73 Endoscopic insertion or replacement of bronchial valve(s), multiple lobes {#33-73}
   - Endobronchial airflow redirection valve
   - Intrabronchial airf low redirection valve
@@ -354,7 +354,7 @@
   - *Excludes:* incision of pleura ([34.09](#34-09))
 #### 34.02 Exploratory thoracotomy {#34-02}
 #### 34.03 Reopening of  recent thoracotomy site {#34-03}
-#### 34.04 Insertion of  intercostal catheter f or drainage {#34-04}
+#### 34.04 Insertion of  intercostal catheter for drainage {#34-04}
   - Chest tube
   - Closed chest drainage
   - Revision of  intercostal catheter (chest tube) (with lysis of  adhesions)
@@ -364,14 +364,14 @@
 #### 34.06 Thoracoscopic drainage of pleural cavity {#34-06}
   - Evacuation of empyema
 #### 34.09 Other incision of pleura {#34-09}
-  - Creation of  pleural window f or drainage
+  - Creation of  pleural window for drainage
   - Intercostal stab
   - Open chest drainage
   - *Excludes:* thoracoscopy ([34.21](#34-21))
     - thoracotomy for collapse of lung  ([33.32](#33-32))
 ### 34.1 Incision of  mediastinum {#34-1}
 
-- Code also any biopsy, if  perf ormed
+- Code also any biopsy, if  performed
   - *Excludes:* mediastinoscopy ([34.22](#34-22))
     - mediastinotomy associated with pneumonectomy ([32.5](#32-5))
 ### 34.2 Diagnostic procedures on chest wall, pleura, mediastinum, and diaphragm {#34-2}
@@ -379,7 +379,7 @@
 #### 34.20 Thoracoscopic pleural biopsy {#34-20}
 #### 34.21 Transpleural thoracoscopy {#34-21}
 #### 34.22 Mediastinoscopy {#34-22}
-  - Code also any biopsy, if  perf ormed
+  - Code also any biopsy, if  performed
 #### 34.23 Biopsy of chest wall {#34-23}
 #### 34.24 Other pleural biopsy {#34-24}
   - *Excludes:* thoracoscopic pleural biopsy ([34.20](#34-20))
@@ -406,7 +406,7 @@
     - soft tissue x-ray of chest wall NEC ([87.39](../chapter-16/index.md#87-39))
     - tomogram of thorax NEC ([87.42](../chapter-16/index.md#87-42))
     - ultrasonography of thorax ([88.73](../chapter-16/index.md#88-73))
-    - 34.281 Thoracoscopy, surgical; with removal of  intrapleural f oreign body or f ibrin deposit (IM)
+    - 34.281 Thoracoscopy, surgical; with removal of  intrapleural foreign body or f ibrin deposit (IM)
     - 34.282 Thoracoscopy, surgical; with thoracic sympathectomy (IM)
     - 34.283 Thoracoscopy, surgical; with pleurodesis (e.g., mechanical or chemical) (IM)
     - 34.284 Thoracoscopy, surgical; with control of  traumatic hemorrhage (IM)
@@ -453,12 +453,12 @@
 #### 34.71 Suture of laceration of chest wall {#34-71}
   - *Excludes:* suture of skin and subcutaneous tissue alone ([86.59](../chapter-15/index.md#86-59))
 #### 34.72 Closure of  thoracostomy {#34-72}
-#### 34.73 Closure of  other f istula of  thorax {#34-73}
+#### 34.73 Closure of  other fistula of  thorax {#34-73}
   - Closure of :
   - bronchopleural fistula
   - bronchopleurocutaneous fistula
   - bronchopleuromediastinal fistula
-#### 34.74 Repair of  pectus def ormity {#34-74}
+#### 34.74 Repair of  pectus deformity {#34-74}
   - Repair of :
   - pectus carinatum (with implant)
   - pectus excavatum (with implant)
@@ -474,7 +474,7 @@
 #### 34.81 Excision of lesion or tissue of diaphragm {#34-81}
   - *Excludes:* biopsy of diaphragm ([34.27](#34-27))
 #### 34.82 Suture of laceration of diaphragm {#34-82}
-#### 34.83 Closure of  f istula of  diaphragm {#34-83}
+#### 34.83 Closure of  fistula of  diaphragm {#34-83}
   - Thoracicoabdominal f istulectomy
   - Thoracicogastric f istulectomy
   - Thoracicointestinal f istulectomy
@@ -489,7 +489,7 @@
   - Chemical pleurodesis
   - Injection of  cytotoxic agent or tetracycline
   - Instillation into thoracic cavity
-  - Requires additional code f or any cancer chemotherapeutic substance ([99.25](../chapter-16/index.md#99-25))
+  - Requires additional code for any cancer chemotherapeutic substance ([99.25](../chapter-16/index.md#99-25))
   - *Excludes:* that for collapse of lung  ([33.32](#33-32))
 #### 34.93 Repair of  pleura {#34-93}
 #### 34.99 Other {#34-99}

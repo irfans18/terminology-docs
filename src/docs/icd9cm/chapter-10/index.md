@@ -117,7 +117,7 @@
 
 #### 55.81 Suture of laceration of kidney {#55-81}
 #### 55.82 Closure of  nephrostomy and pyelostomy {#55-82}
-#### 55.83 Closure of  other f istula of  kidney {#55-83}
+#### 55.83 Closure of  other fistula of  kidney {#55-83}
 #### 55.84 Reduction of  torsion of  renal pedicle {#55-84}
 #### 55.85 Symphysiotomy for horseshoe kidney {#55-85}
 #### 55.86 Anastomosis of kidney {#55-86}
@@ -150,7 +150,7 @@
 ## 56 Operations on ureter {#56}
 
 - Code also any application or administration of  an adhesion barrier substance ([99.77](../chapter-16/index.md#99-77))
-### 56.0 Transurethral removal of  obstruction f rom ureter and renal pelvis {#56-0}
+### 56.0 Transurethral removal of  obstruction from ureter and renal pelvis {#56-0}
 
 - Removal of :
 - blood clot from ureter or renal pelvis without incision
@@ -163,7 +163,7 @@
 
 ### 56.2 Ureterotomy {#56-2}
 
-- Incision of  ureter f or:
+- Incision of  ureter for:
 - drainage
 - exploration
 - removal of calculus
@@ -197,7 +197,7 @@
 - Code also anastomosis other than end-to-end ([56.51-56.79](#56-51))
   - *Excludes:* fistulectomy ([56.84](#56-84))
     - nephroureterectomy ([55.51-55.54](#55-51))
-#### 56.40 Ureterectomy, not otherwise specif ied {#56-40}
+#### 56.40 Ureterectomy, not otherwise specified {#56-40}
 #### 56.41 Partial ureterectomy {#56-41}
   - Excision of lesion of ureter
   - Shortening of ureter with reimplantation
@@ -239,9 +239,9 @@
   - *Excludes:* external ureteral ileostomy ([56.51](#56-51))
 #### 56.72 Revision of  ureterointestinal anastomosis {#56-72}
   - *Excludes:* revision of external ureteral ileostomy ([56.52](#56-52))
-#### 56.73 Nephrocystanastomosis, not otherwise specif ied {#56-73}
+#### 56.73 Nephrocystanastomosis, not otherwise specified {#56-73}
 #### 56.74 Ureteroneocystostomy {#56-74}
-  - Replacement of  ureter with bladder f lap
+  - Replacement of  ureter with bladder flap
   - Ureterovesical anastomosis
   - 56.740 Laparoscopic ureteroneocystostomy (IM)
 #### 56.75 Transureteroureterostomy {#56-75}
@@ -258,9 +258,9 @@
     - ureterolysis ([59.02-59.03](#59-02))
 #### 56.82 Suture of laceration of ureter {#56-82}
 #### 56.83 Closure of  ureterostomy {#56-83}
-#### 56.84 Closure of  other f istula of  ureter {#56-84}
+#### 56.84 Closure of  other fistula of  ureter {#56-84}
 #### 56.85 Ureteropexy {#56-85}
-#### 56.86 Removal of  ligature f rom ureter {#56-86}
+#### 56.86 Removal of  ligature from ureter {#56-86}
 #### 56.87 Laparoscopic divided ureteral repair (IM) {#56-87}
   - 56.870 Open divided ureteral repair (IM)
 #### 56.89 Other repair of ureter {#56-89}
@@ -327,12 +327,12 @@
   - *Excludes:* percutaneous cystostomy ([57.17](#57-17))
     - suprapubic cystostomy ([57.18](#57-18))
 #### 57.21 Vesicostomy {#57-21}
-  - Creation of  permanent opening f rom bladder to skin using a bladder f lap
+  - Creation of  permanent opening from bladder to skin using a bladder flap
 #### 57.22 Revision or closure of  vesicostomy {#57-22}
   - *Excludes:* closure of cystostomy ([57.82](#57-82))
 ### 57.3 Diagnostic procedures on bladder {#57-3}
 
-#### 57.31 Cystoscopy through artif icial stoma {#57-31}
+#### 57.31 Cystoscopy through artificial stoma {#57-31}
 #### 57.32 Other cystoscopy {#57-32}
   - Transurethral cystoscopy
   - *Excludes:* cystourethroscopy with ureteral biopsy ([56.33](#56-33))
@@ -377,20 +377,20 @@
 #### 57.71 Radical cystectomy {#57-71}
   - Pelvic exenteration in male
   - Removal of  bladder, prostate, seminal vesicles, and f at
-  - Removal of  bladder, urethra, and f at in a f emale
+  - Removal of  bladder, urethra, and f at in a female
   - 57.710 Laparoscopic cystectomy (IM)
   - Code also any:
   - lymph node dissection ([40.3](#40-3), [40.5](#40-5))
   - urinary diversion ([56.51-56.79](#56-51))
   - *Excludes:* that as part of pelvic exenteration in female ([68.8](#68-8))
-#### 57.72 Cystectomy with f ormation of  cutaneous uretero-ileostomy (incontinent intestinal urine {#57-72}
+#### 57.72 Cystectomy with formation of  cutaneous uretero-ileostomy (incontinent intestinal urine {#57-72}
   - reservoir formation) (IM)
 #### 57.73 Cystectomy with laparoscopic ureter transplantation into intestine (IM) {#57-73}
-#### 57.74 Cystectomy with intestinal urinary diversion (continent intestinal urine reservoir f ormation) {#57-74}
+#### 57.74 Cystectomy with intestinal urinary diversion (continent intestinal urine reservoir formation) {#57-74}
   - (IM)
-#### 57.75 Cystectomy with continent valve f ormation (IM) {#57-75}
+#### 57.75 Cystectomy with continent valve formation (IM) {#57-75}
 #### 57.76 Cystectomy with orthotopic neobladder (IM) {#57-76}
-#### 57.77 Repair of  bladder exstrophy with osteotomy f or bladder exstrophy (IM) {#57-77}
+#### 57.77 Repair of  bladder exstrophy with osteotomy for bladder exstrophy (IM) {#57-77}
 #### 57.79 Other total cystectomy {#57-79}
   - 57.790 Laparoscopic other total cystectomy (IM)
 ### 57.8 Other repair of urinary bladder {#57-8}
@@ -407,10 +407,10 @@
   - 57.823 Open cutaneous vesical fistula closure (IM)
   - 57.824 Abdominal vesicovaginal fistula closure (IM)
   - 57.825 Laparoscopic cutaneous vesical fistula closure (IM)
-#### 57.83 Repair of  f istula involving bladder and intestine {#57-83}
+#### 57.83 Repair of  fistula involving bladder and intestine {#57-83}
   - Rectovesicovaginal f istulectomy
   - Vesicosigmoidovaginal fistulectomy
-#### 57.84 Repair of  other f istula of  bladder {#57-84}
+#### 57.84 Repair of  other fistula of  bladder {#57-84}
   - Cervicovesical f istulectomy
   - Urethroperineovesical f istulectomy
   - Uterovesical f istulectomy
@@ -476,7 +476,7 @@
 - Excision of urethral septum
 - Formation of urethrovaginal fistula
 - Perineal urethrostomy
-- Removal of  calculus f rom urethra by incision
+- Removal of  calculus from urethra by incision
   - *Excludes:* drainage of bulbourethral gland or periurethral tissue ([58.91](#58-91))
     - internal urethral meatotomy ([58.5](#58-5))
     - removal of urethral calculus without incision ([58.6](#58-6))
@@ -519,7 +519,7 @@
   - *Excludes:* repair of current obstetric laceration ([75.61](../chapter-13/index.md#75-61))
 #### 58.41 Suture of laceration of urethra {#58-41}
 #### 58.42 Closure of  urethrostomy {#58-42}
-#### 58.43 Closure of  other f istula of  urethra {#58-43}
+#### 58.43 Closure of  other fistula of  urethra {#58-43}
   - *Excludes:* repair of urethroperineovesical fistula ([57.84](#57-84))
 #### 58.44 Reanastomosis of  urethra {#58-44}
   - Anastomosis of urethra
@@ -527,8 +527,8 @@
   - 58.450 Single stage repair for hypospadias or epispadias (IM)
   - 58.451 First stage of hypospadias or epispadias staged repair (IM)
   - 58.452 Second stage of hypospadias or epispadias staged repair (IM)
-  - 58.453 Hypospadias repair post urethral f istula operation (IM)
-  - 58.454 Redo repair f or hypospadia or epispadias (IM)
+  - 58.453 Hypospadias repair post urethral fistula operation (IM)
+  - 58.454 Redo repair for hypospadia or epispadias (IM)
   - 58.455 Repair of  epispadias with ureteric re-implantation (IM)
   - 58.456 Granuloplasty for hypospadias (IM)
 #### 58.46 Other reconstruction of urethra {#58-46}
@@ -539,7 +539,7 @@
   - Repair of  old obstetric laceration of  urethra
   - Urethral plication
   - 58.490 Urethroplasty with graf t (IM)
-  - 58.491 Urethroplasty with f lap (IM)
+  - 58.491 Urethroplasty with flap (IM)
   - 58.492 Urethroplasty with pubectomy (IM)
   - *Excludes:* repair of:
     - current obstetric laceration ([75.61](../chapter-13/index.md#75-61))
@@ -554,7 +554,7 @@
 
 - Dilation of urethrovesical junction
 - Passage of sounds through urethra
-- Removal of  calculus f rom urethra without incision
+- Removal of  calculus from urethra without incision
   - *Excludes:* urethral calibration ([89.29](../chapter-16/index.md#89-29))
 ### 58.9 Other operations on urethra and periurethral tissue {#58-9}
 
@@ -565,7 +565,7 @@
     - lysis of periurethral adhesions
     - laparoscopic ([59.12](#59-12))
     - other ([59.11](#59-11))
-#### 58.93 Implantation of  artif icial urinary sphincter [AUS] {#58-93}
+#### 58.93 Implantation of  artificial urinary sphincter [AUS] {#58-93}
   - Placement of inflatable:
   - bladder sphincter
   - urethral sphincter
@@ -583,7 +583,7 @@
 - Code also any application or administration of  an adhesion barrier substance ([99.77](../chapter-16/index.md#99-77))
 ### 59.0 Dissection of retroperitoneal tissue {#59-0}
 
-#### 59.00 Retroperitoneal dissection, not otherwise specif ied {#59-00}
+#### 59.00 Retroperitoneal dissection, not otherwise specified {#59-00}
 #### 59.02 Other lysis of perirenal or periureteral adhesions {#59-02}
   - Open ureterolysis with ureteral repositioning
   - Open ureterolysis
@@ -667,7 +667,7 @@
   - *Excludes:* nonoperative removal of ureterostomy tube ([97.62](../chapter-16/index.md#97-62))
 #### 59.94 Replacement of  cystostomy tube {#59-94}
   - *Excludes:* nonoperative removal of cystostomy tube ([97.63](../chapter-16/index.md#97-63))
-#### 59.95 Ultrasonic f ragmentation of  urinary stones {#59-95}
+#### 59.95 Ultrasonic fragmentation of  urinary stones {#59-95}
   - Shattered urinary stones
   - *Excludes:* percutaneous nephrostomy with fragmentation ([55.04](#55-04))
     - shock-wave disintegratio ([98.51](../chapter-16/index.md#98-51))

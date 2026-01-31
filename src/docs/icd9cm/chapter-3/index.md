@@ -16,7 +16,7 @@
 
 - Code also any synchronous reconstruction ([08.61-08.74](#08-61))
   - *Excludes:* biopsy of eyelid ([08.11](#08-11))
-#### 08.20 Removal of  lesion of  eyelid, not otherwise specif ied {#08-20}
+#### 08.20 Removal of  lesion of  eyelid, not otherwise specified {#08-20}
   - Removal of  meibomian gland NOS
 #### 08.21 Excision of chalazion {#08-21}
 #### 08.22 Excision of other minor lesion of eyelid {#08-22}
@@ -58,19 +58,19 @@
 #### 08.59 Other {#08-59}
   - Canthoplasty NOS
   - Repair of  epicanthal f old
-### 08.6 Reconstruction of  eyelid with f laps or graf ts {#08-6}
+### 08.6 Reconstruction of  eyelid with flaps or graf ts {#08-6}
 
   - *Excludes:* that associated with repair of entropion and ectropion ([08.44](#08-44))
-#### 08.61 Reconstruction of  eyelid with skin f lap or graf t {#08-61}
-#### 08.62 Reconstruction of  eyelid with mucous membrane f lap or graf t {#08-62}
+#### 08.61 Reconstruction of  eyelid with skin flap or graf t {#08-61}
+#### 08.62 Reconstruction of  eyelid with mucous membrane flap or graf t {#08-62}
 #### 08.63 Reconstruction of  eyelid with hair f ollicle graf t {#08-63}
-#### 08.64 Reconstruction of  eyelid with tarsoconjunctival f lap {#08-64}
-  - Transf er of  tarsoconjunctival f lap f rom opposing lid
+#### 08.64 Reconstruction of  eyelid with tarsoconjunctival flap {#08-64}
+  - Transf er of  tarsoconjunctival flap from opposing lid
 #### 08.69 Other reconstruction of eyelid with flaps or grafts {#08-69}
 ### 08.7 Other reconstruction of eyelid {#08-7}
 
   - *Excludes:* that associated with repair of entropion and ectropion ([08.44](#08-44))
-#### 08.70 Reconstruction of  eyelid, not otherwise specif ied {#08-70}
+#### 08.70 Reconstruction of  eyelid, not otherwise specified {#08-70}
 #### 08.71 Reconstruction of  eyelid involving lid margin, partial-thickness {#08-71}
 #### 08.72 Other reconstruction of eyelid, partial-thickness {#08-72}
 #### 08.73 Reconstruction of  eyelid involving lid margin, f ull-thickness {#08-73}
@@ -154,7 +154,7 @@
 #### 09.99 Other {#09-99}
 ## 10 Operations on conjunctiva {#10}
 
-### 10.0 Removal of  embedded f oreign body f rom conjunctiva by incision {#10-0}
+### 10.0 Removal of  embedded foreign body from conjunctiva by incision {#10-0}
 
   - *Excludes:* removal of:
     - embedded foreign body without incision ([98.22](../chapter-16/index.md#98-22))
@@ -177,7 +177,7 @@
   - Removal of  trachoma f ollicles
 ### 10.4 Conjunctivoplasty {#10-4}
 
-#### 10.41 Repair of  symblepharon with f ree graf t {#10-41}
+#### 10.41 Repair of  symblepharon with free graf t {#10-41}
 #### 10.42 Reconstruction of  conjunctival cul-de-sac with free graft {#10-42}
   - *Excludes:* revision of enucleation socket with graft ([16.63](#16-63))
 #### 10.43 Other reconstruction of conjunctival cul-de-sac {#10-43}
@@ -202,7 +202,7 @@
   - *Excludes:* that with incision ([11.1](#11-1))
 ### 11.1 Incision of  cornea {#11-1}
 
-- Incision of  cornea f or removal of  f oreign body
+- Incision of  cornea for removal of  foreign body
 ### 11.2 Diagnostic procedures on cornea {#11-2}
 
 #### 11.21 Scraping of cornea for smear or culture {#11-21}
@@ -227,12 +227,12 @@
 
 #### 11.51 Suture of corneal laceration {#11-51}
 #### 11.52 Repair of  postoperative wound dehiscence of  cornea {#11-52}
-#### 11.53 Repair of  corneal laceration or wound with conjunctival f lap {#11-53}
+#### 11.53 Repair of  corneal laceration or wound with conjunctival flap {#11-53}
 #### 11.59 Other repair of cornea {#11-59}
 ### 11.6 Corneal transplant {#11-6}
 
   - *Excludes:* excision of pterygium with corneal graft ([11.32](#11-32))
-#### 11.60 Corneal transplant, not otherwise specif ied {#11-60}
+#### 11.60 Corneal transplant, not otherwise specified {#11-60}
   - Keratoplasty NOS
   - Note: To report donor source - see codes 00.91-00.93
 #### 11.61 Lamellar keratoplasty with autograft {#11-61}
@@ -254,16 +254,16 @@
 ### 11.9 Other operations on cornea {#11-9}
 
 #### 11.91 Tattooing of  cornea {#11-91}
-#### 11.92 Removal of  artif icial implant f rom cornea {#11-92}
+#### 11.92 Removal of  artificial implant from cornea {#11-92}
 #### 11.99 Other {#11-99}
 ## 12 Operations on iris, ciliary body, sclera, and anterior chamber {#12}
 
   - *Excludes:* operations on cornea ([11.0](#11-0)-[11.99](#11-99))
-### 12.0 Removal of  intraocular f oreign body f rom anterior segment of  eye {#12-0}
+### 12.0 Removal of  intraocular foreign body from anterior segment of  eye {#12-0}
 
-#### 12.00 Removal of  intraocular f oreign body f rom anterior segment of  eye, not otherwise specif ied {#12-00}
-#### 12.01 Removal of  intraocular f oreign body f rom anterior segment of  eye with use of  magnet {#12-01}
-#### 12.02 Removal of  intraocular f oreign body f rom anterior segment of  eye without use of  magnet {#12-02}
+#### 12.00 Removal of  intraocular foreign body from anterior segment of  eye, not otherwise specified {#12-00}
+#### 12.01 Removal of  intraocular foreign body from anterior segment of  eye with use of  magnet {#12-01}
+#### 12.02 Removal of  intraocular foreign body from anterior segment of  eye without use of  magnet {#12-02}
 ### 12.1 Iridotomy and simple iridectomy {#12-1}
 
   - *Excludes:* iridectomy associated with:
@@ -299,7 +299,7 @@
 #### 12.39 Other iridoplasty {#12-39}
 ### 12.4 Excision or destruction of lesion of iris and ciliary body {#12-4}
 
-#### 12.40 Removal of  lesion of  anterior segment of  eye, not otherwise specif ied {#12-40}
+#### 12.40 Removal of  lesion of  anterior segment of  eye, not otherwise specified {#12-40}
 #### 12.41 Destruction of lesion of iris, nonexcisional {#12-41}
   - Destruction of lesion of iris by:
   - cauterization
@@ -344,9 +344,9 @@
     - scleral fistulization ([12.61-12.69](#12-61))
 #### 12.81 Suture of laceration of sclera {#12-81}
   - Suture of sclera with synchronous repair of conjunctiva
-#### 12.82 Repair of  scleral f istula {#12-82}
+#### 12.82 Repair of  scleral fistula {#12-82}
   - *Excludes:* postoperative revision of scleral fistulization procedure ([12.66](#12-66))
-#### 12.83 Revision of  operative wound of  anterior segment, not elsewhere classif ied {#12-83}
+#### 12.83 Revision of  operative wound of  anterior segment, not elsewhere classified {#12-83}
   - *Excludes:* postoperative revision of scleral fistulization procedure ([12.66](#12-66))
 #### 12.84 Excision or destruction of lesion of sclera {#12-84}
 #### 12.85 Repair of  scleral staphyloma with graf t {#12-85}
@@ -365,19 +365,19 @@
   - air into anterior chamber
   - liquid into anterior chamber
   - medication into anterior chamber
-#### 12.93 Removal or destruction of  epithelial downgrowth f rom anterior chamber {#12-93}
+#### 12.93 Removal or destruction of  epithelial downgrowth from anterior chamber {#12-93}
   - *Excludes:* that with iridectomy ([12.41-12.42](#12-41))
 #### 12.97 Other operations on iris {#12-97}
 #### 12.98 Other operations on ciliary body {#12-98}
 #### 12.99 Other operations on anterior chamber {#12-99}
 ## 13 Operations on lens {#13}
 
-### 13.0 Removal of  f oreign body f rom lens {#13-0}
+### 13.0 Removal of  foreign body from lens {#13-0}
 
   - *Excludes:* removal of pseudophakos ([13.8](#13-8))
-#### 13.00 Removal of  f oreign body f rom lens, not otherwise specif ied {#13-00}
-#### 13.01 Removal of  f oreign body f rom lens with use of  magnet {#13-01}
-#### 13.02 Removal of  f oreign body f rom lens without use of  magnet {#13-02}
+#### 13.00 Removal of  foreign body from lens, not otherwise specified {#13-00}
+#### 13.01 Removal of  foreign body from lens with use of  magnet {#13-01}
+#### 13.02 Removal of  foreign body from lens without use of  magnet {#13-02}
 ### 13.1 Intracapsular extraction of  lens {#13-1}
 
 - Code also any synchronous insertion of  pseudophakos ([13.71](#13-71))
@@ -416,7 +416,7 @@
 ### 13.7 Insertion of  prosthetic lens [pseudophakos] {#13-7}
 
   - *Excludes:* implantation of intraocular telescope prosthesis ([13.91](#13-91))
-#### 13.70 Insertion of  pseudophakos, not otherwise specif ied {#13-70}
+#### 13.70 Insertion of  pseudophakos, not otherwise specified {#13-70}
 #### 13.71 Insertion of  intraocular lens prosthesis at time of  cataract extraction, one-stage {#13-71}
   - Code also synchronous extraction of  cataract ([13.11-13.69](#13-11))
 #### 13.72 Secondary insertion of intraocular lens prosthesis {#13-72}
@@ -432,12 +432,12 @@
   - *Excludes:* secondary insertion of ocular implant ([16.61](#16-61))
 ## 14 Operations on retina, choroid, vitreous, and posterior chamber {#14}
 
-### 14.0 Removal of  f oreign body f rom posterior segment of  eye {#14-0}
+### 14.0 Removal of  foreign body from posterior segment of  eye {#14-0}
 
   - *Excludes:* removal of surgically implanted material ([14.6](#14-6))
-#### 14.00 Removal of  f oreign body f rom posterior segment of  eye, not otherwise specif ied {#14-00}
-#### 14.01 Removal of  f oreign body f rom posterior segment of  eye with use of  magnet {#14-01}
-#### 14.02 Removal of  f oreign body f rom posterior segment of  eye without use of  magnet {#14-02}
+#### 14.00 Removal of  foreign body from posterior segment of  eye, not otherwise specified {#14-00}
+#### 14.01 Removal of  foreign body from posterior segment of  eye with use of  magnet {#14-01}
+#### 14.02 Removal of  foreign body from posterior segment of  eye without use of  magnet {#14-02}
 ### 14.1 Diagnostic procedures on retina, choroid, vitreous, and posterior chamber {#14-1}
 
 #### 14.11 Diagnostic aspiration of vitreous {#14-11}
@@ -463,7 +463,7 @@
 #### 14.32 Repair of  retinal tear by cryotherapy {#14-32}
 #### 14.33 Repair of  retinal tear by xenon arc photocoagulation {#14-33}
 #### 14.34 Repair of  retinal tear by laser photocoagulation {#14-34}
-#### 14.35 Repair of  retinal tear by photocoagulation of  unspecif ied type {#14-35}
+#### 14.35 Repair of  retinal tear by photocoagulation of  unspecified type {#14-35}
 #### 14.39 Other repair of retinal tear {#14-39}
 ### 14.4 Repair of  retinal detachment with scleral buckling and implant {#14-4}
 
@@ -480,9 +480,9 @@
 #### 14.52 Repair of  retinal detachment with cryotherapy {#14-52}
 #### 14.53 Repair of  retinal detachment with xenon arc photocoagulation {#14-53}
 #### 14.54 Repair of  retinal detachment with laser photocoagulation {#14-54}
-#### 14.55 Repair of  retinal detachment with photocoagulation of  unspecif ied type {#14-55}
+#### 14.55 Repair of  retinal detachment with photocoagulation of  unspecified type {#14-55}
 #### 14.59 Other {#14-59}
-### 14.6 Removal of  surgically implanted material f rom posterior segment of  eye {#14-6}
+### 14.6 Removal of  surgically implanted material from posterior segment of  eye {#14-6}
 
 ### 14.7 Operations on vitreous {#14-7}
 
@@ -544,7 +544,7 @@
 #### 16.02 Orbitotomy with insertion of orbital implant {#16-02}
   - *Excludes:* that with bone flap ([16.01](#16-01))
 #### 16.09 Other orbitotomy {#16-09}
-### 16.1 Removal of  penetrating f oreign body f rom eye, not otherwise specif ied {#16-1}
+### 16.1 Removal of  penetrating foreign body from eye, not otherwise specified {#16-1}
 
   - *Excludes:* removal of nonpenetrating foreign body ([98.21](../chapter-16/index.md#98-21))
 ### 16.2 Diagnostic procedures on orbit and eyeball {#16-2}

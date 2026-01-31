@@ -696,7 +696,7 @@
 
 ##### 89.070 Pre-operative Consultation (IM)
 
-- Note : Consultation f rom spesialist Bef ore Operative Procedure
+- Note : Consultation from spesialist Before Operative Procedure
 
 ##### 89.071 Rehabilitative Consultation (IM)
 
@@ -708,7 +708,7 @@
 
 #### 89.08 Other consultation {#89-08}
 
-#### 89.09 Consultation, not otherwise specif ied {#89-09}
+#### 89.09 Consultation, not otherwise specified {#89-09}
 
 ### 89.1 Anatomic and physiologic measurements and manual examinations -- nervous system and sense {#89-1}
 
@@ -723,7 +723,7 @@
 
 #### 89.11 Tonometry {#89-11}
 
-#### 89.12 Nasal f unction study {#89-12}
+#### 89.12 Nasal function study {#89-12}
 
 - Rhinomanometry
 
@@ -831,7 +831,7 @@
   - fundus photography ([95.11](#95-11))
   - limb length measurement ([93.06](#93-06))
 
-### 89.4 Cardiac stress tests, pacemaker and def ibrillator checks {#89-4}
+### 89.4 Cardiac stress tests, pacemaker and defibrillator checks {#89-4}
 
 #### 89.41 Cardiovascular stress test using treadmill {#89-41}
 
@@ -1010,9 +1010,9 @@ The following fourth-digit subclassification is for use with categories in secti
 
 ###### 90.0600 Microscopic examination of specimen from nervous system and of spinal fluid, Microscopic Immunohistochemistry examination (IM)
 
-###### 90.0601 Microscopic examination of specimen from nervous system and of spinal fluid, Microscopic Histophatology examination of specimen f rom biopsy (IM)
+###### 90.0601 Microscopic examination of specimen from nervous system and of spinal fluid, Microscopic Histophatology examination of specimen from biopsy (IM)
 
-###### 90.0602 Microscopic examination of specimen from nervous system and of spinal fluid, Microscopic Histophatology examination of specimen f rom debulking (IM)
+###### 90.0602 Microscopic examination of specimen from nervous system and of spinal fluid, Microscopic Histophatology examination of specimen from debulking (IM)
 
 ###### 90.0603 Microscopic examination of specimen from nervous system and of spinal fluid, Microscopic Histochemistry examination (IM)
 
@@ -1030,7 +1030,7 @@ The following fourth-digit subclassification is for use with categories in secti
 
 ##### 90.093 Microscopic examination of specimen from nervous system and of spinal fluid, Microscopic FCR examination (IM)
 
-##### 90.094 Microscopic examination of specimen from nervous system and of spinal fluid, Screening for the Human Immunodef iciency Virus (HIV) Inf ection (IM)
+##### 90.094 Microscopic examination of specimen from nervous system and of spinal fluid, Screening for the Human Immunodef iciency Virus (HIV) Infection (IM)
 
 ##### 90.095 Microscopic examination of specimen from nervous system and of spinal fluid, Prognostic Monitoring for the Human Immunodeficiency Virus (HIV) (IM)
 
@@ -1144,9 +1144,9 @@ The following fourth-digit subclassification is for use with categories in secti
 
 ###### 90.3600 Microscopic examination of specimen from ear, nose, throat, and larynx Microscopic Immunohistochemistry examination (IM)
 
-###### 90.3601 Microscopic examination of specimen from ear, nose, throat, and larynx Microscopic Histophatology examination of specimen f rom biopsy (IM)
+###### 90.3601 Microscopic examination of specimen from ear, nose, throat, and larynx Microscopic Histophatology examination of specimen from biopsy (IM)
 
-###### 90.3602 Microscopic examination of specimen from ear, nose, throat, and larynx Microscopic Histophatology examination of specimen f rom debulking (IM)
+###### 90.3602 Microscopic examination of specimen from ear, nose, throat, and larynx Microscopic Histophatology examination of specimen from debulking (IM)
 
 ###### 90.3603 Microscopic examination of specimen from ear, nose, throat, and larynx Microscopic Histochemistry examination (IM)
 
@@ -1164,7 +1164,7 @@ The following fourth-digit subclassification is for use with categories in secti
 
 ##### 90.393 Microscopic examination of specimen from ear, nose, throat, and larynx Microscopic FCR examination (IM)
 
-##### 90.394 Microscopic examination of specimen from ear, nose, throat, and larynx Screening for the Human Immunodef iciency Virus (HIV) Inf ection (IM)
+##### 90.394 Microscopic examination of specimen from ear, nose, throat, and larynx Screening for the Human Immunodef iciency Virus (HIV) Infection (IM)
 
 ##### 90.395 Microscopic examination of specimen from ear, nose, throat, and larynx Prognostic Monitoring for the H uman I mmunodeficiency Virus (H I V) (IM)
 
@@ -1282,9 +1282,9 @@ The following fourth-digit subclassification is for use with categories in secti
 
 ###### 90.6600 Microscopic examination of specimen from spleen and of bone marrow, Microscopic Immunohistochemistry examination (IM)
 
-###### 90.6601 Microscopic examination of specimen from spleen and of bone marrow, Microscopic Histophatology examination of specimen f rom biopsy (IM)
+###### 90.6601 Microscopic examination of specimen from spleen and of bone marrow, Microscopic Histophatology examination of specimen from biopsy (IM)
 
-###### 90.6602 Microscopic examination of specimen from spleen and of bone marrow, Microscopic Histophatology examination of specimen f rom debulking (IM)
+###### 90.6602 Microscopic examination of specimen from spleen and of bone marrow, Microscopic Histophatology examination of specimen from debulking (IM)
 
 ###### 90.6603 Microscopic examination of specimen from spleen and of bone marrow, Microscopic Histochemistry examination (IM)
 
@@ -1302,7 +1302,7 @@ The following fourth-digit subclassification is for use with categories in secti
 
 ##### 90.693 Microscopic examination of specimen from spleen and of bone marrow, Microscopic FCR examination (IM)
 
-##### 90.694 Microscopic examination of specimen from spleen and of bone marrow, Screening for the Human Immunodef iciency Virus (HIV) Inf ection (IM)
+##### 90.694 Microscopic examination of specimen from spleen and of bone marrow, Screening for the Human Immunodef iciency Virus (HIV) Infection (IM)
 
 ##### 90.695 Microscopic examination of specimen from spleen and of bone marrow, Prognostic Monitoring for the Human Immunodeficiency Virus (HIV) (IM)
 
@@ -1326,9 +1326,9 @@ The following fourth-digit subclassification is for use with categories in secti
 
 ###### 90.7600 Microscopic examination of specimen from lymph node and of lymph, Microscopic Immunohistochemistry examination (IM)
 
-###### 90.7601 Microscopic examination of specimen from lymph node and of lymph, Microscopic Histophatology examination of specimen f rom biopsy (IM)
+###### 90.7601 Microscopic examination of specimen from lymph node and of lymph, Microscopic Histophatology examination of specimen from biopsy (IM)
 
-###### 90.7602 Microscopic examination of specimen from lymph node and of lymph, Microscopic Histophatology examination of specimen f rom debulking (IM)
+###### 90.7602 Microscopic examination of specimen from lymph node and of lymph, Microscopic Histophatology examination of specimen from debulking (IM)
 
 ###### 90.7603 Microscopic examination of specimen from lymph node and of lymph, Microscopic Histochemistry examination (IM)
 
@@ -1346,7 +1346,7 @@ The following fourth-digit subclassification is for use with categories in secti
 
 ##### 90.793 Microscopic examination of specimen from lymph node and of lymph, Microscopic FCR examination (IM)
 
-##### 90.794 Microscopic examination of specimen from lymph node and of lymph, Screening for the Human Immunodef iciency Virus (HIV) Inf ection (IM)
+##### 90.794 Microscopic examination of specimen from lymph node and of lymph, Screening for the Human Immunodef iciency Virus (HIV) Infection (IM)
 
 ##### 90.795 Microscopic examination of specimen from lymph node and of lymph, Prognostic Monitoring for the Human Immunodeficiency Virus (HIV) (IM)
 
@@ -1490,9 +1490,9 @@ The following fourth-digit subclassification is for use with categories in secti
 
 ###### 91.0600 Microscopic examination of specimen from liver, biliary tract, and pancreas, Microscopic Immunohistochemistry examination (IM)
 
-###### 91.0601 Microscopic examination of specimen from liver, biliary tract, and pancreas, Microscopic Histophatology examination of specimen f rom biopsy (IM)
+###### 91.0601 Microscopic examination of specimen from liver, biliary tract, and pancreas, Microscopic Histophatology examination of specimen from biopsy (IM)
 
-###### 91.0602 Microscopic examination of specimen from liver, biliary tract, and pancreas, Microscopic Histophatology examination of specimen f rom debulking (IM)
+###### 91.0602 Microscopic examination of specimen from liver, biliary tract, and pancreas, Microscopic Histophatology examination of specimen from debulking (IM)
 
 ###### 91.0603 Microscopic examination of specimen from liver, biliary tract, and pancreas, Microscopic Histochemistry examination (IM)
 
@@ -1510,7 +1510,7 @@ The following fourth-digit subclassification is for use with categories in secti
 
 ##### 91.093 Microscopic examination of specimen from liver, biliary tract, and pancreas, Microscopic FCR examination (IM)
 
-##### 91.094 Microscopic examination of specimen from liver, biliary tract, and pancreas, Screening for the Human Immunodef iciency Virus (HIV) Inf ection (IM)
+##### 91.094 Microscopic examination of specimen from liver, biliary tract, and pancreas, Screening for the Human Immunodef iciency Virus (HIV) Infection (IM)
 
 ##### 91.095 Microscopic examination of specimen from liver, biliary tract, and pancreas, Prognostic Monitoring for the Human Immunodeficiency Virus (HIV) (IM)
 
@@ -1534,9 +1534,9 @@ The following fourth-digit subclassification is for use with categories in secti
 
 ###### 91.1600 Microscopic examination of peritoneal and retroperitoneal specimen, Microscopic Immunohistochemistry examination (IM)
 
-###### 91.1601 Microscopic examination of peritoneal and retroperitoneal specimen, Microscopic Histophatology examination of specimen f rom biopsy (IM)
+###### 91.1601 Microscopic examination of peritoneal and retroperitoneal specimen, Microscopic Histophatology examination of specimen from biopsy (IM)
 
-###### 91.1602 Microscopic examination of peritoneal and retroperitoneal specimen, Microscopic Histophatology examination of specimen f rom debulking (IM)
+###### 91.1602 Microscopic examination of peritoneal and retroperitoneal specimen, Microscopic Histophatology examination of specimen from debulking (IM)
 
 ###### 91.1603 Microscopic examination of peritoneal and retroperitoneal specimen, Microscopic Histochemistry examination (IM)
 
@@ -1554,7 +1554,7 @@ The following fourth-digit subclassification is for use with categories in secti
 
 ##### 91.193 Microscopic examination of peritoneal and retroperitoneal specimen, Microscopic FCR examination (IM)
 
-##### 91.194 Microscopic examination of peritoneal and retroperitoneal specimen, Screening for the Human Immunodef iciency Virus (HIV) Inf ection (IM)
+##### 91.194 Microscopic examination of peritoneal and retroperitoneal specimen, Screening for the Human Immunodef iciency Virus (HIV) Infection (IM)
 
 ##### 91.195 Microscopic examination of peritoneal and retroperitoneal specimen, Prognostic Monitoring for the Human Immunodeficiency Virus (HIV) (IM)
 
@@ -1697,7 +1697,7 @@ The following fourth-digit subclassification is for use with categories in secti
 
 ##### 91.493 Microscopic examination of specimen from female genital tract, Microscopic FCR examination (IM)
 
-##### 91.494 Microscopic examination of specimen from female genital tract, Screening for the Human Immunodef iciency Virus (HIV) Inf ection (IM)
+##### 91.494 Microscopic examination of specimen from female genital tract, Screening for the Human Immunodef iciency Virus (HIV) Infection (IM)
 
 ##### 91.495 Microscopic examination of specimen from female genital tract, Prognostic Monitoring for the Human Immunodef iciency Virus (HIV) (IM)
 
@@ -1782,9 +1782,9 @@ The following fourth-digit subclassification is for use with categories in secti
     - 91.6600 Microscopic examination of specimen from skin and other integument, Microscopic
     - Immunohistochemistry examination (IM)
     - 91.6601 Microscopic examination of specimen from skin and other integument, Microscopic
-    - Histophatology examination of specimen f rom biopsy (IM)
+    - Histophatology examination of specimen from biopsy (IM)
     - 91.6602 Microscopic examination of specimen from skin and other integument, Microscopic
-    - Histophatology examination of specimen f rom debulking (IM)
+    - Histophatology examination of specimen from debulking (IM)
     - 91.6603 Microscopic examination of specimen from skin and other integument, Microscopic
     - Histochemistry examination (IM)
     - 91.661 Microscopic examination of specimen from skin and other integument, papanicolaou and giemsa
@@ -1804,7 +1804,7 @@ The following fourth-digit subclassification is for use with categories in secti
 
 ##### 91.693 Microscopic examination of specimen from skin and other integument, Microscopic FCR examination (IM)
 
-##### 91.694 Microscopic examination of specimen from skin and other integument, Screening for the Human Immunodef iciency Virus (HIV) Inf ection (IM)
+##### 91.694 Microscopic examination of specimen from skin and other integument, Screening for the Human Immunodef iciency Virus (HIV) Infection (IM)
 
 ##### 91.695 Microscopic examination of specimen from skin and other integument, Prognostic Monitoring for the Human Immunodeficiency Virus (HIV) (IM)
 
@@ -1850,7 +1850,7 @@ The following fourth-digit subclassification is for use with categories in secti
 
 ##### 91.793 Microscopic examination of specimen from operative wound, Microscopic FCR examination (IM)
 
-##### 91.794 Microscopic examination of specimen from operative wound, Screening for the Human Immunodef iciency Virus (HIV) Inf ection (IM)
+##### 91.794 Microscopic examination of specimen from operative wound, Screening for the Human Immunodef iciency Virus (HIV) Infection (IM)
 
 ##### 91.795 Microscopic examination of specimen from operative wound, Prognostic Monitoring for the Human Immunodef iciency Virus (HIV) (IM)
 
@@ -1896,7 +1896,7 @@ The following fourth-digit subclassification is for use with categories in secti
 
 ##### 91.893 Microscopic examination of specimen from other site, Microscopic FCR examination (IM)
 
-##### 91.894 Microscopic examination of specimen from other site, Screening for the Human Immunodef iciency Virus (HIV) Inf ection (IM)
+##### 91.894 Microscopic examination of specimen from other site, Screening for the Human Immunodef iciency Virus (HIV) Infection (IM)
 
 ##### 91.895 Microscopic examination of specimen from other site, Prognostic Monitoring for the Human Immunodef iciency Virus (HIV) (IM)
 
@@ -1942,7 +1942,7 @@ The following fourth-digit subclassification is for use with categories in secti
 
 ##### 91.993 Microscopic examination of specimen from unspecified site, Microscopic FCR examination (IM)
 
-##### 91.994 Microscopic examination of specimen from unspeified site, Screening for the Human Immunodef iciency Virus (HIV) Inf ection (IM)
+##### 91.994 Microscopic examination of specimen from unspeified site, Screening for the Human Immunodef iciency Virus (HIV) Infection (IM)
 
 ##### 91.995 Microscopic examination of specimen from unspecified site, Prognostic Monitoring for the Human Immunodef iciency Virus (HIV) (IM)
 
@@ -1952,9 +1952,9 @@ The following fourth-digit subclassification is for use with categories in secti
 
 ## 92 Nuclear medicine {#92}
 
-### 92.0 Radioisotope scan and f unction study {#92-0}
+### 92.0 Radioisotope scan and function study {#92-0}
 
-#### 92.01 Thyroid scan and radioisotope f unction studies {#92-01}
+#### 92.01 Thyroid scan and radioisotope function studies {#92-01}
 
 - Iodine-131 uptake
 - Protein-bound iodine
@@ -1962,7 +1962,7 @@ The following fourth-digit subclassification is for use with categories in secti
 
 #### 92.02 Liver scan and radioisotope function study {#92-02}
 
-#### 92.03 Renal scan and radioisotope f unction study {#92-03}
+#### 92.03 Renal scan and radioisotope function study {#92-03}
 
 - Renal clearance study
 
@@ -1971,12 +1971,12 @@ The following fourth-digit subclassification is for use with categories in secti
 - Radio-cobalt B12 Schilling test
 - Radio-iodinated triolein study
 
-#### 92.05 Cardiovascular and hematopoietic scan and radioisotope f unction study {#92-05}
+#### 92.05 Cardiovascular and hematopoietic scan and radioisotope function study {#92-05}
 
 - Bone marrow scan or function study
-- Cardiac output scan or f unction study
-- Circulation time scan or f unction study
-- Radionuclide cardiac ventriculogram scan or f unction study
+- Cardiac output scan or function study
+- Circulation time scan or function study
+- Radionuclide cardiac ventriculogram scan or function study
 - Spleen scan or function study
 - Nuclear study resting
 - Nuclear Study Stress tes
@@ -2015,7 +2015,7 @@ The following fourth-digit subclassification is for use with categories in secti
   - ablation of pituitary gland ([07.64-07.69](../chapter-2/index.md#07-64))
   - destruction of chorioretinal lesion ([14.26-14.27](../chapter-3/index.md#14-26))
 
-#### 92.20 Inf usion of liquid brachytherapy radioisotope {#92-20}
+#### 92.20 Infusion of liquid brachytherapy radioisotope {#92-20}
 
 - I-125 radioisotope
 - Intracavitary brachytherapy
@@ -2104,7 +2104,7 @@ The following fourth-digit subclassification is for use with categories in secti
 
 #### 92.28 Injection or instillation of radioisotopes {#92-28}
 
-- Injection or inf usion of radioimmunoconjugate
+- Injection or infusion of radioimmunoconjugate
 - Intracavitary injection or instillation
 - Intravenous injection or instillation
 - Iodine-131 [I-131] tositumomab
@@ -2261,7 +2261,7 @@ The following fourth-digit subclassification is for use with categories in secti
 
 #### 93.37 Prenatal training {#93-37}
 
-- Training f or natural childbirth
+- Training for natural childbirth
 
 #### 93.38 Combined physical therapy without mention of the components {#93-38}
 
@@ -2369,7 +2369,7 @@ The following fourth-digit subclassification is for use with categories in secti
 
 #### 93.62 Osteopathic manipulative treatment using high- velocity, low-amplitude forces {#93-62}
 
-- Thrusting f orces
+- Thrusting forces
 
 #### 93.63 Osteopathic manipulative treatment using low- velocity, high-amplitude forces {#93-63}
 
@@ -2397,7 +2397,7 @@ The following fourth-digit subclassification is for use with categories in secti
 
 #### 93.75 Other speech training and therapy {#93-75}
 
-#### 93.76 Training in use of lead dog f or the blind {#93-76}
+#### 93.76 Training in use of lead dog for the blind {#93-76}
 
 #### 93.77 Training in braille or Moon {#93-77}
 
@@ -2431,12 +2431,12 @@ The following fourth-digit subclassification is for use with categories in secti
 - retraining
 - training
 
-#### 93.89 Rehabilitation, not elsewhere classif ied {#93-89}
+#### 93.89 Rehabilitation, not elsewhere classified {#93-89}
 
 - Cardiovascular Rehabilitation 1st Phase
 - Cardiovascular Rehabilitation 2nd Phase
 - Cardiovascular Rehabilitation 3rd Phase
-- Cardiovascular Rehabilitation Af ter Cardiovascular Procedure
+- Cardiovascular Rehabilitation After Cardiovascular Procedure
 
 ### 93.9 Respiratory therapy {#93-9}
 
@@ -2540,7 +2540,7 @@ The following fourth-digit subclassification is for use with categories in secti
 - Medicolegal mental status determination
 - Mental status determination NOS
 
-#### 94.12 Routine psychiatric visit, not otherwise specif ied {#94-12}
+#### 94.12 Routine psychiatric visit, not otherwise specified {#94-12}
 
 #### 94.13 Psychiatric commitment evaluation {#94-13}
 
@@ -2599,7 +2599,7 @@ The following fourth-digit subclassification is for use with categories in secti
 - Neurobehavior therapy
 - cognitive stimulation
 
-#### 94.34 Individual therapy f or psychosexual dysf unction {#94-34}
+#### 94.34 Individual therapy for psychosexual dysfunction {#94-34}
 
 - _Excludes:_ that performed in group setting ([94.41](#94-41))
 
@@ -2631,23 +2631,23 @@ The following fourth-digit subclassification is for use with categories in secti
 
 #### 94.49 Other counselling {#94-49}
 
-### 94.5 Ref erral f or psychologic rehabilitation {#94-5}
+### 94.5 Ref erral for psychologic rehabilitation {#94-5}
 
-#### 94.51 Ref erral f or psychotherapy {#94-51}
+#### 94.51 Ref erral for psychotherapy {#94-51}
 
-#### 94.52 Ref erral f or psychiatric af tercare: {#94-52}
+#### 94.52 Ref erral for psychiatric aftercare: {#94-52}
 
 - That in:
 - halfway house
 - outpatient (clinic) facility
 
-#### 94.53 Ref erral f or alcoholism rehabilitation {#94-53}
+#### 94.53 Ref erral for alcoholism rehabilitation {#94-53}
 
-#### 94.54 Ref erral f or drug addiction rehabilitation {#94-54}
+#### 94.54 Ref erral for drug addiction rehabilitation {#94-54}
 
-#### 94.55 Ref erral f or vocational rehabilitation {#94-55}
+#### 94.55 Ref erral for vocational rehabilitation {#94-55}
 
-#### 94.59 Ref erral f or other psychologic rehabilitation {#94-59}
+#### 94.59 Ref erral for other psychologic rehabilitation {#94-59}
 
 ### 94.6 Alcohol and drug rehabilitation and detoxification {#94-6}
 
@@ -2665,9 +2665,9 @@ The following fourth-digit subclassification is for use with categories in secti
 
 #### 94.67 Combined alcohol and drug rehabilitation {#94-67}
 
-#### 94.68 Combined alcohol and drug detoxif ication {#94-68}
+#### 94.68 Combined alcohol and drug detoxification {#94-68}
 
-#### 94.69 Combined alcohol and drug rehabilitation and detoxif ication {#94-69}
+#### 94.69 Combined alcohol and drug rehabilitation and detoxification {#94-69}
 
 ## 95 Ophthalmologic and otologic diagnosis and treatment {#95}
 
@@ -2787,7 +2787,7 @@ The following fourth-digit subclassification is for use with categories in secti
 
 #### 95.42 Clinical test of hearing {#95-42}
 
-- Tuning f ork test
+- Tuning fork test
 - Whispered speech test
 
 #### 95.43 Audiological evaluation {#95-43}
@@ -2799,9 +2799,9 @@ The following fourth-digit subclassification is for use with categories in secti
 - masking
 - Weber lateralization
 
-#### 95.44 Clinical vestibular f unction tests {#95-44}
+#### 95.44 Clinical vestibular function tests {#95-44}
 
-- Thermal test of vestibular f unction
+- Thermal test of vestibular function
 
 ##### 95.440 Simple vestibular test (IM)
 
@@ -2827,7 +2827,7 @@ The following fourth-digit subclassification is for use with categories in secti
 
 ##### 95.465 Vestibular evoked myogenic potential (IM)
 
-#### 95.47 Hearing examination, not otherwise specif ied {#95-47}
+#### 95.47 Hearing examination, not otherwise specified {#95-47}
 
 #### 95.48 Fitting of hearing aid {#95-48}
 
@@ -2861,7 +2861,7 @@ The following fourth-digit subclassification is for use with categories in secti
 
 #### 96.07 Insertion of other (naso-)gastric tube {#96-07}
 
-- Intubation f or decompression
+- Intubation for decompression
 - _Excludes:_ that for enteral infusion of nutritional substance ([96.6](#96-6))
 
 #### 96.08 Insertion of (naso-)intestinal tube {#96-08}
@@ -3010,7 +3010,7 @@ The following fourth-digit subclassification is for use with categories in secti
 ### 96.7 Other continuous invasive mechanical ventilation {#96-7}
 
 - _Includes:_ BiPAP delivered through endotracheal tube or tracheostomy (invasive interface)
-  - CPAP delivered through endotracheal tube or tracheostomy (invasive interf ace)
+  - CPAP delivered through endotracheal tube or tracheostomy (invasive interface)
   - Endotracheal respiratory assistance
   - Invasive positive pressure ventilation [IPPV]
   - Mechanical ventilation through invasive interface
@@ -3031,7 +3031,7 @@ The following fourth-digit subclassification is for use with categories in secti
   - To calculate the number of hours (duration) of continuous mechanical ventilation during a
   - hospitalization, begin the count from the start of the (endotracheal) intubation. The duration ends
   - with (endotracheal) extubation.
-  - If a patient is intubated prior to admission, begin counting the duration f rom the time of the
+  - If a patient is intubated prior to admission, begin counting the duration from the time of the
   - admission. If a patient is transferred (discharged) while intubated, the duration would end at the
   - time of transfer (discharge).
   - For patients who begin on (endotracheal) intubation and subsequently have a tracheostomy
@@ -3046,13 +3046,13 @@ The following fourth-digit subclassification is for use with categories in secti
   - transferred (discharged) while still on mechanical ventilation via tracheostomy, the duration would
   - end at the time of the transfer (discharge).
 
-#### 96.70 Continuous invasive mechanical ventilation of unspecif ied duration {#96-70}
+#### 96.70 Continuous invasive mechanical ventilation of unspecified duration {#96-70}
 
 - Invasive mechanical ventilation NOS
 
-#### 96.71 Continuous invasive mechanical ventilation f or less than 96 consecutive hours {#96-71}
+#### 96.71 Continuous invasive mechanical ventilation for less than 96 consecutive hours {#96-71}
 
-#### 96.72 Continuous invasive mechanical ventilation f or 96 consecutive hours or more {#96-72}
+#### 96.72 Continuous invasive mechanical ventilation for 96 consecutive hours or more {#96-72}
 
 ## 97 Replacement and removal of therapeutic appliances {#97}
 
@@ -3076,7 +3076,7 @@ The following fourth-digit subclassification is for use with categories in secti
 
 #### 97.13 Replacement of other cast {#97-13}
 
-#### 97.14 Replacement of other device f or musculoskeletal immobilization {#97-14}
+#### 97.14 Replacement of other device for musculoskeletal immobilization {#97-14}
 
 - Splinting
 - Strapping
@@ -3097,7 +3097,7 @@ The following fourth-digit subclassification is for use with categories in secti
 
 #### 97.23 Replacement of tracheostomy tube {#97-23}
 
-#### 97.24 Replacement and ref itting of vaginal diaphragm {#97-24}
+#### 97.24 Replacement and refitting of vaginal diaphragm {#97-24}
 
 #### 97.25 Replacement of other vaginal pessary {#97-25}
 
@@ -3105,7 +3105,7 @@ The following fourth-digit subclassification is for use with categories in secti
 
 #### 97.29 Other nonoperative replacements {#97-29}
 
-### 97.3 Nonoperative removal of therapeutic device f rom head and neck {#97-3}
+### 97.3 Nonoperative removal of therapeutic device from head and neck {#97-3}
 
 #### 97.31 Removal of eye prosthesis {#97-31}
 
@@ -3120,17 +3120,17 @@ The following fourth-digit subclassification is for use with categories in secti
 
 #### 97.35 Removal of dental prosthesis {#97-35}
 
-#### 97.36 Removal of other external mandibular f ixation device {#97-36}
+#### 97.36 Removal of other external mandibular fixation device {#97-36}
 
 #### 97.37 Removal of tracheostomy tube {#97-37}
 
-#### 97.38 Removal of sutures f rom head and neck {#97-38}
+#### 97.38 Removal of sutures from head and neck {#97-38}
 
-#### 97.39 Removal of other therapeutic device f rom head and neck {#97-39}
+#### 97.39 Removal of other therapeutic device from head and neck {#97-39}
 
 - _Excludes:_ removal of skull tongs ([02.94](../chapter-1/index.md#02-94))
 
-### 97.4 Nonoperative removal of therapeutic device f rom thorax {#97-4}
+### 97.4 Nonoperative removal of therapeutic device from thorax {#97-4}
 
 #### 97.41 Removal of thoracotomy tube or pleural cavity drain {#97-41}
 
@@ -3138,7 +3138,7 @@ The following fourth-digit subclassification is for use with categories in secti
 
 #### 97.42 Removal of mediastinal drain {#97-42}
 
-#### 97.43 Removal of sutures f rom thorax {#97-43}
+#### 97.43 Removal of sutures from thorax {#97-43}
 
 #### 97.44 Nonoperative removal of heart assist system {#97-44}
 
@@ -3149,17 +3149,17 @@ The following fourth-digit subclassification is for use with categories in secti
 - Removal of pVAD
 - Removal of percutaneous heart assist device
 
-#### 97.49 Removal of other device f rom thorax {#97-49}
+#### 97.49 Removal of other device from thorax {#97-49}
 
 - _Excludes:_ Endoscopic removal of bronchial device(s) or substances ([33.78](../chapter-6/index.md#33-78))
 
-### 97.5 Nonoperative removal of therapeutic device f rom digestive system {#97-5}
+### 97.5 Nonoperative removal of therapeutic device from digestive system {#97-5}
 
 #### 97.51 Removal of gastrostomy tube {#97-51}
 
-#### 97.52 Removal of tube f rom small intestine {#97-52}
+#### 97.52 Removal of tube from small intestine {#97-52}
 
-#### 97.53 Removal of tube f rom large intestine or appendix {#97-53}
+#### 97.53 Removal of tube from large intestine or appendix {#97-53}
 
 #### 97.54 Removal of cholecystostomy tube {#97-54}
 
@@ -3169,11 +3169,11 @@ The following fourth-digit subclassification is for use with categories in secti
 
 #### 97.56 Removal of pancreatic tube or drain {#97-56}
 
-#### 97.59 Removal of other device f rom digestive system {#97-59}
+#### 97.59 Removal of other device from digestive system {#97-59}
 
 - Removal of rectal packing
 
-### 97.6 Nonoperative removal of therapeutic device f rom urinary system {#97-6}
+### 97.6 Nonoperative removal of therapeutic device from urinary system {#97-6}
 
 #### 97.61 Removal of pyelostomy and nephrostomy tube {#97-61}
 
@@ -3189,9 +3189,9 @@ The following fourth-digit subclassification is for use with categories in secti
 
 #### 97.66 Endoscopic ureteric stent removal (IM) {#97-66}
 
-#### 97.69 Removal of other device f rom urinary system {#97-69}
+#### 97.69 Removal of other device from urinary system {#97-69}
 
-### 97.7 Nonoperative removal of therapeutic device f rom genital system {#97-7}
+### 97.7 Nonoperative removal of therapeutic device from genital system {#97-7}
 
 #### 97.71 Removal of intrauterine contraceptive device {#97-71}
 
@@ -3203,7 +3203,7 @@ The following fourth-digit subclassification is for use with categories in secti
 
 #### 97.75 Removal of vaginal or vulvar packing {#97-75}
 
-#### 97.79 Removal of other device f rom genital tract {#97-79}
+#### 97.79 Removal of other device from genital tract {#97-79}
 
 - Removal of sutures
 
@@ -3215,13 +3215,13 @@ The following fourth-digit subclassification is for use with categories in secti
 
 #### 97.83 Removal of abdominal wall sutures {#97-83}
 
-#### 97.84 Removal of sutures f rom trunk, not elsewhere classif ied {#97-84}
+#### 97.84 Removal of sutures from trunk, not elsewhere classified {#97-84}
 
-#### 97.85 Removal of packing f rom trunk, not elsewhere classif ied {#97-85}
+#### 97.85 Removal of packing from trunk, not elsewhere classified {#97-85}
 
-#### 97.86 Removal of other device f rom abdomen {#97-86}
+#### 97.86 Removal of other device from abdomen {#97-86}
 
-#### 97.87 Removal of other device f rom trunk {#97-87}
+#### 97.87 Removal of other device from trunk {#97-87}
 
 #### 97.88 Removal of external immobilization device {#97-88}
 
@@ -3232,73 +3232,73 @@ The following fourth-digit subclassification is for use with categories in secti
 
 #### 97.89 Removal of other therapeutic device {#97-89}
 
-## 98 Nonoperative removal of f oreign body or calculus {#98}
+## 98 Nonoperative removal of foreign body or calculus {#98}
 
-### 98.0 Removal of intraluminal f oreign body f rom digestive system without incision {#98-0}
+### 98.0 Removal of intraluminal foreign body from digestive system without incision {#98-0}
 
 - _Excludes:_ removal of therapeutic device ([97.51-97.59](#97-51))
 
-#### 98.01 Removal of intraluminal f oreign body f rom mouth without incision {#98-01}
+#### 98.01 Removal of intraluminal foreign body from mouth without incision {#98-01}
 
-#### 98.02 Removal of intraluminal f oreign body f rom esophagus without incision {#98-02}
+#### 98.02 Removal of intraluminal foreign body from esophagus without incision {#98-02}
 
-#### 98.03 Removal of intraluminal f oreign body f rom stomach and small intestine without incision {#98-03}
+#### 98.03 Removal of intraluminal foreign body from stomach and small intestine without incision {#98-03}
 
-#### 98.04 Removal of intraluminal f oreign body f rom large intestine without incision {#98-04}
+#### 98.04 Removal of intraluminal foreign body from large intestine without incision {#98-04}
 
-#### 98.05 Removal of intraluminal f oreign body f rom rectum and anus without incision {#98-05}
+#### 98.05 Removal of intraluminal foreign body from rectum and anus without incision {#98-05}
 
-### 98.1 Removal of intraluminal f oreign body f rom other sites without incision {#98-1}
+### 98.1 Removal of intraluminal foreign body from other sites without incision {#98-1}
 
 - _Excludes:_ removal of therapeutic device ([97.31](#97-31)-[97.49](#97-49), [97.61](#97-61)-[97.89](#97-89))
 
-#### 98.11 Removal of intraluminal f oreign body f rom ear without incision {#98-11}
+#### 98.11 Removal of intraluminal foreign body from ear without incision {#98-11}
 
-#### 98.12 Removal of intraluminal f oreign body f rom nose without incision {#98-12}
+#### 98.12 Removal of intraluminal foreign body from nose without incision {#98-12}
 
-#### 98.13 Removal of intraluminal f oreign body f rom pharynx without incision {#98-13}
+#### 98.13 Removal of intraluminal foreign body from pharynx without incision {#98-13}
 
-#### 98.14 Removal of intraluminal f oreign body f rom larynx without incision {#98-14}
+#### 98.14 Removal of intraluminal foreign body from larynx without incision {#98-14}
 
-#### 98.15 Removal of intraluminal f oreign body f rom trachea and bronchus without incision {#98-15}
+#### 98.15 Removal of intraluminal foreign body from trachea and bronchus without incision {#98-15}
 
 - _Excludes:_ Endoscopic removal of bronchial device(s) or substances ([33.78](../chapter-6/index.md#33-78))
 
-#### 98.16 Removal of intraluminal f oreign body f rom uterus without incision {#98-16}
+#### 98.16 Removal of intraluminal foreign body from uterus without incision {#98-16}
 
 - _Excludes:_ removal of intrauterine contraceptive device ([97.71](#97-71))
 
-#### 98.17 Removal of intraluminal f oreign body f rom vagina without incision {#98-17}
+#### 98.17 Removal of intraluminal foreign body from vagina without incision {#98-17}
 
-#### 98.18 Removal of intraluminal f oreign body f rom artif icial stoma without incision {#98-18}
+#### 98.18 Removal of intraluminal foreign body from artificial stoma without incision {#98-18}
 
-#### 98.19 Removal of intraluminal f oreign body f rom urethra without incision {#98-19}
+#### 98.19 Removal of intraluminal foreign body from urethra without incision {#98-19}
 
-### 98.2 Removal of other f oreign body without incision {#98-2}
+### 98.2 Removal of other foreign body without incision {#98-2}
 
 - _Excludes:_ removal of intraluminal foreign body ([98.01-98.19](#98-01))
 
-#### 98.20 Removal of f oreign body, not otherwise specif ied {#98-20}
+#### 98.20 Removal of foreign body, not otherwise specified {#98-20}
 
-#### 98.21 Removal of superf icial f oreign body f rom eye without incision {#98-21}
+#### 98.21 Removal of superficial foreign body from eye without incision {#98-21}
 
-#### 98.22 Removal of other f oreign body without incision f rom head and neck {#98-22}
+#### 98.22 Removal of other foreign body without incision from head and neck {#98-22}
 
-- Removal of embedded f oreign body f rom eyelid or conjunctiva without incision
+- Removal of embedded foreign body from eyelid or conjunctiva without incision
 
-#### 98.23 Removal of f oreign body f rom vulva without incision {#98-23}
+#### 98.23 Removal of foreign body from vulva without incision {#98-23}
 
-#### 98.24 Removal of f oreign body f rom scrotum or penis without incision {#98-24}
+#### 98.24 Removal of foreign body from scrotum or penis without incision {#98-24}
 
-#### 98.25 Removal of other f oreign body without incision f rom trunk except scrotum, penis, or vulva {#98-25}
+#### 98.25 Removal of other foreign body without incision from trunk except scrotum, penis, or vulva {#98-25}
 
-#### 98.26 Removal of f oreign body f rom hand without incision {#98-26}
+#### 98.26 Removal of foreign body from hand without incision {#98-26}
 
-#### 98.27 Removal of f oreign body without incision f rom upper limb, except hand {#98-27}
+#### 98.27 Removal of foreign body without incision from upper limb, except hand {#98-27}
 
-#### 98.28 Removal of f oreign body f rom f oot without incision {#98-28}
+#### 98.28 Removal of foreign body from foot without incision {#98-28}
 
-#### 98.29 Removal of f oreign body without incision f rom lower limb, except f oot {#98-29}
+#### 98.29 Removal of foreign body without incision from lower limb, except foot {#98-29}
 
 ### 98.5 Extracorporeal shockwave lithotripsy [ESWL] {#98-5}
 
@@ -3314,9 +3314,9 @@ The following fourth-digit subclassification is for use with categories in secti
 
 ## 99 Other nonoperative procedures {#99}
 
-### 99.0 Transf usion of blood and blood components {#99-0}
+### 99.0 Transfusion of blood and blood components {#99-0}
 
-- Code also f or that done via catheter or cutdown ([38.92-38.94](../chapter-7/index.md#38-92))
+- Code also for that done via catheter or cutdown ([38.92-38.94](../chapter-7/index.md#38-92))
 
 #### 99.00 Perioperative autologous transfusion of whole blood or blood components {#99-00}
 
@@ -3326,56 +3326,56 @@ The following fourth-digit subclassification is for use with categories in secti
 
 #### 99.01 Exchange transfusion {#99-01}
 
-- Transf usion:
+- Transfusion:
 - exsanguination
 - replacement
 
-#### 99.02 Transf usion of previously collected autologous blood {#99-02}
+#### 99.02 Transfusion of previously collected autologous blood {#99-02}
 
 - Blood component
 
 #### 99.03 Other transfusion of whole blood {#99-03}
 
-- Transf usion:
+- Transfusion:
 - blood NOS
 - hemodilution
 - NOS
 
-#### 99.04 Transf usion of packed cells {#99-04}
+#### 99.04 Transfusion of packed cells {#99-04}
 
-#### 99.05 Transf usion of platelets {#99-05}
+#### 99.05 Transfusion of platelets {#99-05}
 
-- Transf usion of thrombocytes
+- Transfusion of thrombocytes
 
-#### 99.06 Transf usion of coagulation f actors {#99-06}
+#### 99.06 Transfusion of coagulation factors {#99-06}
 
-- Transf usion of antihemophilic f actor
+- Transfusion of antihemophilic factor
 
-#### 99.07 Transf usion of other serum {#99-07}
+#### 99.07 Transfusion of other serum {#99-07}
 
-- Transf usion of plasma
+- Transfusion of plasma
 - _Excludes:_ injection [transfusion] of:
   - antivenin ([99.16](#99-16))
   - gamma globulin ([99.14](#99-14))
 
-#### 99.08 Transf usion of blood expander {#99-08}
+#### 99.08 Transfusion of blood expander {#99-08}
 
-- Transf usion of Dextran
+- Transfusion of Dextran
 
-#### 99.09 Transf usion of other substance {#99-09}
+#### 99.09 Transfusion of other substance {#99-09}
 
-- Transf usion of :
+- Transfusion of :
 - blood surrogate
 - granulocytes
 - _Excludes:_ transplantation [transfusion] of bone marrow ([41.0](#41-0))
 
-### 99.1 Injection or inf usion of therapeutic or prophylactic substance {#99-1}
+### 99.1 Injection or infusion of therapeutic or prophylactic substance {#99-1}
 
 - _Includes:_ injection or infusion given:
   - hypodermically acting locally or systemically intramuscularly acting locally or systemically
   - intravenously acting locally or systemically
 
-#### 99.10 Injection or inf usion of thrombolytic agent {#99-10}
+#### 99.10 Injection or infusion of thrombolytic agent {#99-10}
 
 - Alteplase
 - Anistreplase
@@ -3390,7 +3390,7 @@ The following fourth-digit subclassification is for use with categories in secti
   - GP IIB/IIIa plalet inhibitor ([99.20](#99-20))
   - heparin ([99.19](#99-19))
   - SuperSaturated oxygen therapy ([00.49](../chapter-0/index.md#00-49))
-  - warf arin - omit code
+  - warfarin - omit code
 
 #### 99.11 Injection of Rh immune globulin {#99-11}
 
@@ -3398,16 +3398,16 @@ The following fourth-digit subclassification is for use with categories in secti
 - Anti-D (Rhesus) globulin
 - RhoGAM
 
-#### 99.12 Immunization f or allergy {#99-12}
+#### 99.12 Immunization for allergy {#99-12}
 
 - Desensitization
 
-#### 99.13 Immunization f or autoimmune disease {#99-13}
+#### 99.13 Immunization for autoimmune disease {#99-13}
 
-#### 99.14 Injection or inf usion of immunoglobulin {#99-14}
+#### 99.14 Injection or infusion of immunoglobulin {#99-14}
 
 - Injection of immune sera
-- Injection or inf usion of gamma globulin
+- Injection or infusion of gamma globulin
 
 #### 99.15 Parenteral infusion of concentrated nutritional substances {#99-15}
 
@@ -3423,19 +3423,19 @@ The following fourth-digit subclassification is for use with categories in secti
 
 #### 99.17 Injection of insulin {#99-17}
 
-#### 99.18 Injection or inf usion of electrolytes {#99-18}
+#### 99.18 Injection or infusion of electrolytes {#99-18}
 
 #### 99.19 Injection of anticoagulant {#99-19}
 
 - _Excludes:_ infusion of drotrecogin alfa (activated)([00.11](../chapter-0/index.md#00-11))
 
-### 99.2 Injection or inf usion of other therapeutic or prophylactic substance {#99-2}
+### 99.2 Injection or infusion of other therapeutic or prophylactic substance {#99-2}
 
 - _Includes:_ injection or infusion given:
   - hypodermically acting locally or systemically
   - intramuscularly acting locally or systemically
   - intravenously acting locally or systemically
-  - Code also f or:
+  - Code also for:
   - injection (into):
   - breast ([85.92](../chapter-15/index.md#85-92))
   - bursa ([82.94](#82-94), [83.96](#83-96))
@@ -3454,7 +3454,7 @@ The following fourth-digit subclassification is for use with categories in secti
   - total body ([39.96](../chapter-7/index.md#39-96))
 - _Excludes:_ SuperSaturated oxygen therapy ([00.49](../chapter-0/index.md#00-49))
 
-#### 99.20 Injection or inf usion of platelet inhibitor {#99-20}
+#### 99.20 Injection or infusion of platelet inhibitor {#99-20}
 
 - Glycoprotein IIB/IIIa inhibitor
 - GP IIB/IIIa inhibitor
@@ -3477,14 +3477,14 @@ The following fourth-digit subclassification is for use with categories in secti
 
 #### 99.24 Injection of other hormone {#99-24}
 
-#### 99.25 Injection or inf usion of cancer chemotherapeutic substance {#99-25}
+#### 99.25 Injection or infusion of cancer chemotherapeutic substance {#99-25}
 
 - Chemoembolization
-- Injection or inf usion of antineoplastic agent
+- Injection or infusion of antineoplastic agent
 
 ##### 99.250 Transarterial Chemoembolization (TACE) (IM)
 
-- Use additional code: f or disruption of blood brain barrier, if perf ormed [BBBD] ([00.19](../chapter-0/index.md#00-19))
+- Use additional code: for disruption of blood brain barrier, if performed [BBBD] ([00.19](../chapter-0/index.md#00-19))
 - _Excludes:_ immunotherapy, antineoplastic ([00.15](#00-15), [99.28](#99-28))
   - implantation of chemotherapeutic agent ([00.10](../chapter-0/index.md#00-10))
   - injection of radioisotope ([92.28](#92-28))
@@ -3496,16 +3496,16 @@ The following fourth-digit subclassification is for use with categories in secti
 
 #### 99.27 Iontophoresis {#99-27}
 
-#### 99.28 Injection or inf usion of biological response modif ier [BRM] as an antineoplastic agent {#99-28}
+#### 99.28 Injection or infusion of biological response modifier [BRM] as an antineoplastic agent {#99-28}
 
 - Immunotherapy, antineoplastic
-- Inf usion of cintredekin besudotox
+- Infusion of cintredekin besudotox
 - Interleukin therapy
 - Low-dose interleukin-2 (IL-2) therapy
 - Tumor vaccine
 - _Excludes:_ high-dose infusion interleukin-2 [IL-2] ([00.15](../chapter-0/index.md#00-15))
 
-#### 99.29 Injection or inf usion of other therapeutic or prophylactic substance {#99-29}
+#### 99.29 Injection or infusion of other therapeutic or prophylactic substance {#99-29}
 
 - _Includes:_ Therapeutic intravesical injection
 - _Excludes:_ administration of neuroprotective agent ([99.75](#99-75))
@@ -3594,7 +3594,7 @@ The following fourth-digit subclassification is for use with categories in secti
 - Vaccination against:
 - anthrax
 - brucellosis
-- Rocky Mountain spotted f ever
+- Rocky Mountain spotted fever
 - Staphylococcus
 - Streptococcus
 - typhus
@@ -3626,7 +3626,7 @@ The following fourth-digit subclassification is for use with categories in secti
   - electric stimulation ([37.91](../chapter-7/index.md#37-91))
   - massage ([37.91](../chapter-7/index.md#37-91))
 
-#### 99.60 Cardiopulmonary resuscitation, not otherwise specif ied {#99-60}
+#### 99.60 Cardiopulmonary resuscitation, not otherwise specified {#99-60}
 
 #### 99.61 Atrial cardioversion {#99-61}
 
@@ -3649,7 +3649,7 @@ The following fourth-digit subclassification is for use with categories in secti
 
 #### 99.69 Other conversion of cardiac rhythm {#99-69}
 
-### 99.7 Therapeutic apheresis or other injection, administration, or inf usion of other therapeutic or {#99-7}
+### 99.7 Therapeutic apheresis or other injection, administration, or infusion of other therapeutic or {#99-7}
 
 - prophylactic substance
 
@@ -3673,7 +3673,7 @@ The following fourth-digit subclassification is for use with categories in secti
 
 #### 99.76 Extracorporeal immunoadsorption {#99-76}
 
-- Removal of antibodies f rom plasma with protein A columns
+- Removal of antibodies from plasma with protein A columns
 
 #### 99.77 Application or administration of adhesion barrier substance {#99-77}
 
@@ -3709,11 +3709,11 @@ The following fourth-digit subclassification is for use with categories in secti
 
 #### 99.84 Isolation {#99-84}
 
-- Isolation af ter contact with inf ectious disease
+- Isolation after contact with infectious disease
 - Protection of individual from his surroundings
 - Protection of surroundings from individual
 
-#### 99.85 Hyperthermia f or treatment of cancer {#99-85}
+#### 99.85 Hyperthermia for treatment of cancer {#99-85}
 
 - Hyperthermia (adjunct therapy) induced by microwave, ultrasound, low energy radio
 - frequency, probes (interstitial), or other means in the treatment of cancer
@@ -3721,7 +3721,7 @@ The following fourth-digit subclassification is for use with categories in secti
 
 #### 99.86 Non-invasive placement of bone growth stimulator {#99-86}
 
-- Transcutaneous (surf ace) placement of pads or patches f or stimulation to aid bone
+- Transcutaneous (surface) placement of pads or patches for stimulation to aid bone
 - healing
 - _Excludes:_ insertion of invasive or semi invasive bone growth stimulators (device) (percutaneous
   - electrodes) ([78.90-78.99](../chapter-14/index.md#78-90))
@@ -3747,7 +3747,7 @@ The following fourth-digit subclassification is for use with categories in secti
 
 #### 99.95 Stretching of foreskin {#99-95}
 
-#### 99.96 Collection of sperm f or artif icial insemination {#99-96}
+#### 99.96 Collection of sperm for artificial insemination {#99-96}
 
 ##### 99.960 Microsurgical testicular sperm extraction (micro-TESE) (IM)
 

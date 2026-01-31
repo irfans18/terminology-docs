@@ -51,7 +51,7 @@
 #### 17.45 Thoracoscopic robotic assisted procedure {#17-45}
   - Robotic assistance in thoracoscopic procedure
 #### 17.49 Other and unspecified robotic assisted procedure {#17-49}
-  - Robotic assistance in other and unspecif ied procedure
+  - Robotic assistance in other and unspecified procedure
   - *Excludes:* endoscopic robotic assisted procedure ([17.44](#17-44))
     - laparoscopic robotic assisted procedure ([17.42](#17-42))
     - open robotic assisted procedure ([17.41](#17-41))
@@ -61,7 +61,7 @@
 
 #### 17.51 Implantation of  rechargeable cardiac contractility modulation [CCM], total system {#17-51}
   - Note:  Device testing during procedure - omit code
-  - Implantation of  CCM system includes f ormation of  pocket, transvenous leads,
+  - Implantation of  CCM system includes formation of  pocket, transvenous leads,
   - including placement of leads, placement of catheter into left ventricle, intraoperative
   - procedures for evaluation of lead signals, obtaining sensing threshold
   - measurements,
@@ -113,7 +113,7 @@
     - laser interstitial thermal therapy [LITT] of lesion or tissue of liver under guidance ([17.63](#17-63))
 ### 17.7 Other diagnostic and therapeutic procedures {#17-7}
 
-#### 17.70 Intravenous inf usion of  clof arabine {#17-70}
+#### 17.70 Intravenous infusion of  clof arabine {#17-70}
   - *Excludes:* injection or infusion of cancer chemotherapeutic substance ([99.25](../chapter-16/index.md#99-25))
 #### 17.71 Non-coronary intra-operative fluorescence vascular angiography [IFVA] {#17-71}
   - Intraoperative laser arteriogram
