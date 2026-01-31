@@ -22,7 +22,7 @@
 - Key-in-lock rotation
 - Kielland rotation
 - Scanzoni's maneuver
-- Code also any associated f orceps extraction (72.0-72.39)
+- Code also any associated f orceps extraction ([72.0](#72-0)-[72.39](#72-39))
 ### 72.5 Breech extraction {#72-5}
 
 #### 72.51 Partial breech extraction with forceps to aftercoming head {#72-51}
@@ -55,7 +55,7 @@
 ### 73.1 Other surgical induction of labor {#73-1}
 
 - Induction by cervical dilation
-  - *Excludes:* injection for abortion (75.0)
+  - *Excludes:* injection for abortion ([75.0](#75-0))
     - insertion of suppository for abortion ([96.49](../chapter-16/index.md#96-49))
 ### 73.2 Internal and combined version and extraction {#73-2}
 
@@ -81,9 +81,9 @@
 - Episiotomy with subsequent episiorrhaphy
   - *Excludes:* that with:
     - high forceps ([72.31](#72-31))
-    - low forceps (72.1)
+    - low forceps ([72.1](#72-1))
     - mid forceps ([72.21](#72-21))
-    - outlet forceps (72.1)
+    - outlet forceps ([72.1](#72-1))
     - vacuum extraction ([72.71](#72-71))
 ### 73.8 Operations on fetus to facilitate delivery {#73-8}
 
@@ -99,15 +99,15 @@
 #### 73.94 Pubiotomy to assist delivery {#73-94}
   - Obstetrical symphysiotomy
 #### 73.99 Other {#73-99}
-  - *Excludes:* dilation of cervix, obstetrical to induce labor (73.1)
-    - insertion of bag or bougie to induce labor (73.1)
+  - *Excludes:* dilation of cervix, obstetrical to induce labor ([73.1](#73-1))
+    - insertion of bag or bougie to induce labor ([73.1](#73-1))
     - removal of cerclage material ([69.96](../chapter-12/index.md#69-96))
 ## 74 Cesarean section and removal of  f etus {#74}
 
 - Code also any synchronous:
-- hysterectomy (68.3-68.4, 68.6, 68.8)
+- hysterectomy ([68.3](#68-3)-[68.4](#68-4), [68.6](#68-6), [68.8](#68-8))
 - myomectomy ([68.29](../chapter-12/index.md#68-29))
-- sterilization (66.31-66.39, 66.63)
+- sterilization ([66.31](#66-31)-[66.39](#66-39), [66.63](#66-63))
 ### 74.0 Classical cesarean section {#74-0}
 
 - Transperitoneal classical cesarean section
@@ -153,10 +153,10 @@
 
 - Exchange transfusion in utero
 - Insertion of  catheter into abdomen of  f etus f or transf usion
-- Code also any hysterotomy approach (68.0)
+- Code also any hysterotomy approach ([68.0](#68-0))
 ### 75.3 Other intrauterine operations on fetus and amnion {#75-3}
 
-- Code also any hysterotomy approach (68.0)
+- Code also any hysterotomy approach ([68.0](#68-0))
 #### 75.31 Amnioscopy {#75-31}
   - Fetoscopy
   - Laparoamnioscopy
@@ -168,8 +168,8 @@
   - *Excludes:* fetal pulse oximetry ([75.38](#75-38))
 #### 75.35 Other diagnostic procedures on fetus and amnion {#75-35}
   - Intrauterine pressure determination
-  - *Excludes:* amniocentesis (75.1)
-    - diagnostic procedures on gravid uterus and placenta (87.81, 88.46, 88.78, 92.17)
+  - *Excludes:* amniocentesis ([75.1](#75-1))
+    - diagnostic procedures on gravid uterus and placenta ([87.81](#87-81), [88.46](#88-46), [88.78](#88-78), [92.17](#92-17))
 #### 75.36 Correction of  f etal def ect {#75-36}
 #### 75.37 Amnioinfusion {#75-37}
   - Code also injection of  antibiotic ([99.21](../chapter-16/index.md#99-21))
@@ -187,7 +187,7 @@
 #### 75.52 Repair of  current obstetric laceration of  corpus uteri {#75-52}
 ### 75.6 Repair of  other current obstetric laceration {#75-6}
 
-- Code also episiotomy, if  perf ormed (73.6)
+- Code also episiotomy, if  perf ormed ([73.6](#73-6))
 #### 75.61 Repair of  current obstetric laceration of  bladder and urethra {#75-61}
 #### 75.62 Repair of  current obstetric laceration of  rectum and sphincter ani {#75-62}
 #### 75.69 Repair of  other current obstetric laceration {#75-69}
@@ -202,7 +202,7 @@
 
 ### 75.8 Obstetric tamponade of uterus or vagina {#75-8}
 
-  - *Excludes:* antepartum tamponade (73.1)
+  - *Excludes:* antepartum tamponade ([73.1](#73-1))
 ### 75.9 Other obstetric operations {#75-9}
 
 #### 75.91 Evacuation of obstetrical incisional hematoma of perineum {#75-91}

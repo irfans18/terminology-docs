@@ -109,8 +109,8 @@
 #### 66.18 Laparoscopy, other diagnostic procedures on fallopian tubes (IM) {#66-18}
 #### 66.19 Other diagnostic procedures on fallopian tubes {#66-19}
   - *Excludes:* microscopic examination of specimen from fallopian tubes ([91.41-91.49](../chapter-16/index.md#91-41))
-    - radiography of fallopian tubes (87.82-87.83, 87.85)
-    - Rubin's test (66.8)
+    - radiography of fallopian tubes ([87.82](#87-82)-[87.83](#87-83), [87.85](#87-85))
+    - Rubin's test ([66.8](#66-8))
 ### 66.2 Bilateral endoscopic destruction or occlusion of fallopian tubes {#66-2}
 
   - *Includes:* bilateral endoscopic destruction or occlusion of fallopian tubes by:
@@ -155,7 +155,7 @@
 #### 66.61 Excision or destruction of lesion of fallopian tube {#66-61}
   - *Excludes:* biopsy of fallopian tube ([66.11](#66-11))
 #### 66.62 Salpingectomy with removal of tubal pregnancy {#66-62}
-  - Code also any synchronous oophorectomy (65.31, 65.39)
+  - Code also any synchronous oophorectomy ([65.31](#65-31), [65.39](#65-39))
 #### 66.63 Bilateral partial salpingectomy, not otherwise specified {#66-63}
 #### 66.68 Laparoscopy, other partial salpingectomy (IM) {#66-68}
 #### 66.69 Other partial salpingectomy {#66-69}
@@ -199,14 +199,14 @@
 ### 67.0 Dilation of cervical canal {#67-0}
 
   - *Excludes:* dilation and curettage ([69.01-69.09](#69-01))
-    - that for induction of labor (73.1)
+    - that for induction of labor ([73.1](#73-1))
 ### 67.1 Diagnostic procedures on cervix {#67-1}
 
 #### 67.11 Endocervical biopsy {#67-11}
-  - *Excludes:* conization of cervix (67.2)
+  - *Excludes:* conization of cervix ([67.2](#67-2))
 #### 67.12 Other cervical biopsy {#67-12}
   - Punch biopsy of cervix NOS
-  - *Excludes:* conization of cervix (67.2)
+  - *Excludes:* conization of cervix ([67.2](#67-2))
 #### 67.19 Other diagnostic procedures on cervix {#67-19}
   - *Excludes:* microscopic examination of specimen from cervix ([91.41-91.49](../chapter-16/index.md#91-41))
 ### 67.2 Conization of  cervix {#67-2}
@@ -226,7 +226,7 @@
 #### 67.39 Other excision or destruction of lesion or tissue of cervix {#67-39}
   - *Excludes:* biopsy of cervix ([67.11-67.12](#67-11))
     - cervical fistulectomy ([67.62](#67-62))
-    - conization of cervix (67.2)
+    - conization of cervix ([67.2](#67-2))
 ### 67.4 Amputation of cervix {#67-4}
 
 - Cervicectomy with synchronous colporrhaphy
@@ -263,7 +263,7 @@
 
 #### 68.11 Digital examination of uterus {#68-11}
   - *Excludes:* pelvic examination, so describe ([89.26](../chapter-16/index.md#89-26))
-    - postpartal manual exploration o uterine cavity (75.7)
+    - postpartal manual exploration o uterine cavity ([75.7](#75-7))
 #### 68.12 Hysteroscopy {#68-12}
   - *Excludes:* that with biopsy ([68.16](#68-16))
 #### 68.13 Open biopsy of uterus {#68-13}
@@ -296,7 +296,7 @@
   - Hysteroscopic endometrial ablation
 #### 68.29 Other excision or destruction of lesion of uterus {#68-29}
   - Uterine myomectomy
-  - *Excludes:* biopsy of uterus (68.13, 68.16)
+  - *Excludes:* biopsy of uterus ([68.13](#68-13), [68.16](#68-16))
     - uterine fistulectomy ([69.42](#69-42))
 ### 68.3 Subtotal abdominal hysterectomy {#68-3}
 
@@ -326,13 +326,13 @@
 #### 68.51 Laparoscopically assisted vaginal hysterectomy (LAVH) {#68-51}
 #### 68.59 Other and unspecified vaginal hysterectomy {#68-59}
   - *Excludes:* laparoscopically assisted vaginal hysterectomy (LAVH) ([68.51](#68-51))
-    - radical vaginal hysterectomy (68.7)
+    - radical vaginal hysterectomy ([68.7](#68-7))
 ### 68.6 Radical abdominal hysterectomy {#68-6}
 
 - Code also any synchronous:
-- lymph gland dissection (40.3, 40.5)
+- lymph gland dissection ([40.3](#40-3), [40.5](#40-5))
 - removal of tubes and ovaries ([65.31-65.64](#65-31))
-  - *Excludes:* pelvic evisceration (68.8)
+  - *Excludes:* pelvic evisceration ([68.8](#68-8))
 #### 68.61 Laparoscopic radical abdominal hysterectomy {#68-61}
   - Laparoscopic modified radical hysterectomy
   - Total laparoscopic radical hysterectomy [TLRH]
@@ -344,9 +344,9 @@
 ### 68.7 Radical vaginal hysterectomy {#68-7}
 
 - Code also any synchronous:
-- lymph gland dissection (40.3, 40.5)
+- lymph gland dissection ([40.3](#40-3), [40.5](#40-5))
 - removal of tubes and ovaries ([65.31-65.64](#65-31))
-  - *Excludes:* abdominal hysterectomy, any approach (68.31-68.39, 68.41-68.49, 68.61-68.69, 68.9)
+  - *Excludes:* abdominal hysterectomy, any approach ([68.31](#68-31)-[68.39](#68-39), [68.41](#68-41)-[68.49](#68-49), [68.61](#68-61)-[68.69](#68-69), [68.9](#68-9))
 #### 68.71 Laparoscopic radical vaginal hysterectomy [LRVH] {#68-71}
 #### 68.79 Other and unspecified radical vaginal hysterectomy {#68-79}
   - Hysterocolpectomy
@@ -357,13 +357,13 @@
 - and rectum)
 - Code also any synchronous:
 - colostomy ([46.12-46.13](../chapter-9/index.md#46-12))
-- lymph gland dissection (40.3, 40.5)
+- lymph gland dissection ([40.3](#40-3), [40.5](#40-5))
 - urinary diversion ([56.51-56.79](../chapter-10/index.md#56-51))
 ### 68.9 Other and unspecified hysterectomy {#68-9}
 
 - Hysterectomy, NOS
-  - *Excludes:* abdominal hysterectomy, any approach (68.31-68.39, 68.41-68.49, 68.61-68.69)
-    - vaginal hysterectomy, any approach (68.51-68.59, 68.71-68.79)
+  - *Excludes:* abdominal hysterectomy, any approach ([68.31](#68-31)-[68.39](#68-39), [68.41](#68-41)-[68.49](#68-49), [68.61](#68-61)-[68.69](#68-69))
+    - vaginal hysterectomy, any approach ([68.51](#68-51)-[68.59](#68-59), [68.71](#68-71)-[68.79](#68-79))
 ## 69 Other operations on uterus and supporting structures {#69}
 
 - Code also any application or administration of  an adhesion barrier substance ([99.77](../chapter-16/index.md#99-77))
@@ -401,7 +401,7 @@
   - Repair of  old obstetric laceration of  uterus
 ### 69.5 Aspiration curettage of uterus {#69-5}
 
-  - *Excludes:* menstrual extraction (69.6)
+  - *Excludes:* menstrual extraction ([69.6](#69-6))
 #### 69.51 Aspiration curettage of uterus for termination of pregnancy {#69-51}
   - Therapeutic abortion NOS
 #### 69.52 Aspiration curettage following delivery or abortion {#69-52}
@@ -412,13 +412,13 @@
 
 ### 69.9 Other operations on uterus, cervix, and supporting structures {#69-9}
 
-  - *Excludes:* obstetric dilation or incision of cervix (73.1, 73.93)
+  - *Excludes:* obstetric dilation or incision of cervix ([73.1](#73-1), [73.93](#73-93))
 #### 69.90 Uterine compression suture (B-Lynch) (IM) {#69-90}
 #### 69.91 Insertion of  therapeutic device into uterus {#69-91}
   - *Excludes:* insertion of:
-    - intrauterine contraceptive device (69.7)
+    - intrauterine contraceptive device ([69.7](#69-7))
     - laminaria ([69.93](#69-93))
-    - obstetric insertion of bag, bougie, or pack (73.1)
+    - obstetric insertion of bag, bougie, or pack ([73.1](#73-1))
 #### 69.92 Artificial insemination {#69-92}
 #### 69.93 Insertion of  laminaria {#69-93}
 #### 69.94 Manual replacement of inverted uterus {#69-94}
@@ -468,7 +468,7 @@
 ### 70.4 Obliteration and total excision of vagina {#70-4}
 
 - Vaginectomy
-  - *Excludes:* obliteration of vaginal vault (70.8)
+  - *Excludes:* obliteration of vaginal vault ([70.8](#70-8))
 ### 70.5 Repair of  cystocele and rectocele {#70-5}
 
 #### 70.50 Repair of  cystocele and rectocele {#70-50}
@@ -504,7 +504,7 @@
 
   - *Excludes:* lysis of intraluminal adhesions ([70.13](#70-13))
     - repair of current obstetric laceration ([75.69](../chapter-13/index.md#75-69))
-    - that associated with cervical amputation  (67.4)
+    - that associated with cervical amputation  ([67.4](#67-4))
 #### 70.70 Laparoscopic reconstructive surgery of pelvic floor (IM) {#70-70}
 #### 70.71 Suture of laceration of vagina {#70-71}
 #### 70.72 Repair of  colovaginal f istula {#70-72}
@@ -613,7 +613,7 @@
 - Female circumcision
 ### 71.5 Radical vulvectomy {#71-5}
 
-- Code also any synchronous lymph gland dissection (40.3, 40.5)
+- Code also any synchronous lymph gland dissection ([40.3](#40-3), [40.5](#40-5))
 ### 71.6 Other vulvectomy {#71-6}
 
 #### 71.61 Unilateral vulvectomy {#71-61}

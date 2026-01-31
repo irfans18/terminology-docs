@@ -86,7 +86,7 @@
 #### 85.48 Bilateral extended radical mastectomy {#85-48}
 ### 85.5 Augmentation mammoplasty {#85-5}
 
-  - *Excludes:* that associated with subcutaneous mammectomy (85.33, 85.35)
+  - *Excludes:* that associated with subcutaneous mammectomy ([85.33](#85-33), [85.35](#85-35))
 #### 85.50 Augmentation mammoplasty, not otherwise specified {#85-50}
 #### 85.51 Unilateral injection into breast f or augmentation {#85-51}
   - *Excludes:* injection of fat graft of breast ([85.55](#85-55))
@@ -138,7 +138,7 @@
 
   - *Excludes:* that for:
     - augmentation ([85.50-85.54](#85-50))
-    - reconstruction (85.70-85.76, 85.79)
+    - reconstruction ([85.70](#85-70)-[85.76](#85-76), [85.79](#85-79))
     - reduction ([85.31-85.32](#85-31))
 #### 85.81 Suture of laceration of breast {#85-81}
 #### 85.82 Split-thickness graft to breast {#85-82}
@@ -153,7 +153,7 @@
 #### 85.91 Aspiration of breast {#85-91}
   - *Excludes:* percutaneous biopsy of breast ([85.11](#85-11))
 #### 85.92 Injection of  therapeutic agent into breast {#85-92}
-  - *Excludes:* that for augmentation of breast (85.51-85.52, 85.55)
+  - *Excludes:* that for augmentation of breast ([85.51](#85-51)-[85.52](#85-52), [85.55](#85-55))
 #### 85.93 Revision of  implant of  breast {#85-93}
 #### 85.94 Removal of  implant of  breast {#85-94}
 #### 85.95 Insertion of  breast tissue expander {#85-95}
@@ -173,16 +173,16 @@
     - superficial fossae
   - *Excludes:* those on skin of:
     - anus ([49.01-49.99](../chapter-9/index.md#49-01))
-    - breast (mastectomy site) (85.0-85.99)
-    - ear (18.01-18.9)
+    - breast (mastectomy site) ([85.0](#85-0)-[85.99](#85-99))
+    - ear ([18.01](#18-01)-[18.9](#18-9))
     - eyebrow ([08.01-08.99](../chapter-3/index.md#08-01))
     - eyelid ([08.01-08.99](../chapter-3/index.md#08-01))
     - female perineum (71.01- 71.9)
-    - lips (27.0-27.99)
+    - lips ([27.0](#27-0)-[27.99](#27-99))
     - nose ([21.00-21.99](../chapter-5/index.md#21-00))
-    - penis (64.0-64.99)
-    - scrotum (61.0-61.99)
-    - vulva (71.01-71.9)
+    - penis ([64.0](#64-0)-[64.99](#64-99))
+    - scrotum ([61.0](#61-0)-[61.99](#61-99))
+    - vulva ([71.01](#71-01)-[71.9](#71-9))
 ### 86.0 Incision of  skin and subcutaneous tissue {#86-0}
 
 #### 86.01 Aspiration of skin and subcutaneous tissue {#86-01}
@@ -198,7 +198,7 @@
   - *Excludes:* marsupialization ([86.21](#86-21))
 #### 86.04 Other incision with drainage of skin and subcutaneous tissue {#86-04}
   - *Excludes:* drainage of:
-    - fascial compartments of face and mouth (27.0)
+    - fascial compartments of face and mouth ([27.0](#27-0))
     - palmar or thenar spac ([82.04](../chapter-14/index.md#82-04))
     - pilonidal sinus or cys ([86.03](#86-03))
 #### 86.05 Incision with removal of  f oreign body or device f rom skin and subcutaneous tissue {#86-05}
@@ -232,7 +232,7 @@
     - that for drainage ([86.04](#86-04))
     - that of:
     - cardiac pacemaker pocket, new site ([37.79](../chapter-7/index.md#37-79))
-    - fascial compartments of face and mouth (27.0)
+    - fascial compartments of face and mouth ([27.0](#27-0))
     - 86.090 Frozen Section (Potong Beku) (IM)
 ### 86.1 Diagnostic procedures on skin and subcutaneous tissue {#86-1}
 
@@ -252,7 +252,7 @@
   - necrosis
   - slough
   - *Excludes:* debridement of:
-    - abdominal wall (wound) (54.3)
+    - abdominal wall (wound) ([54.3](#54-3))
     - bone ([77.60-77.69](../chapter-14/index.md#77-60))
     - muscle ([83.45](../chapter-14/index.md#83-45))
     - of hand ([82.36](../chapter-14/index.md#82-36))
@@ -293,12 +293,12 @@
 - 86.631 Small split skin graft of genitals (IM)
   - *Excludes:* adipectomy ([86.83](#86-83))
     - biopsy of skin ([86.11](#86-11))
-    - wide or radical excision of  skin (86.4)
+    - wide or radical excision of  skin ([86.4](#86-4))
     - Z-plasty without excision ([86.84](#86-84))
 ### 86.4 Radical excision of  skin lesion {#86-4}
 
 - Wide excision of skin lesion involving underlying or adjacent structure
-- Code also any lymph node dissection (40.3-40.5)
+- Code also any lymph node dissection ([40.3](#40-3)-[40.5](#40-5))
 ### 86.5 Suture or other closure of skin and subcutaneous tissue {#86-5}
 
 #### 86.51 Replantation of  scalp {#86-51}
@@ -358,11 +358,11 @@
   - Partial cutting of pedicle or tube
   - Pedicle delay
   - 86.710 Tongue f lap (IM)
-  - *Excludes:* pollicization or digita transfer (82.61, 82.81)
+  - *Excludes:* pollicization or digita transfer ([82.61](#82-61), [82.81](#82-81))
     - revision of pedicle ([86.75](#86-75))
 #### 86.72 Advancement of pedicle graft {#86-72}
 #### 86.73 Attachment of pedicle or flap graft to hand {#86-73}
-  - *Excludes:* pollicization or digita transfer (82.61, 82.81)
+  - *Excludes:* pollicization or digita transfer ([82.61](#82-61), [82.81](#82-81))
 #### 86.74 Attachment of pedicle or flap graft to other sites {#86-74}
   - Attachment by:
   - advanced flap
@@ -395,7 +395,7 @@
     - liposuction to harvest fat graft ([86.90](#86-90))
 #### 86.84 Relaxation of  scar or web contracture of  skin {#86-84}
   - Z-plasty of skin
-  - *Excludes:* Z-plasty with excision of lesio (86.3)
+  - *Excludes:* Z-plasty with excision of lesio ([86.3](#86-3))
 #### 86.85 Correction of  syndactyly {#86-85}
 #### 86.86 Onychoplasty {#86-86}
 #### 86.87 Fat graft of skin and subcutaneous tissue {#86-87}
@@ -412,7 +412,7 @@
 #### 86.90 Extraction of fat for graft or banking {#86-90}
   - Harvest of  f at f or extraction of  cells f or f uture use
   - Liposuction to harvest fat graft
-  - *Excludes:* that with graft at same operative episode (85.55, 86.87)
+  - *Excludes:* that with graft at same operative episode ([85.55](#85-55), [86.87](#86-87))
 #### 86.91 Excision of skin for graft {#86-91}
   - Excision of skin with closure of donor site
   - *Excludes:* that with graft at sam operative episode ([86.60-86.69](#86-60))
@@ -428,7 +428,7 @@
   - rechargeable
   - Pulse generator (single array, single channel) for intracranial, spinal, and peripheral
   - neurostimulator
-  - Code also any associated lead implantation (02.93, 03.93, 04.92)
+  - Code also any associated lead implantation ([02.93](#02-93), [03.93](#03-93), [04.92](#04-92))
   - *Excludes:* cranial implantation or replacement of neurostimulator pulse generator ([01.20](../chapter-1/index.md#01-20))
     - insertion or replacement of single array rechargeable neurostimulator pulse generator
     - ([86.97](#86-97))
@@ -436,24 +436,24 @@
   - rechargeable
   - Pulse generator (dual array, dual channel) for intracranial, spinal, and peripheral
   - neurostimulator
-  - Code also any associated lead implantation (02.93, 03.93, 04.92)
+  - Code also any associated lead implantation ([02.93](#02-93), [03.93](#03-93), [04.92](#04-92))
   - *Excludes:* cranial implantation or replacement of neurostimulator pulse generator ([01.20](../chapter-1/index.md#01-20))
     - insertion or replacement of dual array rechargeable neurostimulator pulse generator
     - ([86.98](#86-98))
 #### 86.96 Insertion or replacement of  other neurostimulator pulse generator {#86-96}
-  - Code also any associated lead implantation (02.93, 03.93, 04.92)
+  - Code also any associated lead implantation ([02.93](#02-93), [03.93](#03-93), [04.92](#04-92))
   - *Excludes:* cranial implantation or replacement of neurostimulator pulse generator ([01.20](../chapter-1/index.md#01-20))
-    - insertion of dual array neurostimulator pulse generator (86.95, 86.98)
-    - insertion of single array neurostimulator pulse generator  (86.94, 86.97)
+    - insertion of dual array neurostimulator pulse generator ([86.95](#86-95), [86.98](#86-98))
+    - insertion of single array neurostimulator pulse generator  ([86.94](#86-94), [86.97](#86-97))
 #### 86.97 Insertion or replacement of  single array rechargeable neurostimulator pulse generator {#86-97}
   - Rechargeable pulse generator (single array, single channel) f or intracranial, spinal, and
   - peripheral neurostimulator
-  - Code also any associated lead implantation (02.93, 03.93, 04.92)
+  - Code also any associated lead implantation ([02.93](#02-93), [03.93](#03-93), [04.92](#04-92))
   - *Excludes:* cranial implantation or replacement of neurostimulator pulse generator ([01.20](../chapter-1/index.md#01-20))
 #### 86.98 Insertion or replacement of  dual array rechargeable neurostimulator pulse generator {#86-98}
   - Rechargeable pulse generator (dual array, dual channel) f or intracranial, spinal, and
   - peripheral neurostimulator
-  - Code also any associated lead implantation (02.93, 03.93, 04.92)
+  - Code also any associated lead implantation ([02.93](#02-93), [03.93](#03-93), [04.92](#04-92))
   - *Excludes:* cranial implantation or replacement of neurostimulator pulse generator ([01.20](../chapter-1/index.md#01-20))
 #### 86.99 Other {#86-99}
   - *Excludes:* removal of sutures from:

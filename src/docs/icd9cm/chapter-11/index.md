@@ -50,11 +50,11 @@
 
 - Transvesical prostatectomy
   - *Excludes:* local excision of lesion of prostate ([60.61](#60-61))
-    - radical prostatectomy (60.5)
+    - radical prostatectomy ([60.5](#60-5))
 ### 60.4 Retropubic prostatectomy {#60-4}
 
   - *Excludes:* local excision of lesion of prostate ([60.61](#60-61))
-    - radical prostatectomy (60.5)
+    - radical prostatectomy ([60.5](#60-5))
 ### 60.5 Radical prostatectomy {#60-5}
 
 - Prostatovesiculectomy
@@ -84,7 +84,7 @@
   - Excision of Müllerian duct cyst
   - Spermatocystectomy
   - *Excludes:* biopsy of seminal vesicle ([60.13-60.14](#60-13))
-    - prostatovesiculectomy (60.5)
+    - prostatovesiculectomy ([60.5](#60-5))
 #### 60.79 Other operations on seminal vesicles {#60-79}
 ### 60.8 Incision or excision of  periprostatic tissue {#60-8}
 
@@ -107,18 +107,18 @@
   - Transurethral microwave thermotherapy (TUMT) of  prostate
   - *Excludes:* Prostatectomy:
     - other ([60.61-60.69](#60-61))
-    - radical (60.5)
-    - retropubic  (60.4)
-    - suprapubic (60.3)
+    - radical ([60.5](#60-5))
+    - retropubic  ([60.4](#60-4))
+    - suprapubic ([60.3](#60-3))
     - transurethral ([60.21-60.29](#60-21))
 #### 60.97 Other transurethral destruction of prostate tissue by other thermotherapy {#60-97}
   - Radiof requency thermotherapy
   - Transurethral needle ablation (TUNA) of  prostate (IM) to 60.22
   - *Excludes:* Prostatectomy:
     - other ([60.61-60.69](#60-61))
-    - radical  (60.5)
-    - retropubic (60.4)
-    - suprapubic (60.3)
+    - radical  ([60.5](#60-5))
+    - retropubic ([60.4](#60-4))
+    - suprapubic ([60.3](#60-3))
     - transurethral ([60.21-60.29](#60-21))
 #### 60.99 Other {#60-99}
   - *Excludes:* prostatic massage ([99.94](../chapter-16/index.md#99-94))
@@ -180,7 +180,7 @@
 
 - Male castration
 - Radical bilateral orchiectomy (with epididymectomy)
-- Code also any synchronous lymph node dissection (40.3, 40.5)
+- Code also any synchronous lymph node dissection ([40.3](#40-3), [40.5](#40-5))
 #### 62.41 Removal of  both testes at same operative episode {#62-41}
   - Bilateral orchidectomy NOS
   - 62.410 Orchidectomy with insertion testicular prosthesis bilateral (IM)
@@ -240,12 +240,12 @@
   - *Excludes:* biopsy of spermatic cord or epididymis ([63.01](#63-01))
 ### 63.4 Epididymectomy {#63-4}
 
-  - *Excludes:* that synchronous with orchiectomy (62.3-62.42)
+  - *Excludes:* that synchronous with orchiectomy ([62.3](#62-3)-[62.42](#62-42))
 ### 63.5 Repair of  spermatic cord and epididymis {#63-5}
 
 #### 63.51 Suture of laceration of spermatic cord and epididymis {#63-51}
 #### 63.52 Reduction of  torsion of  testis or spermatic cord {#63-52}
-  - *Excludes:* that associated with orchiopexy (62.5)
+  - *Excludes:* that associated with orchiopexy ([62.5](#62-5))
 #### 63.53 Transplantation of  spermatic cord {#63-53}
 #### 63.59 Other repair of spermatic cord and epididymis {#63-59}
 ### 63.6 Vasotomy {#63-6}

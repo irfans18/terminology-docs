@@ -20,9 +20,9 @@
   - that of inner ear ([20.79](../chapter-4/index.md#20-79))
   - ultrasonic:
   - angioplasty of non-coronary vessel ([39.50](../chapter-7/index.md#39-50))
-  - embolectomy (38.01, 38.02)
-  - endarterectomy (38.11, 38.12)
-  - thrombectomy (38.01, 38.02)
+  - embolectomy ([38.01](#38-01), [38.02](#38-02))
+  - endarterectomy ([38.11](#38-11), [38.12](#38-12))
+  - thrombectomy ([38.01](#38-01), [38.02](#38-02))
 
 #### 00.02 Therapeutic ultrasound of heart {#00-02}
 
@@ -30,7 +30,7 @@
 - Intravascular non-ablative ultrasound
 - _Excludes:_ diagnostic ultrasound of heart ([88.72](../chapter-16/index.md#88-72))
   - ultrasonic ablation of heart lesion ([37.34](../chapter-7/index.md#37-34))
-  - ultrasonic angioplasty of coronary vessels (00.66, 36.09)
+  - ultrasonic angioplasty of coronary vessels ([00.66](#00-66), [36.09](#36-09))
 
 #### 00.03 Therapeutic ultrasound of peripheral vascular vessels {#00-03}
 
@@ -184,9 +184,9 @@
 - of vessels operated
 - on ([00.40-00.43](#00-40)), and the number of stents inserted ([00.45-00.48](#00-45)).
 - Code also any:
-- angioplasty or atherectomy (00.61-00.62, 00.66, 39.50)
+- angioplasty or atherectomy ([00.61](#00-61)-[00.62](#00-62), [00.66](#00-66), [39.50](#39-50))
 - endarterectomy ([38.10-38.18](../chapter-7/index.md#38-10))
-- insertion of vascular stent(s) (00.55, 00.63-00.65, 36.06-36.07, 39.90)
+- insertion of vascular stent(s) ([00.55](#00-55), [00.63](#00-63)-[00.65](#00-65), [36.06](#36-06)-[36.07](#36-07), [39.90](#39-90))
 - other removal of coronary artery obstruction ([36.09](../chapter-7/index.md#36-09))
 
 #### 00.40 Procedure on single vessel {#00-40}

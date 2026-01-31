@@ -49,7 +49,7 @@
   - *Excludes:* radical excision of preauricular sinus ([18.21](#18-21))
 #### 18.39 Other {#18-39}
   - Amputation of external ear
-  - *Excludes:* excision of lesion (18.21-18.29, 18.31)
+  - *Excludes:* excision of lesion ([18.21](#18-21)-[18.29](#18-29), [18.31](#18-31))
 ### 18.4 Suture of laceration of external ear {#18-4}
 
 ### 18.5 Surgical correction of prominent ear {#18-5}
@@ -96,7 +96,7 @@
 ### 19.1 Stapedectomy {#19-1}
 
   - *Excludes:* revision of previous stapedectomy ([19.21-19.29](#19-21))
-    - stapes mobilization only (19.0)
+    - stapes mobilization only ([19.0](#19-0))
 #### 19.11 Stapedectomy with incus replacement {#19-11}
   - Stapedectomy with incus:
   - homograft
@@ -153,8 +153,8 @@
   - Atticotomy
   - Division of tympanum
   - Lysis of adhesions of middle ear
-  - *Excludes:* division of otosclerotic process (19.0)
-    - stapediolysis (19.0)
+  - *Excludes:* division of otosclerotic process ([19.0](#19-0))
+    - stapediolysis ([19.0](#19-0))
     - that with stapedectomy ([19.11-19.19](#19-11))
 ### 20.3 Diagnostic procedures on middle and inner ear {#20-3}
 
@@ -164,13 +164,13 @@
 #### 20.34 Electrical compound action potential (IM) {#20-34}
 #### 20.35 Electrical stapedial reflex threshold (IM) {#20-35}
 #### 20.39 Other diagnostic procedures on middle and inner ear {#20-39}
-  - *Excludes:* auditory and vestibular function tests (89.13, 95.41-95.49)
+  - *Excludes:* auditory and vestibular function tests ([89.13](#89-13), [95.41](#95-41)-[95.49](#95-49))
     - microscopic examination of specimen from ear  ([90.31-90.39](../chapter-16/index.md#90-31))
 ### 20.4 Mastoidectomy {#20-4}
 
 - Code also any:
 - skin graft ([18.79](#18-79))
-- tympanoplasty (19.4-19.55)
+- tympanoplasty ([19.4](#19-4)-[19.55](#19-55))
   - *Excludes:* that with implantation of cochlear prosthetic device ([20.96-20.98](#20-96))
 #### 20.41 Simple mastoidectomy {#20-41}
 #### 20.42 Radical mastoidectomy {#20-42}

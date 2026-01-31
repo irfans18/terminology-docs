@@ -164,7 +164,7 @@
   - Reduction of  skull f racture
   - Code also any synchronous debridement of  brain ([01.59](#01-59))
   - *Excludes:* debridement of skull NOS ([01.25](#01-25))
-    - removal of granulation tissue of cranium (01.6)
+    - removal of granulation tissue of cranium ([01.6](#01-6))
 #### 02.03 Formation of cranial bone flap {#02-03}
   - Repair of  skull with f lap
 #### 02.04 Bone graft to skull {#02-04}
@@ -234,8 +234,8 @@
 ### 02.9 Other operations on skull, brain, and cerebral meninges {#02-9}
 
   - *Excludes:* operations on:
-    - pineal gland (07.17, 07.51-07.59)
-    - pituitary gland [hypophysis] (07.13-07.15, 07.61-07.79)
+    - pineal gland ([07.17](#07-17), [07.51](#07-51)-[07.59](#07-59))
+    - pituitary gland [hypophysis] ([07.13](#07-13)-[07.15](#07-15), [07.61](#07-61)-[07.79](#07-79))
 #### 02.91 Lysis of cortical adhesions {#02-91}
 #### 02.92 Repair of  brain {#02-92}
 #### 02.93 Implantation or replacement of  intracranial neurostimulator lead(s) {#02-93}
@@ -354,7 +354,7 @@
   - Subarachnoid perfusion of refrigerated saline
   - *Excludes:* injection of:
     - contrast material for myelogram ([87.21](../chapter-16/index.md#87-21))
-    - destructive agent into spinal canal (03.8)
+    - destructive agent into spinal canal ([03.8](#03-8))
 #### 03.93 Implantation or replacement of  spinal neurostimulator lead(s) {#03-93}
   - Code also any insertion of  neurostimulator pulse generator ([86.94-86.98](../chapter-15/index.md#86-94))
 #### 03.94 Removal of  spinal neurostimulator lead(s) {#03-94}
@@ -437,12 +437,12 @@
 #### 04.79 Other neuroplasty {#04-79}
 ### 04.8 Injection into peripheral nerve {#04-8}
 
-  - *Excludes:* destruction of nerve (by injection of neurolytic agent) (04.2)
+  - *Excludes:* destruction of nerve (by injection of neurolytic agent) ([04.2](#04-2))
 #### 04.80 Peripheral nerve injection, not otherwise specified {#04-80}
 #### 04.81 Injection of  anesthetic into peripheral nerve f or analgesia {#04-81}
   - *Excludes:* that for operative anesthesia -- omit code
 #### 04.89 Injection of  other agent, except neurolytic {#04-89}
-  - *Excludes:* injection of neurolytic agent (04.2)
+  - *Excludes:* injection of neurolytic agent ([04.2](#04-2))
 ### 04.9 Other operations on cranial and peripheral nerves {#04-9}
 
 #### 04.91 Neurectasis {#04-91}
@@ -454,7 +454,7 @@
 #### 04.99 Other {#04-99}
 ## 05 Operations on sympathetic nerves or ganglia {#05}
 
-  - *Excludes:* paracervical uterine denervation (69.3)
+  - *Excludes:* paracervical uterine denervation ([69.3](#69-3))
 ### 05.0 Division of sympathetic nerve or ganglion {#05-0}
 
   - *Excludes:* that of nerves to adrenal glands ([07.42](../chapter-2/index.md#07-42))

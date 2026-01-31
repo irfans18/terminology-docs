@@ -23,7 +23,7 @@
 
 - Block dissection of larynx (with thyroidectomy) (with synchronous tracheostomy)
 - Laryngopharyngectomy
-  - *Excludes:* that with radical neck dissection (30.4)
+  - *Excludes:* that with radical neck dissection ([30.4](#30-4))
 ### 30.4 Radical laryngectomy {#30-4}
 
 - Complete [total] laryngectomy with radical neck dissection (with thyroidectomy) (with
@@ -37,17 +37,17 @@
 
 - Temporary percutaneous dilatational tracheostomy [PDT]
 - Tracheotomy f or assistance in breathing
-- Code also any synchronous bronchoscopy, if  perf ormed (33.21-33.24, 33.27)
+- Code also any synchronous bronchoscopy, if  perf ormed ([33.21](#33-21)-[33.24](#33-24), [33.27](#33-27))
 ### 31.2 Permanent tracheostomy {#31-2}
 
 #### 31.21 Mediastinal tracheostomy {#31-21}
 #### 31.29 Other permanent tracheostomy {#31-29}
   - Permanent percutaneous dilatational tracheostomy [PDT]
-  - Code also any synchronous bronchoscopy, if  perf ormed (33.21-33.24, 33.27)
-  - *Excludes:* that with laryngectomy (30.3-30.4)
+  - Code also any synchronous bronchoscopy, if  perf ormed ([33.21](#33-21)-[33.24](#33-24), [33.27](#33-27))
+  - *Excludes:* that with laryngectomy ([30.3](#30-3)-[30.4](#30-4))
 ### 31.3 Other incision of larynx or trachea {#31-3}
 
-  - *Excludes:* that for assistance in breathing (31.1-31.29)
+  - *Excludes:* that for assistance in breathing ([31.1](#31-1)-[31.29](#31-29))
 ### 31.4 Diagnostic procedures on larynx and trachea {#31-4}
 
 #### 31.41 Tracheoscopy through artif icial stoma {#31-41}
@@ -138,7 +138,7 @@
 ### 32.1 Other excision of bronchus {#32-1}
 
 - Resection (wide sleeve) of  bronchus
-  - *Excludes:* radical dissection [excision] of bronchus (32.6)
+  - *Excludes:* radical dissection [excision] of bronchus ([32.6](#32-6))
 ### 32.2 Local excision or destruction of lesion or tissue of lung {#32-2}
 
 - 32.20Thoracoscopic excision of lesion or tissue of lung
@@ -173,7 +173,7 @@
     - ([17.69](../chapter-3a/index.md#17-69))
     - that by endoscopic approach ([32.28](#32-28))
     - thoracoscopic excision of lesion or tissue of lung ([32.20](#32-20))
-    - wide excision of  lesion of  lung  (32.3)
+    - wide excision of  lesion of  lung  ([32.3](#32-3))
 ### 32.3 Segmental resection of lung {#32-3}
 
 - Partial lobectomy
@@ -183,7 +183,7 @@
 ### 32.4 Lobectomy of lung {#32-4}
 
 - Lobectomy with segmental resection of adjacent lobes of lung
-  - *Excludes:* that with radical dissection [excision] of thoracic structures (32.6)
+  - *Excludes:* that with radical dissection [excision] of thoracic structures ([32.6](#32-6))
 #### 32.41 Thoracoscopic lobectomy of lung {#32-41}
 #### 32.49 Other lobectomy of lung {#32-49}
   - *Excludes:* thoracoscopic lobectomy of lung ([32.41](#32-41))
@@ -220,13 +220,13 @@
     - closed [percutaneous] [needle] biopsy of lung ([33.26](#33-26))
     - open biopsy of lung ([33.28](#33-28))
 #### 33.21 Bronchoscopy through artificial stoma {#33-21}
-  - *Excludes:* that with biopsy (33.24, 33.27)
+  - *Excludes:* that with biopsy ([33.24](#33-24), [33.27](#33-27))
 #### 33.22 Fiber-optic bronchoscopy {#33-22}
-  - *Excludes:* that with biopsy (33.24, 33.27)
+  - *Excludes:* that with biopsy ([33.24](#33-24), [33.27](#33-27))
 #### 33.23 Other bronchoscopy {#33-23}
   - *Excludes:* that for:
     - aspiration ([96.05](../chapter-16/index.md#96-05))
-    - biopsy (33.24, 33.27)
+    - biopsy ([33.24](#33-24), [33.27](#33-27))
     - 33.230 Rigid bronchoscopy procedure (IM)
 #### 33.24 Closed [endoscopic] biopsy of  bronchus {#33-24}
   - Bronchoscopy (fiberoptic) (rigid) with:
@@ -235,7 +235,7 @@
   - excision (bite) biopsy
   - Diagnostic bronchoalveolar lavage (BAL)
   - Transbronchoscopic needle aspiration [TBNA] of  bronchus
-  - *Excludes:* closed biopsy of lung, other than brush biopsy of "lung"  (33.26, 33.27)
+  - *Excludes:* closed biopsy of lung, other than brush biopsy of "lung"  ([33.26](#33-26), [33.27](#33-27))
     - mini-bronchoalveolar lavage [mini-BAL] ([33.29](#33-29))
     - whole lung lavage ([33.99](#33-99))
     - 33.240 Endobronchoscopy ultrasound during bronchoscopic theurapetic intervention or
@@ -299,7 +299,7 @@
 ### 33.5 Lung transplant {#33-5}
 
 - Note: To report donor source - see codes 00.91-00.93
-  - *Excludes:* combined heart-lung transplantation (33.6)
+  - *Excludes:* combined heart-lung transplantation ([33.6](#33-6))
     - Code also cardiopulmonary bypass [extracorporeal circulation] [heart-lung machine] ([39.61](../chapter-7/index.md#39-61))
 #### 33.50 Lung transplantation, not otherwise specified {#33-50}
 #### 33.51 Unilateral lung transplantation {#33-51}
@@ -345,7 +345,7 @@
     - respiratory therapy ([93.90-93.99](../chapter-16/index.md#93-90))
 ## 34 Operations on chest wall, pleura, mediastinum, and diaphragm {#34}
 
-  - *Excludes:* operations on breast (85.0-85.99)
+  - *Excludes:* operations on breast ([85.0](#85-0)-[85.99](#85-99))
 ### 34.0 Incision of  chest wall and pleura {#34-0}
 
   - *Excludes:* that as operative approach -- omit code
@@ -373,7 +373,7 @@
 
 - Code also any biopsy, if  perf ormed
   - *Excludes:* mediastinoscopy ([34.22](#34-22))
-    - mediastinotomy associated with pneumonectomy (32.5)
+    - mediastinotomy associated with pneumonectomy ([32.5](#32-5))
 ### 34.2 Diagnostic procedures on chest wall, pleura, mediastinum, and diaphragm {#34-2}
 
 #### 34.20 Thoracoscopic pleural biopsy {#34-20}
@@ -432,7 +432,7 @@
     - excision of lesion of:
     - breast ([85.20-85.25](../chapter-15/index.md#85-20))
     - cartilage ([80.89](../chapter-14/index.md#80-89))
-    - skin (86.2-86.3)
+    - skin ([86.2](#86-2)-[86.3](#86-3))
     - fistulectomy ([34.73](#34-73))
 #### 34.41 Radical resection of  sternum (IM) {#34-41}
 ### 34.5 Pleurectomy {#34-5}
@@ -479,7 +479,7 @@
   - Thoracicogastric f istulectomy
   - Thoracicointestinal f istulectomy
 #### 34.84 Other repair of diaphragm {#34-84}
-  - *Excludes:* repair of diaphragmatic hernia  (53.7-53.82)
+  - *Excludes:* repair of diaphragmatic hernia  ([53.7](#53-7)-[53.82](#53-82))
 #### 34.85 Implantation of  diaphragmatic pacemaker {#34-85}
 #### 34.89 Other operations on diaphragm {#34-89}
 ### 34.9 Other operations on thorax {#34-9}

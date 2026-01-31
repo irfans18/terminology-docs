@@ -39,7 +39,7 @@
 ### 40.4 Radical excision of  cervical lymph nodes {#40-4}
 
 - Resection of  cervical lymph nodes down to muscle and deep f ascia
-  - *Excludes:* that associated with radical laryngectomy (30.4)
+  - *Excludes:* that associated with radical laryngectomy ([30.4](#30-4))
 #### 40.40 Radical neck dissection, not otherwise specif ied {#40-40}
 #### 40.41 Radical neck dissection, unilateral {#40-41}
 #### 40.42 Radical neck dissection, bilateral {#40-42}
@@ -73,7 +73,7 @@
 - Repair of  peripheral lymphatics
 - Transplantation of  peripheral lymphatics
 - Correction of  lymphedema of  limb, NOS
-  - *Excludes:* reduction of elephantiasis of scrotum (61.3)
+  - *Excludes:* reduction of elephantiasis of scrotum ([61.3](#61-3))
 ## 41 Operations on bone marrow and spleen {#41}
 
 ### 41.0 Bone marrow or hematopoietic stem cell transplant {#41-0}

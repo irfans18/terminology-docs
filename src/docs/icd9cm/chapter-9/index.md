@@ -7,7 +7,7 @@
 #### 42.01 Incision of  esophageal web {#42-01}
 #### 42.09 Other incision of esophagus {#42-09}
   - Esophagotomy NOS
-  - *Excludes:* esophagomyotomy (42.7)
+  - *Excludes:* esophagomyotomy ([42.7](#42-7))
     - esophagostomy ([42.10-42.19](#42-10))
 ### 42.1 Esophagostomy {#42-1}
 
@@ -69,7 +69,7 @@
 
 - Code also any synchronous:
 - esophagectomy ([42.40-42.42](#42-40))
-- gastrostomy (43.1)
+- gastrostomy ([43.1](#43-1))
 #### 42.51 Intrathoracic esophagoesophagostomy {#42-51}
 #### 42.52 Intrathoracic esophagogastrostomy {#42-52}
 #### 42.53 Intrathoracic esophageal anastomosis with interposition of  small bowel {#42-53}
@@ -86,7 +86,7 @@
 
 - Code also any synchronous:
 - esophagectomy ([42.40-42.42](#42-40))
-- gastrostomy (43.1)
+- gastrostomy ([43.1](#43-1))
 #### 42.61 Antesternal esophagoesophagostomy {#42-61}
 #### 42.62 Antesternal esophagogastrostomy {#42-62}
 #### 42.63 Antesternal esophageal anastomosis with interposition of small bowel {#42-63}
@@ -131,10 +131,10 @@
   - *Excludes:* that by endoscopic approach  ([42.33](#42-33))
 #### 42.92 Dilation of esophagus {#42-92}
   - Dilation of cardiac sphincter
-  - *Excludes:* intubation of esophagus (96.03, 96.06-96.08)
+  - *Excludes:* intubation of esophagus ([96.03](#96-03), [96.06](#96-06)-[96.08](#96-08))
 #### 42.99 Other {#42-99}
   - *Excludes:* insertion of Sengstaken tube  ([96.06](../chapter-16/index.md#96-06))
-    - intubation of esophagus (96.03, 96.06-96.08)
+    - intubation of esophagus ([96.03](#96-03), [96.06](#96-06)-[96.08](#96-08))
     - removal of intraluminal foreign body from esophagus without incision ([98.02](../chapter-16/index.md#98-02))
     - tamponade of esophagus ([96.06](../chapter-16/index.md#96-06))
 ## 43 Incision and excision of  stomach {#43}
@@ -163,7 +163,7 @@
 #### 43.42 Local excision of other lesion or tissue of stomach {#43-42}
   - *Excludes:* biopsy of stomach ([44.14-44.15](#44-14))
     - gastric fistulectomy ([44.62-44.63](#44-62))
-    - partial gastrectomy (43.5-43.89)
+    - partial gastrectomy ([43.5](#43-5)-[43.89](#43-89))
 #### 43.49 Other destruction of lesion or tissue of stomach {#43-49}
   - *Excludes:* that by endoscopic approach  ([43.41](#43-41))
 ### 43.5 Partial gastrectomy with anastomosis to esophagus {#43-5}
@@ -301,7 +301,7 @@
   - Vertical banded gastroplasty (VBG)
   - Code also any synchronous laparoscopic gastroenterostomy ([44.38](#44-38))
   - *Excludes:* insertion, laparoscopic adjustable gastric band (restrictive procedure) ([44.95](#44-95))
-    - other repair of stomach, open approach (44.61-44.65, 44.69)
+    - other repair of stomach, open approach ([44.61](#44-61)-[44.65](#44-65), [44.69](#44-69))
 #### 44.69 Other {#44-69}
   - Inversion of  gastric diverticulum
   - Repair of  stomach NOS
@@ -357,14 +357,14 @@
 - Code also any application or administration of  an adhesion barrier substance ([99.77](../chapter-16/index.md#99-77))
 ### 45.0 Enterotomy {#45-0}
 
-  - *Excludes:* duodenocholedochotomy (51.41-51.42, 51.51)
+  - *Excludes:* duodenocholedochotomy ([51.41](#51-41)-[51.42](#51-42), [51.51](#51-51))
     - that for destruction of lesion ([45.30-45.34](#45-30))
-    - that of exteriorized intestine (46.14, 46.24, 46.31)
+    - that of exteriorized intestine ([46.14](#46-14), [46.24](#46-24), [46.31](#46-31))
 #### 45.00 Incision of  intestine, not otherwise specif ied {#45-00}
 #### 45.01 Incision of  duodenum {#45-01}
 #### 45.02 Other incision of small intestine {#45-02}
 #### 45.03 Incision of  large intestine {#45-03}
-  - *Excludes:* proctotomy (48.0)
+  - *Excludes:* proctotomy ([48.0](#48-0))
 ### 45.1 Diagnostic procedures on small intestine {#45-1}
 
 - Code also any laparotomy ([54.11-54.19](#54-11))
@@ -375,7 +375,7 @@
   - *Excludes:* that with biopsy ([45.14](#45-14))
 #### 45.13 Other endoscopy of small intestine {#45-13}
   - Esophagogastroduodenoscopy [EGD]
-  - *Excludes:* that with biopsy (45.14, 45.16)
+  - *Excludes:* that with biopsy ([45.14](#45-14), [45.16](#45-16))
 #### 45.14 Closed [endoscopic] biopsy of  small intestine {#45-14}
   - Brushing or washing for specimen collection
   - *Excludes:* esophagogastroduodenoscopy [EGD] with closed biopsy ([45.16](#45-16))
@@ -443,7 +443,7 @@
   - *Excludes:* biopsy of large intestine  ([45.25-45.27](#45-25))
     - endoscopic polypectomy of large intestine ([45.42](#45-42))
     - fistulectomy ([46.76](#46-76))
-    - multiple segmental resection  (17.31, 45.71)
+    - multiple segmental resection  ([17.31](#17-31), [45.71](#45-71))
     - that by endoscopic approach  ([45.42-45.43](#45-42))
 #### 45.42 Endoscopic polypectomy of large intestine {#45-42}
   - *Excludes:* that by open approach ([45.41](#45-41))
@@ -469,22 +469,22 @@
 ### 45.6 Other excision of small intestine {#45-6}
 
 - Code also any synchronous:
-- anastomosis other than end-to-end (45.90-45.93, 45.95)
+- anastomosis other than end-to-end ([45.90](#45-90)-[45.93](#45-93), [45.95](#45-95))
 - colostomy ([46.10-46.13](#46-10))
 - enterostomy ([46.10-46.39](#46-10))
-  - *Excludes:* cecectomy (17.32, 45.72)
-    - enterocolectomy (17.39, 45.79)
-    - gastroduodenectomy (43.6-43.99)
-    - ileocolectomy (17.33, 45.73)
-    - pancreatoduodenectomy (52.51-52.7)
+  - *Excludes:* cecectomy ([17.32](#17-32), [45.72](#45-72))
+    - enterocolectomy ([17.39](#17-39), [45.79](#45-79))
+    - gastroduodenectomy ([43.6](#43-6)-[43.99](#43-99))
+    - ileocolectomy ([17.33](#17-33), [45.73](#45-73))
+    - pancreatoduodenectomy ([52.51](#52-51)-[52.7](#52-7))
 #### 45.61 Multiple segmental resection of small intestine {#45-61}
   - Segmental resection for multiple traumatic lesions of small intestine
 #### 45.62 Other partial resection of small intestine {#45-62}
   - Duodenectomy
   - Ileectomy
   - Jejunectomy
-  - *Excludes:* duodenectomy with synchronous pancreatectomy (52.51-52.7)
-    - resection of cecum and terminal ileum (17.32, 45.72)
+  - *Excludes:* duodenectomy with synchronous pancreatectomy ([52.51](#52-51)-[52.7](#52-7))
+    - resection of cecum and terminal ileum ([17.32](#17-32), [45.72](#45-72))
 #### 45.63 Total removal of  small intestine {#45-63}
 ### 45.7 Open and other partial excision of large intestine {#45-7}
 
@@ -515,7 +515,7 @@
 #### 45.83 Other and unspecified total intra-abdominal colectomy {#45-83}
 ### 45.9 Intestinal anastomosis {#45-9}
 
-- Code also any synchronous resection (45.31-45.8, 48.41-48.69)
+- Code also any synchronous resection ([45.31](#45-31)-[45.8](#45-8), [48.41](#48-41)-[48.69](#48-69))
   - *Excludes:* end-to-end anastomosis -- omit code
 #### 45.90 Intestinal anastomosis, not otherwise specif ied {#45-90}
 #### 45.91 Small-to-small intestinal anastomosis {#45-91}
@@ -546,9 +546,9 @@
   - Second stage Mikulicz operation
 ### 46.1 Colostomy {#46-1}
 
-- Code also any synchronous resection (45.49, 45.71-45.79, 45.8)
+- Code also any synchronous resection ([45.49](#45-49), [45.71](#45-71)-[45.79](#45-79), [45.8](#45-8))
   - *Excludes:* loop colostomy ([46.03](#46-03))
-    - that with abdominoperineal resection of rectum (48.5)
+    - that with abdominoperineal resection of rectum ([48.5](#48-5))
     - that with synchronous anterior rectal resection ([48.62](#48-62))
 #### 46.10 Colostomy, not otherwise specif ied {#46-10}
 #### 46.11 Temporary colostomy {#46-11}
@@ -556,7 +556,7 @@
 #### 46.14 Delayed opening of colostomy {#46-14}
 ### 46.2 Ileostomy {#46-2}
 
-- Code also any synchronous resection (45.34, 45.61-45.63)
+- Code also any synchronous resection ([45.34](#45-34), [45.61](#45-61)-[45.63](#45-63))
   - *Excludes:* loop ileostomy ([46.01](#46-01))
 #### 46.20 Ileostomy, not otherwise specif ied {#46-20}
 #### 46.21 Temporary ileostomy {#46-21}
@@ -565,7 +565,7 @@
 #### 46.24 Delayed opening of ileostomy {#46-24}
 ### 46.3 Other enterostomy {#46-3}
 
-- Code also any synchronous resection (45.61-45.8)
+- Code also any synchronous resection ([45.61](#45-61)-[45.8](#45-8))
 #### 46.31 Delayed opening of other enterostomy {#46-31}
 #### 46.32 Percutaneous (endoscopic) jejunostomy [PEJ] {#46-32}
   - Endoscopic conversion of gastrostomy to jejunostomy
@@ -588,7 +588,7 @@
   - *Excludes:* excision of redundant mucosa ([45.41](#45-41))
 ### 46.5 Closure of  intestinal stoma {#46-5}
 
-- Code also any synchronous resection (45.34, 45.49, 45.61-45.8)
+- Code also any synchronous resection ([45.34](#45-34), [45.49](#45-49), [45.61](#45-61)-[45.8](#45-8))
 #### 46.50 Closure of  intestinal stoma, not otherwise specif ied {#46-50}
 #### 46.51 Closure of  stoma of  small intestine {#46-51}
 #### 46.52 Closure of  stoma of  large intestine {#46-52}
@@ -711,7 +711,7 @@
 #### 47.19 Other incidental appendectomy {#47-19}
 ### 47.2 Drainage of appendiceal abscess {#47-2}
 
-  - *Excludes:* that with appendectomy (47.0)
+  - *Excludes:* that with appendectomy ([47.0](#47-0))
 ### 47.9 Other operations on appendix {#47-9}
 
 #### 47.91 Appendicostomy {#47-91}
@@ -762,7 +762,7 @@
 #### 48.36 [Endoscopic] polypectomy of rectum {#48-36}
 ### 48.4 Pull-through resection of rectum {#48-4}
 
-- Code also any synchronous anastomosis other than end-to-end (45.90, 45.92-45.95)
+- Code also any synchronous anastomosis other than end-to-end ([45.90](#45-90), [45.92](#45-92)-[45.95](#45-95))
 #### 48.40 Pull-through resection of rectum, not otherwise specified {#48-40}
   - Pull-through resection NOS
   - *Excludes:* abdominoperineal pull-through NOS ([48.50](#48-50))
@@ -783,9 +783,9 @@
   - *Includes:* with synchronous colostomy
     - Combined abdominoendorectal resection
     - Complete proctectomy
-    - Code also any synchronous anastomosis other than end-to-end (45.90, 45.92-45.95)
+    - Code also any synchronous anastomosis other than end-to-end ([45.90](#45-90), [45.92](#45-92)-[45.95](#45-95))
   - *Excludes:* Duhamel abdominoperineal pull-through ([48.65](#48-65))
-    - that as part of pelvic exenteration (68.8)
+    - that as part of pelvic exenteration ([68.8](#68-8))
 #### 48.50 Abdominoperineal resection of the rectum, not otherwise specified {#48-50}
 #### 48.51 Laparoscopic abdominoperineal resection of the rectum {#48-51}
 #### 48.52 Open abdominoperineal resection of the rectum {#48-52}
@@ -795,7 +795,7 @@
     - open abdominoperineal resection of the rectum ([48.52](#48-52))
 ### 48.6 Other resection of rectum {#48-6}
 
-- Code also any synchronous anastomosis other than end-to-end (45.90, 45.92-45.95)
+- Code also any synchronous anastomosis other than end-to-end ([45.90](#45-90), [45.92](#45-92)-[45.95](#45-95))
 #### 48.61 Transsacral rectosigmoidectomy {#48-61}
 #### 48.62 Anterior resection of rectum with synchronous colostomy {#48-62}
 #### 48.63 Other anterior resection of rectum {#48-63}
@@ -812,7 +812,7 @@
 
   - *Excludes:* repair of:
     - current obstetric laceration ([75.62](../chapter-13/index.md#75-62))
-    - vaginal rectocele (70.50, 70.52, 70.53, 70.55)
+    - vaginal rectocele ([70.50](#70-50), [70.52](#70-52), [70.53](#70-53), [70.55](#70-55))
 #### 48.71 Suture of laceration of rectum {#48-71}
 #### 48.72 Closure of  proctostomy {#48-72}
 #### 48.73 Closure of  other rectal f istula {#48-73}
@@ -840,7 +840,7 @@
     - small intestine ([45.92-45.93](#45-92))
     - repair of:
     - current obstetrica laceration ([75.62](../chapter-13/index.md#75-62))
-    - vaginal rectocele (70.50, 70.52)
+    - vaginal rectocele ([70.50](#70-50), [70.52](#70-52))
 ### 48.8 Incision or excision of  perirectal tissue or lesion {#48-8}
 
   - *Includes:* pelvirectal tissue
@@ -993,7 +993,7 @@
 #### 50.22 Partial hepatectomy {#50-22}
   - Wedge resection of liver
   - *Excludes:* biopsy of liver ([50.11-50.12](#50-11))
-    - hepatic lobectomy (50.3)
+    - hepatic lobectomy ([50.3](#50-3))
 #### 50.23 Open ablation of liver lesion or tissue {#50-23}
 #### 50.24 Percutaneous ablation of liver lesion or tissue {#50-24}
 #### 50.25 Laparoscopic ablation of liver lesion or tissue {#50-25}
@@ -1028,7 +1028,7 @@
   - Hepatopexy
 ### 50.9 Other operations on liver {#50-9}
 
-  - *Excludes:* lysis of adhesions (54.5)
+  - *Excludes:* lysis of adhesions ([54.5](#54-5))
 #### 50.91 Percutaneous aspiration of liver {#50-91}
   - *Excludes:* percutaneous biopsy ([50.11](#50-11))
 #### 50.92 Extracorporeal hepatic assistance {#50-92}
@@ -1127,7 +1127,7 @@
 #### 51.59 Incision of  other bile duct {#51-59}
 ### 51.6 Local excision or destruction of lesion or tissue of biliary ducts and sphincter of Oddi {#51-6}
 
-- Code also anastomosis other than end-to-end (51.31, 51.36-51.39)
+- Code also anastomosis other than end-to-end ([51.31](#51-31), [51.36](#51-36)-[51.39](#51-39))
   - *Excludes:* biopsy of bile duct ([51.12-51.13](#51-12))
 #### 51.61 Excision of cystic duct remnant {#51-61}
 #### 51.62 Excision of ampulla of Vater (with reimplantation of common duct) {#51-62}
@@ -1199,7 +1199,7 @@
   - Insertion or replacement of  biliary tract prosthesis
   - *Excludes:* biopsy of gallbladder ([51.12-51.13](#51-12))
     - irrigation of cholecystostomy and other biliary tube ([96.41](../chapter-16/index.md#96-41))
-    - lysis of peritoneal adhesions (54.5)
+    - lysis of peritoneal adhesions ([54.5](#54-5))
     - nonoperative removal of:
     - cholecystostomy tube ([97.54](../chapter-16/index.md#97-54))
     - tube from biliary tract or liver ([97.55](../chapter-16/index.md#97-55))
@@ -1212,9 +1212,9 @@
 #### 52.01 Drainage of pancreatic cyst by catheter {#52-01}
 #### 52.09 Other pancreatotomy {#52-09}
   - Pancreatolithotomy
-  - *Excludes:* drainage by anastomosis (52.4, 52.96)
+  - *Excludes:* drainage by anastomosis ([52.4](#52-4), [52.96](#52-96))
     - incision of pancreatic sphincte ([51.82](#51-82))
-    - marsupialization of cyst (52.3)
+    - marsupialization of cyst ([52.3](#52-3))
 ### 52.1 Diagnostic procedures on pancreas {#52-1}
 
 #### 52.11 Closed [aspiration] [needle] [percutaneous] biopsy of  pancreas {#52-11}
@@ -1226,18 +1226,18 @@
     - that for procedures classifiabl to 51.14-51.15, 51.64, 51.84-51.88, 52.14, 52.21, 52.92-
     - 52.94, 52.97-52.98
 #### 52.14 Closed [endoscopic] biopsy of  pancreatic duct {#52-14}
-  - Closed biopsy of  pancreatic duct by procedures classif iable to (51.10-51.11, 52.13)
+  - Closed biopsy of  pancreatic duct by procedures classif iable to ([51.10](#51-10)-[51.11](#51-11), [52.13](#52-13))
 #### 52.19 Other diagnostic procedures on pancreas {#52-19}
   - *Excludes:* contrast pancreatogram ([87.66](../chapter-16/index.md#87-66))
     - endoscopic retrograde pancreatography [ERP] ([52.13](#52-13))
     - microscopic examination of specimen from pancreas ([91.01-91.09](../chapter-16/index.md#91-01))
 ### 52.2 Local excision or destruction of pancreas and pancreatic duct {#52-2}
 
-  - *Excludes:* biopsy of pancreas (52.11-52.12, 52.14)
+  - *Excludes:* biopsy of pancreas ([52.11](#52-11)-[52.12](#52-12), [52.14](#52-14))
     - pancreatic fistulectomy ([52.95](#52-95))
 #### 52.21 Endoscopic excision or destruction of lesion or tissue of pancreatic duct {#52-21}
   - Excision or destruction of lesion or tissue of pancreatic duct by procedures classifiable
-  - to (51.10-51.11, 52.13)
+  - to ([51.10](#51-10)-[51.11](#51-11), [52.13](#52-13))
 #### 52.22 Other excision or destruction of lesion or tissue of pancreas or pancreatic duct {#52-22}
 ### 52.3 Marsupialization of pancreatic cyst {#52-3}
 
@@ -1312,7 +1312,7 @@
   - *Excludes:* drainage of pancreatic cyst by catheter ([52.01](#52-01))
     - replacement of stent (tube) ([97.05](../chapter-16/index.md#97-05))
 #### 52.98 Endoscopic dilation of pancreatic duct {#52-98}
-  - Dilation of Wirsung's duct by procedures classifiable to (51.10-51.11, 52.13)
+  - Dilation of Wirsung's duct by procedures classifiable to ([51.10](#51-10)-[51.11](#51-11), [52.13](#52-13))
 #### 52.99 Other {#52-99}
   - Dilation of pancreatic [Wirsung's] duct by open approach
   - Repair of  pancreatic [Wirsung's] duct by open approach
@@ -1363,7 +1363,7 @@
 #### 53.43 Other laparoscopic umbilical herniorrhaphy {#53-43}
 #### 53.49 Other open umbilical herniorrhaphy {#53-49}
   - *Excludes:* other laparoscopic umbilical herniorrhaphy ([53.43](#53-43))
-    - repair of umbilical hernia with graft or prosthesis (53.41, 53.42)
+    - repair of umbilical hernia with graft or prosthesis ([53.41](#53-41), [53.42](#53-42))
 ### 53.5 Repair of  other hernia of  anterior abdominal wall (without graf t or prosthesis) {#53-5}
 
 #### 53.51 Incisional hernia repair {#53-51}
@@ -1410,7 +1410,7 @@
 - omental
 - retroperitoneal
 - sciatic
-  - *Excludes:* relief of strangulated hernia with exteriorization of intestine (46.01, 46.03)
+  - *Excludes:* relief of strangulated hernia with exteriorization of intestine ([46.01](#46-01), [46.03](#46-03))
     - repair of pericolostomy hernia ([46.42](#46-42))
     - repair of vaginal enterocele ([70.92](../chapter-12/index.md#70-92))
 ## 54 Other operations on abdominal region {#54}
@@ -1428,7 +1428,7 @@
     - peritoneum
     - retroperitoneal tissue space
     - Code also any application or administration of  an adhesion barrier substance ([99.77](../chapter-16/index.md#99-77))
-  - *Excludes:* hernia repair (53.00-53.9)
+  - *Excludes:* hernia repair ([53.00](#53-00)-[53.9](#53-9))
     - obliteration of cul-de-sac ([70.92](../chapter-12/index.md#70-92))
     - retroperitoneal tissue dissection ([59.00-59.09](../chapter-10/index.md#59-00))
     - skin and subcutaneous tissue of abdominal
@@ -1452,8 +1452,8 @@
   - incision of hematoma
 #### 54.19 Other laparotomy {#54-19}
   - Drainage of intraperitoneal abscess or hematoma
-  - *Excludes:* culdocentesis (70.0)
-    - drainage of appendiceal abscess (47.2)
+  - *Excludes:* culdocentesis ([70.0](#70-0))
+    - drainage of appendiceal abscess ([47.2](#47-2))
     - exploration incidental to intra abdominal surgery -- omit code
     - Ladd operation ([54.95](#54-95))
     - percutaneous drainage of abdomen ([54.91](#54-91))
@@ -1507,7 +1507,7 @@
 - Omphalectomy
   - *Excludes:* biopsy of abdominal wall or umbilicus  ([54.22](#54-22))
     - size reduction operation ([86.83](../chapter-15/index.md#86-83))
-    - that of skin of abdominal wall (86.22, 86.26, 86.3)
+    - that of skin of abdominal wall ([86.22](#86-22), [86.26](#86-26), [86.3](#86-3))
 ### 54.4 Excision or destruction of peritoneal tissue {#54-4}
 
 - Excision of:
@@ -1569,7 +1569,7 @@
   - Mesenteropexy
 ### 54.9 Other operations of abdominal region {#54-9}
 
-  - *Excludes:* removal of ectopic pregnancy (74.3)
+  - *Excludes:* removal of ectopic pregnancy ([74.3](#74-3))
 #### 54.91 Percutaneous abdominal drainage {#54-91}
   - Paracentesis
   - *Excludes:* creation of cutaneoperitoneal fistula ([54.93](#54-93))
@@ -1587,7 +1587,7 @@
   - Pneumoperitoneum
   - *Excludes:* that for:
     - collapse of lung ([33.33](../chapter-6/index.md#33-33))
-    - radiography (88.12-88.13, 88.15)
+    - radiography ([88.12](#88-12)-[88.13](#88-13), [88.15](#88-15))
 #### 54.97 Injection of  locally-acting therapeutic substance into peritoneal cavity {#54-97}
   - *Excludes:* peritoneal dialysis ([54.98](#54-98))
 #### 54.98 Peritoneal dialysis {#54-98}

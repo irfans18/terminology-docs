@@ -36,7 +36,7 @@
 - Robotic procedure with computer assistance
 - Surgeon-controlled robotic surgery
 - Code f irst primary procedure
-  - *Excludes:* computer assisted surgery (00.31-00.35, 00.39)
+  - *Excludes:* computer assisted surgery ([00.31](#00-31)-[00.35](#00-35), [00.39](#00-39))
     - Note: This category includes use of  a computer console with (3-D) imaging, software, camera(s),
     - visualization and instrumentation combined with the use of  robotic arms, device(s), or system(s)
     - at the time of the procedure.

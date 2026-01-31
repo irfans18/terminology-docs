@@ -119,4 +119,4 @@ See [00.01](/icd9cm/chapter-0/#00-01)
 - [ ] chapter-13
 - [ ] chapter-14
 - [ ] chapter-15
-- [ ] chapter-16 (ON HOLD)
+- [ ] chapter-16 ✅ (Custom patterns used for sections 90-91)

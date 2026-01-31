@@ -57,7 +57,7 @@
 ### 06.4 Complete thyroidectomy {#06-4}
 
   - *Excludes:* complete substernal thyroidectomy ([06.52](#06-52))
-    - that with laryngectomy (30.3-30.4)
+    - that with laryngectomy ([30.3](#30-3)-[30.4](#30-4))
 ### 06.5 Substernal thyroidectomy {#06-5}
 
 #### 06.50 Substernal thyroidectomy, not otherwise specified {#06-50}
@@ -99,9 +99,9 @@
     - thymus
   - *Excludes:* operations on:
     - aortic and carotid bodies ([39.89](../chapter-7/index.md#39-89))
-    - ovaries (65.0-65.99)
+    - ovaries ([65.0](#65-0)-[65.99](#65-99))
     - pancreas ([52.01-52.99](../chapter-9/index.md#52-01))
-    - testes (62.0-62.99)
+    - testes ([62.0](#62-0)-[62.99](#62-99))
 ### 07.0 Exploration of adrenal field {#07-0}
 
   - *Excludes:* incision of adrenal (gland) ([07.41](#07-41))
@@ -126,7 +126,7 @@
   - *Excludes:* biopsy of adrenal gland ([07.11-07.12](#07-11))
 #### 07.22 Unilateral adrenalectomy {#07-22}
   - Adrenalectomy NOS
-  - *Excludes:* excision of remaining adrenal gland (07.3)
+  - *Excludes:* excision of remaining adrenal gland ([07.3](#07-3))
 #### 07.29 Other partial adrenalectomy {#07-29}
   - Partial adrenalectomy NOS
 ### 07.3 Bilateral adrenalectomy {#07-3}

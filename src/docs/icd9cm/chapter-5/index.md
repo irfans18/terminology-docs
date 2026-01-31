@@ -55,7 +55,7 @@
 #### 21.61 Turbinectomy by diathermy or cryosurgery {#21-61}
 #### 21.62 Fracture of the turbinates {#21-62}
 #### 21.69 Other turbinectomy {#21-69}
-  - *Excludes:* turbinectomy associated with sinusectomy (22.31-22.39, 22.42, 22.60-22.64)
+  - *Excludes:* turbinectomy associated with sinusectomy ([22.31](#22-31)-[22.39](#22-39), [22.42](#22-42), [22.60](#22-60)-[22.64](#22-64))
 ### 21.7 Reduction of  nasal f racture {#21-7}
 
 #### 21.71 Closed reduction of  nasal f racture {#21-71}
@@ -86,7 +86,7 @@
 #### 21.88 Other septoplasty {#21-88}
   - Crushing of  nasal septum
   - Repair of  septal perf oration
-  - *Excludes:* septoplasty associated with submucous resection of septum  (21.5)
+  - *Excludes:* septoplasty associated with submucous resection of septum  ([21.5](#21-5))
 #### 21.89 Other repair and plastic operations on nose {#21-89}
   - Reattachment of  amputated nose
 ### 21.9 Other operations on nose {#21-9}
@@ -234,7 +234,7 @@
 
 #### 24.31 Excision of lesion or tissue of gum {#24-31}
   - *Excludes:* biopsy of gum ([24.11](#24-11))
-    - excision of odontogenic lesion (24.4)
+    - excision of odontogenic lesion ([24.4](#24-4))
 #### 24.32 Suture of laceration of gum {#24-32}
 #### 24.39 Other {#24-39}
 ### 24.4 Excision of dental lesion of jaw {#24-4}
@@ -303,7 +303,7 @@
 
 - Code also any:
 - neck dissection ([40.40-40.42](../chapter-8/index.md#40-40))
-- tracheostomy (31.1-31.29)
+- tracheostomy ([31.1](#31-1)-[31.29](#31-29))
 ### 25.5 Repair of  tongue and glossoplasty {#25-5}
 
 #### 25.51 Suture of laceration of tongue {#25-51}
@@ -369,7 +369,7 @@
     - palate
     - soft tissue of face and mouth, except tongue and gingiva
   - *Excludes:* operations on:
-    - gingiva (24.0-24.99)
+    - gingiva ([24.0](#24-0)-[24.99](#24-99))
     - tongue ([25.01-25.99](#25-01))
 ### 27.0 Drainage of face and floor of mouth {#27-0}
 
@@ -408,7 +408,7 @@
   - *Excludes:* biopsy of mouth NOS ([27.24](#27-24))
     - excision of lesion of:
     - palate ([27.31-27.32](#27-31))
-    - tongue (25.1)
+    - tongue ([25.1](#25-1))
     - uvula ([27.72](#27-72))
     - fistulectomy of mouth ([27.53](#27-53))
     - frenectomy of:
@@ -460,9 +460,9 @@
   - *Excludes:* lingual frenotomy ([25.91](#25-91))
 #### 27.92 Incision of  mouth, unspecif ied structure {#27-92}
   - *Excludes:* incision of:
-    - gum (24.0)
-    - palate (27.1)
-    - salivary gland or duct (26.0)
+    - gum ([24.0](#24-0))
+    - palate ([27.1](#27-1))
+    - salivary gland or duct ([26.0](#26-0))
     - tongue ([25.94](#25-94))
     - uvula ([27.71](#27-71))
 #### 27.99 Other operations on oral cavity {#27-99}
@@ -515,7 +515,7 @@
 ### 29.0 Pharyngotomy {#29-0}
 
 - Drainage of pharyngeal bursa
-  - *Excludes:* incision and drainage of retropharyngeal abscess (28.0)
+  - *Excludes:* incision and drainage of retropharyngeal abscess ([28.0](#28-0))
     - removal of foreign body (without incision) ([98.13](../chapter-16/index.md#98-13))
 ### 29.1 Diagnostic procedures on pharynx {#29-1}
 
@@ -536,7 +536,7 @@
   - *Excludes:* that with pharyngeal diverticulectomy ([29.32](#29-32))
 #### 29.32 Pharyngeal diverticulectomy {#29-32}
 #### 29.33 Pharyngectomy (partial) {#29-33}
-  - *Excludes:* laryngopharyngectomy (30.3)
+  - *Excludes:* laryngopharyngectomy ([30.3](#30-3))
 #### 29.39 Other excision or destruction of lesion or tissue of pharynx {#29-39}
 ### 29.4 Plastic operation on pharynx {#29-4}
 

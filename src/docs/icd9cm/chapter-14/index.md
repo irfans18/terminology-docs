@@ -2,7 +2,7 @@
 
 ## 76 Operations on facial bones and joints {#76}
 
-- _Excludes:_ accessory sinuses (22.00-22.9)
+- _Excludes:_ accessory sinuses ([22.00](#22-00)-[22.9](#22-9))
   - nasal bones ([21.00-21.99](../chapter-5/index.md#21-00))
   - skull ([01.01-02.99](../chapter-1/index.md#01-01))
 
@@ -20,18 +20,18 @@
 #### 76.11 Biopsy of facial bone {#76-11}
 #### 76.19 Other diagnostic procedures on facial bones and joints {#76-19}
   - _Excludes:_ contrast arthrogram of temporomandibular joint ([87.13](../chapter-16/index.md#87-13))
-    - other x-ray (87.11-87.12, 87.14-87.16)
+    - other x-ray ([87.11](#87-11)-[87.12](#87-12), [87.14](#87-14)-[87.16](#87-16))
 
 ### 76.2 Local excision or destruction of lesion of facial bone {#76-2}
 
 - _Excludes:_ biopsy of facial bone ([76.11](#76-11))
-  - excision of odontogenic lesion (24.4)
+  - excision of odontogenic lesion ([24.4](#24-4))
 
 ### 76.3 Partial ostectomy of facial bone {#76-3}
 
 #### 76.31 Partial mandibulectomy {#76-31}
   - Hemimandibulectomy
-  - _Excludes:_ that associated with temporomandibular arthroplasty (76.5)
+  - _Excludes:_ that associated with temporomandibular arthroplasty ([76.5](#76-5))
 #### 76.32 Partial maxillectomy/open medial maxillectomy (IM) {#76-32}
 #### 76.33 Total maxillectomy (IM) {#76-33}
 #### 76.34 Endoscopic medial maxillectomy (IM) {#76-34}
@@ -123,11 +123,11 @@
 
 - _Excludes:_ laminectomy for decompression ([03.09](../chapter-1/index.md#03-09))
   - operations on:
-  - accessory sinuses (22.00-22.9)
-  - ear ossicles (19.0-19.55)
+  - accessory sinuses ([22.00](#22-00)-[22.9](#22-9))
+  - ear ossicles ([19.0](#19-0)-[19.55](#19-55))
   - facial bones ([76.01-76.99](#76-01))
   - joint structures ([80.00-81.99](#80-00))
-  - mastoid (19.9-20.99)
+  - mastoid ([19.9](#19-9)-[20.99](#20-99))
   - nasal bones ([21.00-21.99](../chapter-5/index.md#21-00))
   - skull ([01.01-02.99](../chapter-1/index.md#01-01))
   - The f ollowing f ourth-digit subclassification is for use with appropriate categories in section 77 to identify
@@ -154,7 +154,7 @@
 
 - [0-9]
 - Reopening of osteotomy site
-  - _Excludes:_ aspiration of bone marrow (41.31, 41.91)
+  - _Excludes:_ aspiration of bone marrow ([41.31](#41-31), [41.91](#41-91))
     - removal of internal fixation device ([78.60-78.69](#78-6))
 
 ### 77.2 Wedge osteotomy {#77-2}
@@ -166,7 +166,7 @@
 
 - [0-9]
 - Osteoarthrotomy
-  - _Excludes:_ clavicotomy of fetus (73.8)
+  - _Excludes:_ clavicotomy of fetus ([73.8](#73-8))
     - laminotomy or incision of vertebra ([03.01-03.09](../chapter-1/index.md#03-01))
     - pubiotomy to assist delivery ([73.94](../chapter-13/index.md#73-94))
     - sternotomy incidental to thoracic operation -- omit code
@@ -212,13 +212,13 @@
 
 - [0-9]
 - Condylectomy
-  - _Excludes:_ amputation (84.00-84.19, 84.91)
+  - _Excludes:_ amputation ([84.00](#84-00)-[84.19](#84-19), [84.91](#84-91))
     - arthrectomy ([80.90-80.99](#80-90))
     - excision of bone ends associated with:
-    - arthrodesis (81.00-81.39, 81.62-81.66)
-    - arthroplasty (81.40-81.59, 81.71-81.85)
-    - excision of cartilage (80.5-80.6, 80.80-80.99)
-    - excision of head of femur with synchronous replacement (00.70-00.73, 81.51-81.53)
+    - arthrodesis ([81.00](#81-00)-[81.39](#81-39), [81.62](#81-62)-[81.66](#81-66))
+    - arthroplasty ([81.40](#81-40)-[81.59](#81-59), [81.71](#81-71)-[81.85](#81-85))
+    - excision of cartilage ([80.5](#80-5)-[80.6](#80-6), [80.80](#80-80)-[80.99](#80-99))
+    - excision of head of femur with synchronous replacement ([00.70](#00-70)-[00.73](#00-73), [81.51](#81-51)-[81.53](#81-53))
     - hemilaminectomy ([03.01-03.09](../chapter-1/index.md#03-01))
     - laminectomy ([03.01-03.09](../chapter-1/index.md#03-01))
     - ostectomy for hallux valgus ([77.51-77.59](#77-51))
@@ -232,13 +232,13 @@
 ### 77.9 Total ostectomy {#77-9}
 
 - [0-9]
-  - _Excludes:_ amputation of limb (84.00-84.19, 84.91)
+  - _Excludes:_ amputation of limb ([84.00](#84-00)-[84.19](#84-19), [84.91](#84-91))
     - that incidental to other operation -- omit code
 
 ## 78 Other operations on bones, except facial bones {#78}
 
 - _Excludes:_ operations on:
-  - accessory sinuses (22.00-22.9)
+  - accessory sinuses ([22.00](#22-00)-[22.9](#22-9))
   - facial bones ([76.01-76.99](#76-01))
   - joint structures ([80.00-81.99](#80-00))
   - nasal bones ([21.00-21.99](../chapter-5/index.md#21-00))
@@ -301,7 +301,7 @@
   - _Excludes:_ application of external fixation device ([78.10-78.19](#78-10))
     - limb lengthening procedures ([78.30-78.39](#78-30))
     - limb shortening procedures ([78.20-78.29](#78-20))
-    - osteotomy (77.3)
+    - osteotomy ([77.3](#77-3))
     - reconstruction of thumb ([82.61-82.69](#82-61))
     - repair of pectus deformity ([34.74](../chapter-6/index.md#34-74))
     - repair with bone graft ([78.00-78.09](#78-00))
@@ -316,7 +316,7 @@
     - bone graft ([78.00-78.09](#78-00))
     - insertion of sternal fixation device with rigid plates ([84.94](#84-94))
     - limb shortening procedures ([78.20-78.29](#78-20))
-    - that for fracture reduction (79.10-79.19, 79.30-79.59)
+    - that for fracture reduction ([79.10](#79-10)-[79.19](#79-19), [79.30](#79-30)-[79.59](#79-59))
 
 ### 78.6 Removal of implanted devices f rom bone {#78-6}
 
@@ -342,7 +342,7 @@
     - magnetic resonance imaging ([88.94](../chapter-16/index.md#88-94))
     - microscopic examination of specimen from bone ([91.51-91.59](../chapter-16/index.md#91-51))
     - radioisotope scan ([92.14](../chapter-16/index.md#92-14))
-    - skeletal x-ray (87.21-87.29, 87.43, 88.21-88.33)
+    - skeletal x-ray ([87.21](#87-21)-[87.29](#87-29), [87.43](#87-43), [88.21](#88-21)-[88.33](#88-33))
     - thermography ([88.83](../chapter-16/index.md#88-83))
 
 ### 78.9 Insertion of bone growth stimulator {#78-9}
@@ -361,7 +361,7 @@
   - Code also any:
   - application of external fixator device ([78.10-78.19](#78-10))
   - type of fixator device, if known ([84.71-84.73](#84-71))
-- _Excludes:_ external fixation alone for immobilization of fracture (93.51-93.56, 93.59)
+- _Excludes:_ external fixation alone for immobilization of fracture ([93.51](#93-51)-[93.56](#93-56), [93.59](#93-59))
   - internal fixation without reduction of fracture ([78.50-78.59](#78-5))
   - operations on:
   - facial bones ([76.70-76.79](#76-70))
@@ -468,7 +468,7 @@
   - meniscus
   - synovial membrane
 - _Excludes:_ cartilage of:
-  - ear (18.01-18.9)
+  - ear ([18.01](#18-01)-[18.9](#18-9))
   - nose ([21.00-21.99](../chapter-5/index.md#21-00))
   - temporomandibular joint ([76.01-76.99](#76-01))
   - The f ollowing f ourth-digit subclassification is for use with appropriate categories in section 80 to identify
@@ -811,7 +811,7 @@
 - Lumbar and Sacral: L1, L2, L3, L4, L5, S1
 - Coders should report only one code f rom the series 81.62 or 81.63 or 81.64 to show the total
 - number of vertebrae fused on the patient.
-- Code also the level and approach of the f usion or ref usion (81.00-81.08, 81.30-81.39)
+- Code also the level and approach of the f usion or ref usion ([81.00](#81-00)-[81.08](#81-08), [81.30](#81-30)-[81.39](#81-39))
 #### 81.62 Fusion or refusion of 2-3 vertebrae {#81-62}
 #### 81.63 Fusion or refusion of 4- 8 vertebrae {#81-63}
 #### 81.64 Fusion or refusion of 9 or more vertebrae {#81-64}
@@ -873,11 +873,11 @@
     - injection of drug ([81.92](#81-92))
 #### 81.92 Injection of therapeutic substance into joint or ligament {#81-92}
 #### 81.93 Suture of capsule or ligament of upper extremity {#81-93}
-  - _Excludes:_ that associated wit arthroplasty (81.71-81.75, 81.80-81.81, 81.84)
+  - _Excludes:_ that associated wit arthroplasty ([81.71](#81-71)-[81.75](#81-75), [81.80](#81-80)-[81.81](#81-81), [81.84](#81-84))
 #### 81.94 Suture of capsule or ligament of ankle and foot {#81-94}
   - _Excludes:_ that associated wit arthroplasty ([81.56-81.59](#81-56))
 #### 81.95 Suture of capsule or ligament of other lower extremity {#81-95}
-  - _Excludes:_ that associated wit arthroplasty (81.51-81.55, 81.59)
+  - _Excludes:_ that associated wit arthroplasty ([81.51](#81-51)-[81.55](#81-55), [81.59](#81-59))
 #### 81.96 Other repair of joint {#81-96}
 #### 81.97 Revision of joint replacement of upper extremity {#81-97}
   - Partial
@@ -889,7 +889,7 @@
     - biopsy of joint structure ([80.30-80.39](#80-30))
     - microscopic examination of specimen from joint ([91.51-91.59](../chapter-16/index.md#91-51))
     - thermography ([88.83](../chapter-16/index.md#88-83))
-    - x-ray (87.21-87.29, 88.21-88.33)
+    - x-ray ([87.21](#87-21)-[87.29](#87-29), [88.21](#88-21)-[88.33](#88-33))
 #### 81.99 Other {#81-99}
 
 ## 82 Operations on muscle, tendon, and fascia of hand {#82}
@@ -927,12 +927,12 @@
   - Ganglionectomy of tendon sheath (wrist)
 #### 82.22 Excision of lesion of muscle of hand {#82-22}
 #### 82.29 Excision of other lesion of soft tissue of hand {#82-29}
-  - _Excludes:_ excision of lesion of skin and subcutaneous tissue (86.21-86.3)
+  - _Excludes:_ excision of lesion of skin and subcutaneous tissue ([86.21](#86-21)-[86.3](#86-3))
 
 ### 82.3 Other excision of soft tissue of hand {#82-3}
 
-- Code also any skin graf t (86.61-86.62, 86.73)
-  - _Excludes:_ excision of skin and subcutaneous tissue (86.21-86.3)
+- Code also any skin graf t ([86.61](#86-61)-[86.62](#86-62), [86.73](#86-73))
+  - _Excludes:_ excision of skin and subcutaneous tissue ([86.21](#86-21)-[86.3](#86-3))
 #### 82.31 Bursectomy of hand {#82-31}
 #### 82.32 Excision of tendon of hand for graft {#82-32}
 #### 82.33 Other tenonectomy of hand {#82-33}
@@ -947,7 +947,7 @@
 #### 82.36 Other myectomy of hand {#82-36}
   - _Excludes:_ excision of lesion of muscle ([82.22](#82-22))
 #### 82.39 Other excision of soft tissue of hand {#82-39}
-  - _Excludes:_ excision of skin (86.21-86.3)
+  - _Excludes:_ excision of skin ([86.21](#86-21)-[86.3](#86-3))
     - excision of soft tissue lesion ([82.29](#82-29))
 
 ### 82.4 Suture of muscle, tendon, and fascia of hand {#82-4}
@@ -978,7 +978,7 @@
 ### 82.6 Reconstruction of thumb {#82-6}
 
 - _Includes:_ digital transfer to act as thumb
-  - Code also any amputation for digital transfer (84.01, 84.11)
+  - Code also any amputation for digital transfer ([84.01](#84-01), [84.11](#84-11))
 #### 82.61 Pollicization operation carrying over nerves and blood supply {#82-61}
 #### 82.69 Other reconstruction of thumb {#82-69}
   - "Cocked-hat" procedure [skin flap and bone]
@@ -1033,7 +1033,7 @@
   - tendon sheaths
 - _Excludes:_ diaphragm ([34.81-34.89](../chapter-6/index.md#34-81))
   - hand ([82.01-82.99](#82-01))
-  - muscles of eye (15.01-15.9)
+  - muscles of eye ([15.01](#15-01)-[15.9](#15-9))
 
 ### 83.0 Incision of muscle, tendon, f ascia, and bursa {#83-0}
 
@@ -1080,7 +1080,7 @@
     - closed biopsy of skin and subcutaneous tissue ([86.11](../chapter-15/index.md#86-11))
 #### 83.29 Other diagnostic procedures on muscle, tendon, fascia, and bursa, including that of hand {#83-29}
   - _Excludes:_ microscopic examination of specimen ([91.51-91.59](../chapter-16/index.md#91-51))
-    - soft tissue x-ray (87.09, 87.38-87.39, 88.09, 88.35, 88.37)
+    - soft tissue x-ray ([87.09](#87-09), [87.38](#87-38)-[87.39](#87-39), [88.09](#88-09), [88.35](#88-35), [88.37](#88-37))
     - thermography of muscle ([88.84](../chapter-16/index.md#88-84))
 
 ### 83.3 Excision of lesion of muscle, tendon, fascia, and bursa {#83-3}
@@ -1095,8 +1095,8 @@
   - myositis ossificans
 #### 83.39 Excision of lesion of other soft tissue {#83-39}
   - Excision of Baker's cyst
-  - _Excludes:_ bursectomy (83.5)
-    - excision of lesion of skin and subcutaneous tissue (86.3)
+  - _Excludes:_ bursectomy ([83.5](#83-5))
+    - excision of lesion of skin and subcutaneous tissue ([86.3](#86-3))
     - synovectomy ([80.70-80.79](#80-70))
 
 ### 83.4 Other excision of muscle, tendon, and fascia {#83-4}
@@ -1194,7 +1194,7 @@
 
 ### 84.0 Amputation of upper limb {#84-0}
 
-- _Excludes:_ revision of amputation stump (84.3)
+- _Excludes:_ revision of amputation stump ([84.3](#84-3))
 #### 84.00 Upper limb amputation, not otherwise specif ied {#84-00}
   - Closed f lap amputation of upper limb NOS
   - Kineplastic amputation of upper limb NOS
@@ -1217,7 +1217,7 @@
 
 ### 84.1 Amputation of lower limb {#84-1}
 
-- _Excludes:_ revision of amputation stump (84.3)
+- _Excludes:_ revision of amputation stump ([84.3](#84-3))
 #### 84.10 Lower limb amputation, not otherwise specified {#84-10}
   - Closed f lap amputation of lower limb NOS
   - Kineplastic amputation of lower limb NOS
@@ -1275,7 +1275,7 @@
 - Secondary closure of stump
 - Trimming of stump
   - _Excludes:_ revision of current traumatic amputation [revision by further amputation of current injury]
-    - (84.00-84.19, 84.91)
+    - ([84.00](#84-00)-[84.19](#84-19), [84.91](#84-91))
 
 ### 84.4 Implantation or f itting of prosthetic limb device {#84-4}
 
@@ -1383,7 +1383,7 @@
 ### 84.7 Adjunct codes for external fixator devices {#84-7}
 
 - Code also any primary procedure perf ormed:
-- application of external fixator device (78.10, 78.12-78.13, 78.15, 78.17-78.19)
+- application of external fixator device ([78.10](#78-10), [78.12](#78-12)-[78.13](#78-13), [78.15](#78-15), [78.17](#78-17)-[78.19](#78-19))
 - reduction of fracture and dislocation ([79.00-79.89](#79-00))
 #### 84.71 Application of external fixator device, monoplanar system {#84-71}
   - _Excludes:_ other hybrid device or system ([84.73](#84-73))
@@ -1405,7 +1405,7 @@
   - _Includes:_ any synchronous f acetectomy (partial, total) perf ormed at the same level
     - Code also any synchronous surgical decompression (f oraminotomy, laminectomy, laminotomy), if
     - performed ([03.09](../chapter-1/index.md#03-09))
-  - _Excludes:_ fusion of spine (81.00-81.08, 81.30-81.39)
+  - _Excludes:_ fusion of spine ([81.00](#81-00)-[81.08](#81-08), [81.30](#81-30)-[81.39](#81-39))
     - insertion of artificial disc prosthesis ([84.60-84.69](#84-60))
     - insertion of interbody spinal fusion device ([84.51](#84-51))
 #### 84.80 Insertion or replacement of interspinous process device(s) {#84-80}

@@ -4,7 +4,7 @@
 
   - *Includes:* operations on renal pelvis
     - Code also any application or administration of  an adhesion barrier substance ([99.77](../chapter-16/index.md#99-77))
-  - *Excludes:* perirenal tissue (59.00-59.09, 59.21-59.29, 59.91-59.92)
+  - *Excludes:* perirenal tissue ([59.00](#59-00)-[59.09](#59-09), [59.21](#59-21)-[59.29](#59-29), [59.91](#59-91)-[59.92](#59-92))
 ### 55.0 Nephrotomy and nephrostomy {#55-0}
 
   - *Excludes:* drainage by:
@@ -35,7 +35,7 @@
 
   - *Excludes:* drainage by anastomosis ([55.86](#55-86))
     - percutaneous pyelostolithotomy ([55.03](#55-03))
-    - removal of calculus without incision (56.0)
+    - removal of calculus without incision ([56.0](#56-0))
 #### 55.11 Pyelotomy {#55-11}
   - Exploration of renal pelvis
   - Pyelolithotomy
@@ -75,9 +75,9 @@
     - other ([55.35](#55-35))
     - percutaneous ([55.33](#55-33))
     - biopsy of kidney ([55.23-55.24](#55-23))
-    - partial nephrectomy (55.4)
+    - partial nephrectomy ([55.4](#55-4))
     - percutaneous aspiration of kidney ([55.92](#55-92))
-    - wedge resection of  kidney (55.4)
+    - wedge resection of  kidney ([55.4](#55-4))
 ### 55.4 Partial nephrectomy {#55-4}
 
 - Calycectomy
@@ -87,9 +87,9 @@
 ### 55.5 Complete nephrectomy {#55-5}
 
 - Code also any synchronous excision of :
-- adrenal gland (07.21-07.3)
-- bladder segment (57.6)
-- lymph nodes (40.3, 40.52-40.59)
+- adrenal gland ([07.21](#07-21)-[07.3](#07-3))
+- bladder segment ([57.6](#57-6))
+- lymph nodes ([40.3](#40-3), [40.52](#40-52)-[40.59](#40-59))
 #### 55.51 Nephroureterectomy {#55-51}
   - Nephroureterectomy with bladder cuf f
   - Total nephrectomy (unilateral)
@@ -156,9 +156,9 @@
 - blood clot from ureter or renal pelvis without incision
 - calculus from ureter or renal pelvis without incision
 - foreign body from ureter or renal pelvis w ithout incision
-  - *Excludes:* manipulation without removal of obstruction  (59.8)
-    - that by incision (55.11, 56.2)
-    - transurethral insertion of ureteral stent for passage of calculus (59.8)
+  - *Excludes:* manipulation without removal of obstruction  ([59.8](#59-8))
+    - that by incision ([55.11](#55-11), [56.2](#56-2))
+    - transurethral insertion of ureteral stent for passage of calculus ([59.8](#59-8))
 ### 56.1 Ureteral meatotomy {#56-1}
 
 ### 56.2 Ureterotomy {#56-2}
@@ -167,9 +167,9 @@
 - drainage
 - exploration
 - removal of calculus
-  - *Excludes:* cutting of ureterovesical orifice (56.1)
-    - removal of calculus without incision (56.0)
-    - transurethral insertion of ureteral stent for passage of calculus (59.8)
+  - *Excludes:* cutting of ureterovesical orifice ([56.1](#56-1))
+    - removal of calculus without incision ([56.0](#56-0))
+    - transurethral insertion of ureteral stent for passage of calculus ([59.8](#59-8))
     - urinary diversion ([56.51-56.79](#56-51))
 #### 56.20 Laparoscopic ureterolithotomy or ureteral exploration (IM) {#56-20}
 #### 56.21 Laparoscopic ureterolithotomy with previous ureteral surgery (IM) {#56-21}
@@ -283,12 +283,12 @@
 #### 56.97 Endoscopic ureteric stent replacement (IM) {#56-97}
 #### 56.99 Other {#56-99}
   - *Excludes:* removal of ureterostomy tube an ureteral catheter ([97.62](../chapter-16/index.md#97-62))
-    - ureteral catheterization (59.8)
+    - ureteral catheterization ([59.8](#59-8))
 ## 57 Operations on urinary bladder {#57}
 
 - Code also any application or administration of  an adhesion barrier substance ([99.77](../chapter-16/index.md#99-77))
-  - *Excludes:* perivesical tissue (59.11-59.29, 59.91-59.92)
-    - ureterovesical orifice (56.0-56.99)
+  - *Excludes:* perivesical tissue ([59.11](#59-11)-[59.29](#59-29), [59.91](#59-91)-[59.92](#59-92))
+    - ureterovesical orifice ([56.0](#56-0)-[56.99](#56-99))
 ### 57.0 Transurethral clearance of  bladder {#57-0}
 
 - Drainage of bladder without incision
@@ -359,7 +359,7 @@
   - *Excludes:* that with transurethral approach ([57.41-57.49](#57-41))
 #### 57.51 Excision of urachus {#57-51}
   - Excision of urachal sinus of bladder
-  - *Excludes:* excision of urachal cyst of abdominal wall (54.3)
+  - *Excludes:* excision of urachal cyst of abdominal wall ([54.3](#54-3))
 #### 57.59 Open excision or destruction of other lesion or tissue of bladder {#57-59}
   - Endometrectomy of bladder
   - Suprapubic excision of bladder lesion
@@ -380,9 +380,9 @@
   - Removal of  bladder, urethra, and f at in a f emale
   - 57.710 Laparoscopic cystectomy (IM)
   - Code also any:
-  - lymph node dissection (40.3, 40.5)
+  - lymph node dissection ([40.3](#40-3), [40.5](#40-5))
   - urinary diversion ([56.51-56.79](#56-51))
-  - *Excludes:* that as part of pelvic exenteration in female (68.8)
+  - *Excludes:* that as part of pelvic exenteration in female ([68.8](#68-8))
 #### 57.72 Cystectomy with f ormation of  cutaneous uretero-ileostomy (incontinent intestinal urine {#57-72}
   - reservoir formation) (IM)
 #### 57.73 Cystectomy with laparoscopic ureter transplantation into intestine (IM) {#57-73}
@@ -398,7 +398,7 @@
   - *Excludes:* repair of:
     - current obstetric laceration ([75.61](../chapter-13/index.md#75-61))
     - cystocele ([70.50-70.51](../chapter-12/index.md#70-50))
-    - that for stress incontinence (59.3-59.79)
+    - that for stress incontinence ([59.3](#59-3)-[59.79](#59-79))
 #### 57.81 Suture of laceration of bladder {#57-81}
 #### 57.82 Closure of  cystostomy {#57-82}
   - 57.820 Laparoscopic vesicointestinal fistula closure (IM)
@@ -478,11 +478,11 @@
 - Perineal urethrostomy
 - Removal of  calculus f rom urethra by incision
   - *Excludes:* drainage of bulbourethral gland or periurethral tissue ([58.91](#58-91))
-    - internal urethral meatotomy (58.5)
-    - removal of urethral calculus without incision (58.6)
+    - internal urethral meatotomy ([58.5](#58-5))
+    - removal of urethral calculus without incision ([58.6](#58-6))
 ### 58.1 Urethral meatotomy {#58-1}
 
-  - *Excludes:* internal urethral meatotomy (58.5)
+  - *Excludes:* internal urethral meatotomy ([58.5](#58-5))
 ### 58.2 Diagnostic procedures on urethra {#58-2}
 
 #### 58.21 Perineal urethroscopy {#58-21}
@@ -501,7 +501,7 @@
     - fistulectomy ([58.43](#58-43))
     - urethrectomy as part of:
     - complete cystectomy ([57.79](#57-79))
-    - pelvic evisceration (68.8)
+    - pelvic evisceration ([68.8](#68-8))
     - radical cystectomy ([57.71](#57-71))
 #### 58.31 Endoscopic excision or destruction of lesion or tissue of urethra {#58-31}
   - Fulguration of urethral lesion
@@ -651,10 +651,10 @@
 - Ureterovesical orif ice dilation
 #### 59.80 Endoscopic urethral stent insertion (IM) {#59-80}
   - Endoscopic ureteric stent insertion
-  - Code also any ureterotomy (56.2)
+  - Code also any ureterotomy ([56.2](#56-2))
   - *Excludes:* that for:
     - retrograde pyelogram ([87.74](../chapter-16/index.md#87-74))
-    - transurethral removal of calculus or clot from ureter and renal pelvis (56.0)
+    - transurethral removal of calculus or clot from ureter and renal pelvis ([56.0](#56-0))
 ### 59.9 Other operations on urinary system {#59-9}
 
   - *Excludes:* nonoperative removal of therapeutic device ([97.61-97.69](../chapter-16/index.md#97-61))

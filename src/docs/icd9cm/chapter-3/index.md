@@ -199,7 +199,7 @@
 
 ### 11.0 Magnetic removal of embedded foreign body from cornea {#11-0}
 
-  - *Excludes:* that with incision (11.1)
+  - *Excludes:* that with incision ([11.1](#11-1))
 ### 11.1 Incision of  cornea {#11-1}
 
 - Incision of  cornea f or removal of  f oreign body
@@ -258,7 +258,7 @@
 #### 11.99 Other {#11-99}
 ## 12 Operations on iris, ciliary body, sclera, and anterior chamber {#12}
 
-  - *Excludes:* operations on cornea (11.0-11.99)
+  - *Excludes:* operations on cornea ([11.0](#11-0)-[11.99](#11-99))
 ### 12.0 Removal of  intraocular f oreign body f rom anterior segment of  eye {#12-0}
 
 #### 12.00 Removal of  intraocular f oreign body f rom anterior segment of  eye, not otherwise specif ied {#12-00}
@@ -374,7 +374,7 @@
 
 ### 13.0 Removal of  f oreign body f rom lens {#13-0}
 
-  - *Excludes:* removal of pseudophakos (13.8)
+  - *Excludes:* removal of pseudophakos ([13.8](#13-8))
 #### 13.00 Removal of  f oreign body f rom lens, not otherwise specif ied {#13-00}
 #### 13.01 Removal of  f oreign body f rom lens with use of  magnet {#13-01}
 #### 13.02 Removal of  f oreign body f rom lens without use of  magnet {#13-02}
@@ -434,7 +434,7 @@
 
 ### 14.0 Removal of  f oreign body f rom posterior segment of  eye {#14-0}
 
-  - *Excludes:* removal of surgically implanted material (14.6)
+  - *Excludes:* removal of surgically implanted material ([14.6](#14-6))
 #### 14.00 Removal of  f oreign body f rom posterior segment of  eye, not otherwise specif ied {#14-00}
 #### 14.01 Removal of  f oreign body f rom posterior segment of  eye with use of  magnet {#14-01}
 #### 14.02 Removal of  f oreign body f rom posterior segment of  eye without use of  magnet {#14-02}
@@ -511,7 +511,7 @@
 #### 15.12 Advancement of one extraocular muscle {#15-12}
 #### 15.13 Resection of  one extraocular muscle {#15-13}
 #### 15.19 Other operations on one extraocular muscle involving temporary detachment from globe {#15-19}
-  - *Excludes:* transposition of muscle (15.5)
+  - *Excludes:* transposition of muscle ([15.5](#15-5))
 ### 15.2 Other operations on one extraocular muscle {#15-2}
 
 #### 15.21 Lengthening procedure on one extraocular muscle {#15-21}
@@ -559,7 +559,7 @@
     - objective functional tests of eye ([95.21-95.26](../chapter-16/index.md#95-21))
     - ocular thermography ([88.82](../chapter-16/index.md#88-82))
     - tonometry ([89.11](../chapter-16/index.md#89-11))
-    - x-ray of orbit (87.14, 87.16)
+    - x-ray of orbit ([87.14](#87-14), [87.16](#87-16))
 ### 16.3 Evisceration of eyeball {#16-3}
 
 #### 16.31 Removal of  ocular contents with synchronous implant into scleral shell {#16-31}
@@ -600,7 +600,7 @@
 
 #### 16.81 Repair of  wound of  orbit {#16-81}
   - *Excludes:* reduction of orbital fracture ([76.78-76.79](../chapter-14/index.md#76-78))
-    - repair of extraocular muscles (15.7)
+    - repair of extraocular muscles ([15.7](#15-7))
 #### 16.82 Repair of  rupture of  eyeball {#16-82}
   - Repair of  multiple structures of  eye
   - *Excludes:* repair of laceration of:
