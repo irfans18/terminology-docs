@@ -21,6 +21,7 @@ export default defineConfig({
       { text: "Home", link: "/" },
       // { text: "Examples", link: "/markdown-examples" },
       { text: "ICD-9-CM", link: "/icd9cm/chapter-0/" },
+      // { text: "Changelog", link: "/changelog" },
     ],
 
     sidebar: [
@@ -55,6 +56,7 @@ export default defineConfig({
           { text: "16 - Diagnostic/Therapeutic (87-99)", link: "/icd9cm/chapter-16/" },
         ],
       },
+      { text: "Changelog", link: "/changelog" },
     ],
 
     socialLinks: [
@@ -63,6 +65,9 @@ export default defineConfig({
 
     search: {
       provider: "local",
+      options: {
+        detailedView: true,
+      },
     },
   },
   vite: {
