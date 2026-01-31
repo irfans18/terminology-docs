@@ -1,0 +1,63 @@
+ICD-9-CM With Indonesian Modification (IM) INDEX TO PROCEDURES (FY11)
+
+
+Wheeler operation
+     entropion repair 08.44
+     halving procedure (eyelid) 08.24
+Whipple operation (radical pancreaticoduodenectomy) 52.7
+     Child modif ication (radical subtotal pancreatectomy) 52.53
+     Rodney Smith modif ication (radical subtotal pancreatectomy) 52.53
+White operation (lengthening of tendo calcaneus by incomplete tenotomy) 83.11
+Whitehead operation
+     glossectomy, radical 25.4
+     hemorrhoidectomy 49.46
+Whitman operation
+     f oot stabilization (talectomy) 77.98
+     hip reconstruction 81.40
+     repair of serratus anterior muscle 83.87
+     talectomy 77.98
+     trochanter wedge osteotomy 77.25
+Wier operation (entropion repair) 08.44
+Williams-Richardson operation (vaginal construction) 70.61
+     with graf t or prosthesis 70.63
+Wilms operation (thoracoplasty) 33.34
+Wilson operation (angulation osteotomy f or hallux valgus) 77.51
+Window operation
+     antrum (nasal sinus) -- see Antrotomy, maxillary
+     aorticopulmonary 39.59
+     bone cortex -- see also Incision, bone 77.10
+          f acial 76.09
+     nasoantral -- see Antrotomy, maxillary
+     pericardium 37.12
+     pleura 34.09
+Winiwarter operation (cholecystoenterostomy) 51.32
+Wiring
+     aneurysm 39.52
+     dental (f or immobilization) 93.55
+          with f racture-reduction -- see Reduction, f racture
+          orthodontic 24.7
+Wirsungojejunostomy 52.96
+Witzel operation (temporary gastrostomy) 43.19
+Woodward operation (release of high riding scapula) 81.83
+Wrapping, aneurysm (gauze) (methyl methacrylate) (plastic) 39.52
+
+
+                                                  X
+Xenograf t 86.65
+Xerography, breast 87.36
+Xeromammography 87.36
+Xiphoidectomy 77.81
+X-ray
+    chest (routine) 87.44
+         wall NEC 87.39
+    contrast -- see Radiography, contrast
+    diagnostic -- see Radiography
+    injection of radio-opaque substance -- see Radiography, contrast
+    skeletal series, whole or complete 88.31
+    therapeutic -- see Therapy, radiation
+
+
+
+
+                                                 366
+

@@ -1,0 +1,64 @@
+ICD-9-CM With Indonesian Modification (IM) INDEX TO PROCEDURES (FY11)
+
+
+     penile dorsal vein ligation 63.12 (IM)
+Videourodynamic 88.70 (IM)
+Vidianectomy 05.21
+Villusectomy -- see also Synovectomy 80.70
+Vision check 95.09
+Visual evoked potential (VEP) 95.23
+Visual head impulse test 95.442 (IM)
+Vitrectomy (mechanical) (posterior approach) 14.74
+     with scleral buckling 14.49
+     anterior approach 14.73
+Vocational
+     assessment 93.85
+     retraining 93.85
+     schooling 93.82
+Voice training (postlaryngectomy) 93.73
+von Kraske operation (proctectomy) 48.64
+Voss operation (hanging hip operation) 83.19
+Vulpius (-Compere) operation (lengthening of gastrocnemius muscle) 83.85
+Vulvectomy (bilateral) (simple) 71.62
+     partial (unilateral) 71.61
+     radical (complete) 71.5
+     unilateral 71.61
+V-Y operation (repair)
+     bladder 57.89
+          neck 57.85
+               laparoscopic 57.850 (IM)
+     ectropion 08.44
+     lip 27.59
+     skin (without graf t) 86.89
+     subcutaneous tissue (without skin graf t) 86.89
+     tongue 25.59
+
+
+                                                  W
+
+Wada test (hemispheric f unction) 89.10
+Wang needle aspiration biopsy
+   bronchus 33.24
+   lung 33.27
+Ward-Mayo operation (vaginal hysterectomy) 68.59
+   laparoscopically assisted (LAVH) 68.51
+Washing -- see Lavage and Irrigation
+Waterston operation (aorta-right pulmonary artery anastomosis) 39.0
+Watkins (-Wertheim) operation (uterus interposition) 69.21
+Watson-Jones operation
+   hip arthrodesis 81.21
+   reconstruction of lateral ligaments, ankle 81.49
+   shoulder arthrodesis (extra-articular) 81.23
+   tenoplasty 83.88
+Webbing (syndactylization) 86.89
+Weir operation
+   appendicostomy 47.91
+   correction of nostrils 21.86
+Wertheim operation (radical hysterectomy) 68.69
+   laparoscopic 68.61
+West operation (dacryocystorhinostomy) 09.81
+
+
+
+                                                 365
+

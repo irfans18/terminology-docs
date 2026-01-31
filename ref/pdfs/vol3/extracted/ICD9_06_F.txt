@@ -1,0 +1,693 @@
+ICD-9-CM With Indonesian Modification (IM) INDEX TO PROCEDURES (FY11)
+
+
+               mechanical f ragmentation 13.66
+               needling 13.64
+               phacof ragmentation (mechanical) 13.66
+    common duct stones (percutaneous) (through sinus tract) (with basket) 51.96
+    f at f or graf t or banking 86.90
+    f oreign body -- see Removal, f oreign body
+    kidney stone(s), percutaneous 55.03
+          with f ragmentation procedure 55.04
+    lens (eye) -- see also Extraction, cataract 13.19
+    Malstrom's 72.79
+          with episiotomy 72.71
+    menstrual, menses 69.6
+    milk f rom lactating breast (manual) (pump) 99.98
+    tooth (by f orceps) (multiple) (single) NEC 23.09
+          with mucoperiosteal f lap elevation 23.19
+          with elevation of mucoperiosteal f lap 23.14 (IM)
+          deciduous 23.01
+          surgical NEC -- see also Removal, tooth, surgical 23.19
+    vacuum, f etus 72.79
+          with episiotomy 72.71
+    vitreous -- see also Removal, vitreous 14.72
+
+
+                                                   F
+Face lif t 86.82
+Facetectomy 77.89
+Facilitation, intraocular circulation NEC 12.59
+Failed (trial) f orceps 73.3
+Family
+    counselling (medical) (social) 94.49
+    therapy 94.42
+Farabeuf operation (ischiopubiotomy) 77.39
+Fasanella-Servatt operation (blepharoptosis repair) 08.35
+Fasciaplasty -- see Fascioplasty
+Fascia sling operation -- see Operation, sling
+Fasciectomy 83.44
+    f or graf t 83.43
+          hand 82.34
+    hand 82.35
+          f or graf t 82.34
+    palmar (release of Dupuytren's contracture) 82.35
+Fasciodesis 83.89
+    hand 82.89
+Fascioplasty -- see also Repair, f ascia 83.89
+    hand -- see also Repair, f ascia,hand 82.89
+Fasciorrhaphy -- see Suture, f ascia
+Fasciotomy 83.14
+    Dupuytren's 82.12
+          with excision 82.35
+    Dwyer 83.14
+    hand 82.12
+    Ober-Yount 83.14
+    orbital -- see also Orbitotomy 16.09
+    palmar (release of Dupuytren's contracture) 82.12
+          with excision 82.35
+
+
+
+                                                  124
+ICD-9-CM With Indonesian Modification (IM) INDEX TO PROCEDURES (FY11)
+
+
+Feeding
+           Early initiation of breast f eeding 99.980 (IM)
+Fenestration
+      aneurysm (dissecting), thoracic aorta 39.54
+      aortic aneurysm 39.54
+      cardiac valve 35.10
+      chest wall 34.01
+      ear
+           inner (with graf t) 20.61
+                revision 20.62
+           tympanic 19.55
+      labyrinth (with graf t) 20.61
+      Lempert's (endaural) 19.9
+      operation (aorta) 39.54
+      oval window, ear canal 19.55
+      palate 27.1
+      pericardium 37.12
+      semicircular canals (with graf t) 20.61
+      stapes f oot plate (with vein graf t) 19.19
+           with incus replacement 19.11
+      tympanic membrane 19.55
+      vestibule (with graf t) 20.61
+Ferguson operation (hernia repair) 53.00
+Fetography 87.81
+Fetoscopy 75.31
+Fiberoscopy -- see Endoscopy, by site
+Fibroidectomy, uterine 68.29
+Fick operation (perf oration of f oot plate) 19.0
+Filipuncture (aneurysm) (cerebral) 39.52
+Filleting
+      hammer toe 77.56
+      pancreas 52.3
+Filling, tooth (amalgam) (plastic) (silicate) 23.2
+      root canal -- see also Therapy, root canal 23.70
+Fimbriectomy -- see also Salpingectomy, partial 66.69
+      Uchida (with tubal ligation) 66.32
+Finney operation (pyloroplasty) 44.29
+Fissurectomy, anal 49.39
+      endoscopic 49.31
+      skin (subcutaneous tissue) 49.04
+Fistulectomy -- see also Closure, f istula, by site
+      abdominothoracic 34.83
+      abdominouterine 69.42
+      anus 49.12
+      appendix 47.92
+      bile duct 51.79
+      biliary tract NEC 51.79
+      bladder (transurethral approach) 57.84
+      bone -- see also Excision, lesion, bone 77.60
+      branchial clef t 29.52
+      bronchocutaneous 33.42
+      bronchoesophageal 33.42
+      bronchomediastinal 34.73
+      bronchopleural 34.73
+      bronchopleurocutaneous 34.73
+      bronchopleuromediastinal 34.73
+
+
+
+                                                      125
+ICD-9-CM With Indonesian Modification (IM) INDEX TO PROCEDURES (FY11)
+
+
+   bronchovisceral 33.42
+   cervicosigmoidal 67.62
+   cholecystogastroenteric 51.93
+   cornea 11.49
+   diaphragm 34.83
+   enterouterine 69.42
+   esophagopleurocutaneous 34.73
+   esophagus NEC 42.84
+   f allopian tube 66.73
+   gallbladder 51.93
+   gastric NEC 44.63
+   hepatic duct 51.79
+   hepatopleural 34.73
+   hepatopulmonary 34.73
+   intestine
+         large 46.76
+         small 46.74
+   intestinouterine 69.42
+   joint -- see also Excision, lesion, joint 80.80
+   lacrimal
+         gland 09.21
+         sac 09.6
+   laryngotracheal 31.62
+   larynx 31.62
+   mediastinocutaneous 34.73
+   mouth NEC 27.53
+   nasal 21.82
+         sinus 22.71
+   nasolabial 21.82
+   nasopharyngeal 21.82
+   oroantral 22.71
+   oronasal 21.82
+   pancreas 52.95
+   perineorectal 71.72
+   perineosigmoidal 71.72
+   perirectal, not opening into rectum 48.93
+   pharyngoesophageal 29.53
+   pharynx NEC 29.53
+   pleura 34.73
+   rectolabial 71.72
+   rectourethral 58.43
+   rectouterine 69.42
+   rectovaginal 70.73
+   rectovesical 57.83
+   rectovulvar 71.72
+   rectum 48.73
+   salivary (duct) (gland) 26.42
+   scrotum 61.42
+   skin 86.3
+   stomach NEC 44.63
+   subcutaneous tissue 86.3
+   thoracoabdominal 34.83
+   thoracogastric 34.83
+   thoracointestinal 34.83
+   thorax NEC 34.73
+   trachea NEC 31.73
+
+
+
+                                                     126
+ICD-9-CM With Indonesian Modification (IM) INDEX TO PROCEDURES (FY11)
+
+
+     tracheoesophageal 31.73
+     ureter 56.84
+     urethra 58.43
+     uteroenteric 69.42
+     uterointestinal 69.42
+     uterorectal 69.42
+     uterovaginal 69.42
+     vagina 70.75
+     vesicosigmoidovaginal 57.83
+     vocal cords 31.62
+     vulvorectal 71.72
+Fistulization
+     appendix 47.91
+     arteriovenous 39.27
+           Insertion of permanent central dialysis catheter 39.271 (IM)
+           Insertion of temporary central dialysis catheter 39.270 (IM)
+     cisterna chyli 40.62
+     endolymphatic sac (f or decompression) 20.79
+     esophagus, external 42.10
+           cervical 42.11
+           specif ied technique NEC 42.19
+     interatrial 35.41
+     labyrinth (f or decompression) 20.79
+     lacrimal sac into nasal cavity 09.81
+     larynx 31.29
+     lymphatic duct, lef t (thoracic) 40.62
+     orbit 16.09
+     peritoneal 54.93
+     salivary gland 26.49
+     sclera 12.69
+           by trephination 12.61
+           with iridectomy 12.65
+     sinus, nasal NEC 22.9
+     subarachnoid space 02.2
+                 with Endoscopic 02.20 (IM)
+     thoracic duct 40.62
+     trachea 31.29
+     tracheoesophageal 31.95
+     urethrovaginal 58.0
+     ventricle, cerebral -- see also Shunt, ventricular 02.2
+Fistulogram
+     abdominal wall 88.03
+     chest wall 87.38
+     retroperitoneum 88.14
+     specif ied site NEC 88.49
+Fistulotomy, anal 49.11
+Fitting
+     arch bars (orthodontic) 24.7
+           f or immobilization (f racture) 93.55
+     artif icial limb 84.40
+     contact lens 95.32
+     denture (total) 99.97
+           bridge (f ixed) 23.42
+                 removable 23.43
+           partial (f ixed) 23.42
+                 removable 23.43
+
+
+
+                                                     127
+ICD-9-CM With Indonesian Modification (IM) INDEX TO PROCEDURES (FY11)
+
+
+    hearing aid 95.48
+    obturator (orthodontic) 24.7
+    ocular prosthetics 95.34
+    orthodontic
+         appliance 24.7
+         obturator 24.7
+         wiring 24.7
+    orthotic device 93.23
+    periodontal splint (orthodontic) 24.7
+    prosthesis, prosthetic device
+         above knee 84.45
+         arm 84.43
+              lower (and hand) 84.42
+              upper (and shoulder) 84.41
+         below knee 84.46
+         hand (and lower arm) 84.42
+         leg 84.47
+              above knee 84.45
+              below knee 84.46
+         limb NEC 84.40
+         ocular 95.34
+         penis (external) 64.94
+               correction of chordee of penis with graf t 64.940 (IM)
+         shoulder (and upper arm) 84.41
+    spectacles 95.31
+Five-in-one repair, knee 81.42
+Fixation
+    bone
+         external, without reduction 93.59
+              with f racture reduction -- see Reduction, f racture
+              cast immobilization NEC 93.53
+              external f ixator - see Fixator, external
+              splint 93.54
+              traction (skeletal) NEC 93.44
+                   intermittent 93.43
+         internal (without f racture reduction) 78.50
+              with f racture reduction -- see Reduction, f racture
+              carpal, metacarpal 78.54
+              clavicle 78.51
+              f emur 78.55
+              f ibula 78.57
+              humerus 78.52
+              patella 78.56
+              pelvic 78.59
+              phalanges (f oot) (hand) 78.59
+              radius 78.53
+              scapula 78.51
+              specif ied site NEC 78.59
+              tarsal, metatarsal 78.58
+              thorax (ribs) (sternum) 78.51
+                   sternal f ixation device with rigid plates 84.94
+              tibia 78.57
+              ulna 78.53
+              vertebrae 78.59
+    breast (pendulous) 85.6
+    cardinal ligaments 69.22
+
+
+
+                                                     128
+ICD-9-CM With Indonesian Modification (IM) INDEX TO PROCEDURES (FY11)
+
+
+    cervical collar 93.52
+    duodenum 46.62
+          to abdominal wall 46.61
+    external (without manipulation f or reduction) 93.59
+          with f racture reduction -- see Reduction, f racture
+          cast immobilization NEC 93.53
+          pressure dressing 93.56
+          splint 93.54
+          strapping (non-traction) 93.59
+          traction (skeletal) NEC 93.44
+               intermittent 93.43
+    hip 81.40
+    ileum 46.62
+          to abdominal wall 46.61
+    internal
+          with f racture reduction -- see Reduction, f racture
+          without f racture reduction -- see Fixation, bone, internal
+    intestine 46.60
+          large 46.64
+               to abdominal wall 46.63
+          small 46.62
+               to abdominal wall 46.61
+          to abdominal wall 46.60
+    iris (bombé) 12.11
+    jejunum 46.62
+          to abdominal wall 46.61
+    joint -- see Arthroplasty
+    kidney 55.7
+    ligament
+          cardinal 69.22
+          palpebrae 08.36
+    omentum 54.74
+    parametrial 69.22
+    plaster jacket 93.51
+          other cast 93.53
+    rectum (sling) 48.76
+    spine, with f usion -- see also Fusion, spinal 81.00
+    spleen 41.95
+    splint 93.54
+    tendon 83.88
+          hand 82.85
+    testis in scrotum 62.5
+    tongue 25.59
+    urethrovaginal (to Cooper's ligament) 70.77
+          with graf t or prosthesis 70.78
+    uterus (abdominal) (vaginal) (ventrof ixation) 69.22
+    vagina 70.77
+          with graf t or prosthesis 70.78
+Fixator, external
+    computer assisted (dependent) 84.73
+    hybrid device or system 84.73
+    Ilizarov type 84.72
+    monoplanar system 84.71
+    ring device or system 84.72
+    Shef f ield type 84.72
+Flap (IM)
+
+
+
+                                                       129
+ICD-9-CM With Indonesian Modification (IM) INDEX TO PROCEDURES (FY11)
+
+
+   cross leg f lap 86.740 (IM)
+   genitals (IM)
+          simple & small local skin f lap, genitals 86.743 (IM)
+    omental f lap 86.742 (IM)
+    tongue f lap 86.710 (IM)
+Flooding (psychologic desensitization) 94.33
+Flowmetry, Doppler (ultrasonic) -- see also Ultrasonography
+    aortic arch 88.73
+    head and neck 88.71
+    heart 88.72
+    Peak nasal inspiratory f lowmetry (PNIF) 21.290 (IM)
+    thorax NEC 88.73
+Fluoroscopy -- see Radiography
+Fog therapy (respiratory) 93.94
+Folding, eye muscle 15.22
+    multiple (two or more muscles) 15.4
+Foley operation (pyeloplasty) 55.87
+Fontan operation (creation of conduit between right atrium and pulmonary artery) 35.94
+Foraminotomy 03.09
+Forced extension, limb 93.25
+Forceps delivery -- see Delivery, f orceps
+Formation
+    adhesions
+          pericardium 36.39
+          pleura 34.6
+    anus, artif icial -- see Colostomy
+          duodenostomy 46.39
+          ileostomy -- see Ileostomy
+          jejunostomy 46.39
+                percutaneous (endoscopic) (PEJ) 46.32
+    arteriovenous f istula (f or kidney dialysis) (peripheral) (shunt) 39.27
+          external cannula 39.93
+          Insertion of permanent central dialysis catheter 39.271 (IM)
+          Insertion of temporary central dialysis catheter 39.270 (IM)
+    bone f lap, cranial 02.03
+    cardiac device (def ibrillator) (pacemaker) pocket
+          with initial insertion of cardiac device -- omit code
+          new site (skin) (subcutaneous) 37.79
+    colostomy -- see Colostomy
+    conduit
+          apical-aortic (AAC) 35.93
+          ileal (urinary) 56.51
+          lef t ventricle and aorta 35.93
+          right atrium and pulmonary artery 35.94
+          right ventricle and pulmonary (distal) artery 35.92
+                in repair of
+                     pulmonary artery atresia 35.92
+                     transposition of great vessels 35.92
+                     truncus arteriosus 35.83
+    endorectal ileal pouch (J-pouch) (H-pouch) (S-pouch) (with anastomosis to anus) 45.95
+    f istula
+          arteriovenous (f or kidney dialysis) (peripheral shunt) 39.27
+                external cannula 39.93
+                Insertion of permanent central dialysis catheter 39.271 (IM)
+                Insertion of temporary central dialysis catheter 39.270 (IM)
+          bladder to skin NEC 57.18
+
+
+
+                                                 130
+ICD-9-CM With Indonesian Modification (IM) INDEX TO PROCEDURES (FY11)
+
+
+               with bladder f lap 57.21
+               percutaneous 57.17
+           cutaneoperitoneal 54.93
+           gastric 43.19
+               percutaneous (endoscopic) (transabdominal) 43.11
+           mucous -- see Colostomy
+           rectovaginal 48.99
+           tracheoesophageal 31.95
+           tubulovalvular (Beck-Jianu) (Frank's) (Janeway) (Spivack's) (Ssabanejew-Frank) 43.19
+           urethrovaginal 58.0
+   ileal
+        bladder
+             closed 57.87 [45.51]
+             open 56.51
+        conduit 56.51
+   interatrial f istula 35.42
+   mucous f istula -- see Colostomy
+   pericardial
+        baf f le, interatrial 35.91
+        window 37.12
+   pleural window (f or drainage) 34.09
+   pocket
+        cardiac device (def ibrillator) (pacemaker)
+             with initial insertion of cardiac device - omit code
+             new site (skin)(subcutaneous) 37.79
+        loop recorder 37.79
+        thalamic stimulator pulse generator
+             with initial insertion of battery package - omit code
+             new site (skin)(subcutaneous) 86.09
+   pupil 12.39
+        by iridectomy 12.14
+   rectovaginal f istula 48.99
+   reversed gastric tube (intrathoracic) (retrosternal) 42.58
+        antesternal or antethoracic 42.68
+   septal def ect, interatrial 35.42
+   shunt
+        abdominovenous 54.94
+        arteriovenous 39.93
+        peritoneojugular 54.94
+        peritoneo-vascular 54.94
+        pleuroperitoneal 34.05
+        transjugular intrahepatic portosystemic (TIPS) 39.1
+   subcutaneous tunnel
+        esophageal 42.86
+             with anastomosis -- see Anastomosis, esophagus, antesternal
+        pulse generator lead wire 86.99
+             with initial procedure - omit code
+        thalamic stimulator pulse generator pocket
+             with initial insertion of battery package - omit code
+             new site (skin)(subcutaneous) 86.09
+   syndactyly (f inger) (toe) 86.89
+   tracheoesophageal 31.95
+   tubulovalvular f istula (Beck-Jianu) (Frank's) (Janeway) (Spivak's) (Ssabanejew-Frank) 43.19
+   uretero-ileostomy, cutaneous 56.51
+   ureterostomy, cutaneous 56.61
+        ileal 56.51
+
+
+
+                                                    131
+ICD-9-CM With Indonesian Modification (IM) INDEX TO PROCEDURES (FY11)
+
+
+    urethrovaginal f istula 58.0
+    window
+         pericardial 37.12
+         pleural (f or drainage) 34.09
+               thoracoscopic 34.06
+Fothergill (-Donald) operation (uterine suspension) 69.22
+Fowler operation
+    arthroplasty of metacarpophalangeal joint 81.72
+    release (mallet f inger repair) 82.84
+    tenodesis (hand) 82.85
+    thoracoplasty 33.34
+Fox operation (entropion repair with wedge resection) 08.43
+Fracture, surgical -- see also Osteoclasis 78.70
+    turbinates (nasal) 21.62
+Fragmentation
+    lithotriptor -- see Lithotripsy
+    mechanical
+         cataract (with aspiration) 13.43
+              posterior route 13.42
+              secondary membrane 13.66
+         secondary membrane (af ter cataract) 13.66
+    ultrasonic
+         cataract (with aspiration) 13.41
+         stones, urinary (Kock pouch) 59.95
+         urinary stones 59.95
+              percutaneous nephrostomy 55.04
+Franco operation (suprapubic cystotomy) 57.18
+Frank operation (permanent gastrostomy) 43.19
+Frazier (-Spiller) operation (subtemporal trigeminal rhizotomy) 04.02
+Fredet-Ramstedt operation (pyloromyotomy) (with wedge resection) 43.3
+Freeing
+    adhesions -- see Lysis, adhesions
+    anterior synechiae (with injection of air or liquid) 12.32
+    artery-vein-nerve bundle 39.91
+    extraocular muscle, entrapped 15.7
+    goniosynechiae (with injection of air or liquid) 12.31
+    intestinal segment f or interposition 45.50
+         large 45.52
+         small 45.51
+    posterior synechiae 12.33
+    synechiae (posterior) 12.33
+         anterior (with injection of air or liquid) 12.32
+    vascular bundle 39.91
+    vessel 39.91
+Freezing
+    gastric 96.32
+    prostate 60.62
+Frenckner operation (intrapetrosal drainage) 20.22
+Frenectomy
+    labial 27.41
+    lingual 25.92
+    lip 27.41
+    maxillary 27.41
+    tongue 25.92
+Frenotomy
+    labial 27.91
+
+
+
+                                                132
+ICD-9-CM With Indonesian Modification (IM) INDEX TO PROCEDURES (FY11)
+
+
+    lingual 25.91
+Frenulumectomy -- see Frenectomy
+Frickman operation (abdominal proctopexy) 48.75
+Frommel operation (shortening of uterosacral ligaments) 69.22
+Fulguration -- see also Electrocoagulation and Destruction, lesion,by site
+    adenoid f ossa 28.7
+    anus 49.39
+         endoscopic 49.31
+    bladder (transurethral) 57.49
+         suprapubic 57.59
+    choroid 14.21
+    duodenum 45.32
+         endoscopic 45.30
+    esophagus 42.39
+         endoscopic 42.33
+    large intestine 45.49
+         endoscopic 45.43
+             polypectomy 45.42
+    penis 64.2
+    perineum, f emale 71.3
+    prostate, transurethral 60.29
+    rectum 48.32
+         radical 48.31
+    retina 14.21
+    scrotum 61.3
+    Skene's gland 71.3
+    skin 86.3
+    small intestine NEC 45.34
+         duodenum 45.32
+             endoscopic 45.30
+    stomach 43.49
+         endoscopic 43.41
+    subcutaneous tissue 86.3
+    tonsillar f ossa 28.7
+    urethra 58.39
+         endoscopic 58.31
+    vulva 71.3
+Function
+    study -- see also Scan, radioisotope
+         gastric 89.39
+         muscle 93.08
+             ocular 95.25
+         nasal 89.12
+         pulmonary -- see categories 89.37
+         renal 92.03
+         thyroid 92.01
+         urethral sphincter 89.23
+Functional septoplasty 21.50 (IM)
+Fundectomy, uterine 68.39
+Fundoplication (esophageal) (Nissen's) 44.66
+    laparoscopic 44.67
+Fundusectomy, gastric 43.89
+Fusion
+    atlas-axis (spine) - see Fusion, spinal, atlas-axis
+    bone -- see also Osteoplasty 78.40
+    cervical (spine) (C2 level or below) - see Fusion, spinal, cervical
+
+
+
+                                                   133
+ICD-9-CM With Indonesian Modification (IM) INDEX TO PROCEDURES (FY11)
+
+
+   claw toe 77.57
+   craniocervical - see Fusion, spinal, craniocervical
+   dorsal, dorsolumbar - see Fusion, spinal, dorsal, dorsolumbar
+   epiphyseal-diaphyseal -- see also Arrest, bone growth 78.20
+   epiphysiodesis -- see also Arrest, bone growth 78.20
+   hammer toe 77.56
+   joint (with bone graf t) -- see also Arthrodesis 81.20
+        ankle 81.11
+        claw toe 77.57
+        f oot NEC 81.17
+        hammer toe 77.56
+        hip 81.21
+        interphalangeal, f inger 81.28
+        ischiof emoral 81.21
+        metatarsophalangeal 81.16
+        midtarsal 81.14
+        overlapping toe(s) 77.58
+        pantalar 81.11
+        spinal -- see also Fusion, spinal 81.00
+        subtalar 81.13
+        tarsal joints NEC 81.17
+        tarsometatarsal 81.15
+        tibiotalar 81.11
+        toe NEC 77.58
+             claw toe 77.57
+             hammer toe 77.56
+             overlapping toe(s) 77.58
+   lip to tongue 25.59
+   lumbar, lumbosacral - see Fusion, spinal, lumbar, lumbosacral
+   occiput-C2 (spinal) - see Fusion, spinal, occiput
+   spinal, NOS (with graf t) (with internal f ixation) (with instrumentation) 81.00
+        anterior lumbar interbody f usion (ALIF) 81.06
+        atlas-axis (anterior transoral) (posterior) 81.01
+             f or pseudarthrosis 81.31
+        axial lumbar interbody f usion (AxiaLIF®) 81.08
+        cervical (C2 level or below) NEC 81.02
+             anterior column (interbody), anterolateral (anterior) technique 81.02
+                  f or pseudarthrosis 81.32
+             C1-C2 level (anterior) (posterior) 81.01
+                  f or pseudarthrosis 81.31
+             f or pseudarthrosis 81.32
+             posterior column, posterolateral (posterior) technique 81.03
+                  f or pseudarthrosis 81.33
+        craniocervical (anterior transoral) (posterior) 81.01
+             f or pseudarthrosis 81.31
+        direct lateral interbody f usion (DLIF) 81.06
+        dorsal, dorsolumbar NEC 81.05
+             anterior column (interbody), anterolateral (anterior) (extracavitary) technique 81.04
+                  f or pseudarthrosis 81.34
+             f or pseudarthrosis 81.35
+             posterior column, posterolateral (posterior) technique 81.05
+                  f or pseudarthrosis 81.35
+        extreme lateral interbody f usion (XLIF®) 81.06
+        f acet 81.07
+        lumbar, lumbosacral NEC 81.08
+             anterior column (interbody)
+
+
+
+                                                    134
+

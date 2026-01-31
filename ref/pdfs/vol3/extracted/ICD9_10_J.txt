@@ -1,0 +1,63 @@
+ICD-9-CM With Indonesian Modification (IM) INDEX TO PROCEDURES (FY11)
+
+
+          with removal of f oreign body 98.21
+     gastrostomy 96.36
+     lacrimal
+          canaliculi 09.42
+          punctum 09.41
+     muscle 83.02
+          hand 82.02
+     nasal
+          passages 96.53
+          sinus 22.00
+     nasolacrimal duct 09.43
+          with insertion of tube or stent 09.44
+     nephrostomy 96.45
+     peritoneal 54.25
+     pyelostomy 96.45
+     rectal 96.39
+     stomach 96.33
+     tendon (sheath) 83.01
+          hand 82.01
+     trachea NEC 96.56
+     traumatic cataract 13.3
+     tube
+          biliary NEC 96.41
+          nasogastric NEC 96.34
+          pancreatic 96.42
+     ureterostomy 96.46
+     ventricular shunt 02.41
+     wound (cleaning) NEC 96.59
+Irving operation (tubal ligation) 66.32
+Irwin operation -- see also Osteotomy 77.30
+Ischiectomy (partial) 77.89
+     total 77.99
+Ischiopubiotomy 77.39
+Isolation
+     af ter contact with inf ectious disease 99.84
+     ileal loop 45.51
+     intestinal segment or pedicle f lap
+          large 45.52
+          small 45.51
+Isthmectomy, thyroid -- see also Thyroidectomy, partial 06.39
+IVUS-see Ultrasound, intravascular, by site
+
+
+                                                   J
+Jaboulay operation (gastroduodenostomy) 44.39
+    laparoscopic 44.38
+Janeway operation (permanent gastrostomy) 43.19
+Jatene operation (arterial switch) 35.84
+Jejunectomy 45.62
+Jejunocecostomy 45.93
+Jejunocholecystostomy 51.32
+Jejunocolostomy 45.93
+Jejunoileostomy 45.91
+Jejunojejunostomy 45.91
+Jejunopexy 46.61
+
+
+
+                                                  187
+
