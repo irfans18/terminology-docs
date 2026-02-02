@@ -1,0 +1,126 @@
+ICD-9-CM With Indonesian Modification (IM) INDEX TO PROCEDURES (FY11)
+
+
+Myotenontoplasty -- see also Repair, tendon 83.88
+    hand 82.86
+Myotenoplasty -- see also Repair, tendon 83.88
+    hand 82.86
+Myotenotomy 83.13
+    hand 82.11
+Myotomy 83.02
+    with division 83.19
+        hand 82.19
+    colon NEC 46.92
+        sigmoid 46.91
+    cricopharyngeal 29.31
+        that f or pharyngeal (pharyngoesophageal) diverticulectomy 29.32
+    esophagus 42.7
+    eye (oblique) (rectus) 15.21
+        multiple (two or more muscles) 15.4
+    hand 82.02
+        with division 82.19
+    levator palpebrae 08.38
+    sigmoid (colon) 46.91
+Myringectomy 20.59
+Myringodectomy 20.59
+Myringomalleolabyrinthopexy 19.52
+Myringoplasty (epitympanic, type I) (by cauterization) (by graf t) 19.4
+    revision 19.6
+Myringostapediopexy 19.53
+Myringostomy 20.01
+Myringotomy (with aspiration) (with drainage) 20.09
+    with insertion of tube or drainage device (button) (grommet) 20.01
+
+
+                                                         N
+Nailing, intramedullary
+     with f racture reduction - see Reduction, f racture with internal f ixation
+     internal (without f racture reduction) 78.50
+Narcoanalysis 94.21
+Narcosynthesis 94.21
+Narrowing, palpebral f issure 08.51
+Nasoendoskopi 21.23 (IM)
+Nasopharyngogram 87.09
+     contrast 87.06
+Necropsy 89.8
+Needleoscopy (f etus) 75.31
+Needling
+     Bartholin's gland (cyst) 71.21
+     cataract (secondary) 13.64
+     f allopian tube 66.91
+     hydrocephalic head 73.8
+     lens (capsule) 13.2
+     pupillary membrane (iris) 12.35
+Nephrectomy (complete) (total) (unilateral) 55.51
+     bilateral 55.54
+     deceased donor (cadaver) 55.521 (IM)
+     partial (wedge) 55.4
+     Living donor nephrectomy 55.520 (IM)
+
+
+
+                                                        208
+ICD-9-CM With Indonesian Modification (IM) INDEX TO PROCEDURES (FY11)
+
+
+    remaining or solitary kidney 55.52
+    removal transplanted kidney 55.53
+Nephrocolopexy 55.7
+Nephrocystanastomosis NEC 56.73
+Nephrolithotomy 55.01
+Nephrolysis 59.02
+    laparoscopic 59.03
+Nephropexy 55.7
+Nephroplasty 55.89
+Nephropyeloplasty 55.87
+Nephropyeloureterostomy 55.86
+Nephrorrhaphy 55.81
+Nephroscopy 55.21
+Nephrostolithotomy, percutaneous 55.03
+Nephrostomy (with drainage tube) 55.02
+    closure 55.82
+    percutaneous 55.03
+         with f ragmentation (ultrasound) 55.04
+Nephrotomogram, nephrotomography NEC 87.72
+Nephrotomy 55.01
+Nephroureterectomy (with bladder cuf f ) 55.51
+Nephroureterocystectomy 55.51 [57.79]
+Nerve block (cranial) (peripheral) NEC -- see also Block, by site 04.81
+Neurectasis (cranial) (peripheral) 04.91
+Neurectomy (cranial) (inf raorbital) (occipital) (peripheral) (spinal) NEC 04.07
+    gastric (vagus) -- see also Vagotomy 44.00
+    opticociliary 12.79
+    paracervical 05.22
+    presacral 05.24
+    retrogasserian 04.07
+    sympathetic -- see Sympathectomy
+    trigeminal 04.07
+    tympanic 20.91
+Neurexeresis NEC 04.07
+Neuroablation
+    radiof requency 04.2
+Neuroanastomosis (cranial) (peripheral) NEC 04.74
+    accessory-f acial 04.72
+    accessory-hypoglossal 04.73
+    hypoglossal-f acial 04.71
+Neurolysis (peripheral nerve) NEC 04.49
+    carpal tunnel 04.43
+    cranial nerve NEC 04.42
+    f acial nerve 04.421 (IM)
+    optic nerve 04.420 (IM)
+    spinal (cord) (nerve roots) 03.6
+    tarsal tunnel 04.44
+    trigeminal nerve 04.41
+Neuromonitoring
+    intra-operative 00.94
+Neuroplasty (cranial) (peripheral) NEC 04.79
+    of old injury (delayed repair) 04.76
+    revision 04.75
+Neurorrhaphy (cranial) (peripheral) 04.3
+Neurotomy (cranial) (peripheral) (spinal) NEC 04.04
+    acoustic 04.01
+
+
+
+                                                     209
+

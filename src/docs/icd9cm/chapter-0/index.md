@@ -1,0 +1,635 @@
+- CLASSIFICATION OF PROCEDURES
+
+# 0. PROCEDURES AND INTERVENTIONS, NOT ELSEWHERE CLASSIFIED (00)
+
+## 00 Procedures and interventions, Not Elsewhere Classified {#00}
+
+### 00.0 Therapeutic ultrasound {#00-0}
+
+- _Excludes:_ diagnostic ultrasound (non-invasive) ([88.71-88.79](../chapter-16/index.md#88-71))
+  - intracardiac echocardiography [ICE] (heart chamber(s)) ([37.28](../chapter-7/index.md#37-28))
+  - intravascular imaging (adjunctive) ([00.21-00.29](#00-21))
+
+#### 00.01 Therapeutic ultrasound of vessels of head and neck {#00-01}
+
+- Anti-restenotic ultrasound
+- Intravascular non-ablative ultrasound
+- _Excludes:_ diagnostic ultrasound of:
+  - eye ([95.13](../chapter-16/index.md#95-13))
+  - head and neck ([88.71](../chapter-16/index.md#88-71))
+  - that of inner ear ([20.79](../chapter-4/index.md#20-79))
+  - ultrasonic:
+  - angioplasty of non-coronary vessel ([39.50](../chapter-7/index.md#39-50))
+  - embolectomy ([38.01](#38-01), [38.02](#38-02))
+  - endarterectomy ([38.11](#38-11), [38.12](#38-12))
+  - thrombectomy ([38.01](#38-01), [38.02](#38-02))
+
+#### 00.02 Therapeutic ultrasound of heart {#00-02}
+
+- Anti-restenotic ultrasound
+- Intravascular non-ablative ultrasound
+- _Excludes:_ diagnostic ultrasound of heart ([88.72](../chapter-16/index.md#88-72))
+  - ultrasonic ablation of heart lesion ([37.34](../chapter-7/index.md#37-34))
+  - ultrasonic angioplasty of coronary vessels ([00.66](#00-66), [36.09](#36-09))
+
+#### 00.03 Therapeutic ultrasound of peripheral vascular vessels {#00-03}
+
+- Anti-restenotic ultrasound
+- Intravascular non-ablative ultrasound
+- _Excludes:_ diagnostic ultrasound of peripheral vascular system ([88.77](../chapter-16/index.md#88-77))
+  - ultrasonic angioplasty of:
+  - non-coronary vessel ([39.50](../chapter-7/index.md#39-50))
+
+#### 00.09 Other therapeutic ultrasound {#00-09}
+
+- _Excludes:_ ultrasonic:
+  - fragmentation of urinary stones ([59.95](../chapter-10/index.md#59-95))
+  - percutaneous nephrostomy with fragmentation ([55.04](../chapter-10/index.md#55-04))
+  - physical therapy ([93.35](../chapter-16/index.md#93-35))
+  - transurethral guided laser induced prostatectomy (TULIP) ([60.21](../chapter-11/index.md#60-21))
+
+### 00.1 Pharamaceuticals {#00-1}
+
+#### 00.10 Implantation of chemotherapeutic agent {#00-10}
+
+- Brain wafer chemotherapy
+- Interstitial/ intracavitary
+- _Excludes:_ injection or infusion of cancer chemotherapeutic substance ([99.25](../chapter-16/index.md#99-25))
+
+#### 00.11 Infusion of drotrecogin alf a (activated) {#00-11}
+
+- Infusion of recombinant protein
+
+#### 00.12 Administration of inhaled nitric oxide {#00-12}
+
+- Nitric oxide therapy
+
+#### 00.13 Injection or Infusion of nesiritide {#00-13}
+
+- Human B-type natriuretic peptide (hBNP)
+
+#### 00.14 Injection or Infusion of oxazolidinone class of antibiotics {#00-14}
+
+- Linezolid injection
+
+#### 00.15 High-dose infusion interleukin-2 [IL-2] {#00-15}
+
+- Infusion (IV bolus, CIV) interleukin
+- Injection of aldesleukin
+- _Excludes:_ low-dose infusion interleukin-2 ([99.28](../chapter-16/index.md#99-28))
+
+#### 00.16 Pressurized treatment of venous bypass graft [conduit] with pharmaceutical substance {#00-16}
+
+- Ex-vivo treatment of vessel
+- Hyperbaric pressurized graf t [conduit]
+
+#### 00.17 Infusion of vasopressor agent {#00-17}
+
+#### 00.18 Infusion of immunosuppressive antibody therapy {#00-18}
+
+- _Includes:_ during induction phase of solid organ transplantation
+  - monoclonal antibody therapy
+  - polyclonal antibody therapy
+
+#### 00.19 Disruption of blood brain barrier via infusion [BBBD] {#00-19}
+
+- Infusion of substance to disrupt blood brain barrier
+- Code also chemotherapy ([99.25](../chapter-16/index.md#99-25))
+- _Excludes:_ other perfusion ([39.97](../chapter-7/index.md#39-97))
+
+### 00.2 Intravascular imaging of blood vessels {#00-2}
+
+- Endovascular ultrasonography
+- Intravascular ultrasound (IVUS)
+- Intravascular [ultrasound] imaging of blood vessels
+- Virtual histology intravascular ultrasound [VH-IVUS]
+- Note: real-time imaging of lumen of blood vessel(s) using sound waves
+- Code also any synchronous diagnostic or therapeutic procedures
+  - _Excludes:_ adjunct vascular system procedures, number of vessels treated ([00.40-00.43](#00-40))
+    - diagnostic procedures on blood vessels ([38.21-38.29](../chapter-7/index.md#38-21))
+    - diagnostic ultrasound of peripheral vascular system ([88.77](../chapter-16/index.md#88-77))
+    - intravascular imaging of vessel(s) by OCT ([38.24-38.25](../chapter-7/index.md#38-24))
+    - magnetic resonance imaging (MRI) ([88.91-88.97](../chapter-16/index.md#88-91))
+    - therapeutic ultrasound ([00.01-00.09](#00-01))
+
+#### 00.21 Intravascular imaging of extracranial cerebral vessels {#00-21}
+
+- Common carotid vessels and branches
+- Intravascular ultrasound (IVUS), extracranial cerebral vessels
+- _Excludes:_ diagnostic ultrasound (non-invasive) of head and neck ([88.71](../chapter-16/index.md#88-71))
+
+#### 00.22 Intravascular imaging of intrathoracic vessels {#00-22}
+
+- Aorta and aortic arch
+- Intravascular ultrasound (IVUS), intrathoracic vessels
+- Vena cava (superior) (inferior)
+- _Excludes:_ diagnostic ultrasound (non-invasive) of other sites of thorax ([88.73](../chapter-16/index.md#88-73))
+
+#### 00.23 Intravascular imaging of peripheral vessels {#00-23}
+
+- Imaging of :
+- vessels of arm(s)
+- vessels of leg(s)
+- Intravascular ultrasound (IVUS), peripheral vessels
+- _Excludes:_ diagnostic ultrasound (non-invasive) of peripheral vascular system ([88.77](../chapter-16/index.md#88-77))
+
+#### 00.24 Intravascular imaging of coronary vessels {#00-24}
+
+- Intravascular ultrasound (IVUS), coronary vessels
+- _Excludes:_ diagnostic ultrasound (non-invasive) of heart ([88.72](../chapter-16/index.md#88-72))
+  - intracardiac echocardiography [ICE] (ultrasound of heart chamber(s)) ([37.28](../chapter-7/index.md#37-28))
+
+#### 00.25 Intravascular imaging of renal vessels {#00-25}
+
+- Intravascular ultrasound (IVUS), renal vessels
+- Renal artery
+- _Excludes:_ diagnostic ultrasound (non-invasive) of urinary system ([88.75](../chapter-16/index.md#88-75))
+
+#### 00.28 Intravascular imaging, other specified vessel(s) {#00-28}
+
+#### 00.29 Intravascular imaging, unspecified vessel(s) {#00-29}
+
+### 00.3 Computer assisted surgery [CAS] {#00-3}
+
+- CT-free navigation
+- Image guided navigation (IGN)
+- Image guided surgery (IGS)
+- Imageless navigation
+- That without the use of robotic(s) technology
+- Code also diagnostic or therapeutic procedure
+  - _Excludes:_ robotic assisted procedures ([17.41-17.49](../chapter-3a/index.md#17-41))
+    - stereotactic frame application only ([93.59](../chapter-16/index.md#93-59))
+
+#### 00.31 Computer assisted surgery with CT/CTA {#00-31}
+
+#### 00.32 Computer assisted surgery with MR/MRA {#00-32}
+
+#### 00.33 Computer assisted surgery with f luoroscopy {#00-33}
+
+#### 00.34 Imageless computer assisted surgery {#00-34}
+
+#### 00.35 Computer assisted surgery with multiple datasets {#00-35}
+
+#### 00.39 Other computer assisted surgery {#00-39}
+
+- Computer assisted surgery NOS
+
+### 00.4 Adjunct Vascular System Procedures {#00-4}
+
+- Note: These codes can apply to both coronary and peripheral vessels. These codes are to be used in
+- conjunction with other
+- therapeutic procedure codes to provide additional information on the number of vessels upon
+- which a procedure
+- was performed and/or the number of stents inserted. As appropriate, code both the number
+- of vessels operated
+- on ([00.40-00.43](#00-40)), and the number of stents inserted ([00.45-00.48](#00-45)).
+- Code also any:
+- angioplasty or atherectomy ([00.61](#00-61)-[00.62](#00-62), [00.66](#00-66), [39.50](#39-50))
+- endarterectomy ([38.10-38.18](../chapter-7/index.md#38-10))
+- insertion of vascular stent(s) ([00.55](#00-55), [00.63](#00-63)-[00.65](#00-65), [36.06](#36-06)-[36.07](#36-07), [39.90](#39-90))
+- other removal of coronary artery obstruction ([36.09](../chapter-7/index.md#36-09))
+
+#### 00.40 Procedure on single vessel {#00-40}
+
+- Number of vessels, unspecified
+- _Excludes:_ (aorto)coronary bypass ([36.10-36.19](../chapter-7/index.md#36-10))
+  - intravascular imaging of blood vessels ([00.21-00.29](#00-21))
+
+#### 00.41 Procedure on two vessels {#00-41}
+
+- _Excludes:_ (aorto) coronary bypass ([36.10-36.19](../chapter-7/index.md#36-10))
+  - intravascular imaging of blood vessels ([00.21-00.29](#00-21))
+
+#### 00.42 Procedure on three vessels {#00-42}
+
+- _Excludes:_ (aorto) coronary bypass ([36.10-36.19](../chapter-7/index.md#36-10))
+  - intravascular imaging of blood vessels ([00.21-00.29](#00-21))
+
+#### 00.43 Procedure on four or more vessels {#00-43}
+
+- _Excludes:_ (aorto) coronary bypass ([36.10-36.19](../chapter-7/index.md#36-10))
+  - intravascular imaging of blood vessels ([00.21-00.29](#00-21))
+
+#### 00.44 Procedure on vessel bifurcation {#00-44}
+
+- Note: This code is to be used to identif y the presence of a vessel bif urcation; it does not describe
+- a specific bifurcation stent. Use this code only once per operative episode, irrespective
+- of the number of bifurcations in vessels.
+
+#### 00.45 Insertion of one vascular stent {#00-45}
+
+- Number of stents, unspecified
+- 00.450 Insertion of one vascular drug eluting or coated baloon (IM)
+- Number of drug eluting or coated baloon, unspecified (IM)
+
+#### 00.46 Insertion of two vascular stents {#00-46}
+
+- 00.460 Insertion of two vascular drug eluting or coated baloon (IM)
+
+#### 00.47 Insertion of three vascular stents {#00-47}
+
+- 00.470 Insertion of three vascular drug eluting or coated baloon (IM)
+
+#### 00.48 Insertion of f our or more vascular stents {#00-48}
+
+- 00.480 Insertion of f our or more drug eluting or coated baloon (IM)
+
+#### 00.49 SuperSaturated oxygen therapy {#00-49}
+
+- Aqueous oxygen (AO) therapy
+- SS02
+- SuperOxygenation infusion therapy
+- Code also any: injection or Infusion of thrombolytic agent ([99.10](../chapter-16/index.md#99-10))
+- insertion of coronary artery stent(s) ([36.06-36.07](../chapter-7/index.md#36-06))
+- intracoronary artery thrombolytic infusion ([36.04](../chapter-7/index.md#36-04))
+- number of vascular stents inserted ([00.45-00.48](#00-45))
+- number of vessels treated ([00.40-00.43](#00-40))
+- open chest coronary artery angioplasty ([36.03](../chapter-7/index.md#36-03))
+- other removal of coronary obstruction ([36.09](../chapter-7/index.md#36-09))
+- percutaneous transluminal coronary angioplasty [PTCA] ([00.66](#00-66))
+- procedure on vessel bifurcation ([00.44](#00-44))
+- _Excludes:_ other oxygen enrichment ([93.96](../chapter-16/index.md#93-96))
+  - other perfusion ([39.97](../chapter-7/index.md#39-97))
+
+### 00.5 Other cardiovascular procedures {#00-5}
+
+#### 00.50 Implantation of cardiac resynchronization pacemaker without mention of def ibrillation, {#00-50}
+
+- total system [CRT-P]
+- Biventricular pacemaker
+- Biventricular pacing without internal cardiac defibrillator
+- BiV pacemaker
+- Implantation of cardiac resynchronization (biventricular) pulse generator pacing device,
+- formation of
+- pocket, transvenous leads including placement of lead into left ventricular coronary
+- venous system, and
+- intraoperative procedures for evaluation of lead signals.
+- That with CRT-P generator and one or more leads
+- Note: Device testing during procedure - omit code
+- _Excludes:_ implantation of cardiac resynchronization defibrillator, total system [CRT-D] ([00.51](#00-51))
+  - insertion or replacement of any type pacemaker device ([37.80-37.87](../chapter-7/index.md#37-80))
+  - replacement of cardiac resynchronization defibrillator pulse generator only [CRT-
+  - D]([00.54](#00-54))
+  - replacement of cardiac resynchronization pacemaker pulse generator only [CRT-
+  - P]([00.53](#00-53))
+
+#### 00.51 Implantation of cardiac resynchronization defibrillator, total system [CRT-D] {#00-51}
+
+- BiV defibrillator
+- Biventricular defibrillator
+- Biventricular pacing with internal cardiac defibrillator
+- BiV ICD
+- BiV pacemaker with defibrillator
+- BiV pacing with defibrillator
+- Implantation of a cardiac resynchronization (biventricular) pulse generator with
+- defibrillator [AICD], formation
+- of pocket, transvenous leads, including placement of lead into left ventricular
+- coronary venous system,
+- intraoperative procedures for evaluation of lead signals, and obtaining defibrillator
+- threshold measurements.
+- That with CRT-D generator and one or more leads
+- Note: Device testing during procedure - omit code
+- _Excludes:_ implantation of cardiac resynchronization pacemaker, total system [CRT-P](<[00.50](#00-50)>)
+  - implantation or replacement of automatic cardioverter/defibrillator, total system [AICD]
+  - ([37.94](../chapter-7/index.md#37-94))
+  - replacement of cardiac resynchronization defibrillator pulse generator, only [CRT-
+  - D]([00.54](#00-54))
+
+#### 00.52 Implantation or replacement of transvenous lead [electrode] into lef t ventricular coronary {#00-52}
+
+- venous system
+- _Excludes:_ implantation of cardiac resynchronization defibrillator, total system [CRT-D](<[00.51](#00-51)>)
+  - implantation of cardiac resynchronization pacemaker, total system [CRT-P](<[00.50](#00-50)>)
+  - initial insertion of transvenous lead [electrode] ([37.70-37.72](../chapter-7/index.md#37-70))
+  - replacement of transvenous atrial and/or ventricular lead(s) [electrodes] ([37.76](../chapter-7/index.md#37-76))
+
+#### 00.53 Implantation or replacement of cardiac resynchronization pacemaker pulse generator {#00-53}
+
+- only [CRT-P]
+- Implantation of CRT-P device with removal of any existing CRT-P or other pacemaker
+- device
+- Note: Device testing during procedure - omit code
+- _Excludes:_ implantation of cardiac resynchronization pacemaker, total system [CRT-P] ([00.50](#00-50))
+  - implantation or replacement of cardiac resynchronization defibrillator pulse generator
+  - only [CRT-D](<[00.54](#00-54)>)
+  - insertion or replacement of any type pacemaker device ([37.80-37.87](../chapter-7/index.md#37-80))
+
+#### 00.54 Implantation or replacement of cardiac resynchronization defibrillator pulse generator {#00-54}
+
+- device only [CRT-D]
+- Implantation of CRT-D device with removal of any existing CRT-D, CRT-P, pacemaker,
+- or defibrillator
+- device
+- Note: Device testing during procedure - omit code
+- _Excludes:_ implantation of automatic cardioverter/defibrillator pulse generator only ([37.96](../chapter-7/index.md#37-96))
+  - implantation of cardiac resynchronization defibrillator, total system [CRT-D] ([00.51](#00-51))
+  - implantation or replacement of cardiac resynchronization pacemaker pulse generator
+  - only [CRT-P] ([00.53](#00-53))
+
+#### 00.55 Insertion of drug-eluting stent(s) of other peripheral vessel(s) {#00-55}
+
+- Endograft(s)
+- Endovascular graft(s)
+- Stent grafts
+- Code also any:
+- angioplasty or atherectomy of other non-coronary vessel(s) ([39.50](../chapter-7/index.md#39-50))
+- number of vascular stents inserted ([00.45-00.48](#00-45))
+- number of vessels treated ([00.40-00.43](#00-40))
+- procedure on vessel bifurcation ([00.44](#00-44))
+- _Excludes:_ drug-coated peripheral stents, e.g., heparin coated ([39.90](../chapter-7/index.md#39-90))
+  - insertion of cerebrovascular stent(s) ([00.63-00.65](#00-63))
+  - insertion of drug-eluting coronary artery stent ([36.07](../chapter-7/index.md#36-07))
+  - insertion of drug-eluting stent(s) of superficial femoral artery ([00.60](#00-60))
+  - insertion of non-drug-eluting stent(s):
+  - coronary artery ([36.06](../chapter-7/index.md#36-06))
+  - peripheral vessel ([39.90](../chapter-7/index.md#39-90))
+  - that for other endovascular procedure ([39.71-39.79](../chapter-7/index.md#39-71))
+
+#### 00.56 Insertion or replacement of implantable pressure sensor (lead) for intracardiac or great {#00-56}
+
+- vessel hemodynamic monitoring
+- Code also any associated implantation or replacement of monitor ([00.57](#00-57))
+- _Excludes:_ circulatory monitoring (blood gas, arterial or venous pressure, cardiac output and
+  - coronary blood flow) ([89.60-89.69](../chapter-16/index.md#89-60))
+
+#### 00.57 Implantation or replacement of subcutaneous device for intracardiac or great vessel {#00-57}
+
+- hemodynamic monitoring
+- Implantation of monitoring device with formation of subcutaneous pocket and
+- connection to intracardiac pressure sensor (lead)
+- Code also any associated insertion or replacement of implanted pressure sensor (lead) ([00.56](#00-56))
+
+#### 00.58 Insertion of intra-aneurysm sac pressure monitoring device (intraoperative) {#00-58}
+
+- Insertion of pressure sensor during endovascular repair of abdominal or thoracic aortic
+- aneurysm(s)
+
+#### 00.59 Intravascular pressure measurement of coronary arteries {#00-59}
+
+- _Includes:_ f ractional f low reserve (FFR)
+  - Code also any synchronous diagnostic or therapeutic procedures
+- _Excludes:_ intravascular pressure measurement of intrathoracic arteries ([00.67](#00-67))
+
+### 00.6 Procedures on blood vessels {#00-6}
+
+#### 00.60 Insertion of drug-eluting stent(s) of superficial femoral artery {#00-60}
+
+- Code also any:
+- angioplasty or atherectomy of other non-coronary vessel(s) ([39.50](../chapter-7/index.md#39-50))
+- non-drug-eluting peripheral stents ([39.90](../chapter-7/index.md#39-90))
+- number of vascular stents inserted ([00.45-00.48](#00-45))
+- number of vessels treated ([00.40-00.43](#00-40))
+- procedure on vessel bifurcation ([00.44](#00-44))
+- _Excludes:_
+  - insertion of drug-eluting stent(s) of other peripheral vessel ([00.55](#00-55))
+  - that for other endovascular procedure ([39.71-39.79](../chapter-7/index.md#39-71))
+
+#### 00.61 Percutaneous angioplasty or atherectomy of precerebral (extracranial) vessel(s) {#00-61}
+
+- Basilar
+- Carotid
+- Vertebral
+- Code also any:
+- injection or infusion of thrombolytic agent ([99.10](../chapter-16/index.md#99-10))
+- number of vascular stents inserted ([00.45-00.48](#00-45))
+- number of vessels treated ([00.40-00.43](#00-40))
+- percutaneous insertion of carotid artery stent(s) ([00.63](#00-63))
+- percutaneous insertion of other precerebral artery stent(s) ([00.64](#00-64))
+- procedure on vessel bifurcation ([00.44](#00-44))
+- _Excludes:_ angioplasty or atherectomy of other non-coronary vessel(s) ([39.50](../chapter-7/index.md#39-50))
+  - removal of cerebrovascular obstruction of vessel(s) by open approach (38.01-38.02,
+  - 38.11-38.12, 38.31-38.32, 38.41-38.42)
+
+#### 00.62 Percutaneous angioplasty or atherectomy of intracranial vessel(s) {#00-62}
+
+- Code also any:
+- injection or infusion of thrombolytic agent ([99.10](../chapter-16/index.md#99-10))
+- number of vascular stents inserted ([00.45-00.48](#00-45))
+- number of vessels treated ([00.40-00.43](#00-40))
+- percutaneous insertion of intracranial stent(s) ([00.65](#00-65))
+- procedure on vessel bifurcation ([00.44](#00-44))
+- _Excludes:_ angioplasty or atherectomy of other non-coronary vessel(s) ([39.50](../chapter-7/index.md#39-50))
+  - removal of cerebrovascular obstruction of vessel(s) by open approach (38.01-38.02,
+  - 38.11-38.12, 38.31-38.32, 38.41-38.42)
+
+#### 00.63 Percutaneous insertion of carotid artery stent(s) {#00-63}
+
+- _Includes:_ the use of any embolic protection device, distal protection device, f ilter
+  - device, or stent delivery system
+  - Non-drug-eluting stent
+  - Code also any:
+  - number of vascular stents inserted ([00.45-00.48](#00-45))
+  - number of vessels treated ([00.40-00.43](#00-40))
+  - percutaneous angioplasty or atherectomy of precerebral vessel(s) ([00.61](#00-61))
+  - procedure on vessel bifurcation ([00.44](#00-44))
+- _Excludes:_ angioplasty or atherectomy of other non-coronary vessel(s)([39.50](../chapter-7/index.md#39-50))
+  - insertion of drug-eluting peripheral vessel stent(s) ([00.55](#00-55))
+
+#### 00.64 Percutaneous insertion of other precerebral (extracranial) artery stent(s) {#00-64}
+
+- _Includes:_ the use of any embolic protection device, distal protection device, f ilter
+  - device, or stent delivery
+  - system
+  - Basilar stent
+  - Vertebral stent
+  - Code also any:
+  - number of vascular stents inserted ([00.45-00.48](#00-45))
+  - number of vessels treated ([00.40-00.43](#00-40))
+  - percutaneous angioplasty or atherectomy of precerebral vessel(s) ([00.61](#00-61))
+  - procedure on vessel bifurcation ([00.44](#00-44))
+- _Excludes:_ angioplasty or atherectomy of other non-coronary vessel(s)([39.50](../chapter-7/index.md#39-50))
+  - insertion of drug-eluting peripheral vessel stent(s) ([00.55](#00-55))
+
+#### 00.65 Percutaneous insertion of intracranial vascular stent(s) {#00-65}
+
+- _Includes:_ the use of any embolic protection device, distal protection device, f ilter
+  - device, or stent delivery
+  - system
+  - Code also any:
+  - number of vascular stents inserted ([00.45-00.48](#00-45))
+  - number of vessels treated ([00.40-00.43](#00-40))
+  - percutaneous angioplasty or atherectomy of intracranial vessel(s) ([00.62](#00-62))
+  - procedure on vessel bifurcation ([00.44](#00-44))
+- _Excludes:_ angioplasty or atherectomy of other non-coronary vessel(s)([39.50](../chapter-7/index.md#39-50))
+  - insertion of drug-eluting peripheral vessel stent(s) ([00.55](#00-55))
+
+#### 00.66 Percutaneous transluminal coronary angioplasty [PTCA] or coronary atherectomy {#00-66}
+
+- Balloon angioplasty of coronary artery
+- Coronary atherectomy
+- Percutaneous coronary angioplasty NOS
+- PTCA NOS
+- Coronary wiring (IM)
+- Parcutaneous transluminal coronary angioplasty (PTCA) without stenting (IM)
+- Angioplasty with IVUS guided (IM)
+- Coronary angioplasty without stenting (IM)
+- Failed angioplasty (IM)
+- Intra Coronary or intra vascular wiring (IM)
+- Rotational atherectomy with rotablation (IM)
+- Angioplasty with OCT guided (optical coherence tomography) (IM)
+- Code also any:
+- injection or infusion of thrombolytic agent ([99.10](../chapter-16/index.md#99-10))
+- insertion of coronary artery stent(s) ([36.06-36.07](../chapter-7/index.md#36-06))
+- intracoronary artery thrombolytic infusion ([36.04](../chapter-7/index.md#36-04))
+- number of vascular stents inserted ([00.45-00.48](#00-45))
+- number of vessels treated ([00.40-00.43](#00-40))
+- procedure on vessel bifurcation ([00.44](#00-44))
+- SuperSaturated oxygen therapy ([00.49](#00-49))
+
+#### 00.67 Intravascular pressure measurement of intrathoracic arteries {#00-67}
+
+- Assessment of:
+- Aorta and aortic arch
+- Carotid
+- Code also any synchronous diagnostic or therapeutic procedures
+
+#### 00.68 Intravascular pressure measurement of peripheral arteries {#00-68}
+
+- Assessment of:
+- Other peripheral vessels
+- Vessels of arm(s)
+- Vessels of leg(s)
+- Code also any synchronous diagnostic or therapeutic procedures
+
+#### 00.69 Intravascular pressure measurement, other specified and unspecified vessels {#00-69}
+
+- Assessment of
+- Iliac vessels
+- Intra-abdominal vessels
+- Mesenteric vessels
+- Renal vessels
+- Code also any synchronous diagnostic or therapeutic procedures
+- _Excludes:_ intravascular pressure measurement of:
+  - coronary arteries ([00.59](#00-59))
+  - intrathoracic arteries ([00.67](#00-67))
+  - peripheral arteries ([00.68](#00-68))
+
+### 00.7 Other hip procedures {#00-7}
+
+#### 00.70 Revision of hip replacement, both acetabular and f emoral components {#00-70}
+
+- Total hip revision
+- Code also any:
+- removal of (cement) (joint) spacer ([84.57](../chapter-14/index.md#84-57))
+- type of bearing surface, if known ([00.74-00.77](#00-74))
+- _Excludes:_
+  - revision of hip replacement, acetabular component only ([00.71](#00-71))
+  - revision of hip replacement, femoral component only ([00.72](#00-72))
+  - revision of hip replacement, Not Otherwise Specified ([81.53](../chapter-14/index.md#81-53))
+  - revision with replacement of acetabular liner and/or femoral head only ([00.73](#00-73))
+
+#### 00.71 Revision of hip replacement, acetabular component {#00-71}
+
+- Partial, acetabular component only
+- That with:
+- exchange of acetabular cup and liner
+- exchange of femoral head
+- Code also any type of bearing surface, if known ([00.74-00.77](#00-74))
+- _Excludes:_
+  - revision of hip replacement, both acetabular and femoral components ([00.70](#00-70))
+  - revision of hip replacement, femoral component ([00.72](#00-72))
+  - revision of hip replacement, Not Otherwise Specified ([81.53](../chapter-14/index.md#81-53))
+  - revision with replacement of acetabular liner and/or femoral head only ([00.73](#00-73))
+
+#### 00.72 Revision of hip replacement, f emoral component {#00-72}
+
+- Partial, femoral component only
+- That with:
+- exchange of acetabular liner
+- exchange of femoral stem and head
+- Code also any type of bearing surface, if known ([00.74-00.77](#00-74))
+- _Excludes:_
+  - revision of hip replacement, acetabular component ([00.71](#00-71))
+  - revision of hip replacement, both acetabular and femoral components ([00.70](#00-70))
+  - revision of hip replacement, not otherwise specified ([81.53](../chapter-14/index.md#81-53))
+  - revision with replacement of acetabular liner and/or femoral head only ([00.73](#00-73))
+
+#### 00.73 Revision of hip replacement, acetabular liner and/or f emoral head only {#00-73}
+
+- Code also any type of bearing surface, if known ([00.74-00.77](#00-74))
+
+#### 00.74 Hip bearing surface, metal-on-polyethylene {#00-74}
+
+#### 00.75 Hip bearing surface, metal-on-metal {#00-75}
+
+#### 00.76 Hip bearing surface, ceramic-on-ceramic {#00-76}
+
+#### 00.77 Hip bearing surface, ceramic-on-polyethylene {#00-77}
+
+### 00.8 Other knee and hip procedures {#00-8}
+
+- Note: Report up to two components using 00.81 - 00.83 to describe revision of knee replacements. If all
+- three components are revised, report 00.80.
+
+#### 00.80 Revision of knee replacement, total (all components) {#00-80}
+
+- Replacement of f emoral, tibial, and patellar components (all components)
+- Code also any removal of (cement) (joint) spacer ([84.57](../chapter-14/index.md#84-57))
+- _Excludes:_
+  - revision of only one or two components (tibial, femoral or patellar component) (00.81-
+  - 00.84)
+
+#### 00.81 Revision of knee replacement, tibial component {#00-81}
+
+- Replacement of tibial baseplate and tibial insert (liner)
+- _Excludes:_
+  - revision of knee replacement, total (all components) ([00.80](#00-80))
+
+#### 00.82 Revision of knee replacement, f emoral component {#00-82}
+
+- That with replacement of tibial insert (liner)
+- _Excludes:_
+  - revision of knee replacement, total (all components) ([00.80](#00-80))
+
+#### 00.83 Revision of knee replacement, patellar component {#00-83}
+
+- _Excludes:_
+  - revision of knee replacement, total (all components) ([00.80](#00-80))
+
+#### 00.84 Revision of total knee replacement, tibial insert (liner) {#00-84}
+
+- Replacement of tibial insert (liner)
+- _Excludes:_
+  - that with replacement of tibial component (tibial baseplate and liner) ([00.81](#00-81))
+
+#### 00.85 Resurf acing hip, total, acetabulum and f emoral head {#00-85}
+
+- Hip resurf acing arthroplasty, total
+
+#### 00.86 Resurf acing hip, partial, f emoral head {#00-86}
+
+- Hip resurf acing arthroplasty, NOS
+- Hip resurf acing arthroplasty, partial, f emoral head
+- _Excludes:_ that with resurfacing of acetabulum ([00.85](#00-85))
+
+#### 00.87 Resurf acing hip, partial, acetabulum {#00-87}
+
+- Hip resurf acing arthroplasty, partial, acetabulum
+- _Excludes:_ that with resurfacing of femoral head ([00.85](#00-85))
+
+### 00.9 Other procedures and interventions {#00-9}
+
+#### 00.91 Transplant from live related donor {#00-91}
+
+- Code also organ transplant procedure
+
+#### 00.92 Transplant from live non-related donor {#00-92}
+
+- Code also organ transplant procedure
+
+#### 00.93 Transplant from cadaver {#00-93}
+
+- Code also organ transplant procedure
+
+#### 00.94 Intra-operative neurophysiologic monitoring {#00-94}
+
+- _Includes:_ Cranial nerve, peripheral nerve and spinal cord
+  - testing performed intra-operatively
+  - Intra-operative neurophysiologic testing
+  - IOM
+  - Nerve monitoring
+  - Neuromonitoring
+- _Excludes:_ brain temperature monitoring ([01.17](../chapter-1/index.md#01-17))
+  - intracranial oxygen monitoring ([01.16](../chapter-1/index.md#01-16))
+  - intracranial pressure monitoring ([01.10](../chapter-1/index.md#01-10))
+  - plethysmogram ([89.58](../chapter-16/index.md#89-58))

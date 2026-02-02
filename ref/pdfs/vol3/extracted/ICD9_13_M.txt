@@ -1,0 +1,566 @@
+ICD-9-CM With Indonesian Modification (IM) INDEX TO PROCEDURES (FY11)
+
+
+       spermatic cord 63.94
+       spinal (cord) (meninges) (nerve roots) 03.6
+       spleen 54.59
+            laparoscopic 54.51
+       tendon 83.91
+            by stretching or manipulation 93.27
+            hand 82.91
+                 by stretching or manipulation 93.26
+       thorax 34.99
+       tongue 25.93
+       trachea 31.92
+       tubo-ovarian 65.89
+            laparoscopic 65.81
+       ureter 59.02
+            with f reeing or repositioning of ureter 59.02
+            intraluminal 56.81
+            laparoscopic 59.03
+       urethra (intraluminal) 58.5
+       uterus 54.59
+            intraluminal 68.21
+            laparoscopic 54.51
+            peritoneal 54.59
+                 laparoscopic 54.51
+       vagina (intraluminal) 70.13
+       vitreous (posterior approach) 14.74
+            anterior approach 14.73
+       vulva 71.01
+    goniosynechiae (with injection of air or liquid) 12.31
+    synechiae (posterior) 12.33
+       anterior (with injection of air or liquid) 12.32
+
+
+                                                     M
+Madlener operation (tubal ligation) 66.31
+Magnet extraction
+    f oreign body
+         anterior chamber, eye 12.01
+         choroid 14.01
+         ciliary body 12.01
+         conjunctiva 98.22
+         cornea 11.0
+         eye, eyeball NEC 98.21
+              anterior segment 12.01
+              posterior segment 14.01
+         intraocular (anterior segment) 12.01
+         iris 12.01
+         lens 13.01
+         orbit 98.21
+         retina 14.01
+         sclera 12.01
+         vitreous 14.01
+Magnetic resonance imaging (nuclear) -- see Imaging, magnetic resonance
+Magnuson (-Stack) operation (arthroplasty f or recurrent shoulder dislocation) 81.82
+Mako Tactile Guidance System™ [TGS] - see category 17.4
+Malleostapediopexy 19.19
+
+
+
+                                                     199
+ICD-9-CM With Indonesian Modification (IM) INDEX TO PROCEDURES (FY11)
+
+
+   with incus replacement 19.11
+Malström's vacuum extraction 72.79
+   with episiotomy 72.71
+Mammaplasty -- see Mammoplasty
+Mammectomy -- see also Mastectomy
+   subcutaneous (unilateral) 85.34
+        with synchronous implant 85.33
+        bilateral 85.36
+               with synchronous implant 85.35
+Mammilliplasty 85.87
+Mammography NEC 87.37
+        Mammography-guided stereotactic biopsy/localization of lesion or tissue of breast 85.111 (IM)
+        MR-guided stereotactic biopsy/localization of lesion or tissue of breast 85.110 (IM)
+Mammoplasty 85.89
+   with
+        f ull-thickness graf t 85.83
+        Dorsalis pedis f lap, f ree 85.709 (IM)
+        Fibular f lap, f ree 85.704 (IM)
+        Groin f lap, f ree 85.707 (IM)
+        Jejunal f lap, f ree 85.708 (IM)
+        Lateral arm f ree 85.702 (IM)
+        Lymph node transf er f lap, f ree 85.705 (IM)
+        Lymphovenous anastomosis 85.706 (IM)
+        muscle f lap 85.85
+        pedicle graf t 85.84
+        split-thickness graf t 85.82
+        Superomedial thigh f lap 85.701 (IM)
+        Superf icial Inf erior Epigastric Arteri (SIEA) f lap, f ree 85.703 (IM)
+
+   amputative (reduction) (bilateral) 85.32
+       unilateral 85.31
+   augmentation 85.50
+       with
+            breast implant (bilateral) 85.54
+                 unilateral 85.53
+            injection into breast (bilateral) 85.52
+            unilateral 85.51
+   reduction (bilateral) 85.32
+       unilateral 85.31
+   revision 85.89
+   size reduction (gynecomastia) (bilateral) 85.32
+       unilateral 85.31
+Mammotomy 85.0
+Manchester (-Donald) (-Fothergill) operation (uterine suspension) 69.22
+Mandibulectomy (partial) 76.31
+   total 76.42
+       with reconstruction 76.41
+Maneuver (method)
+   Bracht 72.52
+   Credé 73.59
+   De Lee (key-in-lock) 72.4
+   Kristeller 72.54
+   Loveset's (extraction of arms in breech birth) 72.52
+   Mauriceau (-Smellie-Veit) 72.52
+   Pinard (total breech extraction) 72.54
+   Prague 72.52
+
+
+
+                                                  200
+ICD-9-CM With Indonesian Modification (IM) INDEX TO PROCEDURES (FY11)
+
+
+   Ritgen 73.59
+   Scanzoni (rotation) 72.4
+   Van Hoorn 72.52
+   Wigand-Martin 72.52
+Manipulation
+   with reduction of f racture or dislocation -- see Reduction, f racture and Reduction, dislocation
+   enterostomy stoma (with dilation) 96.24
+   intestine (intra-abdominal) 46.80
+        large 46.82
+        small 46.81
+   joint
+        adhesions 93.26
+             temporomandibular 76.95
+        dislocation -- see Reduction, dislocation
+   lacrimal passage (tract) NEC 09.49
+   muscle structures 93.27
+   musculoskeletal (physical therapy) NEC 93.29
+   nasal septum, displaced 21.88
+   osteopathic NEC 93.67
+        f or general mobilization (general articulation) 93.61
+        high-velocity, low-amplitude f orces (thrusting) 93.62
+        indirect f orces 93.65
+        isotonic, isometric f orces 93.64
+        low-velocity, high-amplitude f orces (springing) 93.63
+        to move tissue f luids 93.66
+   rectum 96.22
+   salivary duct 26.91
+   stomach, intraoperative 44.92
+   temporomandibular joint NEC 76.95
+   ureteral calculus by catheter
+        with removal 56.0
+        without removal 59.8
+   uterus NEC 69.98
+        gravid 75.99
+        inverted
+             manual replacement (f ollowing delivery) 75.94
+        surgical -- see Repair, inverted uterus
+Manometry
+   esophageal 89.32
+   spinal f luid 89.15
+   urinary 89.21
+Manual arts therapy 93.81
+Mapping
+   cardiac (electrophysiologic) 37.27
+        doppler (f low) 88.72
+   electrocardiogram only 89.52
+Marckwald operation (cervical os repair) 67.59
+Marshall-Marchetti (-Krantz) operation (retropubic urethral suspension) 59.5
+Marsupialization -- see also Destruction, lesion, by site
+   cyst
+        Bartholin's 71.23
+        brain 01.59
+        cervical (nabothian) 67.31
+        dental 24.4
+        dentigerous 24.4
+        kidney 55.31
+
+
+
+                                                    201
+ICD-9-CM With Indonesian Modification (IM) INDEX TO PROCEDURES (FY11)
+
+
+        larynx 30.01
+        liver 50.21
+        ovary 65.21
+             laparoscopic 65.23
+        pancreas 52.3
+        pilonidal (open excision) (with partial closure) 86.21
+        salivary gland 26.21
+        spinal (intraspinal) (meninges) 03.4
+        spleen, splenic 41.41
+   lesion
+        brain 01.59
+        cerebral 01.59
+        liver 50.21
+   pilonidal cyst or sinus (open excision) (with partial closure) 86.21
+   pseudocyst, pancreas 52.3
+   ranula, salivary gland 26.21
+Massage
+   cardiac (external) (manual) (closed) 99.63
+        open 37.91
+   prostatic 99.94
+   rectal (f or levator spasm) 99.93
+MAST (military anti-shock trousers) 93.58
+Mastectomy (complete) (prophylactic) (simple) (unilateral) 85.41
+   with
+        excision of regional lymph nodes 85.43
+             bilateral 85.44
+        preservation of skin and nipple 85.34
+             with synchronous implant 85.33
+             bilateral 85.36
+                  with synchronous implant 85.35
+   bilateral 85.42
+   extended
+        radical (Urban) (unilateral) 85.47
+             bilateral 85.48
+        simple (with regional lymphadenectomy) (unilateral) 85.43
+             bilateral 85.44
+   modif ied radical (unilateral) 85.43
+        bilateral 85.44
+   partial 85.23
+   radical (Halsted) (Meyer) (unilateral) 85.45
+        bilateral 85.46
+        extended (Urban) (unilateral) 85.47
+             bilateral 85.48
+        modif ied (unilateral) 85.43
+             bilateral 85.44
+   subcutaneous 85.34
+        with synchronous implant 85.33
+        bilateral 85.36
+             with synchronous implant 85.35
+   subtotal 85.23
+Masters' stress test (two-step) 89.42
+Mastoidectomy (cortical) (conservative) 20.49
+   complete (simple) 20.41
+   modif ied radical 20.49
+   radical 20.42
+        modif ied 20.49
+
+
+
+                                                    202
+ICD-9-CM With Indonesian Modification (IM) INDEX TO PROCEDURES (FY11)
+
+
+   simple (complete) 20.41
+Mastoidotomy 20.21
+Mastoidotympanectomy 20.42
+Mastopexy 85.6
+Mastoplasty -- see Mammoplasty
+Mastorrhaphy 85.81
+Mastotomy 85.0
+Matas operation (aneurysmorrhaphy) 39.52
+Mayo operation
+   bunionectomy 77.59
+   herniorrhaphy
+        laparoscopic 53.43
+             with graf t or prosthesis 53.42
+        other and open with graf t or prosthesis 53.41
+        other open 53.49
+   vaginal hysterectomy 68.59
+        laparoscopically assisted (LAVH) 68.51
+Maze procedure
+   Cox-maze, open 37.33
+   maze, modif ied, endovascular 37.34
+   maze, modif ied, open 37.33
+Mazet operation (knee disarticulation) 84.16
+McBride operation (bunionectomy with sof t tissue correction) 77.53
+McBurney operation -- see Repair, hernia, inguinal
+McCall operation (enterocele repair) 70.92
+McCauley operation (release of clubf oot) 83.84
+McDonald operation (encirclement suture, cervix) 67.59
+McIndoe operation (vaginal construction) 70.61
+   with graf t or prosthesis 70.63
+McKeever operation (f usion of f irst metatarsophalangeal joint f or hallux valgus repair) 77.52
+McKissock operation (breast reduction) 85.33
+McReynolds operation (transposition of pterygium) 11.31
+McVay operation
+   f emoral hernia -- see Repair, hernia, f emoral
+   inguinal hernia -- see Repair, hernia, inguinal
+Measurement
+   airway resistance 89.38
+   anatomic NEC 89.39
+   arterial blood gases 89.65
+        basal metabolic rate (BMR) 89.39
+        blood gases
+             arterial 89.65
+                  continuous intra-arterial 89.60
+             venous 89.66
+   body 93.07
+   cardiac output (by)
+        Fick method 89.67
+        indicator dilution technique 89.68
+        oxygen consumption technique 89.67
+        thermodilution indicator 89.68
+   cardiovascular NEC 89.59
+   central venous pressure 89.62
+   coronary blood f low 89.69
+        f ractional f low reserve (FFR) 00.59
+        intravascular pressure measurement 00.59
+   gastric f unction NEC 89.39
+
+
+
+                                                    203
+ICD-9-CM With Indonesian Modification (IM) INDEX TO PROCEDURES (FY11)
+
+
+   girth 93.07
+   intelligence 94.01
+   intracranial pressure 01.10
+   intraocular tension or pressure 89.11
+        as part of extended ophthalmologic work-up 95.03
+   intrauterine pressure 75.35
+   intravascular pressure 00.69
+        coronary 00.59
+        iliac 00.69
+        intra-abdominal 00.69
+        intrathoracic 00.67
+             aorta 00.67
+             aortic arch 00.67
+             carotid 00.67
+        mesenteric 00.69
+        peripheral 00.68
+        renal 00.69
+   limb length 93.06
+   lung volume 89.37
+   mixed venous blood gases 89.66
+   physiologic NEC 89.39
+   portovenous pressure 89.62
+   pulmonary airway f low, endoscopic 33.72
+   range of motion 93.05
+   renal clearance 89.29
+   respiratory NEC 89.38
+   skin f old thickness 93.07
+   skull circumf erence 93.07
+   sphincter of Oddi pressure 51.15
+   systemic arterial
+        blood gases 89.65
+             continuous intra-arterial 89.60
+        pressure 89.61
+   urine (bioassay) (chemistry) 89.29
+   vascular 89.59
+   venous blood gases 89.66
+   vital capacity (pulmonary) 89.37
+Meatoplasty
+   ear 18.6
+   urethra 58.47
+Meatotomy
+   ureter 56.1
+   urethra 58.1
+        internal 58.5
+Mechanical ventilation -- see Ventilation
+Mediastinectomy 34.3
+Mediastinoscopy 34.22
+Mediastinotomy (Chamberlain procedure) 34.1
+   with pneumonectomy 32.59
+        thoracoscopic 32.50
+   with exploration or biopsy (IM)
+        cervical approach 34.291 (IM)
+        transthoracic approach 34.292 (IM)
+Meloplasty, f acial 86.82
+Meningeorrhaphy (cerebral) 02.12
+   spinal NEC 03.59
+
+
+
+                                                204
+ICD-9-CM With Indonesian Modification (IM) INDEX TO PROCEDURES (FY11)
+
+
+        f or
+               meningocele 03.51
+               myelomeningocele 03.52
+Meniscectomy (knee) NEC 80.6
+     acromioclavicular 80.91
+     sternoclavicular 80.91
+     temporomandibular (joint) 76.5
+     wrist 80.93
+Menstrual extraction or regulation 69.6
+Mentoplasty (augmentation) (with graf t) (with implant) 76.68
+     reduction 76.67
+Mesenterectomy 54.4
+Mesenteriopexy 54.75
+Mesenteriplication 54.75
+Mesocoloplication 54.75
+Mesopexy 54.75
+Metatarsectomy 77.98
+Metroplasty 69.49
+Microdissectomy (endoscopic/microscopic) 80.55 (IM)
+Microlaryngoscopy 31.421 (IM)
+Microligation f or varicocele 63.10 (IM)
+Microsurgical epididymal sperm aspiration (MESA) 63.03 (IM)
+Microsurgical testicular sperm extraction (micro -TESE) 99.960 (IM)
+Mid f orceps delivery 72.29
+Mikulicz operation (exteriorization of intestine) (f irst stage) 46.03
+     second stage 46.04
+Miles operation (proctectomy), NOS 48.50
+     laparoscopic 48.51
+     open 48.52
+     other 48.59
+Military anti-shock trousers (MAST) 93.58
+Millard operation (cheiloplasty) 27.54
+Miller operation
+     midtarsal arthrodesis 81.14
+     urethrovesical suspension 59.4
+Millin-Read operation (urethrovesical suspension) 59.4
+Mist therapy 93.94
+Mitchell operation (hallux valgus repair) 77.51
+MitraClip® mitral valve leaf let clip 35.97
+Mobilization
+     joint NEC 93.16
+     mandible 76.95
+     neostrophingic (mitral valve) 35.12
+     spine 93.15
+     stapes (transcrural) 19.0
+     testis in scrotum 62.5
+Modif ied radical neck dissection (IM)
+     bilateral 40.56 (IM)
+     unilateral 40.55 (IM)
+Mohs operation (chemosurgical excision of skin) 86.24
+Molecular biological test-blood 90.57 (IM)
+Molegraphy 87.81
+Monitoring
+     BIS (bispectral index) monitoring 00.94 [89.14]
+     brain temperature 01.17
+     cardiac output (by)
+
+
+
+                                                     205
+ICD-9-CM With Indonesian Modification (IM) INDEX TO PROCEDURES (FY11)
+
+
+        ambulatory (ACM) 89.50
+        electrographic 89.54
+              during surgery -- omit code
+        Fick method 89.67
+        Holter-type device 89.50
+        indicator dilution technique 89.68
+        intracardiac or great vessel hemodynamic
+              sensor (lead) 00.56
+              subcutaneous device 00.57
+        oxygen consumption technique 89.67
+        specif ied technique NEC 89.68
+        telemetry (cardiac) 89.54
+        thermodilution indicator 89.68
+        transesophageal (Doppler) (ultrasound) 89.68
+   central venous pressure 89.62
+   circulatory NEC 89.69
+   continuous intra-arterial blood gas 89.60
+   coronary blood f low (coincidence counting technique) 89.69
+        f ractional f low reserve (FFR) 00.59
+        intravascular pressure measurement 00.59
+   electroencephalographic 89.19
+        radio-telemetered 89.19
+        video 89.19
+   f etus (f etal heart)
+        antepartum
+              nonstress (f etal activity acceleration determinations) 75.34
+              oxytocin challenge (contraction stress test) 75.35
+              ultrasonography (early pregnancy) (Doppler) 88.78
+        intrapartum (during labor) (extrauterine) (external) 75.34
+              ausculatory (stethoscopy) -- omit code
+              internal (with contraction measurements) (ECG) 75.32
+              intrauterine (direct) (ECG) 75.32
+              phonocardiographic (extrauterine) 75.34
+              pulsed ultrasound (Doppler) 88.78
+              transcervical f etal oxygen saturation monitoring 75.38
+              transcervical f etal SpO2 monitoring 75.38
+   Holter-type device (cardiac) 89.50
+   IAEMT [intraoperative anesthetic ef f ect monitoring and titration] 00.94 [89.14]
+   intra-aneursym sac pressure 00.58
+   intracranial oxygen 01.16
+   intracranial pressure 01.10
+   intraoperative anesthetic ef f ect monitoring and titration [IAEMT] 00.94 [89.14]
+   intravascular pressure 00.69
+        coronary 00.59
+        iliac 00.69
+        intra-abdominal 00.69
+        intrathoracic 00.67
+              aorta 00.67
+              aortic arch 00.67
+              carotid 00.67
+        mesenteric 00.69
+        peripheral 00.68
+   renal 00.69
+   neurophysiologic
+        intra-operative 00.94
+   partial pressure of brain oxygen (PbtO2) 01.16
+
+
+                                                   206
+ICD-9-CM With Indonesian Modification (IM) INDEX TO PROCEDURES (FY11)
+
+
+    pulmonary artery
+         pressure 89.63
+         wedge 89.64
+    sleep (recording) -- see categories 89.17
+    systemic arterial pressure 89.61
+         intra-aneursym sac pressure 00.58
+    telemetry (cardiac) 89.54
+    transesophageal cardiac output (Doppler) 89.68
+    ventricular pressure (cardiac) 89.62
+Moore operation (arthroplasty) 81.52
+Moschowitz
+    enterocele repair 70.92
+         with graf t or prosthesis 70.93
+    herniorrhaphy -- see Repair, hernia, f emoral
+    sigmoidopexy 46.63
+Mountain resort sanitarium 93.98
+Mouth-to-mouth resuscitation 93.93
+Moxibustion 93.35
+MR-guided stereotactic biopsy/localization of lesion or tissue of breast 85.110 (IM)
+MRI -- see Imaging, magnetic resonance
+Muller operation (banding of pulmonary artery) 38.85
+Multiple sleep latency test (MSLT) 89.18
+Mumf ord operation (partial claviculectomy) 77.81
+Musculoplasty -- see also Repair, muscle 83.87
+    hand -- see also Repair, muscle, hand 82.89
+Music therapy 93.84
+Mustard operation (interatrial transposition of venous return) 35.91
+Myectomy 83.45
+    anorectal 48.92
+    eye muscle 15.13
+         multiple 15.3
+    f or graf t 83.43
+         hand 82.34
+    hand 82.36
+         f or graf t 82.34
+    levator palpebrae 08.33
+    rectal 48.92
+Myelogram, myelography (air) (gas) 87.21
+    posterior f ossa 87.02
+Myelotomy
+    spine, spinal (cord) (tract) (one-stage) (two-stage) 03.29
+         percutaneous 03.21
+Myocardiectomy (inf arcted area) 37.33
+Myocardiotomy 37.11
+Myoclasis 83.99
+    hand 82.99
+Myomectomy (uterine) 68.29
+    broad ligament 69.19
+Myoplasty -- see also Repair, muscle 83.87
+    hand -- see also Repair, muscle, hand 82.89
+    mastoid 19.9
+Myorrhaphy 83.65
+    hand 82.46
+Myosuture 83.65
+    hand 82.46
+Myotasis 93.27
+
+
+
+                                                   207
+

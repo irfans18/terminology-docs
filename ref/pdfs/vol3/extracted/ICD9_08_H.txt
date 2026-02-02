@@ -1,0 +1,252 @@
+ICD-9-CM With Indonesian Modification (IM) INDEX TO PROCEDURES (FY11)
+
+
+          specif ied site NEC 86.69
+                f ull-thickness 86.63
+                      genitals 86.630 (IM)
+                           small split skin graf t 86.631 (IM)
+     tarsal cartilage 08.69
+     temporalis muscle to orbit 16.63
+          with exenteration of orbit 16.59
+     tendon 83.81
+          f or joint repair -- see Arthroplasty
+          hand 82.79
+     testicle 62.69
+     thumb (f or reconstruction) NEC 82.69
+     tongue (mucosal) (skin) 25.59
+     trachea 31.79
+     tubular (tube) -- see Graf t, skin, pedicle
+     tunnel -- see Graf t, skin, pedicle
+     tympanum -- see also Tympanoplasty 19.4
+     ureter 56.89
+     vagina
+          biological 70.94
+          synthetic 70.95
+     vein (patch) 39.58
+          with
+                excision or resection of vessel -- see Phlebectomy, with graf t replacement
+                synthetic patch (Dacron) (Tef lon) 39.57
+                tissue patch (vein) (autogenous) (homograf t) 39.56
+     vermilion border (lip) 27.56
+Granuloplasty f or hypospadias 58.456 (IM)
+Grattage, conjunctiva 10.31
+Green operation (scapulopexy) 78.41
+Grice operation (subtalar arthrodesis) 81.13
+Grip, strength 93.04
+Gritti-Stokes operation (knee disarticulation) 84.16
+Gross operation (herniorrhaphy)
+     laparoscopic 53.43
+          with graf t or prosthesis 53.42
+     other and open with graf t or prosthesis 53.41
+     other open 53.49
+Group therapy 94.44
+Guttering, bone -- see also Excision, lesion, bone 77.60
+Guyon operation (amputation of ankle) 84.13
+
+
+                                                      H
+Hagner operation (epididymotomy) 63.92
+Halsted operation -- see Repair, hernia, inguinal
+Hampton operation (anastomosis small intestine to rectal stump) 45.92
+Hanging hip operation (muscle release) 83.19
+Harelip operation 27.54
+Harrison-Richardson operation (vaginal suspension) 70.77
+    with graf t or prosthesis 70.78
+Hartmann resection (of intestine) (with pouch) -- see Colectomy, by site
+Harvesting
+    bone marrow 41.91
+    f at f or graf ting or banking 86.90
+
+
+
+                                                     142
+ICD-9-CM With Indonesian Modification (IM) INDEX TO PROCEDURES (FY11)
+
+
+    stem cells 99.79
+Hauser operation
+    achillotenotomy 83.11
+    bunionectomy with adductor tendon transf er 77.53
+    stabilization of patella 81.44
+Heaney operation (vaginal hysterectomy) 68.59
+    laparoscopically assisted (LAVH) 68.51
+Hearing aid (with battery replacement) 95.49
+Hearing test 95.47
+HeartMate® implantable heart assist system 37.66
+HeartMate® II lef t ventricular assist system [LVAS] 37.66
+Hegar operation (perineorrhaphy) 71.79
+Heine operation (cyclodialysis) 12.55
+Heineke-Mikulicz operation (pyloroplasty) 44.29
+Heller operation (esophagomyotomy) 42.7
+Hellstöm operation (transplantation of aberrant renal vessel) 39.55
+Hemicolectomy
+    lef t
+          laparoscopic 17.35
+          open and other 45.75
+    right (extended)
+          laparoscopic 17.33
+          open and other 45.73
+Hemicystectomy 57.6
+Hemigastrectomy -- see Gastrectomy
+Hemiglossectomy 25.2
+Hemilaminectomy (decompression) (exploration) 03.09
+Hemilaryngectomy (anterior) (lateral) (vertical) 30.1
+Hemimandibulectomy 76.31
+Hemimastectomy (radical) 85.23
+Hemimaxillectomy (with bone graf t) (with prosthesis) 76.39
+Heminephrectomy 55.4
+Hemipelvectomy 84.19
+Hemispherectomy (cerebral) 01.52
+Hemithyroidectomy (with removal of isthmus) (with removal of portion of remaining lobe) 06.2
+Hemodiaf iltration (extracorporeal) 39.95
+Hemodialysis (extracorporeal) 39.95
+Hemodilution 99.03
+Hemof iltration (extracorporeal) 39.95
+Hemorrhage control -- see Control, hemorrhage
+Hemorrhoidectomy 49.46
+    by
+          cautery, cauterization 49.43
+          crushing 49.45
+          cryotherapy, cryosurgery 49.44
+          excision 49.46
+          injection 49.42
+          ligation 49.45
+Hemostasis -- see Control, hemorrhage
+Henley operation (jejunal transposition) 43.81
+Hepatectomy (complete) (total) 50.4
+    partial or subtotal 50.22
+Hepatic assistance, extracorporeal 50.92
+Hepaticocholangiojejunostomy 51.37
+Hepaticocystoduodenostomy 51.37
+Hepaticodochotomy 51.59
+
+
+
+                                                 143
+ICD-9-CM With Indonesian Modification (IM) INDEX TO PROCEDURES (FY11)
+
+
+Hepaticoduodenostomy 51.37
+Hepaticojejunostomy 51.37
+Hepaticolithectomy 51.49
+     endoscopic 51.88
+Hepaticolithotomy 51.49
+     endoscopic 51.88
+Hepaticostomy 51.59
+Hepaticotomy 51.59
+Hepatocholangiocystoduodenostomy 51.37
+Hepatocholedochostomy 51.43
+     endoscopic 51.87
+Hepatoduodenostomy 50.69
+Hepatogastrostomy 50.69
+Hepatojejunostomy 50.69
+Hepatolithotomy
+     hepatic duct 51.49
+     liver 50.0
+Hepatopexy 50.69
+Hepatorrhaphy 50.61
+Hepatostomy (external) (internal) 50.69
+Hepatotomy (with packing) 50.0
+Hernioplasty -- see Repair, hernia
+Herniorrhaphy -- see Repair, hernia
+Herniotomy -- see Repair, hernia
+Heterograf t -- see Graf t
+Heterotransplant, heterotransplantation -- see Transplant
+Hey operation (amputation of f oot) 84.12
+Hey-Groves operation (reconstruction of anterior cruciate ligament) 81.45
+Heyman operation (sof t tissue release f or clubf oot) 83.84
+Heyman-Herndon (-Strong) operation (correction of metatarsus varus) 80.48
+Hibbs operation (lumbar spinal f usion) -- see Fusion, lumbar
+Higgins operation -- see Repair, hernia, f emoral
+High f low nasal canule oxygenation 93.960 (IM)
+High f orceps delivery 72.39
+     with episiotomy 72.31
+High intensity f ocused ultrasound prostate 60.25 (IM)
+Hill-Allison operation (hiatal hernia repair, transpleural approach) 53.80
+Hinging, mitral valve 35.12
+His bundle recording 37.29
+Hitchcock operation (anchoring tendon of biceps) 83.88
+Hof meister operation (gastrectomy) 43.7
+Hoke operation
+     midtarsal f usion 81.14
+     triple arthrodesis 81.12
+Holth operation
+     iridencleisis 12.63
+     sclerectomy 12.65
+Homan operation (correction of lymphedema) 40.9
+Homograf t -- see Graf t
+Homotransplant, homotransplantation -- see Transplant
+Hosiery, elastic 93.59
+Hutch operation (ureteroneocystostomy) 56.74
+Hybinette-Eden operation (glenoid bone block) 78.01
+Hydrocelectomy
+     canal of Nuck (f emale) 69.19
+          male 63.1
+
+
+
+                                                 144
+ICD-9-CM With Indonesian Modification (IM) INDEX TO PROCEDURES (FY11)
+
+
+   round ligament 69.19
+   spermatic cord 63.1
+   tunica vaginalis 61.2
+Hydrotherapy 93.33
+   assisted exercise in pool 93.31
+   whirlpool 93.32
+Hymenectomy 70.31
+Hymenoplasty 70.76
+Hymenorrhaphy 70.76
+Hymenotomy 70.11
+Hyperalimentation (parenteral) 99.15
+Hyperbaric oxygenation 93.95
+   wound 93.59
+Hyperextension, joint 93.25
+Hyperthermia NEC 93.35
+   f or cancer treatment (interstitial) (local) (radiof requency) (regional) (ultrasound) (whole-body) 99.85
+Hypnodrama, psychiatric 94.32
+Hypnosis (psychotherapeutic) 94.32
+   f or anesthesia -- omit code
+Hypnotherapy 94.32
+Hypophysectomy (complete) (total) 07.69
+   partial or subtotal 07.63
+        transf rontal approach 07.61
+        transsphenoidal approach 07.62
+   specif ied approach NEC 07.68
+   transf rontal approach (complete) (total) 07.64
+        partial 07.61
+   transsphenoidal approach (complete) (total) 07.65
+        partial 07.62
+Hypothermia (central) (local) 99.81
+   gastric (cooling) 96.31
+        f reezing 96.32
+   systemic (in open heart surgery) 39.62
+Hypotympanotomy 20.23
+Hysterectomy 68.9
+   abdominal 68.49
+        laparoscopic (total) [TLH] 68.41
+        partial or subtotal (supracervical) (supravaginal) 68.39
+        radical (modif ied) (Wertheim's) 68.69
+             laparoscopic (total) [TLRH] 68.61
+   supracervical 68.39
+        classic inf raf ascial SEMM hysterectomy [CISH] 68.31
+        laparoscopically assisted [LASH] 68.31
+   vaginal (complete) (partial) (subtotal) (total) 68.59
+        laparoscopically assisted (LAVH) 68.51
+        radical (Schauta) 68.79
+             laparoscopic [LRVH] 68.71
+Hysterocolpectomy (radical) (vaginal) 68.79
+   abdominal 68.69
+        laparoscopic 68.61
+   laparoscopic 68.71
+Hysterogram NEC 87.85
+   percutaneous 87.84
+Hysterolysis 54.59
+   laparoscopic 54.51
+Hysteromyomectomy 68.29
+
+
+
+                                                     145
+

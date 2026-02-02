@@ -1,0 +1,252 @@
+ICD-9-CM With Indonesian Modification (IM) INDEX TO PROCEDURES (FY11)
+
+
+Urethroscopy 58.22
+    f or control of hemorrhage of prostate 60.94
+    perineal 58.21
+Urethrostomy (perineal) 58.0
+Urethrotomy (external) 58.0
+    internal (endoscopic) 58.5
+Urof lowmetry (UFR) 89.24
+Urography (antegrade) (excretory) (intravenous) 87.73
+    retrograde 87.74
+Uteropexy (abdominal approach) (vaginal approach) 69.22
+UVP (uvulopalatopharyngoplasty) 27.69 [29.4]
+Uvulectomy 27.72
+Uvulopalatopharyngoplasty (UPPP) 27.69 [29.4]
+Uvuloplasty 27.74 (IM)
+Uvulotomy 27.71
+
+
+                                                  V
+Vaccination (prophylactic) (against) 99.59
+   anthrax 99.55
+   brucellosis 99.55
+   cholera 99.31
+   common cold 99.51
+   disease NEC 99.55
+         arthropod-borne viral NEC 99.54
+   encephalitis, arthropod-borne viral 99.53
+   German measles 99.47
+   hydrophobia 99.44
+   inf ectious parotitis 99.46
+   inf luenza 99.52
+   measles 99.45
+   mumps 99.46
+   paratyphoid f ever 99.32
+   pertussis 99.37
+   plague 99.34
+   poliomyelitis 99.41
+   rabies 99.44
+   Rocky Mountain spotted f ever 99.55
+   rubella 99.47
+   rubeola 99.45
+   smallpox 99.42
+   Staphylococcus 99.55
+   Streptococcus 99.55
+   tuberculosis 99.33
+   tularemia 99.35
+   tumor 99.28
+   typhoid 99.32
+   typhus 99.55
+   undulant f ever 99.55
+   yellow f ever 99.43
+Vacuum extraction, f etal head 72.79
+   with episiotomy 72.71
+VAD
+   vascular access device - see Vascular access device, totally implantable
+   ventricular assist device - see Implant, heart assist system
+
+
+
+                                                 361
+ICD-9-CM With Indonesian Modification (IM) INDEX TO PROCEDURES (FY11)
+
+
+Vagectomy (subdiaphragmatic) -- see also Vagotomy 44.00
+Vaginal douche 96.44
+Vaginectomy 70.4
+Vaginof ixation 70.77
+    with graf t or prosthesis 70.78
+Vaginoperineotomy 70.14
+Vaginoplasty 70.79
+Vaginorrhaphy 70.71
+    obstetrical 75.69
+Vaginoscopy 70.21
+Vaginotomy 70.14
+    f or
+         culdocentesis 70.0
+         pelvic abscess 70.12
+Vagotomy (gastric) 44.00
+    parietal cell 44.02
+    selective NEC 44.03
+         highly 44.02
+         Holle's 44.02
+         proximal 44.02
+    truncal 44.01
+Valvotomy -- see Valvulotomy
+Valvulectomy, heart -- see Valvuloplasty, heart
+Valvuloplasty
+    heart, unspecif ied (without valve replacement) 35.10
+         with prosthesis or tissue graf t -- see Replacement, heart, valve, by site
+         aortic valve 35.11
+              percutaneous (balloon) 35.96
+         balloon, percutaneous 35.96
+         combined with repair of atrial and ventricular septal def ects -- see Repair, endocardial cushion
+                   def ect
+         mitral valve
+              balloon, percutaneous repair 35.96
+              endovascular repair with implant 35.97
+              open, without replacement 35.12
+              percutaneous repair
+                   with implant (leaf let clip) 35.97
+              transcatheter repair with implant 35.97
+         open heart technique 35.10
+         percutaneous (balloon) 35.96
+         pulmonary valve 35.13
+              in total repair of tetralogy of Fallot 35.81
+              percutaneous (balloon) 35.96
+         tricuspid valve 35.14
+Valvulotomy
+    heart (closed heart technique) (transatrial) (transventricular) 35.00
+         aortic valve 35.01
+         mitral valve 35.02
+         open heart technique -- see Valvuloplasty, heart
+         pulmonary valve 35.03
+              in total repair of tetralogy of Fallot 35.81
+         tricuspid valve 35.04
+Varicocelectomy, spermatic cord 63.1
+    penile dorsal vein ligation 63.12 (IM)
+Varicotomy, peripheral vessels (lower limb) 38.59
+    upper limb 38.53
+
+
+
+                                                    362
+ICD-9-CM With Indonesian Modification (IM) INDEX TO PROCEDURES (FY11)
+
+
+Vascular access device, totally implantable 86.07
+Vascular closure, percutaneous puncture - omit code
+Vascularization -- see Revascularization
+Vasectomy (complete) (partial) 63.73
+Vasogram 87.94
+Vasoligation 63.71
+   gastric 38.86
+Vasorrhaphy 63.81
+Vasostomy 63.6
+Vasotomy 63.6
+Vasotripsy 63.71
+Vasovasostomy 63.82
+Vectorcardiogram (VCG) (with ECG) 89.53
+Vectra® vascular access graf t 86.07
+Venectomy -- see Phlebectomy
+Venipuncture NEC 38.99
+   f or injection of contrast material -- see Phlebography
+Venography -- see Phlebography
+Venorrhaphy 39.32
+Venotomy 38.00
+   abdominal 38.07
+   head and neck NEC 38.02
+   intracranial NEC 38.01
+   lower limb 38.09
+   thoracic NEC 38.05
+   upper limb 38.03
+Venotripsy 39.98
+Venovenostomy 39.29
+Ventilation
+   bi-level positive airway pressure [BiPAP] 93.90
+         delivered by
+             endotracheal tube - see category 96.7
+             tracheostomy - see category 96.7
+   continuous positive airway pressure [CPAP] 93.90
+         delivered by
+             endotracheal tube - see category 96.7
+             tracheostomy - see category 96.7
+   endotracheal respiratory assistance -- see category 96.7
+   intermittent positive pressure breathing [IPPB] 93.91
+   mechanical, NOS 93.90
+         by endotracheal tube - see category 96.7
+         by tracheostomy - see category 96.7
+         endotracheal respiratory assistance -- see category 96.7
+         invasive - see category 96.7
+         non-invasive [NIPPV] 93.90
+         other continuous invasive (unspecif ied duration) 96.70
+             f or less than 96 consecutive hours 96.71
+             f or 96 consecutive hours or more 96.72
+   negative pressure (continuous) [CNP] 93.99
+   non-invasive positive pressure (NIPPV) 93.90
+   positive end expiratory pressure [PEEP]
+         invasive - see category 96.7
+         non-invasive 93.90
+Ventriculectomy, heart
+   partial 37.35
+Ventriculocholecystostomy 02.34
+
+
+
+                                                   363
+ICD-9-CM With Indonesian Modification (IM) INDEX TO PROCEDURES (FY11)
+
+
+Ventriculocisternostomy 02.2
+         With Endoscopic 02.20 (IM)
+Ventriculocordectomy 30.29
+Ventriculogram, ventriculography (cerebral) 87.02
+    cardiac
+         lef t ventricle (outf low tract) 88.53
+               combined with right heart 88.54
+         right ventricle (outf low tract) 88.52
+               combined with lef t heart 88.54
+    radionuclide cardiac 92.05
+Ventriculomyocardiotomy 37.11
+Ventriculoperitoneostomy 02.34
+Ventriculopuncture 01.09
+    through previously implanted catheter or reservoir (Ommaya) (Rickham) 01.02
+Ventriculoseptopexy -- see also Repair, ventricular septal def ect 35.72
+Ventriculoseptoplasty -- see also Repair, ventricular septal def ect 35.72
+Ventriculostomy 02.2
+         With Endoscopic 02.20 (IM)
+Ventriculotomy
+    cerebral 02.2
+         with Endoscopic 02.20 (IM)
+    heart 37.11
+Ventriculoureterostomy 02.35
+Ventriculovenostomy 02.32
+Ventrof ixation, uterus 69.22
+Ventrohysteropexy 69.22
+Ventrosuspension, uterus 69.22
+VEP (visual evoked potential) 95.23
+Version, obstetrical (bimanual) (cephalic) (combined) (internal) (podalic) 73.21
+    with extraction 73.22
+    Braxton Hicks 73.21
+         with extraction 73.22
+    external (bipolar) 73.91
+    Potter's (podalic) 73.21
+         with extraction 73.22
+    Wigand's (external) 73.91
+    Wright's (cephalic) 73.21
+         with extraction 73.22
+Vertebroplasty, percutaneous 81.65
+Vesicolithotomy (suprapubic) 57.19
+Vesicostomy 57.21
+Vesicourethroplasty 57.85
+    Other laparoscopic bladder neck repair 57.850 (IM)
+Vesiculectomy 60.73
+    with radical prostatectomy 60.5
+Vesiculogram, seminal 87.92
+    contrast 87.91
+Vesiculotomy 60.72
+Vestibular evoked myogenic potential 95.465 (IM)
+Vestibular simple test 95.440 (IM)
+Vestibular rehabilitation therapy 93.390 (IM)
+Vestibuloplasty (buccolabial) (lingual) 24.91
+Vestibulotomy 20.79
+VH™-IVUS-see Ultrasound, intravascular, by site
+Vicq D'azyr operation (larynx) 31.1
+Vidal operation (varicocele ligation) 63.1
+
+
+
+                                                 364
+

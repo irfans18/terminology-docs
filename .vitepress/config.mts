@@ -4,21 +4,24 @@ const env = loadEnv('', process.cwd())
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  srcDir: 'src/docs',
   title: "Terminology Documentation",
   description: "Terminology Documentation",
   srcExclude: ["**/ref/**"],
   ignoreDeadLinks: true,
+  lastUpdated: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    outline: [2, 4], // Show h2-h4 in "On this page" sidebar
+    outline: [2, 6], // Show h2-h6 in "On this page" sidebar
     editLink: {
-      pattern: `${env.VITE_REPO_URL}/edit/main/:path`,
+      pattern: `${env.VITE_REPO_URL}/edit/${env.VITE_REPO_BRANCH}/:path`,
       text: 'Edit this page on GitHub'
     },
     nav: [
       { text: "Home", link: "/" },
       // { text: "Examples", link: "/markdown-examples" },
       { text: "ICD-9-CM", link: "/icd9cm/chapter-0/" },
+      // { text: "Changelog", link: "/changelog" },
     ],
 
     sidebar: [
@@ -53,15 +56,56 @@ export default defineConfig({
           { text: "16 - Diagnostic/Therapeutic (87-99)", link: "/icd9cm/chapter-16/" },
         ],
       },
+      {
+        text: "ICD-9-CM 2010 Vol 3",
+        collapsed: true,
+        items: [
+          { text: "Index Overview", link: "/icd9cmvol3/" },
+          { text: "A - Abbe to Azure", link: "/icd9cmvol3/a" },
+          { text: "B - Baffes to Bypass", link: "/icd9cmvol3/b" },
+          { text: "C - Caldwell to Cystourethroscopy", link: "/icd9cmvol3/c" },
+          { text: "D - Dacryoadenectomy to Dura", link: "/icd9cmvol3/d" },
+          { text: "E - E2F decoy to Extubation", link: "/icd9cmvol3/e" },
+          { text: "F - Face lift to Fusion", link: "/icd9cmvol3/f" },
+          { text: "G - Gait training to Guthrie", link: "/icd9cmvol3/g" },
+          { text: "H - Hagner to Hz", link: "/icd9cmvol3/h" },
+          { text: "I - IAEMT to Irwin", link: "/icd9cmvol3/i" },
+          { text: "J - Jaboulay to Jejunopexy", link: "/icd9cmvol3/j" },
+          { text: "K - Kangaroo care to Krukenberg", link: "/icd9cmvol3/k" },
+          { text: "L - Labbe to Lysis", link: "/icd9cmvol3/l" },
+          { text: "M - Madlener to Myringotomy", link: "/icd9cmvol3/m" },
+          { text: "N - Nailing to Nutrition", link: "/icd9cmvol3/n" },
+          { text: "O - Ober to Ozaki", link: "/icd9cmvol3/o" },
+          { text: "P - Pacemaker to Pylorotomy", link: "/icd9cmvol3/p" },
+          { text: "Q - Quadrant resection to Quilecea", link: "/icd9cmvol3/q" },
+          { text: "R - Rachicentesis to Russe", link: "/icd9cmvol3/r" },
+          { text: "S - Sacculotomy to Syme", link: "/icd9cmvol3/s" },
+          { text: "T - Taarnhoj to Tylectomy", link: "/icd9cmvol3/t" },
+          { text: "U - Uchida to Utriculotomy", link: "/icd9cmvol3/u" },
+          { text: "V - Vaccination to Vulvectomy", link: "/icd9cmvol3/v" },
+          { text: "W - Wada test to Wrist", link: "/icd9cmvol3/w" },
+          { text: "X - Xenograft to X-ray", link: "/icd9cmvol3/x" },
+          { text: "Y - Young to Yount", link: "/icd9cmvol3/y" },
+          { text: "Z - Zancolli to Z-plasty", link: "/icd9cmvol3/z" },
+        ],
+      },
+      { text: "Changelog", link: "/changelog" },
     ],
 
     socialLinks: [
-      { icon: "github", link: "https://github.com/vuejs/vitepress" },
+      { icon: "github", link: env.VITE_REPO_URL },
     ],
 
     search: {
       provider: "local",
+      options: {
+        detailedView: true,
+      },
+    },
+  },
+  vite: {
+    build: {
+      chunkSizeWarningLimit: 5000,
     },
   },
 });
-

@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const glob = require('glob');
 
-const icd9Dir = path.resolve(__dirname, '../icd9cm');
+const icd9Dir = path.resolve(__dirname, '../src/docs/icd9cm');
 
 // Mapping of code ranges to chapter directories
 const chapterMapping = [

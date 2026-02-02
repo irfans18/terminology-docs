@@ -1,0 +1,64 @@
+ICD-9-CM With Indonesian Modification (IM) INDEX TO PROCEDURES (FY11)
+
+
+Jejunorrhaphy 46.73
+Jejunostomy (f eeding) 46.39
+    delayed opening 46.31
+    loop 46.01
+    percutaneous (endoscopic) (PEJ) 46.32
+    revision 46.41
+Jejunotomy 45.02
+Johanson operation (urethral reconstruction) 58.46
+Jones operation
+    claw toe (transf er of extensor hallucis longus tendon) 77.57
+        modif ied (with arthrodesis) 77.57
+    dacryocystorhinostomy 09.81
+    hammer toe (interphalangeal f usion) 77.56
+    modif ied (tendon transf er with arthrodesis) 77.57
+    repair of peroneal tendon 83.88
+Joplin operation (exostectomy with tendon transf er) 77.53
+
+
+                                                     K
+
+Kangaroo care 99.981 (IM)
+Kader operation (temporary gastrostomy) 43.19
+Kasai portoenterostomy 51.37
+Kauf man operation (f or urinary stress incontinence) 59.79
+Kazanjiian operation (buccal vestibular sulcus extension) 24.91
+Kehr operation (hepatopexy) 50.69
+Keller operation (bunionectomy) 77.59
+Kelly (-Kennedy) operation (urethrovesical plication) 59.3
+Kelly-Stoeckel operation (urethrovesical plication) 59.3
+Kelotomy 53.9
+Keratectomy (complete) (partial) (superf icial) 11.49
+     f or pterygium 11.39
+           with corneal graf t 11.32
+Keratocentesis (f or hyphema) 12.91
+Keratomileusis 11.71
+Keratophakia 11.72
+Keratoplasty (tectonic) (with autograf t) (with homograf t) 11.60
+     lamellar (nonpenetrating) (with homograf t) 11.62
+           with autograf t 11.61
+     penetrating (f ull-thickness) (with homograf t) 11.64
+           with autograf t 11.63
+     perf orating -- see Keratoplasty, penetrating
+     ref ractive 11.71
+     specif ied type NEC 11.69
+Keratoprosthesis 11.73
+Keratotomy (delimiting) (posterior) 11.1
+     radial (ref ractive) 11.75
+Kerr operation (low cervical cesarean section) 74.1
+Kessler operation (arthroplasty, carpometacarpal joint) 81.74
+Kidner operation (excision of accessory navicular bone) (with
+           tendon transf er) 77.98
+Killian operation (f rontal sinusotomy) 22.41
+Kineplasty -- see Cineplasty
+King-Steelquist operation (hind-quarter amputation) 84.19
+Kirk operation (amputation through thigh) 84.17
+Kock pouch
+
+
+
+                                                    188
+

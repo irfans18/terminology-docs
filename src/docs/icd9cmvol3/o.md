@@ -1,0 +1,1290 @@
+# O - Alphabetic Index
+
+Ober operation to Ozaki
+
+
+## Ober (-Yount) operation (gluteal-iliotibial f asciotomy) [83.14](../icd9cm/chapter-14/index.md#83-14) {#ober-yount-operation-gluteal-iliotibial-f-asciotomy}
+## Obliteration {#obliteration}
+- bone cavity -- see also Osteoplasty 78.40
+- calyceal diverticulum [55.39](../icd9cm/chapter-10/index.md#55-39)
+- canaliculi [09.6](../icd9cm/chapter-3/index.md#09-6)
+- cerebrospinal f istula [02.12](../icd9cm/chapter-1/index.md#02-12)
+- cul-de-sac [70.92](../icd9cm/chapter-12/index.md#70-92)
+  - with graf t or prosthesis [70.93](../icd9cm/chapter-12/index.md#70-93)
+- f rontal sinus (with f at) [22.42](../icd9cm/chapter-5/index.md#22-42)
+- lacrimal punctum [09.91](../icd9cm/chapter-3/index.md#09-91)
+- lumbar pseudomeningocele [03.51](../icd9cm/chapter-1/index.md#03-51)
+- lymphatic structure(s) (peripheral) [40.9](../icd9cm/chapter-8/index.md#40-9)
+- maxillary sinus [22.31](../icd9cm/chapter-5/index.md#22-31)
+- meningocele (sacral) [03.51](../icd9cm/chapter-1/index.md#03-51)
+- pelvic [68.8](../icd9cm/chapter-12/index.md#68-8)
+- pleural cavity [34.6](../icd9cm/chapter-6/index.md#34-6)
+- sacral meningocele [03.51](../icd9cm/chapter-1/index.md#03-51)
+- Skene's gland [71.3](../icd9cm/chapter-12/index.md#71-3)
+- tympanomastoid cavity [19.9](../icd9cm/chapter-4/index.md#19-9)
+- vagina, vaginal (partial) (total) [70.4](../icd9cm/chapter-12/index.md#70-4)
+  - vault [70.8](../icd9cm/chapter-12/index.md#70-8)
+
+## Occlusal molds (dental) [89.31](../icd9cm/chapter-16/index.md#89-31) {#occlusal-molds-dental}
+## Occlusion {#occlusion}
+- artery
+  - by embolization - see Embolization, artery
+  - by endovascular approach - see Embolization, artery
+  - by ligation - see [Ligation, artery](l.md#ligation)
+- f allopian tube -- see [Ligation, f allopian tube](l.md#ligation)
+- patent ductus arteriosus (PDA) 38.85
+  - PDA stenting/PDA closure with device 38.850 (IM)
+- vein
+  - by embolization - see Embolization, vein
+  - by endovascular approach - see Embolization, vein
+  - by ligation - see [Ligation, vein](l.md#ligation)
+- vena cava (surgical) [38.7](../icd9cm/chapter-7/index.md#38-7)
+
+## Occupational therapy [93.83](../icd9cm/chapter-16/index.md#93-83) {#occupational-therapy}
+## OCT (optical coherence tomography) (intravascular imaging) {#oct-optical-coherence-tomography-intravascular-imaging}
+- coronary vessel(s) [38.24](../icd9cm/chapter-7/index.md#38-24)
+- non-coronary vessel(s) [38.25](../icd9cm/chapter-7/index.md#38-25)
+
+## O'Donoghue operation (triad knee repair) [81.43](../icd9cm/chapter-14/index.md#81-43) {#o-donoghue-operation-triad-knee-repair}
+## Odontectomy NEC -- see also Removal, tooth, surgical [23.19](../icd9cm/chapter-5/index.md#23-19) – [23.12](../icd9cm/chapter-5/index.md#23-12) (IM) {#odontectomy-nec-see-also-removal-tooth-surgical}
+## Oleothorax [33.39](../icd9cm/chapter-6/index.md#33-39) {#oleothorax}
+## Olshausen operation (uterine suspension) [69.22](../icd9cm/chapter-12/index.md#69-22) {#olshausen-operation-uterine-suspension}
+## Omental f lap 86.742 (IM) {#omental-f-lap}
+## Omentectomy [54.4](../icd9cm/chapter-9/index.md#54-4) {#omentectomy}
+## Omentof ixation [54.74](../icd9cm/chapter-9/index.md#54-74) {#omentof-ixation}
+## Omentopexy [54.74](../icd9cm/chapter-9/index.md#54-74) {#omentopexy}
+## Omentoplasty [54.74](../icd9cm/chapter-9/index.md#54-74) {#omentoplasty}
+## Omentorrhaphy [54.74](../icd9cm/chapter-9/index.md#54-74) {#omentorrhaphy}
+## Omentotomy [54.19](../icd9cm/chapter-9/index.md#54-19) {#omentotomy}
+## Omphalectomy [54.3](../icd9cm/chapter-9/index.md#54-3) {#omphalectomy}
+## Onychectomy [86.23](../icd9cm/chapter-15/index.md#86-23) {#onychectomy}
+## Onychoplasty [86.86](../icd9cm/chapter-15/index.md#86-86) {#onychoplasty}
+## Onychotomy [86.09](../icd9cm/chapter-15/index.md#86-09) {#onychotomy}
+- with drainage [86.04](../icd9cm/chapter-15/index.md#86-04)
+
+## Oophorectomy (unilateral) [65.39](../icd9cm/chapter-12/index.md#65-39) {#oophorectomy-unilateral}
+- with salpingectomy [65.49](../icd9cm/chapter-12/index.md#65-49)
+  - laparoscopic [65.41](../icd9cm/chapter-12/index.md#65-41)
+- bilateral (same operative episode) [65.51](../icd9cm/chapter-12/index.md#65-51)
+  - laparoscopic [65.53](../icd9cm/chapter-12/index.md#65-53)
+  - with salpingectomy [65.61](../icd9cm/chapter-12/index.md#65-61)
+    - laparoscopic [65.63](../icd9cm/chapter-12/index.md#65-63)
+- laparoscopic [65.31](../icd9cm/chapter-12/index.md#65-31)
+- partial [65.29](../icd9cm/chapter-12/index.md#65-29)
+  - laparoscopic [65.25](../icd9cm/chapter-12/index.md#65-25)
+  - wedge [65.22](../icd9cm/chapter-12/index.md#65-22)
+    - that by laparoscope [65.24](../icd9cm/chapter-12/index.md#65-24)
+- remaining ovary [65.52](../icd9cm/chapter-12/index.md#65-52)
+  - laparoscopic [65.54](../icd9cm/chapter-12/index.md#65-54)
+  - with tube [65.62](../icd9cm/chapter-12/index.md#65-62)
+    - laparoscopic [65.64](../icd9cm/chapter-12/index.md#65-64)
+
+## Oophorocystectomy [65.29](../icd9cm/chapter-12/index.md#65-29) {#oophorocystectomy}
+- laparoscopic [65.25](../icd9cm/chapter-12/index.md#65-25)
+
+## Oophoropexy [65.79](../icd9cm/chapter-12/index.md#65-79) {#oophoropexy}
+## Oophoroplasty [65.79](../icd9cm/chapter-12/index.md#65-79) {#oophoroplasty}
+## Oophororrhaphy [65.71](../icd9cm/chapter-12/index.md#65-71) {#oophororrhaphy}
+- laparoscopic [65.74](../icd9cm/chapter-12/index.md#65-74)
+
+## Oophorostomy [65.09](../icd9cm/chapter-12/index.md#65-09) {#oophorostomy}
+- laparoscopic [65.01](../icd9cm/chapter-12/index.md#65-01)
+
+## Oophorotomy [65.09](../icd9cm/chapter-12/index.md#65-09) {#oophorotomy}
+- laparoscopic [65.01](../icd9cm/chapter-12/index.md#65-01)
+
+## Open cutaneous vesical f istula closure 57.823 (IM) {#open-cutaneous-vesical-f-istula-closure}
+## Opening {#opening}
+- bony labyrinth (ear) [20.79](../icd9cm/chapter-4/index.md#20-79)
+- cranial suture [02.01](../icd9cm/chapter-1/index.md#02-01)
+- heart valve
+  - closed heart technique -- see [Valvulotomy, by site](v.md#valvulotomy)
+  - open heart technique -- see [Valvuloplasty, by site](v.md#valvuloplasty)
+- spinal dura [03.09](../icd9cm/chapter-1/index.md#03-09)
+
+## Operation {#operation}
+- Abbe
+  - construction of vagina [70.61](../icd9cm/chapter-12/index.md#70-61)
+    - with graf t or prosthesis [70.63](../icd9cm/chapter-12/index.md#70-63)
+  - intestinal anastomosis -- see [Anastomosis, intestine](a.md#anastomosis)
+- abdominal (region) NEC [54.99](../icd9cm/chapter-9/index.md#54-99)
+- abdominoperineal, NOS [48.50](../icd9cm/chapter-9/index.md#48-50)
+  - laparoscopic [48.51](../icd9cm/chapter-9/index.md#48-51)
+  - open [48.52](../icd9cm/chapter-9/index.md#48-52)
+  - other [48.59](../icd9cm/chapter-9/index.md#48-59)
+- Aburel (intra-amniotic injection f or abortion) [75.0](../icd9cm/chapter-13/index.md#75-0)
+- Adams
+  - advancement of round ligament [69.22](../icd9cm/chapter-12/index.md#69-22)
+  - crushing of nasal septum [21.88](../icd9cm/chapter-5/index.md#21-88)
+  - excision of palmar f ascia [82.35](../icd9cm/chapter-14/index.md#82-35)
+- adenoids NEC [28.99](../icd9cm/chapter-5/index.md#28-99)
+- adrenal (gland) (nerve) (vessel) NEC [07.49](../icd9cm/chapter-2/index.md#07-49)
+- Albee
+  - bone peg, f emoral neck 78.05
+  - graf t f or slipping patella 78.06
+  - sliding inlay graf t, tibia 78.07
+- Albert (arthrodesis, knee) [81.22](../icd9cm/chapter-14/index.md#81-22)
+- Aldridge (-Studdif ord) (urethral sling) [59.5](../icd9cm/chapter-10/index.md#59-5)
+- Alexander
+  - prostatectomy
+  - perineal [60.62](../icd9cm/chapter-11/index.md#60-62)
+  - suprapubic [60.3](../icd9cm/chapter-11/index.md#60-3)
+  - shortening of round ligaments of uterus [69.22](../icd9cm/chapter-12/index.md#69-22)
+- Alexander-Adams (shortening of round ligaments of uterus) [69.22](../icd9cm/chapter-12/index.md#69-22)
+- Almoor (extrapetrosal drainage) [20.22](../icd9cm/chapter-4/index.md#20-22)
+- Altemeier (perineal rectal pull-through) [48.49](../icd9cm/chapter-9/index.md#48-49)
+- Ammon (dacryocystotomy) [09.53](../icd9cm/chapter-3/index.md#09-53)
+- Anderson (tibial lengthening) 78.37
+- Anel (dilation of lacrimal duct) [09.42](../icd9cm/chapter-3/index.md#09-42)
+- anterior chamber (eye) NEC [12.99](../icd9cm/chapter-3/index.md#12-99)
+- anti-incontinence NEC [59.79](../icd9cm/chapter-10/index.md#59-79)
+- antrum window (nasal sinus) [22.2](../icd9cm/chapter-5/index.md#22-2)
+  - with Caldwell-Luc approach [22.39](../icd9cm/chapter-5/index.md#22-39)
+- anus NEC [49.99](../icd9cm/chapter-9/index.md#49-99)
+- aortic body NEC [39.89](../icd9cm/chapter-7/index.md#39-89)
+- aorticopulmonary window [39.59](../icd9cm/chapter-7/index.md#39-59)
+- appendix NEC [47.99](../icd9cm/chapter-9/index.md#47-99)
+- Arslan (f enestration of inner ear) [20.61](../icd9cm/chapter-4/index.md#20-61)
+- artery NEC [39.99](../icd9cm/chapter-7/index.md#39-99)
+- Asai (larynx) [31.75](../icd9cm/chapter-6/index.md#31-75)
+- Baf f es (interatrial transposition of venous return) [35.91](../icd9cm/chapter-7/index.md#35-91)
+- Baldy-Webster (uterine suspension) [69.22](../icd9cm/chapter-12/index.md#69-22)
+- Ball
+  - herniorrhaphy -- see [Repair, hernia, inguinal](r.md#repair)
+  - undercutting [49.02](../icd9cm/chapter-9/index.md#49-02)
+- Bankhart (capsular repair into glenoid, f or shoulder dislocation) [81.82](../icd9cm/chapter-14/index.md#81-82)
+- Bardenheurer (ligation of innominate artery) 38.85
+- Barkan (goniotomy) [12.52](../icd9cm/chapter-3/index.md#12-52)
+  - with goniopuncture [12.53](../icd9cm/chapter-3/index.md#12-53)
+- Barr (transf er of tibialis posterior tendon) [83.75](../icd9cm/chapter-14/index.md#83-75)
+- Barsky (closure of clef t hand) [82.82](../icd9cm/chapter-14/index.md#82-82)
+- Bassett (vulvectomy with inguinal lymph node dissection) [71.5](../icd9cm/chapter-12/index.md#71-5) [40.3]
+- Bassini (herniorrhaphy) -- see [Repair, hernia, inguinal](r.md#repair)
+- Batch-Spittler-McFaddin (knee disarticulation) [84.16](../icd9cm/chapter-14/index.md#84-16)
+- Batista (partial ventriculectomy)(ventricular reduction)(ventricular remodeling) [37.35](../icd9cm/chapter-7/index.md#37-35)
+- Beck I (epicardial poudrage) [36.39](../icd9cm/chapter-7/index.md#36-39)
+- Beck II (aorta-coronary sinus shunt) [36.39](../icd9cm/chapter-7/index.md#36-39)
+- Beck-Jianu (permanent gastrostomy) [43.19](../icd9cm/chapter-9/index.md#43-19)
+- Bell-Beuttner (subtotal abdominal hysterectomy) [68.39](../icd9cm/chapter-12/index.md#68-39)
+- Belsey (esophagogastric sphincter) [44.65](../icd9cm/chapter-9/index.md#44-65)
+- Benenenti (rotation of bulbous urethra) [58.49](../icd9cm/chapter-10/index.md#58-49)
+- Berke (levator resection eyelid) [08.33](../icd9cm/chapter-3/index.md#08-33)
+- Biesenberger (size reduction of breast, bilateral) [85.32](../icd9cm/chapter-15/index.md#85-32)
+  - unilateral [85.31](../icd9cm/chapter-15/index.md#85-31)
+- Bigelow (litholapaxy) [57.0](../icd9cm/chapter-10/index.md#57-0)
+- biliary (duct) (tract) NEC [51.99](../icd9cm/chapter-9/index.md#51-99)
+- Billroth I (partial gastrectomy with gastroduodenostomy) [43.6](../icd9cm/chapter-9/index.md#43-6)
+- Billroth II (partial gastrectomy with gastrojejunostomy) [43.7](../icd9cm/chapter-9/index.md#43-7)
+- Binnie (hepatopexy) [50.69](../icd9cm/chapter-9/index.md#50-69)
+- Bischof f (ureteroneocystostomy) [56.74](../icd9cm/chapter-10/index.md#56-74)
+- bisection hysterectomy [68.39](../icd9cm/chapter-12/index.md#68-39)
+  - laparoscopic [68.31](../icd9cm/chapter-12/index.md#68-31)
+- Bishof f (spinal myelotomy) [03.29](../icd9cm/chapter-1/index.md#03-29)
+- bladder NEC [57.99](../icd9cm/chapter-10/index.md#57-99)
+  - f lap [56.74](../icd9cm/chapter-10/index.md#56-74)
+- Blalock (systemic-pulmonary anastomosis) [39.0](../icd9cm/chapter-7/index.md#39-0)
+- Blalock-Hanlon (creation of atrial septal def ect) [35.42](../icd9cm/chapter-7/index.md#35-42)
+- Blalock-Taussig (subclavian-pulmonary anastomosis) [39.0](../icd9cm/chapter-7/index.md#39-0)
+- Blascovic (resection and advancement of levator palpebrae superioris) [08.33](../icd9cm/chapter-3/index.md#08-33)
+- blood vessel NEC [39.99](../icd9cm/chapter-7/index.md#39-99)
+- Blount
+  - f emoral shortening (with blade plate) 78.25
+  - by epiphyseal stapling 78.25
+- Boari (bladder f lap) [56.74](../icd9cm/chapter-10/index.md#56-74)
+- Bobb (cholelithotomy) [51.04](../icd9cm/chapter-9/index.md#51-04)
+- bone NEC -- see category [78.4](../icd9cm/chapter-14/index.md#78-4)
+  - f acial [76.99](../icd9cm/chapter-14/index.md#76-99)
+  - injury NEC -- see category [79.9](../icd9cm/chapter-14/index.md#79-9)
+  - marrow NEC [41.98](../icd9cm/chapter-8/index.md#41-98)
+  - skull NEC [02.99](../icd9cm/chapter-1/index.md#02-99)
+- Bonney (abdominal hysterectomy) [68.49](../icd9cm/chapter-12/index.md#68-49)
+  - laparoscopic [68.41](../icd9cm/chapter-12/index.md#68-41)
+- Borthen (iridotasis) [12.63](../icd9cm/chapter-3/index.md#12-63)
+- Bost
+  - plantar dissection 80.48
+  - radiocarpal f usion [81.26](../icd9cm/chapter-14/index.md#81-26)
+- Bosworth
+  - arthroplasty f or acromioclavicular separation [81.83](../icd9cm/chapter-14/index.md#81-83)
+  - f usion of posterior lumbar spine [81.08](../icd9cm/chapter-14/index.md#81-08)
+    - f or pseudarthrosis [81.38](../icd9cm/chapter-14/index.md#81-38)
+  - resection of radial head ligaments (f or tennis elbow) 80.92
+  - shelf procedure, hip [81.40](../icd9cm/chapter-14/index.md#81-40)
+- Bottle (repair of hydrocele of tunica vaginalis) [61.2](../icd9cm/chapter-11/index.md#61-2)
+- Boyd (hip disarticulation) [84.18](../icd9cm/chapter-14/index.md#84-18)
+- brain NEC [02.99](../icd9cm/chapter-1/index.md#02-99)
+- Brauer (cardiolysis) [37.10](../icd9cm/chapter-7/index.md#37-10)
+- breast NEC [85.99](../icd9cm/chapter-15/index.md#85-99)
+- Bricker (ileoureterostomy) [56.51](../icd9cm/chapter-10/index.md#56-51)
+- Bristow (repair of shoulder dislocation) [81.82](../icd9cm/chapter-14/index.md#81-82)
+- Brock (pulmonary valvulotomy) [35.03](../icd9cm/chapter-7/index.md#35-03)
+- Brockman (sof t tissue release f or clubf oot) [83.84](../icd9cm/chapter-14/index.md#83-84)
+- bronchus NEC [33.98](../icd9cm/chapter-6/index.md#33-98)
+- Browne (-Denis) (hypospadias repair) [58.45](../icd9cm/chapter-10/index.md#58-45)
+  - First stage of hypospadias or epispadias staged repair 58.451 (IM)
+  - Granuloplasty f or hypospadias 58.456 (IM)
+  - Hypospadias repair post urethral f istula operation 58.453 (IM)
+  - Repair of epispadias with ureteric re-implantation 58.455 (IM)
+  - Second stage of hypospadias or epispadias staged repair 58.452 (IM)
+  - Single stage repair f or hypospadias or epispadias 58.450 (IM)
+- Brunschwig (temporary gastrostomy) [43.19](../icd9cm/chapter-9/index.md#43-19)
+- buccal cavity NEC [27.99](../icd9cm/chapter-5/index.md#27-99)
+- Bunnell (tendon transf er) [82.56](../icd9cm/chapter-14/index.md#82-56)
+- Burch procedure (retropubic urethral suspension f or urinary stress incontinence) [59.5](../icd9cm/chapter-10/index.md#59-5)
+- Burgess (amputation of ankle) [84.14](../icd9cm/chapter-14/index.md#84-14)
+- bursa NEC [83.99](../icd9cm/chapter-14/index.md#83-99)
+  - hand [82.99](../icd9cm/chapter-14/index.md#82-99)
+- bypass -- see [Bypass](b.md#bypass)
+- Caldwell (sulcus extension) [24.91](../icd9cm/chapter-5/index.md#24-91)
+- Caldwell-Luc (maxillary sinusotomy) [22.39](../icd9cm/chapter-5/index.md#22-39)
+  - with removal of membrane lining [22.31](../icd9cm/chapter-5/index.md#22-31)
+- Callander (knee disarticulation) [84.16](../icd9cm/chapter-14/index.md#84-16)
+- Campbell
+  - bone block, ankle [81.11](../icd9cm/chapter-14/index.md#81-11)
+  - f asciotomy (iliac crest) [83.14](../icd9cm/chapter-14/index.md#83-14)
+  - reconstruction of anterior cruciate ligaments [81.45](../icd9cm/chapter-14/index.md#81-45)
+- canthus NEC [08.99](../icd9cm/chapter-3/index.md#08-99)
+- cardiac NEC [37.99](../icd9cm/chapter-7/index.md#37-99)
+  - septum NEC [35.98](../icd9cm/chapter-7/index.md#35-98)
+  - valve NEC [35.99](../icd9cm/chapter-7/index.md#35-99)
+- carotid body or gland NEC [39.89](../icd9cm/chapter-7/index.md#39-89)
+- Carroll and Taber (arthroplasty proximal interphalangeal joint) [81.72](../icd9cm/chapter-14/index.md#81-72)
+- Cattell (herniorrhaphy) [53.51](../icd9cm/chapter-9/index.md#53-51)
+- Cecil (urethral reconstruction) [58.46](../icd9cm/chapter-10/index.md#58-46)
+- cecum NEC [46.99](../icd9cm/chapter-9/index.md#46-99)
+- cerebral (meninges) NEC [02.99](../icd9cm/chapter-1/index.md#02-99)
+- cervix NEC [69.99](../icd9cm/chapter-12/index.md#69-99)
+- Chandler (hip f usion) [81.21](../icd9cm/chapter-14/index.md#81-21)
+- Charles (correction of lymphedema) [40.9](../icd9cm/chapter-8/index.md#40-9)
+- Charnley (compression arthrodesis)
+  - ankle [81.11](../icd9cm/chapter-14/index.md#81-11)
+  - hip [81.21](../icd9cm/chapter-14/index.md#81-21)
+  - knee [81.22](../icd9cm/chapter-14/index.md#81-22)
+- Cheatle-Henry -- see [Repair, hernia, f emoral](r.md#repair)
+- chest cavity NEC [34.99](../icd9cm/chapter-6/index.md#34-99)
+- Chevalier-Jackson (partial laryngectomy) [30.29](../icd9cm/chapter-6/index.md#30-29)
+- Child (radical subtotal pancreatectomy) [52.53](../icd9cm/chapter-9/index.md#52-53)
+- Chopart (midtarsal amputation) [84.12](../icd9cm/chapter-14/index.md#84-12)
+- chordae tendineae NEC [35.32](../icd9cm/chapter-7/index.md#35-32)
+- choroid NEC [14.9](../icd9cm/chapter-3/index.md#14-9)
+- ciliary body NEC [12.98](../icd9cm/chapter-3/index.md#12-98)
+- cisterna chyli NEC [40.69](../icd9cm/chapter-8/index.md#40-69)
+- Clagett (closure of chest wall f ollowing open f lap drainage) [34.72](../icd9cm/chapter-6/index.md#34-72)
+- Clayton (resection of metatarsal heads and bases of phalanges) 77.88
+- clitoris NEC [71.4](../icd9cm/chapter-12/index.md#71-4)
+- cocked hat (metacarpal lengthening and transf er of local f lap) [82.69](../icd9cm/chapter-14/index.md#82-69)
+- Cockett (varicose vein)
+  - lower limb 38.59
+  - upper limb 38.53
+- Cody tack (perf oration of f ootplate) [19.0](../icd9cm/chapter-4/index.md#19-0)
+- Cof f ey (uterine suspension) (Meigs' modif ication) [69.22](../icd9cm/chapter-12/index.md#69-22)
+- Cole (anterior tarsal wedge osteotomy) 77.28
+- Collis-Nissen (hiatal hernia repair) [53.80](../icd9cm/chapter-9/index.md#53-80)
+- colon NEC [46.99](../icd9cm/chapter-9/index.md#46-99)
+- Colonna
+  - adductor tenotomy (f irst stage) [83.12](../icd9cm/chapter-14/index.md#83-12)
+  - hip arthroplasty (second stage) [81.40](../icd9cm/chapter-14/index.md#81-40)
+  - reconstruction of hip (second stage) [81.40](../icd9cm/chapter-14/index.md#81-40)
+- commando (radical glossectomy) [25.4](../icd9cm/chapter-5/index.md#25-4)
+- conjunctiva NEC [10.99](../icd9cm/chapter-3/index.md#10-99)
+  - destructive NEC [10.33](../icd9cm/chapter-3/index.md#10-33)
+- cornea NEC [11.99](../icd9cm/chapter-3/index.md#11-99)
+- Coventry (tibial wedge osteotomy) 77.27
+- Cox-maze procedure (ablation or destruction of heart tissue) - see [maze procedure](m.md#maze-procedure)
+- Crawf ord (tarso-f rontalis sling of eyelid) [08.32](../icd9cm/chapter-3/index.md#08-32)
+- cul-de-sac NEC [70.92](../icd9cm/chapter-12/index.md#70-92)
+- Culp-Deweerd (spiral f lap pyeloplasty) [55.87](../icd9cm/chapter-10/index.md#55-87)
+- Culp-Scardino (ureteral f lap pyeloplasty) [55.87](../icd9cm/chapter-10/index.md#55-87)
+- Curtis (interphalangeal joint arthroplasty) [81.72](../icd9cm/chapter-14/index.md#81-72)
+- cystocele NEC [70.51](../icd9cm/chapter-12/index.md#70-51)
+- Dahlman (excision of esophageal diverticulum) [42.31](../icd9cm/chapter-9/index.md#42-31)
+- Dana (posterior rhizotomy) [03.1](../icd9cm/chapter-1/index.md#03-1)
+- Danf orth (f etal) [73.8](../icd9cm/chapter-13/index.md#73-8)
+- Darrach (ulnar resection) 77.83
+- Davis (intubated ureterotomy) [56.2](../icd9cm/chapter-10/index.md#56-2)
+  - open ureteral exploration [56.22](../icd9cm/chapter-10/index.md#56-22) (IM)
+- de Grandmont (tarsectomy) [08.35](../icd9cm/chapter-3/index.md#08-35)
+- Delorme
+  - pericardiectomy [37.31](../icd9cm/chapter-7/index.md#37-31)
+  - proctopexy [48.76](../icd9cm/chapter-9/index.md#48-76)
+  - repair of prolapsed rectum [48.76](../icd9cm/chapter-9/index.md#48-76)
+  - thoracoplasty [33.34](../icd9cm/chapter-6/index.md#33-34)
+- Denker (radical maxillary antrotomy) [22.31](../icd9cm/chapter-5/index.md#22-31)
+- Dennis-Varco (herniorrhaphy) -- see [Repair, hernia, f emoral](r.md#repair)
+- Denonvillier (limited rhinoplasty) [21.86](../icd9cm/chapter-5/index.md#21-86)
+- dental NEC [24.99](../icd9cm/chapter-5/index.md#24-99)
+  - orthodontic NEC [24.8](../icd9cm/chapter-5/index.md#24-8)
+- Derlacki (tympanoplasty) [19.4](../icd9cm/chapter-4/index.md#19-4)
+- diaphragm NEC [34.89](../icd9cm/chapter-6/index.md#34-89)
+- Dickson (f ascial transplant) [83.82](../icd9cm/chapter-14/index.md#83-82)
+- Dickson-Diveley (tendon transf er and arthrodesis to correct
+    - claw toe) [77.57](../icd9cm/chapter-14/index.md#77-57)
+- Dief f enbach (hip disarticulation) [84.18](../icd9cm/chapter-14/index.md#84-18)
+- digestive tract NEC [46.99](../icd9cm/chapter-9/index.md#46-99)
+- Doleris (shortening of round ligaments) [69.22](../icd9cm/chapter-12/index.md#69-22)
+- D'Ombrain (excision of pterygium with corneal graf t) [11.32](../icd9cm/chapter-3/index.md#11-32)
+- Dorrance (push-back operation f or clef t palate) [27.62](../icd9cm/chapter-5/index.md#27-62)
+- Dotter (transluminal angioplasty) [39.59](../icd9cm/chapter-7/index.md#39-59)
+- Douglas (suture of tongue to lip f or micrognathia) [25.59](../icd9cm/chapter-5/index.md#25-59)
+- Doyle (paracervical uterine denervation) [69.3](../icd9cm/chapter-12/index.md#69-3)
+- Dühamel (abdominoperineal pull-through) [48.65](../icd9cm/chapter-9/index.md#48-65)
+- Duhrssen (vaginof ixation of uterus) [69.22](../icd9cm/chapter-12/index.md#69-22)
+- Dunn (triple arthrodesis) [81.12](../icd9cm/chapter-14/index.md#81-12)
+- duodenum NEC [46.99](../icd9cm/chapter-9/index.md#46-99)
+- Dupuytren
+  - f asciectomy [82.35](../icd9cm/chapter-14/index.md#82-35)
+  - f asciotomy [82.12](../icd9cm/chapter-14/index.md#82-12)
+    - with excision [82.35](../icd9cm/chapter-14/index.md#82-35)
+  - shoulder disarticulation [84.08](../icd9cm/chapter-14/index.md#84-08)
+- Durham (-Caldwell) (transf er of biceps f emoris tendon) [83.75](../icd9cm/chapter-14/index.md#83-75)
+- DuToit and Roux (staple capsulorrhaphy of shoulder) [81.82](../icd9cm/chapter-14/index.md#81-82)
+- DuVries (tenoplasty) [83.88](../icd9cm/chapter-14/index.md#83-88)
+- Dwyer
+  - f asciotomy [83.14](../icd9cm/chapter-14/index.md#83-14)
+  - sof t tissue release NEC [83.84](../icd9cm/chapter-14/index.md#83-84)
+  - wedge osteotomy, calcaneus 77.28
+- Eagleton (extrapetrosal drainage) [20.22](../icd9cm/chapter-4/index.md#20-22)
+- ear (external) NEC [18.9](../icd9cm/chapter-4/index.md#18-9)
+  - middle or inner NEC [20.99](../icd9cm/chapter-4/index.md#20-99)
+- Eden-Hybinette (glenoid bone block) 78.01
+- Ef f ler (heart) [36.2](../icd9cm/chapter-7/index.md#36-2)
+- Eggers
+  - tendon release (patellar retinacula) [83.13](../icd9cm/chapter-14/index.md#83-13)
+  - tendon transf er (biceps f emoris tendon) (hamstring tendon) [83.75](../icd9cm/chapter-14/index.md#83-75)
+- Elliot (scleral trephination with iridectomy) [12.61](../icd9cm/chapter-3/index.md#12-61)
+- Ellis Jones (repair of peroneal tendon) [83.88](../icd9cm/chapter-14/index.md#83-88)
+- Ellison (reinf orcement of collateral ligament) [81.44](../icd9cm/chapter-14/index.md#81-44)
+- Elmslie-Cholmeley (tarsal wedge osteotomy) 77.28
+- Eloesser
+  - thoracoplasty [33.34](../icd9cm/chapter-6/index.md#33-34)
+  - thoracostomy [34.09](../icd9cm/chapter-6/index.md#34-09)
+- Emmet (cervix) [67.61](../icd9cm/chapter-12/index.md#67-61)
+- endorectal pull-through [48.41](../icd9cm/chapter-9/index.md#48-41)
+- epididymis NEC [63.99](../icd9cm/chapter-11/index.md#63-99)
+- esophagus NEC [42.99](../icd9cm/chapter-9/index.md#42-99)
+- Estes (ovary) [65.72](../icd9cm/chapter-12/index.md#65-72)
+  - laparoscopic [65.75](../icd9cm/chapter-12/index.md#65-75)
+- Estlander (thoracoplasty) [33.34](../icd9cm/chapter-6/index.md#33-34)
+- Evans (release of clubf oot) [83.84](../icd9cm/chapter-14/index.md#83-84)
+- extraocular muscle NEC [15.9](../icd9cm/chapter-3/index.md#15-9)
+  - multiple (two or more muscles) [15.4](../icd9cm/chapter-3/index.md#15-4)
+    - with temporary detachment f rom globe [15.3](../icd9cm/chapter-3/index.md#15-3)
+  - revision [15.6](../icd9cm/chapter-3/index.md#15-6)
+  - single [15.29](../icd9cm/chapter-3/index.md#15-29)
+    - with temporary detachment f rom globe [15.19](../icd9cm/chapter-3/index.md#15-19)
+- eyeball NEC [16.99](../icd9cm/chapter-3/index.md#16-99)
+- eyelid(s) NEC [08.99](../icd9cm/chapter-3/index.md#08-99)
+- f ace NEC [27.99](../icd9cm/chapter-5/index.md#27-99)
+- f acial bone or joint NEC [76.99](../icd9cm/chapter-14/index.md#76-99)
+- f allopian tube NEC [66.99](../icd9cm/chapter-12/index.md#66-99)
+- Farabeuf (ischiopubiotomy) 77.39
+- Fasanella-Servatt (blepharoptosis repair) [08.35](../icd9cm/chapter-3/index.md#08-35)
+- f ascia NEC [83.99](../icd9cm/chapter-14/index.md#83-99)
+  - hand [82.99](../icd9cm/chapter-14/index.md#82-99)
+- f emale (genital organs) NEC [71.9](../icd9cm/chapter-12/index.md#71-9)
+  - hysterectomy NEC [68.9](../icd9cm/chapter-12/index.md#68-9)
+- f enestration (aorta) [39.54](../icd9cm/chapter-7/index.md#39-54)
+- Ferguson (hernia repair) [53.00](../icd9cm/chapter-9/index.md#53-00)
+- Fick (perf oration of f ootplate) [19.0](../icd9cm/chapter-4/index.md#19-0)
+- f iltering (f or glaucoma) [12.79](../icd9cm/chapter-3/index.md#12-79)
+  - with iridectomy [12.65](../icd9cm/chapter-3/index.md#12-65)
+- Finney (pyloroplasty) [44.29](../icd9cm/chapter-9/index.md#44-29)
+- f istulizing, sclera NEC [12.69](../icd9cm/chapter-3/index.md#12-69)
+- Foley (pyeloplasty) [55.87](../icd9cm/chapter-10/index.md#55-87)
+- Fontan (creation of conduit between right atrium and pulmonary artery) [35.94](../icd9cm/chapter-7/index.md#35-94)
+- Fothergill (-Donald) (uterine suspension) [69.22](../icd9cm/chapter-12/index.md#69-22)
+- Fowler
+  - arthroplasty of metacarpophalangeal joint [81.72](../icd9cm/chapter-14/index.md#81-72)
+  - release (mallet f inger repair) [82.84](../icd9cm/chapter-14/index.md#82-84)
+  - tenodesis (hand) [82.85](../icd9cm/chapter-14/index.md#82-85)
+  - thoracoplasty [33.34](../icd9cm/chapter-6/index.md#33-34)
+- Fox (entropion repair with wedge resection) [08.43](../icd9cm/chapter-3/index.md#08-43)
+- Franco (suprapubic cystotomy) [57.19](../icd9cm/chapter-10/index.md#57-19)
+- Frank (permanent gastrostomy) [43.19](../icd9cm/chapter-9/index.md#43-19)
+- Frazier (-Spiller) (subtemporal trigeminal rhizotomy) [04.02](../icd9cm/chapter-1/index.md#04-02)
+- Fredet-Ramstedt (pyloromyotomy) (with wedge resection) [43.3](../icd9cm/chapter-9/index.md#43-3)
+- Frenckner (intrapetrosal drainage) [20.22](../icd9cm/chapter-4/index.md#20-22)
+- Frickman (abdominal proctopexy) [48.75](../icd9cm/chapter-9/index.md#48-75)
+- Frommel (shortening of uterosacral ligaments) [69.22](../icd9cm/chapter-12/index.md#69-22)
+- Gabriel (abdominoperineal resection of rectum), NOS [48.50](../icd9cm/chapter-9/index.md#48-50)
+  - laparoscopic [48.51](../icd9cm/chapter-9/index.md#48-51)
+  - open [48.52](../icd9cm/chapter-9/index.md#48-52)
+  - other [48.59](../icd9cm/chapter-9/index.md#48-59)
+- gallbladder NEC [51.99](../icd9cm/chapter-9/index.md#51-99)
+- ganglia NEC [04.99](../icd9cm/chapter-1/index.md#04-99)
+  - sympathetic [05.89](../icd9cm/chapter-1/index.md#05-89)
+- Gant (wedge osteotomy of trochanter) 77.25
+- Garceau (tibial tendon transf er) [83.75](../icd9cm/chapter-14/index.md#83-75)
+- Gardner (spinal meningocele repair) [03.51](../icd9cm/chapter-1/index.md#03-51)
+- gastric NEC [44.99](../icd9cm/chapter-9/index.md#44-99)
+- Gelman (release of clubf oot) [83.84](../icd9cm/chapter-14/index.md#83-84)
+- genital organ NEC
+  - f emale [71.9](../icd9cm/chapter-12/index.md#71-9)
+  - male [64.99](../icd9cm/chapter-11/index.md#64-99)
+- Ghormley (hip f usion) [81.21](../icd9cm/chapter-14/index.md#81-21)
+- Gif f od
+  - destruction of lacrimal sac [09.6](../icd9cm/chapter-3/index.md#09-6)
+  - keratotomy (delimiting) [11.1](../icd9cm/chapter-3/index.md#11-1)
+- Gill
+  - arthrodesis of shoulder [81.23](../icd9cm/chapter-14/index.md#81-23)
+  - laminectomy [03.09](../icd9cm/chapter-1/index.md#03-09)
+- Gill-Stein (carporadial arthrodesis) [81.25](../icd9cm/chapter-14/index.md#81-25)
+- Gilliam (uterine suspension) [69.22](../icd9cm/chapter-12/index.md#69-22)
+- Girdlestone
+  - laminectomy with spinal f usion [81.00](../icd9cm/chapter-14/index.md#81-00)
+  - muscle transf er f or claw toe [77.57](../icd9cm/chapter-14/index.md#77-57)
+  - resection of f emoral head and neck (without insertion of joint prosthesis) 77.85
+    - with replacement prosthesis - see Implant, joint, hip
+  - resection of hip prosthesis 80.05
+    - with replacement prosthesis - see Implant, joint, hip
+- Girdlestone-Taylor (muscle transf er f or claw toe repair) [77.57](../icd9cm/chapter-14/index.md#77-57)
+- glaucoma NEC [12.79](../icd9cm/chapter-3/index.md#12-79)
+- glaucoma implant [12.75](../icd9cm/chapter-3/index.md#12-75) (IM)
+- Glenn (anastomosis of superior vena cava to right pulmonary artery) [39.21](../icd9cm/chapter-7/index.md#39-21)
+- globus pallidus NEC [01.42](../icd9cm/chapter-1/index.md#01-42)
+- Goebel-Frangenheim-Stoeckel (urethrovesical suspension) [59.4](../icd9cm/chapter-10/index.md#59-4)
+- Goldner (clubf oot release) 80.48
+- Goldthwaite
+  - ankle stabilization [81.11](../icd9cm/chapter-14/index.md#81-11)
+  - patella stabilization [81.44](../icd9cm/chapter-14/index.md#81-44)
+  - tendon transf er f or patella dislocation [81.44](../icd9cm/chapter-14/index.md#81-44)
+- Goodall-Power (vagina) [70.4](../icd9cm/chapter-12/index.md#70-4)
+- Gordon-Taylor (hindquarter amputation) [84.19](../icd9cm/chapter-14/index.md#84-19)
+- Graber-Duvernay (drilling f emoral head) 77.15
+- Green (scapulopexy) 78.41
+- Grice (subtalar arthrodesis) [81.13](../icd9cm/chapter-14/index.md#81-13)
+- Gritti-Stokes (knee disarticulation) [84.16](../icd9cm/chapter-14/index.md#84-16)
+- Gross (herniorrhaphy)
+  - laparoscopic [53.43](../icd9cm/chapter-9/index.md#53-43)
+    - with graf t or prosthesis [53.42](../icd9cm/chapter-9/index.md#53-42)
+  - other and open with graf t or prosthesis [53.41](../icd9cm/chapter-9/index.md#53-41)
+  - other open [53.49](../icd9cm/chapter-9/index.md#53-49)
+- gum NEC [24.39](../icd9cm/chapter-5/index.md#24-39)
+- Guyon (amputation of ankle) [84.13](../icd9cm/chapter-14/index.md#84-13)
+- Hagner (epididymotomy) [63.92](../icd9cm/chapter-11/index.md#63-92)
+- Halsted -- see [Repair, hernia, inguinal](r.md#repair)
+- Halsted mastectomy [85.45](../icd9cm/chapter-15/index.md#85-45)
+- Hampton (anastomosis small intestine to rectal stump) [45.92](../icd9cm/chapter-9/index.md#45-92)
+- hanging hip (muscle release) [83.19](../icd9cm/chapter-14/index.md#83-19)
+- harelip [27.54](../icd9cm/chapter-5/index.md#27-54)
+- Harrison-Richardson (vaginal suspension) [70.77](../icd9cm/chapter-12/index.md#70-77)
+  - with graf t or prosthesis [70.78](../icd9cm/chapter-12/index.md#70-78)
+- Hartmann -- see Colectomy, by site
+- Hauser
+  - achillotenotomy [83.11](../icd9cm/chapter-14/index.md#83-11)
+  - bunionectomy with adductor tendon transf er [77.53](../icd9cm/chapter-14/index.md#77-53)
+  - stabilization of patella [81.44](../icd9cm/chapter-14/index.md#81-44)
+- Heaney (vaginal hysterectomy) [68.59](../icd9cm/chapter-12/index.md#68-59)
+  - laparoscopically assisted (LAVH) [68.51](../icd9cm/chapter-12/index.md#68-51)
+- heart NEC [37.99](../icd9cm/chapter-7/index.md#37-99)
+  - valve NEC [35.99](../icd9cm/chapter-7/index.md#35-99)
+    - adjacent structure NEC [35.39](../icd9cm/chapter-7/index.md#35-39)
+- Hegar (perineorrhaphy) [71.79](../icd9cm/chapter-12/index.md#71-79)
+- Heine (cyclodialysis) [12.55](../icd9cm/chapter-3/index.md#12-55)
+- Heineke-Mikulicz (pyloroplasty) -- see category [44.2](../icd9cm/chapter-9/index.md#44-2)
+- Heller (esophagomyotomy) [42.7](../icd9cm/chapter-9/index.md#42-7)
+- Hellström (transplantation of aberrant renal vessel) [39.55](../icd9cm/chapter-7/index.md#39-55)
+- hemorrhoids NEC [49.49](../icd9cm/chapter-9/index.md#49-49)
+- Henley (jejunal transposition) [43.81](../icd9cm/chapter-9/index.md#43-81)
+- hepatic NEC [50.99](../icd9cm/chapter-9/index.md#50-99)
+- hernia -- see [Repair, hernia](r.md#repair)
+- Hey (amputation of f oot) [84.12](../icd9cm/chapter-14/index.md#84-12)
+- Hey-Groves (reconstruction of anterior cruciate ligament) [81.45](../icd9cm/chapter-14/index.md#81-45)
+- Heyman (sof t tissue release f or clubf oot) [83.84](../icd9cm/chapter-14/index.md#83-84)
+- Heyman-Herndon (-Strong) (correction of metatarsus varus) 80.48
+- Hibbs (lumbar spinal f usion) -- see [Fusion, lumbar](f.md#fusion)
+- Higgins -- see [Repair, hernia, f emoral](r.md#repair)
+- Hill-Allison (hiatal hernia repair, transpleural approach) [53.80](../icd9cm/chapter-9/index.md#53-80)
+- Hitchcock (anchoring tendon of biceps) [83.88](../icd9cm/chapter-14/index.md#83-88)
+- Hof meister (gastrectomy) [43.7](../icd9cm/chapter-9/index.md#43-7)
+- Hoke
+  - midtarsal f usion [81.14](../icd9cm/chapter-14/index.md#81-14)
+  - triple arthrodesis [81.12](../icd9cm/chapter-14/index.md#81-12)
+- Holth
+  - iridencleisis [12.63](../icd9cm/chapter-3/index.md#12-63)
+  - sclerectomy [12.65](../icd9cm/chapter-3/index.md#12-65)
+- Homan (correction of lymphedema) [40.9](../icd9cm/chapter-8/index.md#40-9)
+- Hutch (ureteroneocystostomy) [56.74](../icd9cm/chapter-10/index.md#56-74)
+- Hybinette-eden (glenoid bone block) 78.01
+- hymen NEC [70.91](../icd9cm/chapter-12/index.md#70-91)
+- hypopharynx NEC [29.99](../icd9cm/chapter-5/index.md#29-99)
+- hypophysis NEC [07.79](../icd9cm/chapter-2/index.md#07-79)
+- ileal loop [56.51](../icd9cm/chapter-10/index.md#56-51)
+- ileum NEC [46.99](../icd9cm/chapter-9/index.md#46-99)
+- intestine NEC [46.99](../icd9cm/chapter-9/index.md#46-99)
+- iris NEC [12.97](../icd9cm/chapter-3/index.md#12-97)
+  - inclusion [12.63](../icd9cm/chapter-3/index.md#12-63)
+- Irving (tubal ligation) [66.32](../icd9cm/chapter-12/index.md#66-32)
+- Irwin -- see also Osteotomy 77.30
+- Jaboulay (gastroduodenostomy) [44.39](../icd9cm/chapter-9/index.md#44-39)
+  - laparoscopic [44.38](../icd9cm/chapter-9/index.md#44-38)
+- Janeway (permanent gastrostomy) [43.19](../icd9cm/chapter-9/index.md#43-19)
+- Jatene (arterial switch) [35.84](../icd9cm/chapter-7/index.md#35-84)
+- jejunum NEC [46.99](../icd9cm/chapter-9/index.md#46-99)
+- Johanson (urethral reconstruction) [58.46](../icd9cm/chapter-10/index.md#58-46)
+- joint (capsule) (ligament) (structure) NEC [81.99](../icd9cm/chapter-14/index.md#81-99)
+  - f acial NEC [76.99](../icd9cm/chapter-14/index.md#76-99)
+- Jones
+  - claw toe (transf er of extensor hallucis longus tendon) [77.57](../icd9cm/chapter-14/index.md#77-57)
+  - modif ied (with arthrodesis) [77.57](../icd9cm/chapter-14/index.md#77-57)
+  - dacryocystorhinostomy [09.81](../icd9cm/chapter-3/index.md#09-81)
+  - hammer toe (interphalangeal f usion) [77.56](../icd9cm/chapter-14/index.md#77-56)
+  - modif ied (tendon transf er with arthrodesis) [77.57](../icd9cm/chapter-14/index.md#77-57)
+  - repair of peroneal tendon [83.88](../icd9cm/chapter-14/index.md#83-88)
+- Joplin (exostectomy with tendon transf er) [77.53](../icd9cm/chapter-14/index.md#77-53)
+- Kader (temporary gastrostomy) [43.19](../icd9cm/chapter-9/index.md#43-19)
+- Kauf man (f or urinary stress incontinence) [59.79](../icd9cm/chapter-10/index.md#59-79)
+- Kazanjiian (buccal vestibular sulcus extension) [24.91](../icd9cm/chapter-5/index.md#24-91)
+- Kehr (hepatopexy) [50.69](../icd9cm/chapter-9/index.md#50-69)
+- Keller (bunionectomy) [77.59](../icd9cm/chapter-14/index.md#77-59)
+- Kelly (-Kennedy) (urethrovesical plication) [59.3](../icd9cm/chapter-10/index.md#59-3)
+- Kelly-Stoeckel (urethrovesical plication) [59.3](../icd9cm/chapter-10/index.md#59-3)
+- Kerr (cesarean section) [74.1](../icd9cm/chapter-13/index.md#74-1)
+- Kessler (arthroplasty, carpometacarpal joint) [81.74](../icd9cm/chapter-14/index.md#81-74)
+- Kidner (excision of accessory navicular bone) (with tendon transf er) 77.98
+- kidney NEC [55.99](../icd9cm/chapter-10/index.md#55-99)
+- Killian (f rontal sinusotomy) [22.41](../icd9cm/chapter-5/index.md#22-41)
+- King-Steelquist (hindquarter amputation) [84.19](../icd9cm/chapter-14/index.md#84-19)
+- Kirk (amputation through thigh) [84.17](../icd9cm/chapter-14/index.md#84-17)
+- Kock pouch
+  - bowel anastomosis -- omit code
+  - continent ileostomy [46.22](../icd9cm/chapter-9/index.md#46-22)
+  - cutaneous uretero-ileostomy [56.51](../icd9cm/chapter-10/index.md#56-51)
+  - ESWL (electrocorporeal shockwave lithotripsy) [98.51](../icd9cm/chapter-16/index.md#98-51)
+  - removal, calculus [57.19](../icd9cm/chapter-10/index.md#57-19)
+  - revision, cutaneous uretero-ileostomy [56.52](../icd9cm/chapter-10/index.md#56-52)
+  - urinary diversion procedure [56.51](../icd9cm/chapter-10/index.md#56-51)
+- Kondoleon (correction of lymphedema) [40.9](../icd9cm/chapter-8/index.md#40-9)
+- Krause (sympathetic denervation) [05.29](../icd9cm/chapter-1/index.md#05-29)
+- Kroener (partial salpingectomy) [66.69](../icd9cm/chapter-12/index.md#66-69)
+- Kroenlein (lateral orbitotomy) [16.01](../icd9cm/chapter-3/index.md#16-01)
+- Kronig (low cervical cesarean section) [74.1](../icd9cm/chapter-13/index.md#74-1)
+- Krukenberg (reconstruction of below-elbow amputation) [82.89](../icd9cm/chapter-14/index.md#82-89)
+- Kuhnt-Szymanowski (ectropion repair with lid reconstruction) [08.44](../icd9cm/chapter-3/index.md#08-44)
+- Labbe (gastrotomy) [43.0](../icd9cm/chapter-9/index.md#43-0)
+- labia NEC [71.8](../icd9cm/chapter-12/index.md#71-8)
+- lacrimal
+  - gland [09.3](../icd9cm/chapter-3/index.md#09-3)
+  - system NEC [09.99](../icd9cm/chapter-3/index.md#09-99)
+- Ladd (mobilization of intestine) [54.95](../icd9cm/chapter-9/index.md#54-95)
+- Lagrange (iridosclerectomy) [12.65](../icd9cm/chapter-3/index.md#12-65)
+- Lambrinudi (triple arthrodesis) [81.12](../icd9cm/chapter-14/index.md#81-12)
+- Langenbeck (clef t palate repair) [27.62](../icd9cm/chapter-5/index.md#27-62)
+- Lapidus (bunionectomy with metatarsal osteotomy) [77.51](../icd9cm/chapter-14/index.md#77-51)
+- Larry (shoulder disarticulation) [84.08](../icd9cm/chapter-14/index.md#84-08)
+- larynx NEC [31.98](../icd9cm/chapter-6/index.md#31-98)
+- Lash
+  - internal cervical os repair [67.59](../icd9cm/chapter-12/index.md#67-59)
+  - laparoscopic supracervical hysterectomy [68.31](../icd9cm/chapter-12/index.md#68-31)
+- Latzko
+  - cesarean section, extraperitoneal [74.2](../icd9cm/chapter-13/index.md#74-2)
+  - colpocleisis [70.8](../icd9cm/chapter-12/index.md#70-8)
+- Leadbetter (urethral reconstruction) [58.46](../icd9cm/chapter-10/index.md#58-46)
+- Leadbetter-Politano (ureteroneocystostomy) [56.74](../icd9cm/chapter-10/index.md#56-74)
+- Le Fort (colpocleisis) [70.8](../icd9cm/chapter-12/index.md#70-8)
+- LeMesurier (clef t lip repair) [27.54](../icd9cm/chapter-5/index.md#27-54)
+- lens NEC [13.90](../icd9cm/chapter-3/index.md#13-90)
+- Leriche (periarterial sympathectomy) [05.25](../icd9cm/chapter-1/index.md#05-25)
+- levator muscle sling
+  - eyelid ptosis repair [08.33](../icd9cm/chapter-3/index.md#08-33)
+  - urethrovesical suspension [59.71](../icd9cm/chapter-10/index.md#59-71)
+  - urinary stress incontinence [59.71](../icd9cm/chapter-10/index.md#59-71)
+- lid suture (blepharoptosis) [08.31](../icd9cm/chapter-3/index.md#08-31)
+- ligament NEC [81.99](../icd9cm/chapter-14/index.md#81-99)
+  - broad NEC [69.98](../icd9cm/chapter-12/index.md#69-98)
+  - round NEC [69.98](../icd9cm/chapter-12/index.md#69-98)
+  - uterine NEC [69.98](../icd9cm/chapter-12/index.md#69-98)
+- Lindholm (repair of ruptured tendon) [83.88](../icd9cm/chapter-14/index.md#83-88)
+- Linton (varicose vein) 38.59
+- lip NEC [27.99](../icd9cm/chapter-5/index.md#27-99)
+- Lisf ranc
+  - f oot amputation [84.12](../icd9cm/chapter-14/index.md#84-12)
+  - shoulder disarticulation [84.08](../icd9cm/chapter-14/index.md#84-08)
+- Littlewood (f orequarter amputation) [84.09](../icd9cm/chapter-14/index.md#84-09)
+  - liver NEC [50.99](../icd9cm/chapter-9/index.md#50-99)
+- Lloyd-Davies (abdominoperineal resection), NOS [48.50](../icd9cm/chapter-9/index.md#48-50)
+  - laparoscopic [48.51](../icd9cm/chapter-9/index.md#48-51)
+  - open [48.52](../icd9cm/chapter-9/index.md#48-52)
+  - other [48.59](../icd9cm/chapter-9/index.md#48-59)
+- Longmire (bile duct anastomosis) [51.39](../icd9cm/chapter-9/index.md#51-39)
+- Lord
+  - dilation of anal canal f or hemorrhoids [49.49](../icd9cm/chapter-9/index.md#49-49)
+  - hemorrhoidectomy [49.49](../icd9cm/chapter-9/index.md#49-49)
+  - orchidopexy [62.5](../icd9cm/chapter-11/index.md#62-5)
+- Lucas and Murray (knee arthrodesis with plate) [81.22](../icd9cm/chapter-14/index.md#81-22)
+- lung NEC [33.99](../icd9cm/chapter-6/index.md#33-99)
+- lung volume reduction [32.22](../icd9cm/chapter-6/index.md#32-22)
+  - biologic lung volume reduction (BLVR) - see category [33.7](../icd9cm/chapter-6/index.md#33-7)
+- lymphatic structure(s) NEC [40.9](../icd9cm/chapter-8/index.md#40-9)
+  - duct, lef t (thoracic) NEC [40.69](../icd9cm/chapter-8/index.md#40-69)
+- Madlener (tubal ligation) [66.31](../icd9cm/chapter-12/index.md#66-31)
+- Magnuson (-Stack) (arthroplasty f or recurrent shoulder dislocation) [81.82](../icd9cm/chapter-14/index.md#81-82)
+- male genital organs NEC [64.99](../icd9cm/chapter-11/index.md#64-99)
+- Manchester (-Donald) (-Fothergill) (uterine suspension) [69.22](../icd9cm/chapter-12/index.md#69-22)
+- mandible NEC [76.99](../icd9cm/chapter-14/index.md#76-99)
+  - orthognathic [76.64](../icd9cm/chapter-14/index.md#76-64)
+- Marckwald (cervical os repair) [67.59](../icd9cm/chapter-12/index.md#67-59)
+- Marshall-Marchetti (-Krantz) (retropubic urethral suspension) [59.5](../icd9cm/chapter-10/index.md#59-5)
+- Matas (aneurysmorrhaphy) [39.52](../icd9cm/chapter-7/index.md#39-52)
+- Mayo
+  - bunionectomy [77.59](../icd9cm/chapter-14/index.md#77-59)
+  - herniorrhaphy
+    - laparoscopic [53.43](../icd9cm/chapter-9/index.md#53-43)
+      - with graf t or prosthesis [53.42](../icd9cm/chapter-9/index.md#53-42)
+    - other and open with graf t or prosthesis [53.41](../icd9cm/chapter-9/index.md#53-41)
+    - other open [53.49](../icd9cm/chapter-9/index.md#53-49)
+  - vaginal hysterectomy [68.59](../icd9cm/chapter-12/index.md#68-59)
+    - laparoscopically assisted (LAVH) [68.51](../icd9cm/chapter-12/index.md#68-51)
+- maze procedure (ablation or destruction of heart tissue)
+  - by incision (open) [37.33](../icd9cm/chapter-7/index.md#37-33)
+  - by median sternotomy [37.33](../icd9cm/chapter-7/index.md#37-33)
+  - by peripherally inserted catheter [37.34](../icd9cm/chapter-7/index.md#37-34)
+  - by thoracotomy without thoracoscope [37.33](../icd9cm/chapter-7/index.md#37-33)
+  - endovascular approach [37.34](../icd9cm/chapter-7/index.md#37-34)
+- Mazet (knee disarticulation) [84.16](../icd9cm/chapter-14/index.md#84-16)
+- McBride (bunionectomy with sof t tissue correction) [77.53](../icd9cm/chapter-14/index.md#77-53)
+- McBurney -- see [Repair, hernia, inguinal](r.md#repair)
+- McCall (enterocele repair) [70.92](../icd9cm/chapter-12/index.md#70-92)
+  - with graf t or prosthesis [70.93](../icd9cm/chapter-12/index.md#70-93)
+- McCauley (release of clubf oot) [83.84](../icd9cm/chapter-14/index.md#83-84)
+- McDonald (encirclement suture, cervix) [67.59](../icd9cm/chapter-12/index.md#67-59)
+- McIndoe (vaginal construction) [70.61](../icd9cm/chapter-12/index.md#70-61)
+  - with graf t or prosthesis [70.63](../icd9cm/chapter-12/index.md#70-63)
+- McKeever (f usion of f irst metatarsophalangeal joint f or hallux valgus repair) [77.52](../icd9cm/chapter-14/index.md#77-52)
+- McKissock (breast reduction) [85.33](../icd9cm/chapter-15/index.md#85-33)
+- McReynolds (transposition of pterygium) [11.31](../icd9cm/chapter-3/index.md#11-31)
+- McVay
+  - f emoral hernia -- see [Repair, hernia, f emoral](r.md#repair)
+  - inguinal hernia -- see [Repair, hernia, inguinal](r.md#repair)
+- meninges (spinal) NEC [03.99](../icd9cm/chapter-1/index.md#03-99)
+  - cerebral NEC [02.99](../icd9cm/chapter-1/index.md#02-99)
+- mesentery NEC [54.99](../icd9cm/chapter-9/index.md#54-99)
+- Mikulicz (exteriorization of intestine) (f irst stage) [46.03](../icd9cm/chapter-9/index.md#46-03)
+  - second stage [46.04](../icd9cm/chapter-9/index.md#46-04)
+- Miles (complete proctectomy), NOS [48.50](../icd9cm/chapter-9/index.md#48-50)
+  - laparoscopic [48.51](../icd9cm/chapter-9/index.md#48-51)
+  - open [48.52](../icd9cm/chapter-9/index.md#48-52)
+  - other [48.59](../icd9cm/chapter-9/index.md#48-59)
+- Millard (cheiloplasty) [27.54](../icd9cm/chapter-5/index.md#27-54)
+- Miller
+  - midtarsal arthrodesis [81.14](../icd9cm/chapter-14/index.md#81-14)
+  - urethrovesical suspension [59.4](../icd9cm/chapter-10/index.md#59-4)
+- Millin-Read (urethrovesical suspension) [59.4](../icd9cm/chapter-10/index.md#59-4)
+- Mitchell (hallux valgus repair) [77.51](../icd9cm/chapter-14/index.md#77-51)
+- Mohs (chemosurgical excision of skin) [86.24](../icd9cm/chapter-15/index.md#86-24)
+- Moore (arthroplasty) [81.52](../icd9cm/chapter-14/index.md#81-52)
+- Moschowitz
+  - enterocele repair [70.92](../icd9cm/chapter-12/index.md#70-92)
+    - with graf t or prosthesis [70.93](../icd9cm/chapter-12/index.md#70-93)
+  - herniorrhaphy -- see [Repair, hernia, f emoral](r.md#repair)
+  - sigmoidopexy [46.63](../icd9cm/chapter-9/index.md#46-63)
+- mouth NEC [27.99](../icd9cm/chapter-5/index.md#27-99)
+- Muller (banding of pulmonary artery) 38.85
+- Mumf ord (partial claviculectomy) 77.81
+- muscle NEC [83.99](../icd9cm/chapter-14/index.md#83-99)
+  - extraocular -- see [Operation, extraocular](o.md#operation)
+  - hand NEC [82.99](../icd9cm/chapter-14/index.md#82-99)
+  - papillary heart NEC [35.31](../icd9cm/chapter-7/index.md#35-31)
+- musculoskeletal system NEC [84.99](../icd9cm/chapter-14/index.md#84-99)
+- Mustard (interatrial transposition of venous return) [35.91](../icd9cm/chapter-7/index.md#35-91)
+- nail (f inger) (toe) NEC [86.99](../icd9cm/chapter-15/index.md#86-99)
+- nasal sinus NEC [22.9](../icd9cm/chapter-5/index.md#22-9)
+- nasopharynx NEC [29.99](../icd9cm/chapter-5/index.md#29-99)
+- nerve (cranial) (peripheral) NEC [04.99](../icd9cm/chapter-1/index.md#04-99)
+  - adrenal NEC [07.49](../icd9cm/chapter-2/index.md#07-49)
+  - sympathetic NEC [05.89](../icd9cm/chapter-1/index.md#05-89)
+- nervous system NEC [05.9](../icd9cm/chapter-1/index.md#05-9)
+- Nicola (tenodesis f or recurrent dislocation of shoulder) [81.82](../icd9cm/chapter-14/index.md#81-82)
+- nipple NEC [85.99](../icd9cm/chapter-15/index.md#85-99)
+- Nissen (f undoplication of stomach) [44.66](../icd9cm/chapter-9/index.md#44-66)
+  - laparoscopic [44.67](../icd9cm/chapter-9/index.md#44-67)
+- Noble (plication of small intestine) [46.62](../icd9cm/chapter-9/index.md#46-62)
+- node (lymph) NEC [40.9](../icd9cm/chapter-8/index.md#40-9)
+- Norman Miller (vaginopexy) [70.77](../icd9cm/chapter-12/index.md#70-77)
+  - with graf t or prosthesis [70.78](../icd9cm/chapter-12/index.md#70-78)
+- Norton (extraperitoneal cesarean operation) [74.2](../icd9cm/chapter-13/index.md#74-2)
+- nose, nasal NEC [21.99](../icd9cm/chapter-5/index.md#21-99)
+  - sinus NEC [22.9](../icd9cm/chapter-5/index.md#22-9)
+- Ober (-Yount) (gluteal-iliotibial f asciotomy) [83.14](../icd9cm/chapter-14/index.md#83-14)
+- obstetric NEC [75.99](../icd9cm/chapter-13/index.md#75-99)
+- ocular NEC [16.99](../icd9cm/chapter-3/index.md#16-99)
+  - muscle -- see [Operation, extraocular muscle](o.md#operation)
+- O'Donoghue (triad knee repair) [81.43](../icd9cm/chapter-14/index.md#81-43)
+- Olshausen (uterine suspension) [69.22](../icd9cm/chapter-12/index.md#69-22)
+- omentum NEC [54.99](../icd9cm/chapter-9/index.md#54-99)
+- ophthalmologic NEC [16.99](../icd9cm/chapter-3/index.md#16-99)
+- oral cavity NEC [27.99](../icd9cm/chapter-5/index.md#27-99)
+- orbicularis muscle sling [08.36](../icd9cm/chapter-3/index.md#08-36)
+- orbit NEC [16.98](../icd9cm/chapter-3/index.md#16-98)
+- oropharynx NEC [29.99](../icd9cm/chapter-5/index.md#29-99)
+- orthodontic NEC [24.8](../icd9cm/chapter-5/index.md#24-8)
+- orthognathic NEC [76.69](../icd9cm/chapter-14/index.md#76-69)
+- Oscar Miller (midtarsal arthrodesis) [81.14](../icd9cm/chapter-14/index.md#81-14)
+- Osmond-Clark (sof t tissue release with peroneus brevis tendon transf er) [83.75](../icd9cm/chapter-14/index.md#83-75)
+- ovary NEC [65.99](../icd9cm/chapter-12/index.md#65-99)
+- Oxf ord (f or urinary incontinence) [59.4](../icd9cm/chapter-10/index.md#59-4)
+- palate NEC [27.99](../icd9cm/chapter-5/index.md#27-99)
+- palpebral ligament sling [08.36](../icd9cm/chapter-3/index.md#08-36)
+- Panas (linear proctotomy) [48.0](../icd9cm/chapter-9/index.md#48-0)
+- Pancoast (division of trigeminal nerve at f oramen ovale) [04.02](../icd9cm/chapter-1/index.md#04-02)
+- pancreas NEC [52.99](../icd9cm/chapter-9/index.md#52-99)
+- pantaloon (revision of gastric anastomosis) [44.5](../icd9cm/chapter-9/index.md#44-5)
+- papillary muscle (heart) NEC [35.31](../icd9cm/chapter-7/index.md#35-31)
+- Paquin (ureteroneocystostomy) [56.74](../icd9cm/chapter-10/index.md#56-74)
+- parathyroid gland(s) NEC [06.99](../icd9cm/chapter-2/index.md#06-99)
+- parotid gland or duct NEC [26.99](../icd9cm/chapter-5/index.md#26-99)
+- Partsch (marsupialization of dental cyst) [24.4](../icd9cm/chapter-5/index.md#24-4)
+- Pattee (auditory canal) [18.6](../icd9cm/chapter-4/index.md#18-6)
+- Peet (splanchnic resection) [05.29](../icd9cm/chapter-1/index.md#05-29)
+- Pemberton
+  - osteotomy of ilium 77.39
+  - rectum (mobilization and f ixation f or prolapse repair) [48.76](../icd9cm/chapter-9/index.md#48-76)
+- penis NEC [64.98](../icd9cm/chapter-11/index.md#64-98)
+- Pereyra (paraurethral suspension) [59.6](../icd9cm/chapter-10/index.md#59-6)
+- pericardium NEC [37.99](../icd9cm/chapter-7/index.md#37-99)
+- perineum (f emale) NEC [71.8](../icd9cm/chapter-12/index.md#71-8)
+  - male NEC [86.99](../icd9cm/chapter-15/index.md#86-99)
+- perirectal tissue NEC [48.99](../icd9cm/chapter-9/index.md#48-99)
+- perirenal tissue NEC [59.92](../icd9cm/chapter-10/index.md#59-92)
+- peritoneum NEC [54.99](../icd9cm/chapter-9/index.md#54-99)
+- periurethral tissue NEC [58.99](../icd9cm/chapter-10/index.md#58-99)
+- perivesical tissue NEC [59.92](../icd9cm/chapter-10/index.md#59-92)
+- pharyngeal f lap (clef t palate repair) [27.62](../icd9cm/chapter-5/index.md#27-62)
+  - secondary or subsequent [27.63](../icd9cm/chapter-5/index.md#27-63)
+- pharynx, pharyngeal (pouch) NEC [29.99](../icd9cm/chapter-5/index.md#29-99)
+- pineal gland NEC [07.59](../icd9cm/chapter-2/index.md#07-59)
+- Pinsker (obliteration of nasoseptal telangiectasia) [21.07](../icd9cm/chapter-5/index.md#21-07)
+- Piper (f orceps) [72.6](../icd9cm/chapter-13/index.md#72-6)
+- Pirogof f (ankle amputation through malleoli of tibia and f ibula) [84.14](../icd9cm/chapter-14/index.md#84-14)
+- pituitary gland NEC [07.79](../icd9cm/chapter-2/index.md#07-79)
+- plastic -- see [Repair, by site](r.md#repair)
+- pleural cavity NEC [34.99](../icd9cm/chapter-6/index.md#34-99)
+- Politano-Leadbetter (ureteroneocystostomy) [56.74](../icd9cm/chapter-10/index.md#56-74)
+- pollicization (with nerves and blood supply) [82.61](../icd9cm/chapter-14/index.md#82-61)
+- Polya (gastrectomy) [43.7](../icd9cm/chapter-9/index.md#43-7)
+- Pomeroy (ligation and division of f allopian tubes) [66.32](../icd9cm/chapter-12/index.md#66-32)
+- Poncet
+  - lengthening of Achilles tendon [83.85](../icd9cm/chapter-14/index.md#83-85)
+  - urethrostomy, perineal [58.0](../icd9cm/chapter-10/index.md#58-0)
+- Porro (cesarean section) [74.99](../icd9cm/chapter-13/index.md#74-99)
+- posterior chamber (eye) NEC [14.9](../icd9cm/chapter-3/index.md#14-9)
+- Potts-Smith (descending aorta-lef t pulmonary artery anastomosis) [39.0](../icd9cm/chapter-7/index.md#39-0)
+- Printen and Mason (high gastric bypass) [44.31](../icd9cm/chapter-9/index.md#44-31)
+- prostate NEC -- see also Prostatectomy [60.69](../icd9cm/chapter-11/index.md#60-69)
+  - specif ied type [60.99](../icd9cm/chapter-11/index.md#60-99)
+- pterygium [11.39](../icd9cm/chapter-3/index.md#11-39)
+  - with corneal graf t [11.32](../icd9cm/chapter-3/index.md#11-32)
+- Puestow (pancreaticojejunostomy) [52.96](../icd9cm/chapter-9/index.md#52-96)
+- pull-through NEC [48.49](../icd9cm/chapter-9/index.md#48-49)
+- pulmonary NEC [33.99](../icd9cm/chapter-6/index.md#33-99)
+- push-back (clef t palate repair) [27.62](../icd9cm/chapter-5/index.md#27-62)
+- Putti-Platt (capsulorrhaphy of shoulder f or recurrent dislocation) [81.82](../icd9cm/chapter-14/index.md#81-82)
+- pyloric exclusion [44.39](../icd9cm/chapter-9/index.md#44-39)
+  - laparoscopic [44.38](../icd9cm/chapter-9/index.md#44-38)
+- pyrif orm sinus NEC [29.99](../icd9cm/chapter-5/index.md#29-99)
+- "rabbit ear" (anterior urethropexy) (Tudor) [59.79](../icd9cm/chapter-10/index.md#59-79)
+- Ramadier (intrapetrosal drainage) [20.22](../icd9cm/chapter-4/index.md#20-22)
+- Ramstedt (pyloromyotomy) (with wedge resection) [43.3](../icd9cm/chapter-9/index.md#43-3)
+- Rankin
+  - exteriorization of intestine [46.03](../icd9cm/chapter-9/index.md#46-03)
+  - proctectomy (complete), NOS [48.50](../icd9cm/chapter-9/index.md#48-50)
+    - laparoscopic [48.51](../icd9cm/chapter-9/index.md#48-51)
+    - open [48.52](../icd9cm/chapter-9/index.md#48-52)
+    - other [48.59](../icd9cm/chapter-9/index.md#48-59)
+- Rashkind (balloon septostomy) [35.41](../icd9cm/chapter-7/index.md#35-41)
+- Rastelli (creation of conduit between right ventricle and pulmonary artery) [35.92](../icd9cm/chapter-7/index.md#35-92)
+  - in repair of
+    - pulmonary artery atresia [35.92](../icd9cm/chapter-7/index.md#35-92)
+    - transposition of great vessels [35.92](../icd9cm/chapter-7/index.md#35-92)
+    - truncus arteriosus [35.83](../icd9cm/chapter-7/index.md#35-83)
+- Raz-Pereyra procedure (bladder neck suspension) [59.79](../icd9cm/chapter-10/index.md#59-79)
+- rectal NEC [48.99](../icd9cm/chapter-9/index.md#48-99)
+- rectocele NEC [70.52](../icd9cm/chapter-12/index.md#70-52)
+- re-entry (aorta) [39.54](../icd9cm/chapter-7/index.md#39-54)
+- renal NEC [55.99](../icd9cm/chapter-10/index.md#55-99)
+- respiratory (tract) NEC [33.99](../icd9cm/chapter-6/index.md#33-99)
+- retina NEC [14.9](../icd9cm/chapter-3/index.md#14-9)
+- Ripstein (repair of rectal prolapse) [48.75](../icd9cm/chapter-9/index.md#48-75)
+- Rodney Smith (radical subtotal pancreatectomy) [52.53](../icd9cm/chapter-9/index.md#52-53)
+- Roux-en-Y
+  - bile duct [51.36](../icd9cm/chapter-9/index.md#51-36)
+  - cholecystojejunostomy [51.32](../icd9cm/chapter-9/index.md#51-32)
+  - esophagus (intrathoracic) [42.54](../icd9cm/chapter-9/index.md#42-54)
+  - gastroenterostomy [44.39](../icd9cm/chapter-9/index.md#44-39)
+    - laparoscopic [44.38](../icd9cm/chapter-9/index.md#44-38)
+  - gastrojejunostomy [44.39](../icd9cm/chapter-9/index.md#44-39)
+    - laparoscopic [44.38](../icd9cm/chapter-9/index.md#44-38)
+  - pancreaticojejunostomy [52.96](../icd9cm/chapter-9/index.md#52-96)
+- Roux-Goldthwait (repair of patellar dislocation) [81.44](../icd9cm/chapter-14/index.md#81-44)
+- Roux-Herzen-Judine (jejunal loop interposition) [42.63](../icd9cm/chapter-9/index.md#42-63)
+- Ruiz-Mora (proximal phalangectomy f or hammer toe) 77.99
+- Russe (bone graf t of scaphoid) 78.04
+- Saemisch (corneal section) [11.1](../icd9cm/chapter-3/index.md#11-1)
+- salivary gland or duct NEC [26.99](../icd9cm/chapter-5/index.md#26-99)
+- Salter (innominate osteotomy) 77.39
+- Sauer-Bacon (abdominoperineal resection), NOS [48.50](../icd9cm/chapter-9/index.md#48-50)
+  - laparoscopic [48.51](../icd9cm/chapter-9/index.md#48-51)
+  - open [48.52](../icd9cm/chapter-9/index.md#48-52)
+  - other [48.59](../icd9cm/chapter-9/index.md#48-59)
+- Schanz (f emoral osteotomy) 77.35
+- Schauta (-Amreich) (radical vaginal hysterectomy) [68.79](../icd9cm/chapter-12/index.md#68-79)
+  - laparoscopic [68.71](../icd9cm/chapter-12/index.md#68-71)
+- Schede (thoracoplasty) [33.34](../icd9cm/chapter-6/index.md#33-34)
+- Scheie
+  - cautery of sclera [12.62](../icd9cm/chapter-3/index.md#12-62)
+  - sclerostomy [12.62](../icd9cm/chapter-3/index.md#12-62)
+- Schlatter (total gastrectomy) [43.99](../icd9cm/chapter-9/index.md#43-99)
+- Schroeder (endocervical excision) [67.39](../icd9cm/chapter-12/index.md#67-39)
+- Schuchardt (nonobstetrical episiotomy) [71.09](../icd9cm/chapter-12/index.md#71-09)
+- Schwartze (simple mastoidectomy) [20.41](../icd9cm/chapter-4/index.md#20-41)
+- sclera NEC [12.89](../icd9cm/chapter-3/index.md#12-89)
+- Scott
+  - intestinal bypass f or obesity [45.93](../icd9cm/chapter-9/index.md#45-93)
+  - jejunocolostomy (bypass) [45.93](../icd9cm/chapter-9/index.md#45-93)
+- scrotum NEC [61.99](../icd9cm/chapter-11/index.md#61-99)
+- Seddon-Brooks (transf er of pectoralis major tendon) [83.75](../icd9cm/chapter-14/index.md#83-75)
+- Semb (apicolysis of lung) [33.39](../icd9cm/chapter-6/index.md#33-39)
+- seminal vesicle NEC [60.79](../icd9cm/chapter-11/index.md#60-79)
+- Senning (correction of transposition of great vessels) [35.91](../icd9cm/chapter-7/index.md#35-91)
+- Sever (division of sof t tissue of arm) [83.19](../icd9cm/chapter-14/index.md#83-19)
+- Sewell (heart) [36.2](../icd9cm/chapter-7/index.md#36-2)
+- sex transf ormation NEC [64.5](../icd9cm/chapter-11/index.md#64-5)
+- Sharrard (iliopsoas muscle transf er) [83.77](../icd9cm/chapter-14/index.md#83-77)
+- shelf (hip arthroplasty) [81.40](../icd9cm/chapter-14/index.md#81-40)
+- Shirodkar (encirclement suture, cervix) [67.59](../icd9cm/chapter-12/index.md#67-59)
+- sigmoid NEC [46.99](../icd9cm/chapter-9/index.md#46-99)
+- Silver (bunionectomy) [77.59](../icd9cm/chapter-14/index.md#77-59)
+- Sistrunk (excision of thyroglossal cyst) [06.7](../icd9cm/chapter-2/index.md#06-7)
+- Skene's gland NEC [71.8](../icd9cm/chapter-12/index.md#71-8)
+- skin NEC [86.99](../icd9cm/chapter-15/index.md#86-99)
+- skull NEC [02.99](../icd9cm/chapter-1/index.md#02-99)
+- sling
+  - eyelid
+    - f ascia lata, palpebral [08.36](../icd9cm/chapter-3/index.md#08-36)
+    - f rontalis f ascial [08.32](../icd9cm/chapter-3/index.md#08-32)
+    - levator muscle [08.33](../icd9cm/chapter-3/index.md#08-33)
+    - orbicularis muscle [08.36](../icd9cm/chapter-3/index.md#08-36)
+    - palpebrae ligament, f ascia lata [08.36](../icd9cm/chapter-3/index.md#08-36)
+    - tarsus muscle [08.35](../icd9cm/chapter-3/index.md#08-35)
+  - f ascial (f ascia lata)
+    - eye [08.32](../icd9cm/chapter-3/index.md#08-32)
+    - f or f acial weakness (trigeminal nerve paralysis) [86.81](../icd9cm/chapter-15/index.md#86-81)
+    - palpebral ligament [08.36](../icd9cm/chapter-3/index.md#08-36)
+    - tongue [25.59](../icd9cm/chapter-5/index.md#25-59)
+  - tongue (f ascial) [25.59](../icd9cm/chapter-5/index.md#25-59)
+  - urethra (suprapubic) [59.4](../icd9cm/chapter-10/index.md#59-4)
+    - retropubic [59.5](../icd9cm/chapter-10/index.md#59-5)
+  - urethrovesical [59.5](../icd9cm/chapter-10/index.md#59-5)
+- Slocum (pes anserinus transf er) [81.47](../icd9cm/chapter-14/index.md#81-47)
+- Sluder (tonsillectomy) [28.2](../icd9cm/chapter-5/index.md#28-2)
+- Smith (open osteotomy of mandible) [76.62](../icd9cm/chapter-14/index.md#76-62)
+- Smith-Peterson (radiocarpal arthrodesis) [81.25](../icd9cm/chapter-14/index.md#81-25)
+- Smithwick (sympathectomy) [05.29](../icd9cm/chapter-1/index.md#05-29)
+- Soave (endorectal pull-through) [48.41](../icd9cm/chapter-9/index.md#48-41)
+- sof t tissue NEC [83.99](../icd9cm/chapter-14/index.md#83-99)
+  - hand [82.99](../icd9cm/chapter-14/index.md#82-99)
+- Sonneberg (inf erior maxillary neurectomy) [04.07](../icd9cm/chapter-1/index.md#04-07)
+- Sorondo-Ferré (hindquarter amputation) [84.19](../icd9cm/chapter-14/index.md#84-19)
+- Soutter (iliac crest f asciotomy) [83.14](../icd9cm/chapter-14/index.md#83-14)
+- Spalding-Richardson (uterine suspension) [69.22](../icd9cm/chapter-12/index.md#69-22)
+- spermatic cord NEC [63.99](../icd9cm/chapter-11/index.md#63-99)
+- sphincter of Oddi NEC [51.89](../icd9cm/chapter-9/index.md#51-89)
+- spinal (canal) (cord) (structures) NEC [03.99](../icd9cm/chapter-1/index.md#03-99)
+- Spinelli (correction of inverted uterus) [75.93](../icd9cm/chapter-13/index.md#75-93)
+- Spivack (permanent gastrostomy) [43.19](../icd9cm/chapter-9/index.md#43-19)
+- spleen NEC [41.99](../icd9cm/chapter-8/index.md#41-99)
+- S.P. Rogers (knee disarticulation) [84.16](../icd9cm/chapter-14/index.md#84-16)
+- Ssabanejew-Frank (permanent gastrostomy) [43.19](../icd9cm/chapter-9/index.md#43-19)
+- Stacke (simple mastoidectomy) [20.41](../icd9cm/chapter-4/index.md#20-41)
+- Stallard (conjunctivocystorhinostomy) [09.82](../icd9cm/chapter-3/index.md#09-82)
+  - with insertion of tube or stent [09.83](../icd9cm/chapter-3/index.md#09-83)
+- Stamm (-Kader) (temporary gastrostomy) [43.19](../icd9cm/chapter-9/index.md#43-19)
+- Steinberg [44.5](../icd9cm/chapter-9/index.md#44-5)
+- Steindler
+  - f ascia stripping (f or cavus def ormity) [83.14](../icd9cm/chapter-14/index.md#83-14)
+  - f lexorplasty (elbow) [83.77](../icd9cm/chapter-14/index.md#83-77)
+  - muscle transf er [83.77](../icd9cm/chapter-14/index.md#83-77)
+- sterilization NEC
+  - f emale -- see also specif ic operation [66.39](../icd9cm/chapter-12/index.md#66-39)
+  - male -- see also [Ligation, vas def erens](l.md#ligation) [63.70](../icd9cm/chapter-11/index.md#63-70)
+- Stewart (renal plication with pyeloplasty) [55.87](../icd9cm/chapter-10/index.md#55-87)
+- stomach NEC [44.99](../icd9cm/chapter-9/index.md#44-99)
+- Stone (anoplasty) [49.79](../icd9cm/chapter-9/index.md#49-79)
+- Strassman (metroplasty) [69.49](../icd9cm/chapter-12/index.md#69-49)
+  - metroplasty (Jones modif ication) [69.49](../icd9cm/chapter-12/index.md#69-49)
+  - uterus [68.22](../icd9cm/chapter-12/index.md#68-22)
+- Strayer (gastrocnemius recession) [83.72](../icd9cm/chapter-14/index.md#83-72)
+- stress incontinence -- see [Repair, stress incontinence](r.md#repair)
+- Stromeyer-Little (hepatotomy) [50.0](../icd9cm/chapter-9/index.md#50-0)
+- Strong (unbridling of celiac artery axis) [39.91](../icd9cm/chapter-7/index.md#39-91)
+- Sturmdorf (conization of cervix) [67.2](../icd9cm/chapter-12/index.md#67-2)
+- subcutaneous tissue NEC [86.99](../icd9cm/chapter-15/index.md#86-99)
+- sublingual gland or duct NEC [26.99](../icd9cm/chapter-5/index.md#26-99)
+- submaxillary gland or duct NEC [26.99](../icd9cm/chapter-5/index.md#26-99)
+- Summerskill (dacryocystorhinostomy by intubation) [09.81](../icd9cm/chapter-3/index.md#09-81)
+- Surmay (jejunostomy) [46.39](../icd9cm/chapter-9/index.md#46-39)
+- Swenson
+  - bladder reconstruction [57.87](../icd9cm/chapter-10/index.md#57-87)
+  - Open bladder enlargement 57.871 (IM)
+  - proctectomy [48.49](../icd9cm/chapter-9/index.md#48-49)
+- Swinney (urethral reconstruction) [58.46](../icd9cm/chapter-10/index.md#58-46)
+- Syme
+  - ankle amputation through malleoli of tibia and f ibula [84.14](../icd9cm/chapter-14/index.md#84-14)
+  - urethrotomy, external [58.0](../icd9cm/chapter-10/index.md#58-0)
+- sympathetic nerve NEC [05.89](../icd9cm/chapter-1/index.md#05-89)
+- Taarnhoj (trigeminal nerve root decompression) [04.41](../icd9cm/chapter-1/index.md#04-41)
+- Tack (sacculotomy) [20.79](../icd9cm/chapter-4/index.md#20-79)
+- Talma-Morison (omentopexy) [54.74](../icd9cm/chapter-9/index.md#54-74)
+- Tanner (devascularization of stomach) [44.99](../icd9cm/chapter-9/index.md#44-99)
+- TAPVC NEC [35.82](../icd9cm/chapter-7/index.md#35-82)
+- tarsus NEC [08.99](../icd9cm/chapter-3/index.md#08-99)
+  - muscle sling [08.35](../icd9cm/chapter-3/index.md#08-35)
+- tendon NEC [83.99](../icd9cm/chapter-14/index.md#83-99)
+  - extraocular NEC [15.9](../icd9cm/chapter-3/index.md#15-9)
+  - hand NEC [82.99](../icd9cm/chapter-14/index.md#82-99)
+- testis NEC [62.99](../icd9cm/chapter-11/index.md#62-99)
+- tetralogy of Fallot
+  - partial repair -- see specif ic procedure
+  - total (one-stage) [35.81](../icd9cm/chapter-7/index.md#35-81)
+- Thal (repair of esophageal stricture) [42.85](../icd9cm/chapter-9/index.md#42-85)
+- thalamus [01.41](../icd9cm/chapter-1/index.md#01-41)
+  - by stereotactic radiosurgery [92.32](../icd9cm/chapter-16/index.md#92-32)
+    - cobalt [60](../icd9cm/chapter-11/index.md#60) [92.32](../icd9cm/chapter-16/index.md#92-32)
+    - linear accelerator (LINAC) [92.31](../icd9cm/chapter-16/index.md#92-31)
+    - multi-source [92.32](../icd9cm/chapter-16/index.md#92-32)
+    - particle beam [92.33](../icd9cm/chapter-16/index.md#92-33)
+    - particulate [92.33](../icd9cm/chapter-16/index.md#92-33)
+    - radiosurgery NEC [92.39](../icd9cm/chapter-16/index.md#92-39)
+    - single source photon [92.31](../icd9cm/chapter-16/index.md#92-31)
+- Thiersch
+  - anus [49.79](../icd9cm/chapter-9/index.md#49-79)
+  - skin graf t [86.69](../icd9cm/chapter-15/index.md#86-69)
+    - hand [86.62](../icd9cm/chapter-15/index.md#86-62)
+- Thompson
+  - clef t lip repair [27.54](../icd9cm/chapter-5/index.md#27-54)
+  - correction of lymphedema [40.9](../icd9cm/chapter-8/index.md#40-9)
+  - quadricepsplasty [83.86](../icd9cm/chapter-14/index.md#83-86)
+  - thumb apposition with bone graf t [82.69](../icd9cm/chapter-14/index.md#82-69)
+- thoracic duct NEC [40.69](../icd9cm/chapter-8/index.md#40-69)
+- thorax NEC [34.99](../icd9cm/chapter-6/index.md#34-99)
+- Thorek (partial cholecystectomy) [51.21](../icd9cm/chapter-9/index.md#51-21)
+- three-snip, punctum [09.51](../icd9cm/chapter-3/index.md#09-51)
+- thymus NEC [07.99](../icd9cm/chapter-2/index.md#07-99)
+  - thoracoscopic, NEC [07.98](../icd9cm/chapter-2/index.md#07-98)
+- thyroid gland NEC [06.98](../icd9cm/chapter-2/index.md#06-98)
+- TKP (thermokeratoplasty) [11.74](../icd9cm/chapter-3/index.md#11-74)
+- Tomkins (metroplasty) [69.49](../icd9cm/chapter-12/index.md#69-49)
+- tongue NEC [25.99](../icd9cm/chapter-5/index.md#25-99)
+  - f lap, palate [27.62](../icd9cm/chapter-5/index.md#27-62)
+  - tie [25.91](../icd9cm/chapter-5/index.md#25-91)
+- tonsil NEC [28.99](../icd9cm/chapter-5/index.md#28-99)
+- Torek (-Bevan) (orchidopexy) (f irst stage) (second stage) [62.5](../icd9cm/chapter-11/index.md#62-5)
+- Torkildsen (ventriculocisternal shunt) [02.2](../icd9cm/chapter-1/index.md#02-2)
+  - With Endoscopic [02.20](../icd9cm/chapter-1/index.md#02-20) (IM)
+- Torpin (cul-de-sac resection) [70.92](../icd9cm/chapter-12/index.md#70-92)
+- Toti (dacryocystorhinostomy) [09.81](../icd9cm/chapter-3/index.md#09-81)
+- Touchas [86.83](../icd9cm/chapter-15/index.md#86-83)
+- Tourof f (ligation of subclavian artery) 38.85
+- trabeculae corneae cordis (heart) NEC [35.35](../icd9cm/chapter-7/index.md#35-35)
+- trachea NEC [31.99](../icd9cm/chapter-6/index.md#31-99)
+- Trauner (lingual sulcus extension) [24.91](../icd9cm/chapter-5/index.md#24-91)
+- truncus arteriosus NEC [35.83](../icd9cm/chapter-7/index.md#35-83)
+- Tsuge (macrodactyly repair) [82.83](../icd9cm/chapter-14/index.md#82-83)
+- Tudor "rabbit ear" (anterior urethropexy) [59.79](../icd9cm/chapter-10/index.md#59-79)
+- Tuf f ier
+  - apicolysis of lung [33.39](../icd9cm/chapter-6/index.md#33-39)
+  - vaginal hysterectomy [68.59](../icd9cm/chapter-12/index.md#68-59)
+    - laparoscopically assisted (LAVH) [68.51](../icd9cm/chapter-12/index.md#68-51)
+- tunica vaginalis NEC [61.99](../icd9cm/chapter-11/index.md#61-99)
+- Turco (release of joint capsules in clubf oot) 80.48
+- Uchida (tubal ligation with or without f imbriectomy) [66.32](../icd9cm/chapter-12/index.md#66-32)
+- umbilicus NEC [54.99](../icd9cm/chapter-9/index.md#54-99)
+- urachus NEC [57.51](../icd9cm/chapter-10/index.md#57-51)
+- Urban (mastectomy) (unilateral) [85.47](../icd9cm/chapter-15/index.md#85-47)
+  - bilateral [85.48](../icd9cm/chapter-15/index.md#85-48)
+- ureter NEC [56.99](../icd9cm/chapter-10/index.md#56-99)
+- urethra NEC [58.99](../icd9cm/chapter-10/index.md#58-99)
+- urinary system NEC [59.99](../icd9cm/chapter-10/index.md#59-99)
+- uterus NEC [69.99](../icd9cm/chapter-12/index.md#69-99)
+  - supporting structures NEC [69.98](../icd9cm/chapter-12/index.md#69-98)
+- uvula NEC [27.79](../icd9cm/chapter-5/index.md#27-79)
+- vagina NEC [70.91](../icd9cm/chapter-12/index.md#70-91)
+- vascular NEC [39.99](../icd9cm/chapter-7/index.md#39-99)
+- vas def erens NEC [63.99](../icd9cm/chapter-11/index.md#63-99)
+  - ligation NEC [63.71](../icd9cm/chapter-11/index.md#63-71)
+- vein NEC [39.99](../icd9cm/chapter-7/index.md#39-99)
+- vena cava sieve [38.7](../icd9cm/chapter-7/index.md#38-7)
+- vertebra NEC 78.49
+- vesical (bladder) NEC [57.99](../icd9cm/chapter-10/index.md#57-99)
+- vessel NEC [39.99](../icd9cm/chapter-7/index.md#39-99)
+  - cardiac NEC [36.99](../icd9cm/chapter-7/index.md#36-99)
+- Vicq d'Azyr (larynx) [31.1](../icd9cm/chapter-6/index.md#31-1)
+- Vidal (varicocele ligation) [63.1](../icd9cm/chapter-11/index.md#63-1)
+- Vineberg (implantation of mammary artery into ventricle) [36.2](../icd9cm/chapter-7/index.md#36-2)
+- vitreous NEC [14.79](../icd9cm/chapter-3/index.md#14-79)
+- vocal cord NEC [31.98](../icd9cm/chapter-6/index.md#31-98)
+- von Kraske (proctectomy) [48.64](../icd9cm/chapter-9/index.md#48-64)
+- Voss (hanging hip operation) [83.19](../icd9cm/chapter-14/index.md#83-19)
+- Vulpius (-Compere) (lengthening of gastrocnemius muscle) [83.85](../icd9cm/chapter-14/index.md#83-85)
+- vulva NEC [71.8](../icd9cm/chapter-12/index.md#71-8)
+- Ward-Mayo (vaginal hysterectomy) [68.59](../icd9cm/chapter-12/index.md#68-59)
+  - laparoscopically assisted (LAVH) [68.51](../icd9cm/chapter-12/index.md#68-51)
+- Wardill (clef t palate) [27.62](../icd9cm/chapter-5/index.md#27-62)
+- Waters (extraperitoneal cesarean section) [74.2](../icd9cm/chapter-13/index.md#74-2)
+- Waterston (aorta-right pulmonary artery anastomosis) [39.0](../icd9cm/chapter-7/index.md#39-0)
+- Watkins (-Wertheim) (uterus interposition) [69.21](../icd9cm/chapter-12/index.md#69-21)
+- Watson-Jones
+  - hip arthrodesis [81.21](../icd9cm/chapter-14/index.md#81-21)
+  - reconstruction of lateral ligaments, ankle [81.49](../icd9cm/chapter-14/index.md#81-49)
+  - shoulder arthrodesis (extra-articular) [81.23](../icd9cm/chapter-14/index.md#81-23)
+  - tenoplasty [83.88](../icd9cm/chapter-14/index.md#83-88)
+- Weir
+  - appendicostomy [47.91](../icd9cm/chapter-9/index.md#47-91)
+  - correction of nostrils [21.86](../icd9cm/chapter-5/index.md#21-86)
+- Wertheim (radical hysterectomy) [68.69](../icd9cm/chapter-12/index.md#68-69)
+  - laparoscopic [68.61](../icd9cm/chapter-12/index.md#68-61)
+- West (dacryocystorhinostomy) [09.81](../icd9cm/chapter-3/index.md#09-81)
+- Wheeler
+  - entropion repair [08.44](../icd9cm/chapter-3/index.md#08-44)
+  - halving procedure (eyelid) [08.24](../icd9cm/chapter-3/index.md#08-24)
+- Whipple (radical pancreaticoduodenectomy) [52.7](../icd9cm/chapter-9/index.md#52-7)
+  - Child modif ication (radical subtotal pancreatectomy) [52.53](../icd9cm/chapter-9/index.md#52-53)
+  - Rodney Smith modif ication (radical subtotal
+      - pancreatectomy) [52.53](../icd9cm/chapter-9/index.md#52-53)
+- White (lengthening of tendo calcaneus by incomplete
+    - tenotomy) [83.11](../icd9cm/chapter-14/index.md#83-11)
+- Whitehead
+  - glossectomy, radical [25.4](../icd9cm/chapter-5/index.md#25-4)
+  - hemorrhoidectomy [49.46](../icd9cm/chapter-9/index.md#49-46)
+- Whitman
+  - f oot stabilization (talectomy) 77.98
+  - hip reconstruction [81.40](../icd9cm/chapter-14/index.md#81-40)
+  - repair of serratus anterior muscle [83.87](../icd9cm/chapter-14/index.md#83-87)
+  - talectomy 77.98
+  - trochanter wedge osteotomy 77.25
+- Wier (entropion repair) [08.44](../icd9cm/chapter-3/index.md#08-44)
+- Williams-Richardson (vaginal construction) [70.61](../icd9cm/chapter-12/index.md#70-61)
+  - with graf t or prosthesis [70.63](../icd9cm/chapter-12/index.md#70-63)
+- Wilms (thoracoplasty) [33.34](../icd9cm/chapter-6/index.md#33-34)
+- Wilson (angulation osteotomy f or hallux valgus) [77.51](../icd9cm/chapter-14/index.md#77-51)
+- window
+  - antrum (nasal sinus) -- see Antrotomy, maxillary
+  - aorticopulmonary [39.59](../icd9cm/chapter-7/index.md#39-59)
+  - bone cortex -- see also Incision, bone 77.10
+    - f acial [76.09](../icd9cm/chapter-14/index.md#76-09)
+  - nasoantral -- see Antrotomy, maxillary
+  - pericardium [37.12](../icd9cm/chapter-7/index.md#37-12)
+  - pleural [34.09](../icd9cm/chapter-6/index.md#34-09)
+- Winiwarter (cholecystoenterostomy) [51.32](../icd9cm/chapter-9/index.md#51-32)
+- Witzel (temporary gastrostomy) [43.19](../icd9cm/chapter-9/index.md#43-19)
+- Woodward (release of high riding scapula) [81.83](../icd9cm/chapter-14/index.md#81-83)
+- Young
+  - epispadias repair [58.45](../icd9cm/chapter-10/index.md#58-45)
+      - First stage of hypospadias or epispadias staged repair 58.451 (IM)
+      - Granuloplasty f or hypospadias 58.456 (IM)
+      - Repair of epispadias with ureteric re-implantation 58.455 (IM)
+      - Second stage of hypospadias or epispadias staged repair 58.452 (IM)
+      - Single stage repair f or hypospadias or epispadias 58.450 (IM)
+  - tendon transf er (anterior tibialis) (repair of f lat f oot) [83.75](../icd9cm/chapter-14/index.md#83-75)
+- Yount (division of iliotibial band) [83.14](../icd9cm/chapter-14/index.md#83-14)
+- Zancolli
+  - capsuloplasty [81.72](../icd9cm/chapter-14/index.md#81-72)
+  - tendon transf er (biceps) [82.56](../icd9cm/chapter-14/index.md#82-56)
+- Ziegler (iridectomy) [12.14](../icd9cm/chapter-3/index.md#12-14)
+
+## Operculectomy [24.6](../icd9cm/chapter-5/index.md#24-6) {#operculectomy}
+## Ophthalmectomy [16.49](../icd9cm/chapter-3/index.md#16-49) {#ophthalmectomy}
+- with implant (into Tenon's capsule) [16.42](../icd9cm/chapter-3/index.md#16-42)
+  - with attachment of muscles [16.41](../icd9cm/chapter-3/index.md#16-41)
+
+## Ophthalmoscopy [16.21](../icd9cm/chapter-3/index.md#16-21) {#ophthalmoscopy}
+## Opponensplasty (hand) [82.56](../icd9cm/chapter-14/index.md#82-56) {#opponensplasty-hand}
+## Optical coherence tomography (OCT) (intravascular imaging) {#optical-coherence-tomography-oct-intravascular-imaging}
+- coronary vessel(s) [38.24](../icd9cm/chapter-7/index.md#38-24)
+- non-coronary vessel(s) [38.25](../icd9cm/chapter-7/index.md#38-25)
+
+## Orbitomaxillectomy, radical [16.51](../icd9cm/chapter-3/index.md#16-51) {#orbitomaxillectomy-radical}
+## Orbitotomy (anterior) (f rontal) (temporof rontal) (transf rontal) NEC [16.09](../icd9cm/chapter-3/index.md#16-09) {#orbitotomy-anterior-f-rontal-temporof-rontal-transf-rontal-nec}
+- with
+  - bone f lap [16.01](../icd9cm/chapter-3/index.md#16-01)
+  - insertion of implant [16.02](../icd9cm/chapter-3/index.md#16-02)
+- Kroenlein (lateral) [16.01](../icd9cm/chapter-3/index.md#16-01)
+- lateral [16.01](../icd9cm/chapter-3/index.md#16-01)
+
+## Orchidectomy (with epididymectomy) (unilateral) [62.3](../icd9cm/chapter-11/index.md#62-3) {#orchidectomy-with-epididymectomy-unilateral}
+- bilateral (radical) [62.41](../icd9cm/chapter-11/index.md#62-41)
+  - radical orchidectomy 62.411 (IM)
+- remaining or solitary testis [62.42](../icd9cm/chapter-11/index.md#62-42)
+- with insertion testicular prosthesis (IM)
+  - bilateral 62.410 (IM)
+  - unilateral [62.30](../icd9cm/chapter-11/index.md#62-30) (IM)
+- subcapsular [62.43](../icd9cm/chapter-11/index.md#62-43) (IM)
+
+## Orchidopexy [62.5](../icd9cm/chapter-11/index.md#62-5) {#orchidopexy}
+- revision orchidopexy f or undescended testis [62.51](../icd9cm/chapter-11/index.md#62-51) (IM)
+
+## Orchidoplasty [62.69](../icd9cm/chapter-11/index.md#62-69) {#orchidoplasty}
+## Orchidorrhaphy [62.61](../icd9cm/chapter-11/index.md#62-61) {#orchidorrhaphy}
+## Orchidotomy [62.0](../icd9cm/chapter-11/index.md#62-0) {#orchidotomy}
+## Orchiectomy (with epididymectomy) (unilateral) [62.3](../icd9cm/chapter-11/index.md#62-3) {#orchiectomy-with-epididymectomy-unilateral}
+- bilateral (radical) [62.41](../icd9cm/chapter-11/index.md#62-41)
+- remaining or solitary testis [62.42](../icd9cm/chapter-11/index.md#62-42)
+
+## Orchiopexy [62.5](../icd9cm/chapter-11/index.md#62-5) {#orchiopexy}
+## Orchioplasty [62.69](../icd9cm/chapter-11/index.md#62-69) {#orchioplasty}
+## Orthoroentgenography -- see Radiography {#orthoroentgenography-see-radiography}
+## Oscar Miller operation (midtarsal arthrodesis) [81.14](../icd9cm/chapter-14/index.md#81-14) {#oscar-miller-operation-midtarsal-arthrodesis}
+## Osmond-Clark operation (sof t tissue release with peroneus brevis tendon transf er) [83.75](../icd9cm/chapter-14/index.md#83-75) {#osmond-clark-operation-sof-t-tissue-release-with-peroneus-brevis-tendon-transf-er}
+## Ossiculectomy NEC [19.3](../icd9cm/chapter-4/index.md#19-3) {#ossiculectomy-nec}
+- with
+  - stapedectomy -- see also [Stapedectomy](s.md#stapedectomy) [19.19](../icd9cm/chapter-4/index.md#19-19)
+  - stapes mobilization [19.0](../icd9cm/chapter-4/index.md#19-0)
+  - tympanoplasty [19.53](../icd9cm/chapter-4/index.md#19-53)
+    - revision [19.6](../icd9cm/chapter-4/index.md#19-6)
+
+## Ossiculotomy NEC [19.3](../icd9cm/chapter-4/index.md#19-3) {#ossiculotomy-nec}
+## Ostectomy (partial), except f acial -- see also category [77.8](../icd9cm/chapter-14/index.md#77-8) {#ostectomy-partial-except-f-acial-see-also-category}
+- f acial NEC [76.39](../icd9cm/chapter-14/index.md#76-39)
+  - total [76.45](../icd9cm/chapter-14/index.md#76-45)
+    - with reconstruction [76.44](../icd9cm/chapter-14/index.md#76-44)
+- f irst metatarsal head -- see Bunionectomy
+- f or graf t (autograf t) (homograf t) -- see also category [77.7](../icd9cm/chapter-14/index.md#77-7)
+  - mandible [76.31](../icd9cm/chapter-14/index.md#76-31)
+    - total [76.42](../icd9cm/chapter-14/index.md#76-42)
+      - with reconstruction [76.41](../icd9cm/chapter-14/index.md#76-41)
+- total, except f acial -- see also category [77.9](../icd9cm/chapter-14/index.md#77-9)
+  - f acial NEC [76.45](../icd9cm/chapter-14/index.md#76-45)
+    - with reconstruction [76.44](../icd9cm/chapter-14/index.md#76-44)
+  - mandible [76.42](../icd9cm/chapter-14/index.md#76-42)
+    - with reconstruction [76.41](../icd9cm/chapter-14/index.md#76-41)
+
+## Osteoarthrotomy -- see also Osteotomy 77.30 {#osteoarthrotomy-see-also-osteotomy}
+## Osteoclasis 78.70 {#osteoclasis}
+- carpal, metacarpal 78.74
+- clavicle 78.71
+- ear [20.79](../icd9cm/chapter-4/index.md#20-79)
+- f emur 78.75
+- f ibula 78.77
+- humerus 78.72
+- patella 78.76
+- pelvic 78.79
+- phalanges (f oot) (hand) 78.79
+- radius 78.73
+- scapula 78.71
+- specif ied site NEC 78.79
+- tarsal, metatarsal 78.78
+- thorax (ribs) (sternum) 78.71
+- tibia 78.77
+- ulna 78.73
+- vertebrae 78.79
+
+## Osteolysis -- see category [78.4](../icd9cm/chapter-14/index.md#78-4) {#osteolysis-see-category}
+## Osteopathic manipulation -- see also [Manipulation, osteopathic](m.md#manipulation) [93.67](../icd9cm/chapter-16/index.md#93-67) {#osteopathic-manipulation-see-also-manipulation-osteopathic}
+## Osteoplasty NEC -- see category [78.4](../icd9cm/chapter-14/index.md#78-4) {#osteoplasty-nec-see-category}
+- with bone graf t -- see Graf t, bone
+- f or
+  - bone lengthening -- see [Lengthening, bone](l.md#lengthening)
+  - bone shortening -- see [Shortening, bone](s.md#shortening)
+  - repair of malunion or nonunion of f racture -- see [Repair, f racture, malunion or nonunion](r.md#repair)
+- carpal, metacarpal 78.44
+- clavicle 78.41
+- cranium NEC [02.06](../icd9cm/chapter-1/index.md#02-06)
+  - with
+    - f lap (bone) [02.03](../icd9cm/chapter-1/index.md#02-03)
+    - graf t (bone) [02.04](../icd9cm/chapter-1/index.md#02-04)
+- f acial bone NEC [76.69](../icd9cm/chapter-14/index.md#76-69)
+- f emur 78.45
+- f ibula 78.47
+- humerus 78.42
+- mandible, mandibular NEC [76.64](../icd9cm/chapter-14/index.md#76-64)
+  - body [76.63](../icd9cm/chapter-14/index.md#76-63)
+  - ramus (open) [76.62](../icd9cm/chapter-14/index.md#76-62)
+    - closed [76.61](../icd9cm/chapter-14/index.md#76-61)
+- maxilla (segmental) [76.65](../icd9cm/chapter-14/index.md#76-65)
+  - total [76.66](../icd9cm/chapter-14/index.md#76-66)
+- nasal bones [21.89](../icd9cm/chapter-5/index.md#21-89)
+- patella 78.46
+- pelvic 78.49
+- phalanges (f oot) (hand) 78.49
+- radius 78.43
+- scapula 78.41
+- skull NEC [02.06](../icd9cm/chapter-1/index.md#02-06)
+  - with
+    - f lap (bone) [02.03](../icd9cm/chapter-1/index.md#02-03)
+    - graf t (bone) [02.04](../icd9cm/chapter-1/index.md#02-04)
+- specif ied site NEC 78.49
+- tarsal, metatarsal 78.48
+- thorax (ribs) (sternum) 78.41
+- tibia78.47
+- ulna 78.43
+- vertebrae 78.49
+
+## Osteorrhaphy -- see also Osteoplasty 78.40 {#osteorrhaphy-see-also-osteoplasty}
+## Osteosynthesis (f racture) -- see Reduction, f racture {#osteosynthesis-f-racture-see-reduction-f-racture}
+## Osteotomy (adduction) (angulation) (block) (derotational) (displacement) (partial) (rotational) 77.30 {#osteotomy-adduction-angulation-block-derotational-displacement-partial-rotational}
+- carpals, metacarpals 77.34
+  - wedge 77.24
+- clavicle 77.31
+  - wedge 77.21
+- f acial bone NEC [76.69](../icd9cm/chapter-14/index.md#76-69)
+- f emur 77.35
+  - wedge 77.25
+- f ibula 77.37
+  - wedge 77.27
+- humerus 77.32
+  - wedge 77.22
+- mandible (segmental) (subapical) [76.64](../icd9cm/chapter-14/index.md#76-64)
+  - angle (open) [76.62](../icd9cm/chapter-14/index.md#76-62)
+    - closed [76.61](../icd9cm/chapter-14/index.md#76-61)
+  - body [76.63](../icd9cm/chapter-14/index.md#76-63)
+  - Gigli saw [76.61](../icd9cm/chapter-14/index.md#76-61)
+  - ramus (open) [76.62](../icd9cm/chapter-14/index.md#76-62)
+    - closed [76.61](../icd9cm/chapter-14/index.md#76-61)
+- maxilla (segmental) [76.65](../icd9cm/chapter-14/index.md#76-65)
+  - total [76.66](../icd9cm/chapter-14/index.md#76-66)
+- metatarsal 77.38
+  - wedge 77.28
+    - f or hallux valgus repair [77.51](../icd9cm/chapter-14/index.md#77-51)
+- patella 77.36
+  - wedge 77.26
+- pelvic 77.39
+  - wedge 77.29
+- phalanges (f oot) (hand) 77.39
+  - f or repair of
+    - bunion -- see Bunionectomy
+    - bunionette [77.54](../icd9cm/chapter-14/index.md#77-54)
+    - hallux valgus -- see Bunionectomy
+  - wedge 77.29
+    - f or repair of
+      - bunion -- see Bunionectomy
+      - bunionette [77.54](../icd9cm/chapter-14/index.md#77-54)
+      - hallux valgus -- see Bunionectomy
+- radius 77.33
+  - wedge 77.23
+- scapula 77.31
+  - wedge 77.21
+- specif ied site NEC 77.39
+  - wedge 77.29
+- tarsal 77.38
+  - wedge 77.28
+- thorax (ribs) (sternum) 77.31
+  - wedge 77.21
+- tibia 77.37
+  - wedge 77.27
+- toe 77.39
+  - f or repair of
+    - bunion -- see Bunionectomy
+    - bunionette [77.54](../icd9cm/chapter-14/index.md#77-54)
+    - hallux valgus -- see Bunionectomy
+  - wedge 77.29
+    - f or repair of
+      - bunion -- see Bunionectomy
+      - bunionette [77.54](../icd9cm/chapter-14/index.md#77-54)
+      - hallux valgus -- see Bunionectomy
+- ulna 77.33
+  - wedge 77.23
+- vertebrae 77.39
+  - wedge 77.29
+
+## Otonecrectomy (inner ear) [20.79](../icd9cm/chapter-4/index.md#20-79) {#otonecrectomy-inner-ear}
+## Otoplasty (external) [18.79](../icd9cm/chapter-4/index.md#18-79) {#otoplasty-external}
+- auditory canal or meatus [18.6](../icd9cm/chapter-4/index.md#18-6)

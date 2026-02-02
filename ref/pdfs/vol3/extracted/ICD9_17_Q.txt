@@ -1,0 +1,62 @@
+ICD-9-CM With Indonesian Modification (IM) INDEX TO PROCEDURES (FY11)
+
+
+Pure tone audiometry 95.410 (IM)
+Push-back operation (clef t palate repair) 27.62
+Putti-Platt operation (capsulorrhaphy of shoulder f or recurrent dislocation) 81.82
+pVAD (percutaneous ventricular assist device) 37.68
+Pyelogram (intravenous) 87.73
+    inf usion (continuous) (diuretic) 87.73
+    percutaneous 87.75
+    retrograde 87.74
+Pyeloileostomy 56.71
+Pyelolithotomy 55.11
+Pyeloplasty 55.87
+Pyelorrhaphy 55.81
+Pyeloscopy 55.22
+Pyelostolithotomy, percutaneous 55.03
+Pyelostomy 55.12
+    closure 55.82
+Pyelotomy 55.11
+Pyeloureteroplasty 55.87
+Pylorectomy 43.6
+Pyloroduodenotomy -- see category 44.2
+Pyloromyotomy (Ramstedt) (with wedge resection) 43.3
+Pyloroplasty (Finney) (Heineke-Mikulicz) 44.29
+    dilation, endoscopic 44.22
+         by incision 44.21
+    not elsewhere classif ied 44.29
+    revision 44.29
+Pylorostomy -- see Gastrostomy
+
+
+                                                     Q
+Quadrant resection of breast 85.22
+Quadricepsplasty (Thompson) 83.86
+Quarantine 99.84
+Quenuthoracoplasty 77.31
+Quotient, respiratory 89.38
+
+
+                                                     R
+Rachicentesis 03.31
+Rachitomy 03.09
+Radiation therapy -- see also Therapy, radiation
+   teleradiotherapy -- see Teleradiotherapy
+Radical neck dissection -- see Dissection, neck
+Radicotomy 03.1
+Radiculectomy 03.1
+Radiculotomy 03.1
+Radiography (diagnostic) NEC 88.39
+   abdomen, abdominal (f lat plate) NEC 88.19
+        wall (sof t tissue) NEC 88.09
+   adenoid 87.09
+   ankle (skeletal) 88.28
+        sof t tissue 88.37
+   bone survey 88.31
+   bronchus 87.49
+
+
+
+                                                    248
+
